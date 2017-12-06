@@ -1,0 +1,25 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+6,0,5,9,1,.250,4,.474,19,5,.625,8,201401240SAC,45:34,5,3,Lance Stephenson,stephla01,+12,24,0,ind,2,10
+2,2,4,12,4,.400,10,.545,22,8,1.000,8,201401240SAC,41:18,1,4,Paul George,georgpa01,+8,36,4,ind,4,5
+8,0,7,3,1,.167,6,.333,9,3,1.000,3,201401240SAC,39:52,1,3,George Hill,hillge01,+10,10,3,ind,3,8
+3,5,8,3,0,,0,.273,11,4,1.000,4,201401240SAC,38:55,3,4,Roy Hibbert,hibbero01,+12,10,1,ind,1,11
+3,0,5,9,1,1.000,1,.643,14,3,.500,6,201401240SAC,36:57,1,4,David West,westda01,+18,22,0,ind,1,6
+0,0,1,2,1,1.000,1,.400,5,2,1.000,2,201401240SAC,19:08,2,3,Danny Granger,grangda01,-10,7,0,ind,1,3
+1,0,3,3,0,,0,.300,10,0,,0,201401240SAC,17:06,0,0,Luis Scola,scolalu01,-18,6,0,ind,0,3
+1,0,2,0,0,.000,2,.000,5,0,,0,201401240SAC,13:10,0,1,C.J. Watson,watsocj01,-7,0,1,ind,0,2
+1,2,0,0,0,,0,,0,1,.500,2,201401240SAC,13:00,1,2,Ian Mahinmi,mahinia01,0,1,1,ind,0,1
+,,,,,,,,,,,,201401240SAC,Did Not Play,,,Donald Sloan,sloando01,,,,ind,,
+,,,,,,,,,,,,201401240SAC,Did Not Play,,,Rasual Butler,butlera01,,,,ind,,
+,,,,,,,,,,,,201401240SAC,Did Not Play,,,Orlando Johnson,johnsor01,,,,ind,,
+,,,,,,,,,,,,201401240SAC,Did Not Play,,,Chris Copeland,copelch01,,,,ind,,
+6,0,3,13,2,.222,9,.419,31,10,1.000,10,201401240SAC,43:09,0,4,Isaiah Thomas,thomais02,-6,38,1,sac,5,3
+0,0,2,16,7,.467,15,.593,27,3,.750,4,201401240SAC,42:06,3,1,Marcus Thornton,thornma01,-11,42,1,sac,2,5
+1,0,4,1,0,,0,.333,3,1,.500,2,201401240SAC,36:18,3,5,Aaron Gray,grayaa01,-9,3,0,sac,4,7
+1,0,5,2,0,.000,1,.222,9,3,.429,7,201401240SAC,34:15,6,5,Derrick Williams,willide02,-22,7,1,sac,2,11
+1,1,9,0,0,,0,.000,8,1,.500,2,201401240SAC,32:15,1,6,Jason Thompson,thompja02,-2,1,0,sac,1,10
+0,0,4,2,0,,0,.250,8,1,.500,2,201401240SAC,25:52,5,2,Carl Landry,landrca01,-6,5,0,sac,0,9
+2,1,3,2,1,.500,2,.500,4,0,,0,201401240SAC,18:47,0,0,Travis Outlaw,outlatr01,+19,5,0,sac,0,3
+1,0,3,0,0,,0,.000,1,2,1.000,2,201401240SAC,11:32,1,5,Quincy Acy,acyqu01,+3,2,0,sac,1,4
+0,0,1,1,1,.333,3,.200,5,0,,0,201401240SAC,10:53,0,3,Ben McLemore,mclembe01,+6,3,0,sac,0,1
+2,0,0,2,1,.500,2,.400,5,0,,0,201401240SAC,9:53,0,1,Jimmer Fredette,fredeji01,+3,5,0,sac,3,0
+,,,,,,,,,,,,201401240SAC,Did Not Play,,,Ray McCallum,mccalra01,,,,sac,,

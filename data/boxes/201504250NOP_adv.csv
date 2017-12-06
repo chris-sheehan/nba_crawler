@@ -1,0 +1,27 @@
+ast_pct,blk_pct,def_rtg,drb_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,gm,mp,off_rtg,orb_pct,player,player_id,stl_pct,team,tov_pct,trb_pct,ts_pct,usg_pct
+31.0,1.9,111,20.6,.750,.429,.143,201504250NOP,41:49,147,9.6,Draymond Green,greendr01,1.3,gsw,11.8,15.3,.739,19.5
+43.1,0.0,114,16.1,.700,.400,.600,201504250NOP,38:14,141,10.5,Stephen Curry,curryst01,1.4,gsw,16.5,13.4,.771,38.4
+0.0,2.2,113,10.3,.632,.368,.053,201504250NOP,36:00,128,0.0,Klay Thompson,thompkl01,1.5,gsw,0.0,5.3,.643,26.2
+11.3,2.2,111,20.9,.429,.000,.286,201504250NOP,35:25,110,7.5,Harrison Barnes,barneha02,1.6,gsw,0.0,14.5,.381,10.8
+5.7,10.6,108,16.6,1.000,.000,.000,201504250NOP,22:14,97,0.0,Andrew Bogut,bogutan01,0.0,gsw,50.0,8.6,1.000,4.4
+11.5,0.0,115,5.0,.375,.375,.250,201504250NOP,24:24,116,5.5,Andre Iguodala,iguodan01,2.3,gsw,0.0,5.2,.450,17.6
+20.7,4.5,109,7.1,.000,.000,.000,201504250NOP,17:24,87,0.0,Shaun Livingston,livinsh01,3.2,gsw,0.0,3.7,.000,5.6
+16.8,0.0,121,0.0,.600,.000,.000,201504250NOP,10:45,101,0.0,Leandro Barbosa,barbole01,0.0,gsw,16.7,0.0,.600,27.0
+0.0,0.0,114,26.0,.000,.000,2.000,201504250NOP,9:29,40,14.1,Festus Ezeli,ezelife01,0.0,gsw,21.0,20.2,.133,24.3
+28.1,0.0,114,28.8,.000,.000,.000,201504250NOP,4:16,66,0.0,Marreese Speights,speigma01,0.0,gsw,0.0,15.0,.000,11.3
+,,,,,,,201504250NOP,Did Not Play,,,David Lee,leeda02,,gsw,,,,
+,,,,,,,201504250NOP,Did Not Play,,,Brandon Rush,rushbr01,,gsw,,,,
+,,,,,,,201504250NOP,Did Not Play,,,Justin Holiday,holidju01,,gsw,,,,
+5.1,6.5,121,29.7,.700,.050,.450,201504250NOP,40:21,150,6.1,Anthony Davis,davisan02,0.0,nop,4.0,17.4,.751,29.6
+29.6,0.0,131,7.7,.643,.429,.095,201504250NOP,34:39,135,3.6,Eric Gordon,gordoer01,0.0,nop,4.4,5.5,.663,31.6
+19.5,0.0,122,12.1,.200,.200,.000,201504250NOP,33:11,67,7.4,Tyreke Evans,evansty01,3.3,nop,16.7,9.6,.200,17.3
+0.0,0.0,124,12.7,.000,.000,.000,201504250NOP,20:59,0,0.0,Quincy Pondexter,pondequ01,2.6,nop,0.0,6.1,.000,4.6
+19.5,0.0,124,0.0,.250,.000,.250,201504250NOP,13:30,104,9.1,Omer Asik,asikom01,4.1,nop,0.0,4.7,.338,15.8
+16.2,5.1,126,15.5,.455,.455,.000,201504250NOP,34:30,106,7.1,Ryan Anderson,anderry01,0.0,nop,8.3,11.1,.455,16.7
+11.5,3.4,123,31.3,1.000,.000,.500,201504250NOP,25:35,212,9.6,Dante Cunningham,cunnida01,0.0,nop,0.0,20.0,1.025,9.1
+0.0,0.0,133,0.0,.000,.800,.000,201504250NOP,18:22,0,0.0,Norris Cole,coleno01,0.0,nop,44.4,0.0,.000,23.5
+33.9,0.0,126,0.0,.400,.200,.000,201504250NOP,16:33,80,0.0,Jrue Holiday,holidjr01,3.3,nop,28.6,0.0,.400,20.3
+0.0,0.0,134,0.0,1.000,.000,.000,201504250NOP,2:20,200,0.0,Alexis Ajinca,ajincal01,0.0,nop,0.0,0.0,1.000,20.5
+,,,,,,,201504250NOP,Did Not Play,,,Toney Douglas,douglto01,,nop,,,,
+,,,,,,,201504250NOP,Did Not Play,,,Jimmer Fredette,fredeji01,,nop,,,,
+,,,,,,,201504250NOP,Did Not Play,,,Luke Babbitt,babbilu01,,nop,,,,

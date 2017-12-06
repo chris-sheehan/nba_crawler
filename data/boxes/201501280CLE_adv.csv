@@ -1,0 +1,27 @@
+ast_pct,blk_pct,def_rtg,drb_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,gm,mp,off_rtg,orb_pct,player,player_id,stl_pct,team,tov_pct,trb_pct,ts_pct,usg_pct
+12.0,4.9,115,22.5,.609,.130,.435,201501280CLE,40:41,139,8.2,LaMarcus Aldridge,aldrila01,1.4,por,6.8,15.3,.693,36.3
+27.9,2.6,119,8.9,.438,.625,.000,201501280CLE,38:30,128,2.9,Nicolas Batum,batumni01,3.0,por,0.0,5.9,.438,10.4
+21.0,2.6,131,0.0,.289,.526,.211,201501280CLE,38:13,84,0.0,Damian Lillard,lillada01,0.0,por,4.6,0.0,.337,28.6
+9.8,0.0,127,3.4,.550,.800,.100,201501280CLE,33:29,97,3.3,Wesley Matthews,matthwe02,1.7,por,16.1,3.4,.527,18.7
+5.7,3.5,107,44.6,.600,.000,.400,201501280CLE,28:13,139,7.9,Chris Kaman,kamanch01,0.0,por,0.0,26.0,.595,10.5
+0.0,0.0,133,0.0,.750,.500,.000,201501280CLE,22:20,158,10.0,Meyers Leonard,leoname01,0.0,por,0.0,5.1,.750,13.5
+0.0,0.0,108,29.6,.500,.250,.000,201501280CLE,15:28,62,0.0,Will Barton,bartowi01,3.8,por,33.3,14.6,.500,19.5
+12.4,0.0,133,0.0,.500,.500,.000,201501280CLE,12:26,78,0.0,Steve Blake,blakest01,0.0,por,33.3,0.0,.500,12.1
+0.0,0.0,133,0.0,.000,.000,.000,201501280CLE,5:54,0,0.0,C.J. McCollum,mccolcj01,0.0,por,0.0,0.0,.000,8.5
+0.0,0.0,120,24.5,.500,.000,.000,201501280CLE,4:40,138,47.8,Thomas Robinson,robinth01,0.0,por,0.0,36.3,.500,21.5
+0.0,0.0,133,0.0,,,,201501280CLE,0:06,0,0.0,Dorell Wright,wrighdo01,0.0,por,,0.0,,0.0
+,,,,,,,201501280CLE,Did Not Play,,,Allen Crabbe,crabbal01,,por,,,,
+,,,,,,,201501280CLE,Did Not Play,,,Victor Claver,clavevi01,,por,,,,
+8.1,0.0,111,28.6,.267,.533,.133,201501280CLE,39:01,92,5.9,Kevin Love,loveke01,0.0,cle,0.0,17.4,.315,19.4
+48.4,0.0,113,5.8,.625,.528,.278,201501280CLE,38:35,142,5.9,Kyrie Irving,irvinky01,3.0,cle,6.9,5.9,.681,53.5
+18.0,0.0,117,2.9,.458,.500,.000,201501280CLE,38:25,99,0.0,J.R. Smith,smithjr01,1.5,cle,14.3,1.5,.458,17.3
+0.0,2.7,112,21.9,.444,.000,.667,201501280CLE,35:45,114,9.6,Timofey Mozgov,mozgoti01,0.0,cle,7.9,15.8,.515,16.8
+0.0,0.0,117,12.0,,,,201501280CLE,9:17,0,0.0,Shawn Marion,mariosh01,0.0,cle,,6.1,,0.0
+5.7,0.0,116,16.1,.500,.500,.000,201501280CLE,27:41,107,8.3,Iman Shumpert,shumpim01,0.0,cle,20.0,12.2,.500,8.6
+0.0,0.0,112,26.4,.286,.000,.000,201501280CLE,21:08,91,16.2,Tristan Thompson,thomptr01,0.0,cle,0.0,21.4,.286,15.8
+21.3,0.0,120,5.6,.000,1.000,.000,201501280CLE,19:54,100,11.5,Matthew Dellavedova,dellama01,0.0,cle,50.0,8.5,.000,4.8
+16.0,0.0,118,10.9,1.500,1.000,.000,201501280CLE,10:14,285,0.0,Mike Miller,millemi01,0.0,cle,0.0,5.5,1.500,4.6
+,,,,,,,201501280CLE,Did Not Play,,,Brendan Haywood,haywobr01,,cle,,,,
+,,,,,,,201501280CLE,Did Not Play,,,LeBron James,jamesle01,,cle,,,,
+,,,,,,,201501280CLE,Did Not Play,,,Joe Harris,harrijo01,,cle,,,,
+,,,,,,,201501280CLE,Did Not Play,,,James Jones,jonesja02,,cle,,,,

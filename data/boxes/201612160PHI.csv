@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+4,0,8,10,0,,0,.769,13,5,.833,6,201612160PHI,33:10,1,4,Julius Randle,randlju01,+13,25,3,lal,5,9
+3,0,5,3,1,.200,5,.375,8,0,,0,201612160PHI,32:08,1,0,Luol Deng,denglu01,+16,7,1,lal,0,6
+2,0,7,4,3,.375,8,.333,12,4,1.000,4,201612160PHI,26:33,0,2,D'Angelo Russell,russeda01,+13,15,1,lal,2,7
+2,1,1,5,2,.400,5,.556,9,3,.750,4,201612160PHI,21:27,0,2,Nick Young,youngni01,+16,15,0,lal,0,1
+1,0,4,2,0,,0,.400,5,0,,0,201612160PHI,19:03,1,4,Timofey Mozgov,mozgoti01,+14,4,0,lal,4,5
+1,3,7,2,0,,0,.667,3,0,,0,201612160PHI,34:13,4,4,Larry Nance,nancela02,-1,4,1,lal,3,11
+2,0,3,4,2,.500,4,.444,9,0,,0,201612160PHI,25:55,0,1,Jordan Clarkson,clarkjo01,-9,10,0,lal,2,3
+3,0,0,5,1,.167,6,.417,12,7,.875,8,201612160PHI,23:23,0,0,Lou Williams,willilo02,+2,18,4,lal,1,0
+1,0,2,1,0,.000,2,.125,8,0,,0,201612160PHI,20:43,1,1,Brandon Ingram,ingrabr01,-7,2,0,lal,2,3
+0,0,1,0,0,,0,,0,0,,0,201612160PHI,3:25,0,3,Tarik Black,blackta01,-2,0,0,lal,1,1
+,,,,,,,,,,,,201612160PHI,Did Not Play,,,Metta World Peace,artesro01,,,,lal,,
+,,,,,,,,,,,,201612160PHI,Did Not Play,,,Thomas Robinson,robinth01,,,,lal,,
+,,,,,,,,,,,,201612160PHI,Did Not Play,,,Marcelo Huertas,huertma01,,,,lal,,
+2,1,3,6,0,.000,6,.375,16,2,1.000,2,201612160PHI,36:27,3,4,Robert Covington,covinro01,-13,14,0,phi,3,6
+2,2,2,5,2,.500,4,.357,14,3,.375,8,201612160PHI,28:31,2,2,Joel Embiid,embiijo01,-6,15,0,phi,3,4
+3,0,4,2,0,.000,3,.286,7,0,,0,201612160PHI,24:46,1,2,Sergio Rodriguez,rodrise01,-23,4,1,phi,2,5
+0,0,6,4,0,,0,.571,7,6,1.000,6,201612160PHI,23:56,2,1,Jahlil Okafor,okafoja01,-15,14,1,phi,0,8
+2,0,3,0,0,.000,2,.000,4,2,1.000,2,201612160PHI,21:57,2,1,Gerald Henderson,hendege02,-17,2,0,phi,2,5
+1,0,8,6,1,.125,8,.429,14,0,,0,201612160PHI,27:24,2,2,Ersan Ilyasova,ilyaser01,+5,13,1,phi,2,10
+3,0,1,4,2,.500,4,.444,9,2,1.000,2,201612160PHI,26:03,0,2,Nik Stauskas,stausni01,+6,12,1,phi,2,1
+9,0,1,2,0,,0,.400,5,2,1.000,2,201612160PHI,23:14,0,2,T.J. McConnell,mccontj01,+12,6,3,phi,2,1
+0,0,1,2,1,.250,4,.250,8,2,1.000,2,201612160PHI,19:40,2,1,Dario Saric,saricda01,+1,7,0,phi,1,3
+0,1,3,1,0,,0,.250,4,0,,0,201612160PHI,8:02,2,0,Nerlens Noel,noelne01,-5,2,0,phi,0,5
+,,,,,,,,,,,,201612160PHI,Did Not Play,,,Hollis Thompson,thompho01,,,,phi,,
+,,,,,,,,,,,,201612160PHI,Did Not Play,,,Timothe Luwawu-Cabarrot,luwawti01,,,,phi,,
+,,,,,,,,,,,,201612160PHI,Did Not Play,,,Richaun Holmes,holmeri01,,,,phi,,

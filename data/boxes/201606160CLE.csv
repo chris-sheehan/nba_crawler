@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+6,1,9,3,0,.000,2,.429,7,2,1.000,2,201606160CLE,40:44,1,5,Draymond Green,greendr01,-12,8,1,gsw,1,10
+1,1,1,9,3,.300,10,.429,21,4,.571,7,201606160CLE,38:05,2,2,Klay Thompson,thompkl01,-22,25,2,gsw,4,3
+1,0,2,8,6,.462,13,.400,20,8,.889,9,201606160CLE,35:14,0,6,Stephen Curry,curryst01,-10,30,1,gsw,4,2
+3,0,2,2,1,.333,3,.400,5,0,.000,2,201606160CLE,30:19,2,2,Andre Iguodala,iguodan01,-25,5,0,gsw,1,4
+0,1,2,0,0,.000,5,.000,8,0,,0,201606160CLE,16:26,0,2,Harrison Barnes,barneha02,-20,0,0,gsw,0,2
+3,0,4,1,0,,0,.167,6,1,.500,2,201606160CLE,21:26,0,3,Shaun Livingston,livinsh01,-10,3,0,gsw,1,4
+2,0,1,4,2,.667,3,.667,6,4,.800,5,201606160CLE,18:42,1,0,Leandro Barbosa,barbole01,+7,14,0,gsw,1,2
+1,0,1,2,0,,0,.400,5,0,,0,201606160CLE,14:42,3,3,Festus Ezeli,ezelife01,-17,4,0,gsw,1,4
+0,0,1,0,0,,0,,0,1,.500,2,201606160CLE,8:28,0,0,Brandon Rush,rushbr01,+18,1,0,gsw,0,1
+1,0,1,0,0,,0,,0,0,,0,201606160CLE,6:49,0,2,Anderson Varejao,varejan01,+8,0,1,gsw,1,1
+1,0,0,1,1,1.000,1,1.000,1,0,,0,201606160CLE,3:23,0,0,Ian Clark,clarkia01,+3,3,0,gsw,0,0
+0,0,1,1,0,,0,1.000,1,0,,0,201606160CLE,3:23,0,0,James Michael McAdoo,mcadoja01,+3,2,0,gsw,0,1
+0,0,1,2,2,1.000,2,1.000,2,0,,0,201606160CLE,2:19,0,0,Marreese Speights,speigma01,+7,6,0,gsw,0,1
+3,0,14,6,0,,0,1.000,6,3,.750,4,201606160CLE,42:38,2,4,Tristan Thompson,thomptr01,+32,15,0,cle,3,16
+11,3,6,16,3,.500,6,.593,27,6,.750,8,201606160CLE,42:35,2,3,LeBron James,jamesle01,+26,41,4,cle,1,8
+3,1,4,5,4,.400,10,.455,11,0,,0,201606160CLE,40:22,0,5,J.R. Smith,smithjr01,+20,14,3,cle,0,4
+3,2,3,7,2,.400,5,.389,18,7,1.000,7,201606160CLE,39:14,1,2,Kyrie Irving,irvinky01,+25,23,2,cle,3,4
+2,0,2,1,1,.500,2,.333,3,4,.667,6,201606160CLE,11:55,1,3,Kevin Love,loveke01,-6,7,0,cle,1,3
+1,0,4,1,0,.000,1,.333,3,1,.500,2,201606160CLE,31:52,2,3,Richard Jefferson,jefferi01,+15,3,2,cle,1,6
+0,0,1,0,0,.000,2,.000,2,0,,0,201606160CLE,14:10,0,4,Iman Shumpert,shumpim01,-13,0,0,cle,1,1
+0,0,1,2,0,,0,1.000,2,0,,0,201606160CLE,5:40,0,0,Mo Williams,willima01,-2,4,0,cle,0,1
+0,1,1,1,0,,0,1.000,1,3,1.000,3,201606160CLE,4:37,0,0,Dahntay Jones,jonesda02,-6,5,0,cle,0,1
+1,0,0,1,0,,0,.500,2,1,.500,2,201606160CLE,2:19,0,0,Matthew Dellavedova,dellama01,-7,3,0,cle,0,0
+0,0,0,0,0,.000,1,.000,1,0,,0,201606160CLE,2:19,0,1,James Jones,jonesja02,-7,0,0,cle,0,0
+0,0,1,0,0,,0,.000,1,0,,0,201606160CLE,2:19,0,0,Timofey Mozgov,mozgoti01,-7,0,1,cle,0,1
+,,,,,,,,,,,,201606160CLE,Did Not Play,,,Channing Frye,fryech01,,,,cle,,

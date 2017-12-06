@@ -1,0 +1,27 @@
+ast_pct,blk_pct,def_rtg,drb_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,gm,mp,off_rtg,orb_pct,player,player_id,stl_pct,team,tov_pct,trb_pct,ts_pct,usg_pct
+40.7,0.0,95,17.9,.667,.389,.444,201401270BRK,35:16,130,0.0,Kyle Lowry,lowryky01,7.0,tor,15.7,8.6,.720,32.0
+8.9,2.7,108,26.7,.444,.444,.444,201401270BRK,33:09,80,0.0,Terrence Ross,rosste01,0.0,tor,21.8,12.8,.465,18.4
+6.5,0.0,109,35.8,.643,.000,.143,201401270BRK,31:44,146,14.8,Jonas Valanciunas,valanjo01,0.0,tor,0.0,24.9,.672,20.8
+4.7,3.0,109,12.5,.400,.000,.800,201401270BRK,30:18,101,11.6,Amir Johnson,johnsam01,0.0,tor,30.7,12.0,.592,14.3
+5.9,0.0,113,0.0,.000,.800,.000,201401270BRK,21:55,15,0.0,Steve Novak,novakst01,0.0,tor,0.0,0.0,.000,10.1
+15.5,3.3,106,4.6,.333,.000,.333,201401270BRK,27:45,86,0.0,John Salmons,salmojo01,1.8,tor,22.5,2.2,.436,14.2
+24.9,0.0,112,14.6,.556,.444,.222,201401270BRK,26:00,96,0.0,Greivis Vasquez,vasqugr01,0.0,tor,28.8,7.0,.607,23.6
+9.5,0.0,102,11.8,.591,.273,.182,201401270BRK,21:28,135,5.5,Patrick Patterson,pattepa01,4.6,tor,0.0,8.5,.631,24.5
+11.7,0.0,109,30.5,.500,.000,1.000,201401270BRK,12:25,68,18.9,Chuck Hayes,hayesch01,0.0,tor,41.0,24.5,.347,17.4
+,,,,,,,201401270BRK,Did Not Play,,,DeMar DeRozan,derozde01,,tor,,,,
+,,,,,,,201401270BRK,Did Not Play,,,Austin Daye,dayeau01,,tor,,,,
+,,,,,,,201401270BRK,Did Not Play,,,Julyan Stone,stoneju01,,tor,,,,
+,,,,,,,201401270BRK,Did Not Play,,,Dwight Buycks,buyckdw01,,tor,,,,
+9.3,0.0,107,11.0,.350,.400,.500,201401270BRK,31:51,80,0.0,Joe Johnson,johnsjo02,3.1,brk,24.7,5.7,.492,23.5
+14.4,2.7,107,18.9,.844,.625,.438,201401270BRK,30:58,157,4.1,Paul Pierce,piercpa01,1.6,brk,5.0,11.8,.865,30.0
+5.1,0.0,110,12.5,.500,.600,.000,201401270BRK,28:06,85,0.0,Alan Anderson,anderal01,1.8,brk,16.7,6.5,.500,9.9
+0.0,3.2,103,44.2,.375,.000,.000,201401270BRK,26:29,64,4.8,Kevin Garnett,garneke01,0.0,brk,20.0,25.2,.375,17.5
+25.1,0.0,111,4.8,.750,.000,1.000,201401270BRK,24:35,128,0.0,Shaun Livingston,livinsh01,2.0,brk,25.8,2.5,.781,14.6
+59.5,0.0,110,12.0,.409,.182,.182,201401270BRK,29:11,95,4.3,Deron Williams,willide01,1.7,brk,20.2,8.3,.379,23.6
+12.2,3.5,104,4.9,.400,.000,.000,201401270BRK,23:55,76,5.3,Andrei Kirilenko,kirilan01,4.1,brk,28.6,5.1,.400,13.6
+0.0,3.9,97,27.2,.727,.091,.364,201401270BRK,21:31,156,5.9,Andray Blatche,blatcan01,4.6,brk,0.0,16.9,.784,27.5
+0.0,0.0,117,0.0,.417,.667,.000,201401270BRK,17:02,58,0.0,Mirza Teletovic,teletmi01,0.0,brk,25.0,0.0,.417,21.7
+0.0,0.0,117,0.0,.000,.000,.000,201401270BRK,6:22,0,0.0,Jason Terry,terryja01,0.0,brk,0.0,0.0,.000,7.3
+,,,,,,,201401270BRK,Did Not Play,,,Mason Plumlee,plumlma01,,brk,,,,
+,,,,,,,201401270BRK,Did Not Play,,,Marquis Teague,teaguma01,,brk,,,,
+,,,,,,,201401270BRK,Did Not Play,,,Reggie Evans,evansre01,,brk,,,,

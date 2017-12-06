@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+7,0,8,10,3,.333,9,.500,20,1,.500,2,201501300NOP,38:14,0,2,Chris Paul,paulch01,-6,24,3,lac,1,8
+6,0,2,7,0,,0,.500,14,5,.833,6,201501300NOP,37:29,2,4,Blake Griffin,griffbl01,-7,19,1,lac,0,4
+0,3,8,6,0,,0,.857,7,0,.000,2,201501300NOP,33:39,7,0,DeAndre Jordan,jordade01,-11,12,0,lac,1,15
+0,0,3,2,2,.400,5,.250,8,0,,0,201501300NOP,29:32,0,2,Matt Barnes,barnema02,-10,6,0,lac,2,3
+4,1,1,5,0,.000,5,.385,13,2,1.000,2,201501300NOP,27:55,0,3,J.J. Redick,redicjj01,-11,12,0,lac,1,1
+0,0,1,6,1,.167,6,.375,16,2,.667,3,201501300NOP,27:39,0,3,Jamal Crawford,crawfja01,+13,15,0,lac,0,1
+1,0,3,0,0,.000,1,.000,1,0,,0,201501300NOP,14:56,0,4,Spencer Hawes,hawessp01,+4,0,0,lac,0,3
+1,0,1,4,0,.000,1,.500,8,2,1.000,2,201501300NOP,14:14,0,3,Austin Rivers,riverau01,-1,10,0,lac,0,1
+0,0,0,1,1,1.000,1,1.000,1,0,,0,201501300NOP,9:23,0,0,Hedo Turkoglu,turkohe01,+4,3,1,lac,0,0
+1,0,2,1,0,,0,.250,4,0,,0,201501300NOP,6:52,0,0,Glen Davis,davisgl01,+3,2,0,lac,0,2
+0,0,0,0,0,,0,,0,0,,0,201501300NOP,0:08,0,0,Dahntay Jones,jonesda02,-3,0,0,lac,0,0
+,,,,,,,,,,,,201501300NOP,Did Not Play,,,Ekpe Udoh,udohek01,,,,lac,,
+,,,,,,,,,,,,201501300NOP,Did Not Play,,,C.J. Wilcox,wilcocj01,,,,lac,,
+7,0,2,10,5,.714,7,.500,20,3,1.000,3,201501300NOP,38:20,0,0,Eric Gordon,gordoer01,+8,28,1,nop,3,2
+12,0,7,5,1,.333,3,.385,13,0,,0,201501300NOP,36:57,1,2,Tyreke Evans,evansty01,+11,11,1,nop,2,8
+1,0,5,6,5,.455,11,.353,17,7,1.000,7,201501300NOP,36:09,4,4,Ryan Anderson,anderry01,+7,24,1,nop,0,9
+0,0,10,4,0,,0,.444,9,0,,0,201501300NOP,34:20,2,1,Dante Cunningham,cunnida01,+10,8,0,nop,0,12
+2,0,5,1,0,,0,.200,5,3,.500,6,201501300NOP,28:49,2,3,Omer Asik,asikom01,+9,5,0,nop,1,7
+0,3,5,6,0,,0,.545,11,5,1.000,5,201501300NOP,24:26,4,3,Alexis Ajinca,ajincal01,-7,17,0,nop,2,9
+1,0,3,3,2,.667,3,.375,8,0,,0,201501300NOP,22:44,1,0,Quincy Pondexter,pondequ01,-1,8,2,nop,0,4
+3,0,0,0,0,,0,.000,1,0,,0,201501300NOP,6:54,0,0,Nate Wolters,woltena01,-4,0,0,nop,0,0
+0,0,0,1,0,,0,1.000,1,5,1.000,5,201501300NOP,5:56,0,2,Jimmer Fredette,fredeji01,-2,7,0,nop,0,0
+0,0,0,0,0,.000,1,.000,1,0,,0,201501300NOP,5:24,0,0,Luke Babbitt,babbilu01,-6,0,0,nop,0,0
+,,,,,,,,,,,,201501300NOP,Did Not Play,,,Anthony Davis,davisan02,,,,nop,,
+,,,,,,,,,,,,201501300NOP,Did Not Play,,,Jeff Withey,witheje01,,,,nop,,
+,,,,,,,,,,,,201501300NOP,Did Not Play,,,John Salmons,salmojo01,,,,nop,,

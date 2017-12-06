@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+4,1,14,16,0,.000,3,.552,29,8,.889,9,201603070NOP,41:08,2,4,DeMarcus Cousins,couside01,+9,40,4,sac,5,16
+2,0,10,7,1,.250,4,.538,13,3,.750,4,201603070NOP,40:53,0,2,Rudy Gay,gayru01,+10,18,2,sac,4,10
+10,0,1,7,3,.429,7,.538,13,1,.500,2,201603070NOP,39:11,0,5,Rajon Rondo,rondora01,-1,18,2,sac,5,1
+2,0,6,1,0,.000,1,.500,2,0,,0,201603070NOP,19:31,2,3,Quincy Acy,acyqu01,+1,2,0,sac,0,8
+1,0,0,0,0,,0,.000,1,2,1.000,2,201603070NOP,13:11,0,3,Ben McLemore,mclembe01,+1,2,1,sac,1,0
+6,0,2,2,0,.000,3,.200,10,1,1.000,1,201603070NOP,34:49,0,2,Darren Collison,collida01,-4,5,1,sac,6,2
+1,0,0,4,2,.500,4,.667,6,2,1.000,2,201603070NOP,20:46,0,1,Marco Belinelli,belinma01,+5,12,0,sac,0,0
+1,0,5,4,1,.333,3,.667,6,6,.857,7,201603070NOP,18:09,2,1,Omri Casspi,casspom01,-10,15,1,sac,1,7
+0,0,0,0,0,,0,.000,1,0,,0,201603070NOP,6:52,0,3,Kosta Koufos,koufoko01,-12,0,1,sac,0,0
+0,0,0,0,0,,0,.000,2,0,,0,201603070NOP,5:30,0,1,Willie Cauley-Stein,caulewi01,-14,0,0,sac,0,0
+,,,,,,,,,,,,201603070NOP,Did Not Play,,,James Anderson,anderja01,,,,sac,,
+,,,,,,,,,,,,201603070NOP,Did Not Play,,,Seth Curry,curryse01,,,,sac,,
+,,,,,,,,,,,,201603070NOP,Did Not Play,,,Caron Butler,butleca01,,,,sac,,
+6,0,6,8,1,.250,4,.421,19,6,.857,7,201603070NOP,39:44,1,3,Norris Cole,coleno01,+5,23,3,nop,1,7
+1,1,9,13,1,.333,3,.619,21,4,.444,9,201603070NOP,37:49,1,5,Anthony Davis,davisan02,-8,31,3,nop,5,10
+10,1,4,9,1,.200,5,.500,18,1,1.000,1,201603070NOP,35:39,0,2,Jrue Holiday,holidjr01,-4,20,4,nop,3,4
+0,1,2,3,1,.333,3,.600,5,0,,0,201603070NOP,28:36,0,2,Dante Cunningham,cunnida01,-8,7,4,nop,0,2
+0,0,1,0,0,,0,.000,2,0,,0,201603070NOP,13:32,2,4,Omer Asik,asikom01,-8,0,0,nop,2,3
+2,0,3,6,1,.250,4,.429,14,6,.750,8,201603070NOP,27:13,3,1,Ryan Anderson,anderry01,+24,19,1,nop,1,6
+3,1,2,2,2,.333,6,.222,9,0,,0,201603070NOP,20:37,0,1,Toney Douglas,douglto01,+5,6,1,nop,3,2
+0,0,4,4,0,,0,.667,6,1,1.000,1,201603070NOP,19:37,3,2,Alonzo Gee,geeal01,+11,9,0,nop,0,7
+1,2,2,0,0,,0,,0,0,,0,201603070NOP,17:13,0,1,Kendrick Perkins,perkike01,-2,0,1,nop,2,2
+,,,,,,,,,,,,201603070NOP,Did Not Play,,,Alexis Ajinca,ajincal01,,,,nop,,
+,,,,,,,,,,,,201603070NOP,Did Not Play,,,Bryce Dejean-Jones,dejeabr01,,,,nop,,
+,,,,,,,,,,,,201603070NOP,Did Not Play,,,Luke Babbitt,babbilu01,,,,nop,,
+,,,,,,,,,,,,201603070NOP,Did Not Play,,,Eric Gordon,gordoer01,,,,nop,,

@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+1,0,12,11,1,.500,2,.611,18,10,.769,13,201611070GSW,35:00,1,1,Anthony Davis,davisan02,-8,33,0,nop,3,13
+10,0,2,5,1,.333,3,.455,11,2,1.000,2,201611070GSW,32:10,2,4,Tim Frazier,fraziti01,-3,13,2,nop,4,4
+4,0,5,0,0,.000,1,.000,4,2,1.000,2,201611070GSW,32:00,0,1,Solomon Hill,hillso01,+3,2,3,nop,2,5
+5,0,2,6,1,.333,3,.545,11,2,1.000,2,201611070GSW,31:18,1,2,E'Twaun Moore,mooreet01,-8,15,0,nop,3,3
+0,0,3,3,0,,0,.500,6,2,.667,3,201611070GSW,14:19,3,0,Omer Asik,asikom01,+17,8,0,nop,0,6
+1,0,4,4,1,.200,5,.400,10,0,,0,201611070GSW,27:46,2,3,Buddy Hield,hieldbu01,-10,9,0,nop,1,6
+1,1,0,3,2,.667,3,.600,5,0,,0,201611070GSW,25:49,1,3,Dante Cunningham,cunnida01,-23,8,0,nop,1,1
+4,0,1,3,1,.500,2,.375,8,2,.667,3,201611070GSW,20:42,1,0,Langston Galloway,gallola01,-8,9,2,nop,1,2
+0,0,1,2,0,.000,2,.400,5,0,,0,201611070GSW,14:53,0,2,Terrence Jones,joneste01,-12,4,1,nop,3,1
+0,0,2,2,0,,0,1.000,2,1,.500,2,201611070GSW,6:03,0,0,Alexis Ajinca,ajincal01,+2,5,0,nop,1,2
+,,,,,,,,,,,,201611070GSW,Did Not Play,,,Archie Goodwin,goodwar01,,,,nop,,
+,,,,,,,,,,,,201611070GSW,Did Not Play,,,Cheick Diallo,diallch01,,,,nop,,
+,,,,,,,,,,,,201611070GSW,Not With Team,,,Jrue Holiday,holidjr01,,,,nop,,
+1,0,4,11,2,.286,7,.550,20,0,,0,201611070GSW,38:00,0,2,Klay Thompson,thompkl01,+3,24,3,gsw,1,4
+5,1,2,8,1,.250,4,.471,17,5,.833,6,201611070GSW,36:54,1,0,Kevin Durant,duranke01,+4,22,1,gsw,4,3
+5,0,2,16,13,.765,17,.615,26,1,.500,2,201611070GSW,35:39,3,2,Stephen Curry,curryst01,+9,46,2,gsw,4,5
+11,2,10,2,0,.000,1,.286,7,0,,0,201611070GSW,34:42,2,3,Draymond Green,greendr01,+5,4,2,gsw,2,12
+1,0,1,1,0,,0,.500,2,0,,0,201611070GSW,11:13,0,2,Zaza Pachulia,pachuza01,-13,2,0,gsw,1,1
+8,0,4,0,0,.000,4,.000,4,2,1.000,2,201611070GSW,31:06,0,1,Andre Iguodala,iguodan01,+16,2,3,gsw,1,4
+0,0,2,2,0,,0,.500,4,0,,0,201611070GSW,17:05,1,2,Shaun Livingston,livinsh01,+9,4,0,gsw,0,3
+2,0,1,3,0,,0,.600,5,2,1.000,2,201611070GSW,14:04,3,1,David West,westda01,+8,8,3,gsw,1,4
+2,1,2,1,0,.000,2,.333,3,0,,0,201611070GSW,12:44,0,0,Ian Clark,clarkia01,+7,2,0,gsw,1,2
+0,0,0,1,0,,0,.500,2,0,,0,201611070GSW,8:33,0,4,Kevon Looney,looneke01,+2,2,0,gsw,0,0
+,,,,,,,,,,,,201611070GSW,Did Not Play,,,Patrick McCaw,mccawpa01,,,,gsw,,
+,,,,,,,,,,,,201611070GSW,Did Not Play,,,James Michael McAdoo,mcadoja01,,,,gsw,,
+,,,,,,,,,,,,201611070GSW,Did Not Play,,,JaVale McGee,mcgeeja01,,,,gsw,,

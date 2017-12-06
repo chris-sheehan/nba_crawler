@@ -1,0 +1,27 @@
+ast_pct,blk_pct,def_rtg,drb_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,gm,mp,off_rtg,orb_pct,player,player_id,stl_pct,team,tov_pct,trb_pct,ts_pct,usg_pct
+34.1,0.0,112,24.4,.556,.222,.500,201602260TOR,40:29,102,3.0,LeBron James,jamesle01,1.4,cle,21.5,13.0,.569,34.1
+24.3,0.0,111,24.1,.400,.333,.667,201602260TOR,35:08,130,10.5,Kevin Love,loveke01,1.6,cle,0.0,16.8,.515,27.3
+0.0,0.0,116,13.2,.813,.750,.000,201602260TOR,32:08,157,0.0,J.R. Smith,smithjr01,0.0,cle,0.0,6.1,.813,12.3
+5.3,0.0,114,0.0,.364,.182,.182,201602260TOR,31:11,83,3.9,Kyrie Irving,irvinky01,1.8,cle,14.4,2.1,.421,22.0
+11.1,0.0,113,34.2,.500,.000,.000,201602260TOR,28:52,115,12.8,Tristan Thompson,thomptr01,0.0,cle,14.3,22.8,.500,12.0
+19.9,0.0,114,19.2,.500,.000,.000,201602260TOR,22:05,104,0.0,Iman Shumpert,shumpim01,0.0,cle,33.3,8.9,.500,6.7
+24.2,0.0,117,0.0,.800,.600,.000,201602260TOR,21:08,102,0.0,Matthew Dellavedova,dellama01,0.0,cle,37.5,0.0,.800,18.7
+0.0,0.0,104,23.2,.375,.500,.000,201602260TOR,12:09,95,10.1,Channing Frye,fryech01,4.5,cle,0.0,16.2,.375,16.3
+0.0,0.0,115,15.2,.667,.000,.000,201602260TOR,9:19,143,13.2,Timofey Mozgov,mozgoti01,0.0,cle,0.0,14.1,.667,15.9
+0.0,0.0,117,0.0,1.500,1.000,.000,201602260TOR,7:31,112,0.0,Richard Jefferson,jefferi01,0.0,cle,33.3,0.0,1.500,19.7
+,,,,,,,201602260TOR,Did Not Play,,,Sasha Kaun,kaunsa01,,cle,,,,
+,,,,,,,201602260TOR,Did Not Play,,,Mo Williams,willima01,,cle,,,,
+,,,,,,,201602260TOR,Did Not Play,,,James Jones,jonesja02,,cle,,,,
+50.0,0.0,103,14.4,.800,.250,.750,201602260TOR,42:49,157,0.0,Kyle Lowry,lowryky01,5.1,tor,7.0,7.7,.808,33.6
+8.4,0.0,108,22.9,.091,.091,.364,201602260TOR,32:19,52,0.0,DeMar DeRozan,derozde01,1.7,tor,13.6,12.2,.235,23.0
+0.0,0.0,108,21.7,.800,.000,.800,201602260TOR,28:24,137,19.9,Jonas Valanciunas,valanjo01,1.9,tor,22.8,20.8,.814,15.5
+0.0,0.0,114,15.7,.000,.333,.000,201602260TOR,15:42,0,0.0,James Johnson,johnsja01,0.0,tor,25.0,8.4,.000,12.8
+13.2,0.0,115,11.1,.200,.400,.200,201602260TOR,11:06,52,12.7,Luis Scola,scolalu01,0.0,tor,15.5,11.8,.184,29.2
+3.8,0.0,116,10.0,.625,.250,.000,201602260TOR,36:54,70,0.0,Patrick Patterson,pattepa01,0.0,tor,42.9,5.3,.625,9.5
+6.7,0.0,117,9.1,.682,.545,.000,201602260TOR,27:03,133,0.0,Terrence Ross,rosste01,0.0,tor,0.0,4.9,.682,20.5
+25.6,0.0,118,5.1,.333,.111,.000,201602260TOR,24:10,88,0.0,Cory Joseph,josepco01,0.0,tor,0.0,2.7,.333,18.7
+0.0,0.0,112,25.1,1.000,.000,.400,201602260TOR,19:36,185,0.0,Bismack Biyombo,biyombi01,0.0,tor,0.0,13.4,.935,15.1
+0.0,0.0,119,0.0,,,,201602260TOR,1:57,0,0.0,Anthony Bennett,bennean01,0.0,tor,,0.0,,0.0
+,,,,,,,201602260TOR,Did Not Play,,,Norman Powell,powelno01,,tor,,,,
+,,,,,,,201602260TOR,Did Not Play,,,Delon Wright,wrighde01,,tor,,,,
+,,,,,,,201602260TOR,Did Not Play,,,Lucas Nogueira,noguelu01,,tor,,,,

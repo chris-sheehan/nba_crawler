@@ -1,0 +1,26 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+7,0,6,6,1,.250,4,.353,17,1,.500,2,201401200GSW,42:58,4,1,Lance Stephenson,stephla01,+2,14,0,ind,1,10
+1,2,9,7,0,,0,.636,11,0,,0,201401200GSW,35:49,4,4,Roy Hibbert,hibbero01,+9,14,0,ind,1,13
+2,0,3,9,3,.429,7,.450,20,2,1.000,2,201401200GSW,35:33,1,1,Paul George,georgpa01,+9,23,1,ind,4,4
+2,0,3,5,3,.750,4,.625,8,2,1.000,2,201401200GSW,32:43,1,2,George Hill,hillge01,+4,15,2,ind,2,4
+3,2,3,6,0,,0,.400,15,5,.714,7,201401200GSW,30:31,2,5,David West,westda01,+2,17,1,ind,2,5
+1,1,5,1,0,.000,2,.200,5,0,,0,201401200GSW,17:49,0,2,Danny Granger,grangda01,+5,2,0,ind,1,5
+1,0,4,3,0,,0,.333,9,0,,0,201401200GSW,17:17,2,1,Luis Scola,scolalu01,+6,6,1,ind,1,6
+2,0,1,2,1,.500,2,.500,4,0,,0,201401200GSW,15:17,0,1,C.J. Watson,watsocj01,+4,5,2,ind,1,1
+0,0,1,2,0,,0,1.000,2,2,1.000,2,201401200GSW,12:03,3,2,Ian Mahinmi,mahinia01,-1,6,0,ind,1,4
+,,,,,,,,,,,,201401200GSW,Did Not Play,,,Chris Copeland,copelch01,,,,ind,,
+,,,,,,,,,,,,201401200GSW,Did Not Play,,,Orlando Johnson,johnsor01,,,,ind,,
+,,,,,,,,,,,,201401200GSW,Did Not Play,,,Rasual Butler,butlera01,,,,ind,,
+,,,,,,,,,,,,201401200GSW,Did Not Play,,,Donald Sloan,sloando01,,,,ind,,
+9,0,3,9,3,.273,11,.450,20,3,.750,4,201401200GSW,41:28,0,2,Stephen Curry,curryst01,-4,24,0,gsw,2,3
+1,0,0,6,5,.500,10,.462,13,0,,0,201401200GSW,39:26,0,2,Klay Thompson,thompkl01,-8,17,0,gsw,2,0
+2,0,7,8,0,,0,.421,19,4,.500,8,201401200GSW,35:50,5,5,David Lee,leeda02,-9,20,1,gsw,0,12
+2,2,10,5,0,,0,.625,8,0,,0,201401200GSW,30:53,3,5,Andrew Bogut,bogutan01,+4,10,1,gsw,3,13
+3,0,2,2,1,.333,3,.400,5,2,1.000,2,201401200GSW,29:30,0,3,Andre Iguodala,iguodan01,-1,7,4,gsw,3,2
+1,0,4,2,1,.500,2,.400,5,2,1.000,2,201401200GSW,20:56,1,1,Harrison Barnes,barneha02,-10,7,1,gsw,0,5
+0,0,3,1,0,.000,2,.143,7,3,.750,4,201401200GSW,17:26,3,2,Draymond Green,greendr01,-12,5,0,gsw,0,6
+3,0,1,1,0,.000,2,.200,5,0,,0,201401200GSW,12:53,0,1,Jordan Crawford,crawfjo02,-1,2,0,gsw,3,1
+0,0,2,1,0,,0,.250,4,0,,0,201401200GSW,11:38,1,1,Marreese Speights,speigma01,+1,2,0,gsw,2,3
+,,,,,,,,,,,,201401200GSW,Did Not Play,,,MarShon Brooks,brookma01,,,,gsw,,
+,,,,,,,,,,,,201401200GSW,Did Not Play,,,Nemanja Nedovic,nedovne01,,,,gsw,,
+,,,,,,,,,,,,201401200GSW,Did Not Play,,,Kent Bazemore,bazemke01,,,,gsw,,

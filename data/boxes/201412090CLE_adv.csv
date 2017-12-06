@@ -1,0 +1,27 @@
+ast_pct,blk_pct,def_rtg,drb_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,gm,mp,off_rtg,orb_pct,player,player_id,stl_pct,team,tov_pct,trb_pct,ts_pct,usg_pct
+48.0,0.0,126,10.2,.389,.444,.111,201412090CLE,40:11,134,3.9,Kyle Lowry,lowryky01,1.4,tor,0.0,7.2,.424,22.2
+0.0,0.0,120,37.6,.857,.000,.857,201412090CLE,36:30,147,21.2,Jonas Valanciunas,valanjo01,0.0,tor,23.7,29.9,.934,16.4
+6.2,0.0,129,9.9,.654,.308,.077,201412090CLE,27:42,97,5.6,Terrence Ross,rosste01,0.0,tor,27.1,7.9,.670,31.5
+12.1,0.0,131,5.6,.500,.000,.000,201412090CLE,24:36,99,6.3,Amir Johnson,johnsam01,0.0,tor,16.7,5.9,.500,23.1
+10.9,0.0,120,5.9,1.000,.000,.000,201412090CLE,23:15,132,0.0,Landry Fields,fieldla01,4.9,tor,33.3,3.1,1.000,6.1
+5.5,6.9,124,15.6,.857,.286,.000,201412090CLE,26:22,150,5.9,Patrick Patterson,pattepa01,0.0,tor,12.5,11.0,.857,14.4
+0.0,4.2,122,6.4,.462,.154,.000,201412090CLE,21:35,104,21.5,James Johnson,johnsja01,2.6,tor,7.1,13.5,.462,30.7
+26.2,0.0,130,6.9,.313,.500,.125,201412090CLE,19:45,98,0.0,Lou Williams,willilo02,0.0,tor,10.6,3.7,.355,22.6
+19.7,0.0,133,0.0,.500,1.000,.000,201412090CLE,12:43,101,0.0,Greivis Vasquez,vasqugr01,0.0,tor,25.0,0.0,.500,14.9
+0.0,0.0,126,18.7,1.000,.000,.000,201412090CLE,7:21,200,0.0,Chuck Hayes,hayesch01,0.0,tor,0.0,9.9,1.000,6.4
+,,,,,,,201412090CLE,Did Not Play,,,Tyler Hansbrough,hansbty01,,tor,,,,
+,,,,,,,201412090CLE,Did Not Play,,,Greg Stiemsma,stiemgr01,,tor,,,,
+,,,,,,,201412090CLE,Did Not Play,,,Bruno Caboclo,cabocbr01,,tor,,,,
+33.9,0.0,121,3.6,.458,.417,.167,201412090CLE,42:27,120,0.0,Kyrie Irving,irvinky01,2.7,cle,13.4,1.7,.505,17.0
+18.2,3.9,118,3.7,.619,.238,.429,201412090CLE,41:53,143,3.3,LeBron James,jamesle01,2.7,cle,7.4,3.5,.701,31.1
+17.4,2.3,118,26.0,.433,.333,.267,201412090CLE,35:42,109,11.5,Kevin Love,loveke01,0.0,cle,15.2,18.3,.507,26.8
+10.8,5.0,116,28.5,.400,.000,.000,201412090CLE,16:17,97,25.3,Anderson Varejao,varejan01,0.0,cle,9.1,26.8,.400,32.7
+0.0,0.0,125,9.7,,,,201412090CLE,16:00,0,0.0,Shawn Marion,mariosh01,0.0,cle,100.0,4.5,,3.0
+0.0,2.4,121,18.4,.600,.000,.800,201412090CLE,33:43,124,16.3,Tristan Thompson,thomptr01,0.0,cle,12.9,17.3,.592,11.1
+15.6,0.0,126,6.4,.850,.500,.200,201412090CLE,24:23,146,0.0,Dion Waiters,waitedi01,0.0,cle,8.4,3.0,.827,23.6
+32.7,0.0,123,14.6,.750,1.000,.000,201412090CLE,21:16,182,6.4,Matthew Dellavedova,dellama01,0.0,cle,0.0,10.3,.750,9.1
+14.8,0.0,128,0.0,.000,1.000,.000,201412090CLE,8:18,38,0.0,James Jones,jonesja02,0.0,cle,0.0,0.0,.000,11.7
+,,,,,,,201412090CLE,Did Not Play,,,A.J. Price,priceaj01,,cle,,,,
+,,,,,,,201412090CLE,Did Not Play,,,Brendan Haywood,haywobr01,,cle,,,,
+,,,,,,,201412090CLE,Did Not Play,,,Lou Amundson,amundlo01,,cle,,,,
+,,,,,,,201412090CLE,Did Not Play,,,Joe Harris,harrijo01,,cle,,,,

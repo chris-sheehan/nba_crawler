@@ -1,0 +1,26 @@
+ast_pct,blk_pct,def_rtg,drb_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,gm,mp,off_rtg,orb_pct,player,player_id,stl_pct,team,tov_pct,trb_pct,ts_pct,usg_pct
+4.0,4.3,102,49.4,.833,.000,1.333,201612280NOP,38:50,104,11.7,DeAndre Jordan,jordade01,0.0,lac,29.6,30.0,.683,14.8
+0.0,0.0,111,8.9,.500,.667,.000,201612280NOP,32:24,91,0.0,Luc Mbah a Moute,mbahalu01,1.6,lac,14.3,4.3,.500,9.2
+0.0,0.0,109,3.0,.500,.400,.100,201612280NOP,32:02,113,8.5,Austin Rivers,riverau01,3.2,lac,4.6,5.8,.527,29.0
+36.1,0.0,109,15.7,.533,.467,.333,201612280NOP,30:37,140,8.9,Chris Paul,paulch01,1.7,lac,5.5,12.2,.610,25.3
+0.0,0.0,112,20.7,.143,.286,.000,201612280NOP,18:34,66,19.5,Wesley Johnson,johnswe01,0.0,lac,0.0,20.1,.143,16.0
+15.7,0.0,117,0.0,.200,.200,.067,201612280NOP,28:41,61,0.0,Jamal Crawford,crawfja01,0.0,lac,6.1,0.0,.227,24.4
+19.0,0.0,105,4.4,.300,.800,.000,201612280NOP,21:47,65,0.0,Raymond Felton,feltora01,4.7,lac,28.6,2.1,.300,13.7
+9.9,9.0,103,21.0,.455,.636,.091,201612280NOP,18:19,100,0.0,Marreese Speights,speigma01,0.0,lac,8.0,10.2,.481,28.9
+13.6,0.0,113,21.5,.500,.000,.167,201612280NOP,13:24,129,6.8,Brandon Bass,bassbr01,0.0,lac,0.0,13.9,.543,20.4
+0.0,0.0,113,17.8,1.000,.667,.000,201612280NOP,5:23,189,0.0,Alan Anderson,anderal01,0.0,lac,0.0,8.7,1.000,23.7
+,,,,,,,201612280NOP,Did Not Play,,,Paul Pierce,piercpa01,,lac,,,,
+,,,,,,,201612280NOP,Did Not Dress,,,J.J. Redick,redicjj01,,lac,,,,
+4.4,2.3,100,9.8,.500,.125,.500,201612280NOP,37:04,107,2.6,Anthony Davis,davisan02,5.5,nop,0.0,6.3,.512,24.7
+38.6,0.0,106,10.7,.417,.083,.167,201612280NOP,34:00,91,0.0,Jrue Holiday,holidjr01,3.0,nop,18.9,5.5,.427,21.9
+12.1,2.6,102,22.5,.500,.833,.000,201612280NOP,32:09,103,3.0,Dante Cunningham,cunnida01,1.6,nop,14.3,13.0,.500,10.2
+10.6,0.0,108,11.4,.375,.750,.500,201612280NOP,23:50,128,4.0,Solomon Hill,hillso01,2.2,nop,0.0,7.8,.512,9.6
+0.0,0.0,103,19.7,.773,.455,.000,201612280NOP,23:01,129,4.2,Buddy Hield,hieldbu01,2.2,nop,8.3,12.1,.773,24.5
+0.0,2.7,107,11.7,.450,.500,.400,201612280NOP,30:56,103,0.0,Langston Galloway,gallola01,1.7,nop,0.0,6.0,.510,17.8
+13.5,0.0,109,8.0,.333,.083,.417,201612280NOP,22:38,90,12.7,Terrence Jones,joneste01,2.3,nop,0.0,10.3,.352,29.5
+7.8,8.3,107,13.4,.643,.429,.000,201612280NOP,20:16,126,0.0,E'Twaun Moore,mooreet01,0.0,nop,0.0,6.9,.643,16.2
+59.4,0.0,107,22.5,.667,.444,.000,201612280NOP,16:06,133,6.0,Tyreke Evans,evansty01,0.0,nop,10.0,14.5,.667,29.2
+,,,,,,,201612280NOP,Did Not Play,,,Tim Frazier,fraziti01,,nop,,,,
+,,,,,,,201612280NOP,Did Not Play,,,Omer Asik,asikom01,,nop,,,,
+,,,,,,,201612280NOP,Did Not Play,,,Cheick Diallo,diallch01,,nop,,,,
+,,,,,,,201612280NOP,Did Not Play,,,Alexis Ajinca,ajincal01,,nop,,,,

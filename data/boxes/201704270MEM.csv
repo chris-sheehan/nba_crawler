@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+1,0,7,7,0,.000,1,.412,17,3,1.000,3,201704270MEM,41:43,5,5,LaMarcus Aldridge,aldrila01,+6,17,0,sas,3,12
+4,0,6,8,1,.200,5,.421,19,12,.923,13,201704270MEM,39:55,3,2,Kawhi Leonard,leonaka01,+15,29,3,sas,1,9
+4,0,1,11,1,.500,2,.786,14,4,1.000,4,201704270MEM,31:09,1,0,Tony Parker,parketo01,+12,27,0,sas,1,2
+1,0,3,2,2,.400,5,.333,6,1,.500,2,201704270MEM,26:54,1,3,Danny Green,greenda02,-2,7,1,sas,0,4
+1,0,3,3,0,,0,.750,4,1,.500,2,201704270MEM,26:19,3,2,David Lee,leeda02,+5,7,0,sas,1,6
+1,0,1,4,2,.667,3,.667,6,0,,0,201704270MEM,21:45,0,2,Patty Mills,millspa02,+6,10,0,sas,1,1
+1,0,3,0,0,.000,1,.000,6,0,,0,201704270MEM,20:24,1,2,Pau Gasol,gasolpa01,0,0,0,sas,2,4
+0,0,3,1,1,.500,2,.500,2,1,1.000,1,201704270MEM,16:35,0,1,Manu Ginobili,ginobma01,-1,4,0,sas,2,3
+0,0,0,0,0,,0,.000,1,0,,0,201704270MEM,8:05,1,1,Jonathon Simmons,simmojo02,-8,0,0,sas,0,1
+0,0,2,0,0,.000,1,.000,1,0,,0,201704270MEM,4:04,0,1,Davis Bertans,bertada01,+2,0,0,sas,1,2
+0,0,1,1,0,,0,1.000,1,0,,0,201704270MEM,3:07,1,1,Dewayne Dedmon,dedmode01,0,2,0,sas,0,2
+,,,,,,,,,,,,201704270MEM,Did Not Play,,,Dejounte Murray,murrade01,,,,sas,,
+,,,,,,,,,,,,201704270MEM,Did Not Play,,,Kyle Anderson,anderky01,,,,sas,,
+5,0,2,7,3,.333,9,.389,18,9,.900,10,201704270MEM,44:54,0,4,Mike Conley,conlemi01,-6,26,1,mem,2,2
+6,0,4,5,1,.500,2,.417,12,7,.875,8,201704270MEM,44:52,1,5,Marc Gasol,gasolma01,-7,18,0,mem,1,5
+0,1,8,6,0,.000,1,.429,14,1,.333,3,201704270MEM,38:26,3,3,Zach Randolph,randoza01,+4,13,0,mem,2,11
+1,0,2,4,2,.333,6,.444,9,2,1.000,2,201704270MEM,32:13,2,5,Vince Carter,cartevi01,-11,12,1,mem,3,4
+1,0,2,4,3,.750,4,.571,7,0,,0,201704270MEM,28:52,1,3,James Ennis,ennisja01,-15,11,1,mem,1,3
+2,0,2,1,1,1.000,1,1.000,1,0,,0,201704270MEM,21:08,0,0,Troy Daniels,danietr01,+18,3,1,mem,0,2
+0,0,1,2,0,.000,2,.400,5,1,1.000,1,201704270MEM,13:37,0,4,JaMychal Green,greenja01,-11,5,0,mem,2,1
+0,0,0,1,0,,0,.500,2,0,,0,201704270MEM,8:00,0,1,Wayne Selden,seldewa01,+1,2,0,mem,0,0
+0,0,0,2,2,1.000,2,.667,3,0,,0,201704270MEM,7:58,0,1,Andrew Harrison,harrian01,-8,6,0,mem,0,0
+,,,,,,,,,,,,201704270MEM,Did Not Play,,,Wade Baldwin,baldwwa01,,,,mem,,
+,,,,,,,,,,,,201704270MEM,Did Not Play,,,Jarell Martin,martija01,,,,mem,,
+,,,,,,,,,,,,201704270MEM,Did Not Play,,,Brandan Wright,wrighbr03,,,,mem,,
+,,,,,,,,,,,,201704270MEM,Did Not Play,,,Deyonta Davis,davisde01,,,,mem,,

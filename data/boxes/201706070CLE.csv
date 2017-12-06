@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+4,1,9,10,4,.571,7,.556,18,7,.875,8,201706070CLE,40:55,0,2,Kevin Durant,duranke01,0,31,1,gsw,3,9
+2,0,5,11,6,.545,11,.611,18,2,1.000,2,201706070CLE,40:40,0,4,Klay Thompson,thompkl01,+3,30,0,gsw,1,5
+6,0,8,8,5,.556,9,.421,19,5,1.000,5,201706070CLE,39:22,5,3,Stephen Curry,curryst01,+11,26,2,gsw,1,13
+7,1,7,3,0,.000,3,.333,9,2,1.000,2,201706070CLE,32:54,1,5,Draymond Green,greendr01,+14,8,1,gsw,4,8
+1,0,1,0,0,,0,.000,3,0,,0,201706070CLE,13:28,0,4,Zaza Pachulia,pachuza01,-2,0,0,gsw,4,1
+5,1,4,2,1,.333,3,.333,6,2,1.000,2,201706070CLE,29:39,1,3,Andre Iguodala,iguodan01,+10,7,4,gsw,2,5
+1,0,0,3,0,,0,.500,6,0,,0,201706070CLE,11:52,0,1,Shaun Livingston,livinsh01,-2,6,0,gsw,1,0
+0,0,1,3,0,,0,1.000,3,1,1.000,1,201706070CLE,10:35,0,1,David West,westda01,-6,7,0,gsw,0,1
+1,0,1,0,0,,0,,0,0,,0,201706070CLE,8:32,0,2,Ian Clark,clarkia01,-6,0,0,gsw,1,1
+2,1,0,0,0,,0,,0,1,.500,2,201706070CLE,7:57,1,3,JaVale McGee,mcgeeja01,+1,1,0,gsw,1,1
+0,0,0,0,0,,0,.000,1,2,1.000,2,201706070CLE,3:54,0,0,Patrick McCaw,mccawpa01,+4,2,0,gsw,0,0
+0,0,0,0,0,,0,,0,0,,0,201706070CLE,0:06,0,0,Matt Barnes,barnema02,0,0,0,gsw,0,0
+0,0,0,0,0,,0,,0,0,,0,201706070CLE,0:06,0,0,James Michael McAdoo,mcadoja01,-2,0,0,gsw,0,0
+9,1,8,15,4,.444,9,.556,27,5,.833,6,201706070CLE,45:37,3,2,LeBron James,jamesle01,+7,39,1,cle,5,11
+3,0,5,16,0,.000,7,.552,29,6,1.000,6,201706070CLE,44:23,1,5,Kyrie Irving,irvinky01,-9,38,0,cle,2,6
+1,0,9,1,1,.143,7,.111,9,6,.857,7,201706070CLE,37:16,4,3,Kevin Love,loveke01,-11,9,6,cle,2,13
+0,0,1,5,5,.500,10,.500,10,1,.500,2,201706070CLE,34:20,0,4,J.R. Smith,smithjr01,-8,16,2,cle,1,1
+2,2,2,0,0,,0,.000,1,0,,0,201706070CLE,23:05,1,1,Tristan Thompson,thomptr01,-6,0,0,cle,1,3
+0,0,1,3,2,.333,6,.429,7,0,,0,201706070CLE,24:08,0,4,Kyle Korver,korveky01,+3,8,0,cle,0,1
+1,0,1,0,0,.000,2,.000,2,1,.500,2,201706070CLE,15:41,1,3,Richard Jefferson,jefferi01,-5,1,0,cle,1,2
+1,0,0,0,0,.000,2,.000,3,2,1.000,2,201706070CLE,11:53,0,2,Iman Shumpert,shumpim01,0,2,0,cle,0,0
+0,0,0,0,0,.000,1,.000,2,0,,0,201706070CLE,3:37,0,1,Deron Williams,willide01,+4,0,0,cle,0,0
+,,,,,,,,,,,,201706070CLE,Did Not Play,,,Dahntay Jones,jonesda02,,,,cle,,
+,,,,,,,,,,,,201706070CLE,Did Not Play,,,Derrick Williams,willide02,,,,cle,,
+,,,,,,,,,,,,201706070CLE,Did Not Play,,,Channing Frye,fryech01,,,,cle,,
+,,,,,,,,,,,,201706070CLE,Did Not Play,,,James Jones,jonesja02,,,,cle,,

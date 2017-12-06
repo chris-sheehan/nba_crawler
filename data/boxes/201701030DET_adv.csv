@@ -1,0 +1,27 @@
+ast_pct,blk_pct,def_rtg,drb_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,gm,mp,off_rtg,orb_pct,player,player_id,stl_pct,team,tov_pct,trb_pct,ts_pct,usg_pct
+9.1,3.9,128,15.3,.647,.176,.588,201701030DET,35:46,142,4.2,Paul George,georgpa01,0.0,ind,8.5,10.6,.748,32.0
+4.0,4.0,121,15.4,.667,.167,.167,201701030DET,35:31,127,8.4,Myles Turner,turnemy01,2.9,ind,7.2,12.4,.660,19.1
+32.1,0.0,129,9.8,.688,.125,.875,201701030DET,33:26,120,0.0,Jeff Teague,teaguje01,1.6,ind,31.1,5.7,.767,23.5
+15.9,0.0,124,13.4,.500,.375,.000,201701030DET,32:38,113,4.6,Thaddeus Young,youngth01,3.2,ind,11.1,9.7,.500,13.5
+9.2,5.1,130,7.9,.800,.600,.000,201701030DET,27:31,162,0.0,Glenn Robinson,robingl02,0.0,ind,0.0,4.6,.800,8.9
+24.3,0.0,134,5.3,1.000,.000,.833,201701030DET,20:29,176,0.0,Monta Ellis,ellismo01,0.0,ind,10.9,3.1,.976,22.0
+10.2,0.0,120,21.3,.800,.000,.400,201701030DET,15:22,183,19.5,Kevin Seraphin,serapke01,3.4,ind,0.0,20.6,.850,18.7
+16.6,0.0,136,0.0,.750,.500,1.000,201701030DET,14:34,116,0.0,Aaron Brooks,brookaa01,0.0,ind,25.8,0.0,.694,13.0
+32.7,0.0,129,17.5,.286,.000,.286,201701030DET,12:29,101,0.0,Al Jefferson,jeffeal01,0.0,ind,0.0,10.1,.381,30.9
+0.0,5.8,113,26.8,.375,.750,.000,201701030DET,12:14,77,0.0,C.J. Miles,milescj01,4.3,ind,0.0,15.5,.375,16.0
+,,,,,,,201701030DET,Did Not Play,,,Joe Young,youngjo01,,ind,,,,
+,,,,,,,201701030DET,Did Not Play,,,Lavoy Allen,allenla01,,ind,,,,
+,,,,,,,201701030DET,Did Not Play,,,Georges Niang,niangge01,,ind,,,,
+14.9,0.0,134,7.8,.423,.385,.385,201701030DET,38:31,137,2.8,Kentavious Caldwell-Pope,caldwke01,1.4,det,0.0,4.9,.526,16.9
+7.7,4.7,127,29.9,.563,.000,.125,201701030DET,35:07,146,21.7,Andre Drummond,drumman01,1.5,det,0.0,25.2,.592,20.5
+7.4,0.0,132,26.4,.636,.273,.000,201701030DET,34:05,114,3.2,Jon Leuer,leuerjo01,1.5,det,15.4,13.0,.636,16.3
+49.9,0.0,129,14.0,.528,.222,.056,201701030DET,32:04,126,13.6,Reggie Jackson,jacksre01,3.3,det,14.0,13.8,.542,28.6
+17.3,2.8,135,0.0,.500,.500,.000,201701030DET,29:07,115,3.7,Marcus Morris,morrima03,0.0,det,6.7,2.2,.500,22.0
+9.5,0.0,135,25.0,.714,.357,.143,201701030DET,29:59,158,0.0,Tobias Harris,harrito02,0.0,det,0.0,10.5,.739,21.2
+26.8,0.0,138,0.0,.750,1.000,1.000,201701030DET,15:56,72,0.0,Ish Smith,smithis01,0.0,det,51.0,0.0,.521,15.8
+0.0,0.0,137,9.9,.375,.750,.000,201701030DET,15:08,66,0.0,Stanley Johnson,johnsst04,0.0,det,20.0,4.2,.375,14.1
+0.0,16.5,119,29.9,.400,.000,.000,201701030DET,10:03,110,21.7,Boban Marjanovic,marjabo01,0.0,det,0.0,25.1,.400,21.3
+,,,,,,,201701030DET,Did Not Play,,,Darrun Hilliard,hillida01,,det,,,,
+,,,,,,,201701030DET,Did Not Play,,,Aron Baynes,baynear01,,det,,,,
+,,,,,,,201701030DET,Did Not Play,,,Beno Udrih,udrihbe01,,det,,,,
+,,,,,,,201701030DET,Did Not Play,,,Henry Ellenson,ellenhe01,,det,,,,

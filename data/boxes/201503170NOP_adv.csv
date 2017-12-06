@@ -1,0 +1,27 @@
+ast_pct,blk_pct,def_rtg,drb_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,gm,mp,off_rtg,orb_pct,player,player_id,stl_pct,team,tov_pct,trb_pct,ts_pct,usg_pct
+28.0,6.9,88,21.4,.667,.000,.333,201503170NOP,35:49,141,2.7,Giannis Antetokounmpo,antetgi01,0.0,mil,8.8,12.2,.727,14.4
+11.3,0.0,92,16.2,.500,.600,.000,201503170NOP,35:31,106,5.5,Ersan Ilyasova,ilyaser01,1.4,mil,0.0,10.9,.500,19.3
+9.5,2.4,95,11.1,.143,.286,.000,201503170NOP,34:36,28,0.0,Khris Middleton,middlkh01,0.0,mil,22.2,5.6,.143,23.7
+27.1,6.6,91,3.8,.167,.000,.167,201503170NOP,25:09,67,3.9,Michael Carter-Williams,cartemi01,2.0,mil,0.0,3.9,.233,23.4
+7.6,3.4,78,31.6,.333,.000,.667,201503170NOP,24:20,94,12.1,Zaza Pachulia,pachuza01,4.2,mil,14.7,21.9,.473,25.6
+26.3,0.0,93,22.3,.364,.364,.545,201503170NOP,34:28,101,0.0,Jerryd Bayless,bayleje01,0.0,mil,12.8,11.3,.513,20.7
+0.0,14.0,83,20.3,.700,.000,.400,201503170NOP,23:40,113,8.3,John Henson,hensojo01,0.0,mil,0.0,14.3,.595,22.7
+7.4,3.6,99,0.0,.417,.500,.000,201503170NOP,23:13,74,0.0,Tyler Ennis,ennisty01,0.0,mil,14.3,0.0,.417,13.8
+0.0,0.0,99,0.0,,,,201503170NOP,3:14,0,0.0,Chris Johnson,johnsch04,0.0,mil,,0.0,,0.0
+,,,,,,,201503170NOP,Did Not Play,,,Miles Plumlee,plumlmi01,,mil,,,,
+,,,,,,,201503170NOP,Did Not Play,,,O.J. Mayo,mayooj01,,mil,,,,
+,,,,,,,201503170NOP,Did Not Play,,,Johnny O'Bryant,obryajo01,,mil,,,,
+,,,,,,,201503170NOP,Did Not Play,,,Jared Dudley,dudleja01,,mil,,,,
+21.0,5.3,84,26.0,.333,.000,.500,201503170NOP,41:30,94,2.3,Anthony Davis,davisan02,1.2,nop,8.3,14.0,.455,25.8
+11.7,0.0,95,12.8,.654,.769,.077,201503170NOP,38:09,118,5.0,Quincy Pondexter,pondequ01,0.0,nop,6.9,8.9,.670,16.9
+35.0,0.0,90,21.4,.278,.222,.111,201503170NOP,36:40,66,2.6,Tyreke Evans,evansty01,1.4,nop,17.5,11.9,.318,27.9
+39.1,2.1,91,0.0,.444,.667,.222,201503170NOP,34:36,91,0.0,Eric Gordon,gordoer01,2.9,nop,16.8,0.0,.455,15.3
+25.7,5.0,84,23.4,.750,.000,.625,201503170NOP,29:16,136,13.1,Omer Asik,asikom01,1.7,nop,16.4,18.2,.784,18.6
+29.1,0.0,97,4.8,.417,.500,.500,201503170NOP,20:22,95,0.0,Norris Cole,coleno01,0.0,nop,12.0,2.4,.478,18.3
+0.0,0.0,92,22.6,.143,.000,.286,201503170NOP,17:21,55,11.1,Alexis Ajinca,ajincal01,0.0,nop,0.0,16.8,.190,20.3
+0.0,0.0,82,28.7,.000,.000,.000,201503170NOP,13:39,0,0.0,Dante Cunningham,cunnida01,3.7,nop,50.0,14.2,.000,6.5
+19.6,0.0,99,0.0,.000,.667,.667,201503170NOP,8:26,13,0.0,Elliot Williams,williel01,0.0,nop,0.0,0.0,.000,20.6
+,,,,,,,201503170NOP,Did Not Play,,,Jeff Withey,witheje01,,nop,,,,
+,,,,,,,201503170NOP,Did Not Play,,,Luke Babbitt,babbilu01,,nop,,,,
+,,,,,,,201503170NOP,Did Not Play,,,Jimmer Fredette,fredeji01,,nop,,,,
+,,,,,,,201503170NOP,Did Not Play,,,Ryan Anderson,anderry01,,nop,,,,

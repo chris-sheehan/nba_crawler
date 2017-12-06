@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+6,1,8,11,5,.417,12,.500,22,8,.889,9,201705070TOR,46:11,1,1,LeBron James,jamesle01,+7,35,0,cle,6,9
+9,1,4,10,2,.333,6,.417,24,5,1.000,5,201705070TOR,40:22,1,1,Kyrie Irving,irvinky01,+14,27,4,cle,1,5
+2,0,6,2,1,.250,4,.286,7,0,,0,201705070TOR,33:42,0,2,Kevin Love,loveke01,+13,5,0,cle,0,6
+1,0,4,3,0,,0,.600,5,0,,0,201705070TOR,31:43,3,3,Tristan Thompson,thomptr01,-12,6,1,cle,2,7
+1,1,1,1,1,.167,6,.167,6,0,,0,201705070TOR,21:17,0,2,J.R. Smith,smithjr01,-1,3,1,cle,0,1
+1,1,5,6,4,.667,6,.750,8,2,1.000,2,201705070TOR,28:44,0,0,Kyle Korver,korveky01,+12,18,0,cle,0,5
+4,0,1,2,1,.333,3,.500,4,0,,0,201705070TOR,14:25,0,0,Deron Williams,willide01,+4,5,2,cle,0,1
+0,0,0,4,2,.667,3,.800,5,0,,0,201705070TOR,11:50,0,1,Channing Frye,fryech01,+4,10,0,cle,1,0
+0,1,3,0,0,.000,1,.000,1,0,,0,201705070TOR,11:47,0,1,Iman Shumpert,shumpim01,-6,0,0,cle,0,3
+,,,,,,,,,,,,201705070TOR,Did Not Play,,,James Jones,jonesja02,,,,cle,,
+,,,,,,,,,,,,201705070TOR,Did Not Play,,,Dahntay Jones,jonesda02,,,,cle,,
+,,,,,,,,,,,,201705070TOR,Did Not Play,,,Derrick Williams,willide02,,,,cle,,
+,,,,,,,,,,,,201705070TOR,Did Not Play,,,Richard Jefferson,jefferi01,,,,cle,,
+1,0,8,5,4,.571,7,.455,11,0,,0,201705070TOR,45:59,4,2,P.J. Tucker,tuckepj01,-7,14,4,tor,1,12
+8,0,3,8,0,.000,2,.444,18,6,.667,9,201705070TOR,45:54,1,4,DeMar DeRozan,derozde01,-2,22,0,tor,4,4
+12,0,6,8,1,1.000,1,.727,11,3,1.000,3,201705070TOR,40:05,0,2,Cory Joseph,josepco01,-5,20,1,tor,2,6
+1,0,2,10,2,.333,6,.556,18,1,1.000,1,201705070TOR,34:40,0,3,Serge Ibaka,ibakase01,-4,23,0,tor,0,2
+0,3,4,4,0,.000,1,.364,11,0,,0,201705070TOR,25:29,1,1,Jonas Valanciunas,valanjo01,+3,8,1,tor,0,5
+1,0,3,3,2,.250,8,.300,10,2,1.000,2,201705070TOR,23:53,2,3,Norman Powell,powelno01,-12,10,0,tor,2,5
+3,0,1,0,0,.000,2,.000,2,0,,0,201705070TOR,10:13,0,0,Patrick Patterson,pattepa01,+1,0,1,tor,1,1
+1,0,0,1,1,.500,2,.500,2,0,,0,201705070TOR,7:55,0,2,Fred VanVleet,vanvlfr01,-2,3,0,tor,1,0
+1,0,2,1,0,,0,.500,2,0,,0,201705070TOR,5:52,0,1,DeMarre Carroll,carrode01,-7,2,0,tor,0,2
+,,,,,,,,,,,,201705070TOR,Did Not Play,,,Pascal Siakam,siakapa01,,,,tor,,
+,,,,,,,,,,,,201705070TOR,Did Not Play,,,Jakob Poeltl,poeltja01,,,,tor,,
+,,,,,,,,,,,,201705070TOR,Did Not Play,,,Delon Wright,wrighde01,,,,tor,,
+,,,,,,,,,,,,201705070TOR,Did Not Play,,,Lucas Nogueira,noguelu01,,,,tor,,

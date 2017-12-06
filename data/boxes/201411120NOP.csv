@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+5,0,4,10,5,.455,11,.357,28,8,1.000,8,201411120NOP,36:12,0,1,Kobe Bryant,bryanko01,-15,33,1,lal,1,4
+4,1,3,4,1,.333,3,.364,11,6,1.000,6,201411120NOP,34:15,1,0,Jeremy Lin,linje01,-9,15,2,lal,1,4
+0,0,4,6,0,,0,.462,13,4,.667,6,201411120NOP,33:54,2,2,Carlos Boozer,boozeca01,-15,16,2,lal,2,6
+0,2,2,4,1,.200,5,.444,9,1,1.000,1,201411120NOP,32:50,1,2,Wesley Johnson,johnswe01,-14,10,0,lal,0,3
+2,0,5,4,0,,0,.444,9,2,.667,3,201411120NOP,31:57,3,2,Jordan Hill,hilljo01,-16,10,0,lal,2,8
+0,2,8,3,0,,0,.500,6,2,1.000,2,201411120NOP,26:59,3,2,Ed Davis,davised01,+7,8,0,lal,2,11
+3,0,1,0,0,.000,2,.000,2,0,,0,201411120NOP,16:34,1,3,Ronnie Price,pricero01,-2,0,1,lal,1,2
+0,0,0,3,0,,0,.750,4,2,.500,4,201411120NOP,13:51,0,1,Jordan Clarkson,clarkjo01,+5,8,0,lal,0,0
+1,0,0,1,0,,0,.500,2,0,.000,2,201411120NOP,10:18,0,1,Xavier Henry,henryxa01,+14,2,1,lal,0,0
+0,0,0,0,0,,0,,0,0,,0,201411120NOP,3:10,0,0,Robert Sacre,sacrero01,+10,0,1,lal,0,0
+,,,,,,,,,,,,201411120NOP,Did Not Play,,,Wayne Ellington,ellinwa01,,,,lal,,
+,,,,,,,,,,,,201411120NOP,Did Not Play,,,Julius Randle,randlju01,,,,lal,,
+,,,,,,,,,,,,201411120NOP,Did Not Play,,,Ryan Kelly,kellyry01,,,,lal,,
+11,0,4,8,2,1.000,2,.500,16,1,.500,2,201411120NOP,36:45,1,2,Tyreke Evans,evansty01,+16,19,0,nop,2,5
+1,6,11,12,0,,0,.750,16,1,.250,4,201411120NOP,36:42,1,1,Anthony Davis,davisan02,+15,25,1,nop,3,12
+5,1,1,2,0,.000,3,.250,8,3,1.000,3,201411120NOP,35:30,0,4,Eric Gordon,gordoer01,+11,7,0,nop,2,1
+5,1,1,8,1,.250,4,.471,17,0,,0,201411120NOP,34:23,0,5,Jrue Holiday,holidjr01,-3,17,1,nop,1,1
+1,2,10,3,0,,0,1.000,3,1,.500,2,201411120NOP,26:04,3,3,Omer Asik,asikom01,+10,7,0,nop,0,13
+4,0,1,3,1,.500,2,.500,6,1,.500,2,201411120NOP,20:26,0,2,Austin Rivers,riverau01,-3,8,0,nop,1,1
+0,0,6,7,3,.429,7,.583,12,0,,0,201411120NOP,20:05,2,1,Ryan Anderson,anderry01,+5,17,0,nop,3,8
+0,0,0,1,1,1.000,1,.500,2,0,,0,201411120NOP,16:56,1,3,Luke Babbitt,babbilu01,0,3,1,nop,1,1
+0,1,1,1,0,,0,.500,2,4,.800,5,201411120NOP,11:39,0,3,Alexis Ajinca,ajincal01,-9,6,0,nop,0,1
+0,1,1,0,0,,0,,0,0,,0,201411120NOP,1:30,0,0,Jeff Withey,witheje01,-7,0,0,nop,0,1
+,,,,,,,,,,,,201411120NOP,Did Not Play,,,Darius Miller,milleda01,,,,nop,,
+,,,,,,,,,,,,201411120NOP,Did Not Play,,,John Salmons,salmojo01,,,,nop,,
+,,,,,,,,,,,,201411120NOP,Did Not Play,,,Jimmer Fredette,fredeji01,,,,nop,,

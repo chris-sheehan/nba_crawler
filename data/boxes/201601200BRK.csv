@@ -1,0 +1,26 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+0,0,18,5,1,.333,3,.500,10,6,.750,8,201601200BRK,31:19,0,3,Kevin Love,loveke01,+18,17,2,cle,4,18
+5,1,1,7,1,1.000,1,.583,12,2,.500,4,201601200BRK,29:03,0,1,LeBron James,jamesle01,+15,17,1,cle,4,1
+0,0,3,2,0,.000,2,.222,9,0,,0,201601200BRK,24:58,0,1,J.R. Smith,smithjr01,-1,4,0,cle,1,3
+5,0,1,4,1,.500,2,.571,7,0,,0,201601200BRK,21:17,0,0,Kyrie Irving,irvinky01,+8,9,0,cle,2,1
+0,0,3,5,0,,0,.556,9,1,.500,2,201601200BRK,20:13,2,2,Timofey Mozgov,mozgoti01,-1,11,0,cle,0,5
+1,2,2,2,1,.333,3,.286,7,1,.500,2,201601200BRK,29:58,1,0,Iman Shumpert,shumpim01,+15,6,2,cle,1,3
+1,0,7,6,0,,0,.750,8,2,1.000,2,201601200BRK,27:47,3,0,Tristan Thompson,thomptr01,+14,14,0,cle,0,10
+3,0,3,3,0,,0,1.000,3,2,1.000,2,201601200BRK,20:11,0,2,Matthew Dellavedova,dellama01,+15,8,0,cle,0,3
+0,0,1,0,0,.000,3,.000,3,0,,0,201601200BRK,16:41,0,1,James Jones,jonesja02,-5,0,1,cle,0,1
+0,0,0,1,1,.500,2,.500,2,0,,0,201601200BRK,9:34,0,1,Richard Jefferson,jefferi01,-1,3,0,cle,0,0
+0,0,0,1,0,.000,1,.143,7,0,,0,201601200BRK,6:22,0,0,Mo Williams,willima01,-8,2,0,cle,1,0
+0,0,0,0,0,,0,,0,0,,0,201601200BRK,2:37,0,2,Jared Cunningham,cunnija01,-4,0,0,cle,0,0
+,,,,,,,,,,,,201601200BRK,Did Not Play,,,Anderson Varejao,varejan01,,,,cle,,
+1,1,7,8,0,,0,.533,15,0,.000,1,201601200BRK,32:45,3,2,Brook Lopez,lopezbr01,-13,16,0,brk,2,10
+1,0,1,1,1,.250,4,.143,7,0,,0,201601200BRK,30:51,0,1,Joe Johnson,johnsjo02,-4,3,0,brk,2,1
+9,0,1,6,0,.000,2,.600,10,0,,0,201601200BRK,24:54,0,0,Donald Sloan,sloando01,+3,12,1,brk,3,1
+1,0,4,7,0,.000,1,.500,14,0,.000,1,201601200BRK,24:39,1,6,Thaddeus Young,youngth01,-5,14,1,brk,1,5
+0,1,2,1,1,.500,2,.200,5,0,,0,201601200BRK,22:35,0,1,Wayne Ellington,ellinwa01,-5,3,1,brk,0,2
+0,0,4,3,1,.200,5,.333,9,0,,0,201601200BRK,29:32,1,0,Bojan Bogdanovic,bogdabo02,-4,7,1,brk,2,5
+7,0,0,3,1,.333,3,.300,10,0,,0,201601200BRK,23:06,0,2,Shane Larkin,larkish01,-16,7,0,brk,0,0
+1,0,2,2,0,,0,.500,4,0,,0,201601200BRK,13:24,0,0,Andrea Bargnani,bargnan01,-10,4,0,brk,0,2
+0,1,3,0,0,.000,1,.000,3,0,,0,201601200BRK,10:47,0,3,Markel Brown,brownma02,-6,0,0,brk,0,3
+0,0,3,2,0,,0,.500,4,2,.500,4,201601200BRK,10:36,3,0,Thomas Robinson,robinth01,-4,6,0,brk,1,6
+0,1,1,2,0,,0,1.000,2,2,1.000,2,201601200BRK,10:29,1,1,Willie Reed,reedwi02,+2,6,0,brk,1,2
+0,0,2,0,0,.000,1,.000,1,0,,0,201601200BRK,6:22,0,0,Sergey Karasev,karasse01,-3,0,0,brk,0,2

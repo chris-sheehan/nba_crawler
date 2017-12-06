@@ -1,0 +1,26 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+1,0,4,7,3,.600,5,.583,12,4,1.000,4,201501070BRK,34:10,0,2,Avery Bradley,bradlav01,+4,21,0,bos,2,4
+2,0,1,4,0,.000,3,.364,11,0,,0,201501070BRK,32:50,0,2,Jeff Green,greenje02,-1,8,1,bos,1,1
+4,1,3,7,0,,0,.500,14,4,1.000,4,201501070BRK,31:24,3,2,Tyler Zeller,zellety01,+12,18,1,bos,1,6
+7,0,7,3,0,.000,2,.333,9,0,,0,201501070BRK,26:26,1,3,Evan Turner,turneev01,+2,6,2,bos,0,8
+3,0,3,1,0,.000,1,.143,7,0,,0,201501070BRK,23:44,3,3,Jared Sullinger,sullija01,-2,2,1,bos,1,6
+3,0,2,3,2,.500,4,.600,5,0,,0,201501070BRK,21:34,0,4,Marcus Smart,smartma01,+6,8,0,bos,0,2
+0,0,2,3,0,.000,2,.375,8,0,,0,201501070BRK,21:22,0,5,Kelly Olynyk,olynyke01,+8,6,1,bos,1,2
+0,1,3,3,0,,0,.375,8,3,.500,6,201501070BRK,19:30,1,0,Brandon Bass,bassbr01,-2,9,0,bos,0,4
+0,0,2,2,0,,0,.286,7,2,1.000,2,201501070BRK,15:10,3,3,Jae Crowder,crowdja01,+9,6,2,bos,0,5
+2,0,3,2,0,.000,1,.286,7,1,1.000,1,201501070BRK,13:50,0,2,Marcus Thornton,thornma01,+4,5,0,bos,0,3
+,,,,,,,,,,,,201501070BRK,Did Not Play,,,Phil Pressey,pressph01,,,,bos,,
+,,,,,,,,,,,,201501070BRK,Did Not Play,,,Brandan Wright,wrighbr03,,,,bos,,
+,,,,,,,,,,,,201501070BRK,Did Not Play,,,Gerald Wallace,wallage01,,,,bos,,
+4,0,4,7,1,.500,2,.538,13,0,,0,201501070BRK,39:20,0,1,Jarrett Jack,jackja01,+1,15,0,brk,4,4
+3,1,2,7,1,.143,7,.438,16,2,1.000,2,201501070BRK,36:57,1,1,Joe Johnson,johnsjo02,-8,17,1,brk,3,3
+3,2,6,5,0,,0,.455,11,6,.545,11,201501070BRK,36:40,6,5,Mason Plumlee,plumlma01,-3,16,0,brk,0,12
+3,1,7,4,0,,0,.444,9,2,1.000,2,201501070BRK,22:52,1,3,Kevin Garnett,garneke01,-4,10,1,brk,1,8
+3,0,2,1,0,.000,1,.250,4,3,.750,4,201501070BRK,22:46,1,1,Sergey Karasev,karasse01,+6,5,0,brk,1,3
+0,0,3,1,0,.000,1,.200,5,2,1.000,2,201501070BRK,24:58,1,4,Alan Anderson,anderal01,+1,4,0,brk,1,4
+0,0,6,2,1,1.000,1,.500,4,1,.500,2,201501070BRK,19:01,0,1,Mirza Teletovic,teletmi01,-1,6,1,brk,2,6
+0,2,4,2,0,,0,.286,7,2,.667,3,201501070BRK,17:27,1,1,Brook Lopez,lopezbr01,-8,6,0,brk,2,5
+1,0,4,0,0,.000,2,.000,2,0,,0,201501070BRK,11:18,0,0,Bojan Bogdanovic,bogdabo02,-15,0,0,brk,2,4
+1,0,0,1,0,,0,.500,2,0,,0,201501070BRK,4:33,0,1,Darius Morris,morrida01,-5,2,0,brk,0,0
+0,0,1,0,0,,0,.000,1,0,,0,201501070BRK,4:07,0,0,Deron Williams,willide01,-4,0,0,brk,1,1
+,,,,,,,,,,,,201501070BRK,Did Not Play,,,Jerome Jordan,jordaje01,,,,brk,,

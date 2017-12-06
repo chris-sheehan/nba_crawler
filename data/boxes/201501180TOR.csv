@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+5,0,4,9,1,.333,3,.643,14,7,.778,9,201501180TOR,36:18,1,2,Tyreke Evans,evansty01,+5,26,1,nop,4,5
+5,0,5,6,1,.200,5,.400,15,1,1.000,1,201501180TOR,36:13,0,3,Eric Gordon,gordoer01,+8,14,1,nop,5,5
+0,0,6,5,0,,0,.500,10,1,.500,2,201501180TOR,31:46,3,2,Omer Asik,asikom01,+8,11,1,nop,1,9
+1,0,3,1,0,,0,.200,5,0,.000,2,201501180TOR,28:14,1,1,Dante Cunningham,cunnida01,0,2,3,nop,0,4
+2,0,2,3,2,.286,7,.273,11,1,.500,2,201501180TOR,26:46,2,4,Ryan Anderson,anderry01,-20,9,0,nop,3,4
+3,1,4,10,0,,0,.769,13,2,1.000,2,201501180TOR,33:56,2,5,Alexis Ajinca,ajincal01,+16,22,1,nop,1,6
+0,1,5,1,0,.000,1,.200,5,0,.000,1,201501180TOR,23:22,1,2,Quincy Pondexter,pondequ01,-7,2,0,nop,0,6
+2,0,1,3,1,1.000,1,.500,6,0,.000,1,201501180TOR,16:26,0,0,Jimmer Fredette,fredeji01,+1,7,0,nop,1,1
+1,0,0,1,0,,0,.333,3,0,,0,201501180TOR,6:59,1,1,Nate Wolters,woltena01,-1,2,1,nop,2,1
+,,,,,,,,,,,,201501180TOR,Did Not Play,,,John Salmons,salmojo01,,,,nop,,
+,,,,,,,,,,,,201501180TOR,Did Not Play,,,Anthony Davis,davisan02,,,,nop,,
+,,,,,,,,,,,,201501180TOR,Did Not Play,,,Jeff Withey,witheje01,,,,nop,,
+,,,,,,,,,,,,201501180TOR,Did Not Play,,,Luke Babbitt,babbilu01,,,,nop,,
+5,0,3,4,0,.000,3,.400,10,0,,0,201501180TOR,37:37,2,2,Kyle Lowry,lowryky01,-2,8,2,tor,4,5
+1,0,3,7,1,.250,4,.389,18,7,.778,9,201501180TOR,35:54,0,3,DeMar DeRozan,derozde01,0,22,1,tor,1,3
+0,2,7,6,0,,0,.857,7,2,.500,4,201501180TOR,31:47,3,1,Amir Johnson,johnsam01,-16,14,0,tor,1,10
+0,2,6,2,0,,0,.400,5,2,1.000,2,201501180TOR,27:58,1,3,Jonas Valanciunas,valanjo01,-4,6,1,tor,3,7
+0,0,1,0,0,.000,2,.000,3,0,,0,201501180TOR,10:44,0,0,Terrence Ross,rosste01,-11,0,0,tor,0,1
+9,0,2,5,4,.444,9,.357,14,2,1.000,2,201501180TOR,28:03,0,3,Greivis Vasquez,vasqugr01,+7,16,2,tor,3,2
+1,1,2,3,2,.500,4,.600,5,2,1.000,2,201501180TOR,24:26,1,4,Patrick Patterson,pattepa01,+13,10,1,tor,0,3
+1,0,0,4,0,.000,3,.444,9,9,.900,10,201501180TOR,20:42,0,0,Lou Williams,willilo02,0,17,2,tor,0,0
+0,0,2,0,0,,0,,0,0,,0,201501180TOR,11:49,0,1,Tyler Hansbrough,hansbty01,+3,0,0,tor,0,2
+1,0,4,0,0,,0,.000,1,0,,0,201501180TOR,11:00,0,1,James Johnson,johnsja01,0,0,0,tor,3,4
+,,,,,,,,,,,,201501180TOR,Did Not Play,,,Greg Stiemsma,stiemgr01,,,,tor,,
+,,,,,,,,,,,,201501180TOR,Did Not Play,,,Chuck Hayes,hayesch01,,,,tor,,
+,,,,,,,,,,,,201501180TOR,Did Not Play,,,Landry Fields,fieldla01,,,,tor,,

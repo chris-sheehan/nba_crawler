@@ -1,0 +1,27 @@
+ast_pct,blk_pct,def_rtg,drb_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,gm,mp,off_rtg,orb_pct,player,player_id,stl_pct,team,tov_pct,trb_pct,ts_pct,usg_pct
+19.1,0.0,91,21.8,.406,.188,.375,201501050BRK,38:39,97,0.0,Monta Ellis,ellismo01,1.4,dal,13.9,9.3,.510,26.4
+8.2,0.0,91,9.6,.227,.636,.182,201501050BRK,37:44,49,0.0,Chandler Parsons,parsoch01,2.9,dal,7.8,4.1,.210,16.1
+0.0,2.4,91,16.2,.545,.000,.182,201501050BRK,37:16,127,19.3,Tyson Chandler,chandty01,1.5,dal,7.8,17.9,.589,16.3
+56.5,0.0,88,22.8,.077,.154,.154,201501050BRK,36:57,70,7.3,Rajon Rondo,rondora01,2.9,dal,6.7,13.9,.072,19.0
+0.0,2.6,90,17.4,.438,.188,.063,201501050BRK,34:42,85,5.2,Dirk Nowitzki,nowitdi01,1.6,dal,10.8,10.4,.456,25.1
+9.4,4.3,95,0.0,.563,.375,.250,201501050BRK,20:58,115,0.0,Richard Jefferson,jefferi01,0.0,dal,0.0,0.0,.563,20.0
+25.0,5.2,92,14.0,.643,.429,.000,201501050BRK,17:12,112,0.0,Devin Harris,harride01,0.0,dal,12.5,6.0,.643,21.9
+11.1,5.7,89,23.0,1.000,.000,1.000,201501050BRK,15:44,176,0.0,Greg Smith,smithgr02,0.0,dal,0.0,9.8,.868,8.6
+0.0,0.0,85,27.4,1.000,.500,.500,201501050BRK,13:12,123,0.0,J.J. Barea,bareajo01,4.1,dal,17.0,11.7,.922,21.0
+0.0,7.1,89,19.1,.667,.667,.000,201501050BRK,12:36,128,7.1,Charlie Villanueva,villach01,0.0,dal,0.0,12.3,.667,22.5
+,,,,,,,201501050BRK,Did Not Play,,,Raymond Felton,feltora01,,dal,,,,
+,,,,,,,201501050BRK,Did Not Play,,,Dwight Powell,poweldw01,,dal,,,,
+,,,,,,,201501050BRK,Did Not Play,,,Al-Farouq Aminu,aminual01,,dal,,,,
+19.7,1.7,99,13.8,.474,.316,.000,201501050BRK,45:27,80,0.0,Joe Johnson,johnsjo02,1.2,brk,17.4,7.9,.474,24.8
+47.1,0.0,105,8.2,.375,.188,.500,201501050BRK,43:45,104,0.0,Jarrett Jack,jackja01,0.0,brk,13.3,4.7,.512,25.2
+0.0,9.5,84,32.2,.524,.048,.000,201501050BRK,33:29,96,3.6,Brook Lopez,lopezbr01,1.6,brk,4.5,20.0,.524,32.2
+0.0,4.9,101,8.3,.500,.000,1.500,201501050BRK,32:18,88,14.9,Mason Plumlee,plumlma01,0.0,brk,31.1,11.2,.527,14.6
+30.9,0.0,100,7.0,.429,.571,.714,201501050BRK,25:38,123,0.0,Sergey Karasev,karasse01,2.1,brk,0.0,4.0,.543,17.6
+4.5,0.0,99,14.4,.250,.833,.333,201501050BRK,37:33,82,0.0,Alan Anderson,anderal01,1.4,brk,0.0,8.2,.363,9.0
+5.3,0.0,95,24.0,.250,.500,.250,201501050BRK,33:45,65,3.6,Mirza Teletovic,teletmi01,1.6,brk,18.4,15.2,.338,15.8
+0.0,0.0,99,19.4,.000,1.000,.000,201501050BRK,9:15,30,13.0,Darius Morris,morrida01,0.0,brk,50.0,16.7,.000,10.6
+0.0,0.0,109,0.0,.000,.500,.000,201501050BRK,3:50,0,0.0,Bojan Bogdanovic,bogdabo02,0.0,brk,0.0,0.0,.000,25.6
+,,,,,,,201501050BRK,Did Not Play,,,Deron Williams,willide01,,brk,,,,
+,,,,,,,201501050BRK,Did Not Play,,,Kevin Garnett,garneke01,,brk,,,,
+,,,,,,,201501050BRK,Did Not Play,,,Jerome Jordan,jordaje01,,brk,,,,
+,,,,,,,201501050BRK,Did Not Play,,,Brandon Davies,daviebr01,,brk,,,,

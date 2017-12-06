@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+1,0,5,5,1,1.000,1,.625,8,1,.500,2,201611060TOR,36:18,0,3,Arron Afflalo,afflaar01,0,12,0,sac,0,5
+11,0,2,0,0,.000,1,.000,6,5,.833,6,201611060TOR,36:11,0,2,Ty Lawson,lawsoty01,+6,5,0,sac,1,2
+4,3,9,7,0,.000,1,.333,21,8,.727,11,201611060TOR,35:45,5,4,DeMarcus Cousins,couside01,+6,22,1,sac,0,14
+1,0,3,9,2,.400,5,.474,19,3,.750,4,201611060TOR,35:22,2,3,Rudy Gay,gayru01,+12,23,1,sac,2,5
+0,1,4,6,0,,0,.750,8,1,.500,2,201611060TOR,25:20,2,2,Kosta Koufos,koufoko01,-3,13,0,sac,0,6
+1,0,7,2,0,.000,3,.286,7,4,.800,5,201611060TOR,29:57,3,5,Matt Barnes,barnema02,+6,8,1,sac,2,10
+1,1,2,3,1,.250,4,.500,6,1,1.000,1,201611060TOR,20:41,1,2,Garrett Temple,templga01,+4,8,1,sac,1,3
+2,0,1,1,1,1.000,1,.500,2,0,,0,201611060TOR,10:48,0,1,Jordan Farmar,farmajo01,-4,3,0,sac,1,1
+0,0,1,1,0,,0,1.000,1,0,,0,201611060TOR,9:38,0,0,Omri Casspi,casspom01,-2,2,0,sac,2,1
+,,,,,,,,,,,,201611060TOR,Did Not Play,,,Ben McLemore,mclembe01,,,,sac,,
+,,,,,,,,,,,,201611060TOR,Did Not Play,,,Skal Labissiere,labissk01,,,,sac,,
+,,,,,,,,,,,,201611060TOR,Did Not Play,,,Malachi Richardson,richama01,,,,sac,,
+,,,,,,,,,,,,201611060TOR,Did Not Play,,,Willie Cauley-Stein,caulewi01,,,,sac,,
+10,1,3,5,3,.300,10,.313,16,2,.667,3,201611060TOR,39:22,1,3,Kyle Lowry,lowryky01,+8,15,2,tor,0,4
+3,0,4,7,1,.500,2,.350,20,8,.800,10,201611060TOR,37:46,0,2,DeMar DeRozan,derozde01,-11,23,0,tor,1,4
+1,1,3,4,0,,0,.500,8,2,.667,3,201611060TOR,23:59,3,4,Pascal Siakam,siakapa01,+9,10,0,tor,0,6
+1,0,6,1,0,.000,5,.125,8,2,1.000,2,201611060TOR,21:42,2,1,DeMarre Carroll,carrode01,+3,4,0,tor,0,8
+2,0,2,3,0,,0,.750,4,0,,0,201611060TOR,18:26,2,6,Jakob Poeltl,poeltja01,-5,6,0,tor,0,4
+2,2,7,1,0,.000,2,.167,6,4,.800,5,201611060TOR,31:04,2,5,Patrick Patterson,pattepa01,-10,6,1,tor,1,9
+0,1,2,3,0,,0,1.000,3,1,.500,2,201611060TOR,21:29,3,3,Lucas Nogueira,noguelu01,-7,7,1,tor,1,5
+0,0,2,3,2,.286,7,.333,9,0,,0,201611060TOR,19:23,0,1,Terrence Ross,rosste01,-3,8,2,tor,3,2
+2,0,1,2,1,.500,2,.286,7,3,.750,4,201611060TOR,17:01,0,0,Cory Joseph,josepco01,-7,8,0,tor,0,1
+1,0,0,1,0,.000,2,.333,3,2,1.000,2,201611060TOR,9:48,0,1,Norman Powell,powelno01,-2,4,0,tor,0,0
+,,,,,,,,,,,,201611060TOR,Did Not Play,,,Fred VanVleet,vanvlfr01,,,,tor,,
+,,,,,,,,,,,,201611060TOR,Did Not Dress,,,Jonas Valanciunas,valanjo01,,,,tor,,
+,,,,,,,,,,,,201611060TOR,Did Not Play,,,Bruno Caboclo,cabocbr01,,,,tor,,

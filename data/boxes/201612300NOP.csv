@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+3,0,12,8,1,.200,5,.364,22,9,.900,10,201612300NOP,40:10,1,3,Carmelo Anthony,anthoca01,-9,26,1,nyk,4,13
+1,0,2,9,1,.500,2,.429,21,1,1.000,1,201612300NOP,38:18,0,2,Derrick Rose,rosede01,-7,20,3,nyk,4,2
+3,2,9,8,0,.000,2,.400,20,5,1.000,5,201612300NOP,37:49,3,4,Kristaps Porzingis,porzikr01,-8,21,2,nyk,0,12
+2,1,2,1,1,.500,2,.500,2,0,,0,201612300NOP,22:15,0,2,Sasha Vujacic,vujacsa01,-4,3,0,nyk,0,2
+2,2,3,0,0,,0,.000,3,0,,0,201612300NOP,15:59,3,3,Joakim Noah,noahjo01,-12,0,0,nyk,4,6
+3,0,3,2,1,.333,3,.250,8,0,,0,201612300NOP,28:09,0,1,Brandon Jennings,jennibr01,+4,5,1,nyk,1,3
+4,1,6,3,2,.286,7,.375,8,0,,0,201612300NOP,27:59,1,2,Justin Holiday,holidju01,-9,8,0,nyk,0,7
+0,0,1,2,1,.500,2,.400,5,0,,0,201612300NOP,17:32,0,0,Lance Thomas,thomala01,-7,5,0,nyk,0,1
+0,0,1,1,0,,0,1.000,1,0,,0,201612300NOP,6:34,1,1,Willy Hernangomez,hernawi01,-6,2,0,nyk,1,2
+0,0,1,1,0,,0,.333,3,0,,0,201612300NOP,5:15,1,0,Kyle O'Quinn,oquinky01,-2,2,0,nyk,0,2
+,,,,,,,,,,,,201612300NOP,Did Not Play,,,Mindaugas Kuzminskas,kuzmimi01,,,,nyk,,
+,,,,,,,,,,,,201612300NOP,Did Not Dress,,,Maurice Ndour,ndourma01,,,,nyk,,
+,,,,,,,,,,,,201612300NOP,Did Not Dress,,,Courtney Lee,leeco01,,,,nyk,,
+11,2,4,5,0,.000,1,.500,10,2,1.000,2,201612300NOP,35:03,0,1,Jrue Holiday,holidjr01,+15,12,1,nop,1,4
+0,1,3,3,2,.500,4,.429,7,0,,0,201612300NOP,34:36,0,1,Dante Cunningham,cunnida01,+19,8,1,nop,0,3
+2,0,17,9,0,,0,.500,18,5,.833,6,201612300NOP,34:28,1,3,Anthony Davis,davisan02,+12,23,2,nop,5,18
+0,0,0,4,2,.500,4,.667,6,0,,0,201612300NOP,28:13,0,5,Solomon Hill,hillso01,+3,10,0,nop,1,0
+1,0,2,3,2,.400,5,.333,9,4,1.000,4,201612300NOP,23:48,0,0,Buddy Hield,hieldbu01,+9,12,0,nop,1,2
+2,0,3,5,2,.667,3,.500,10,0,,0,201612300NOP,26:35,1,1,E'Twaun Moore,mooreet01,-1,12,0,nop,2,4
+1,0,2,2,2,.286,7,.250,8,0,,0,201612300NOP,20:54,0,1,Langston Galloway,gallola01,-2,6,0,nop,1,2
+4,0,5,5,2,.400,5,.455,11,4,1.000,4,201612300NOP,18:20,0,0,Tyreke Evans,evansty01,-5,16,0,nop,1,5
+1,2,4,2,0,,0,.333,6,1,1.000,1,201612300NOP,18:04,0,0,Terrence Jones,joneste01,+10,5,0,nop,1,4
+,,,,,,,,,,,,201612300NOP,Did Not Play,,,Alexis Ajinca,ajincal01,,,,nop,,
+,,,,,,,,,,,,201612300NOP,Did Not Play,,,Cheick Diallo,diallch01,,,,nop,,
+,,,,,,,,,,,,201612300NOP,Did Not Play,,,Omer Asik,asikom01,,,,nop,,
+,,,,,,,,,,,,201612300NOP,Did Not Play,,,Tim Frazier,fraziti01,,,,nop,,

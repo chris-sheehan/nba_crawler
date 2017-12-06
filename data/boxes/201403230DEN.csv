@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+3,1,4,8,3,.600,5,.444,18,2,1.000,2,201403230DEN,38:10,3,0,Bradley Beal,bealbr01,-1,21,2,was,2,7
+5,1,3,6,1,.333,3,.462,13,2,.667,3,201403230DEN,35:11,0,4,John Wall,walljo01,+1,15,3,was,8,3
+5,2,8,7,0,,0,.583,12,2,1.000,2,201403230DEN,35:08,2,4,Marcin Gortat,gortama01,+17,16,0,was,4,10
+2,0,3,8,1,.333,3,.615,13,1,.500,2,201403230DEN,34:30,3,2,Trevor Ariza,arizatr01,-1,18,1,was,4,6
+2,2,6,2,0,,0,.333,6,0,,0,201403230DEN,23:56,2,3,Trevor Booker,booketr01,-8,4,1,was,1,8
+2,0,1,1,0,.000,2,.250,4,3,.750,4,201403230DEN,23:40,1,1,Martell Webster,webstma02,-4,5,0,was,1,2
+0,0,5,1,0,.000,2,.250,4,4,1.000,4,201403230DEN,18:20,1,2,Al Harrington,harrial01,-3,6,0,was,2,6
+0,0,3,7,0,,0,.583,12,1,1.000,1,201403230DEN,18:01,0,1,Drew Gooden,goodedr01,-11,15,1,was,0,3
+1,1,1,1,0,,0,.333,3,0,,0,201403230DEN,12:59,0,3,Andre Miller,millean02,-3,2,0,was,2,1
+0,0,0,0,0,,0,,0,0,,0,201403230DEN,0:05,0,0,Garrett Temple,templga01,-2,0,0,was,0,0
+,,,,,,,,,,,,201403230DEN,Did Not Play,,,Kevin Seraphin,serapke01,,,,was,,
+,,,,,,,,,,,,201403230DEN,Did Not Play,,,Otto Porter,porteot01,,,,was,,
+,,,,,,,,,,,,201403230DEN,Did Not Play,,,Chris Singleton,singlch01,,,,was,,
+8,0,3,4,0,.000,1,.364,11,1,.500,2,201403230DEN,34:10,1,1,Ty Lawson,lawsoty01,+1,9,4,den,2,4
+2,2,3,6,5,.556,9,.545,11,0,,0,201403230DEN,33:48,0,2,Randy Foye,foyera01,-1,17,1,den,1,3
+0,3,7,8,0,,0,.533,15,4,.800,5,201403230DEN,31:45,1,2,Kenneth Faried,farieke01,-6,20,1,den,2,8
+0,1,4,2,0,.000,1,.286,7,1,.500,2,201403230DEN,23:44,2,3,Timofey Mozgov,mozgoti01,-2,5,0,den,3,6
+3,0,1,1,0,.000,2,.200,5,0,,0,201403230DEN,16:07,1,1,Anthony Randolph,randoan01,-10,2,0,den,2,2
+2,0,4,4,3,.750,4,.667,6,4,.800,5,201403230DEN,25:13,1,4,Darrell Arthur,arthuda01,+10,15,2,den,1,5
+7,0,1,4,1,.250,4,.308,13,4,1.000,4,201403230DEN,24:42,1,2,Aaron Brooks,brookaa01,+7,13,1,den,1,2
+4,0,2,4,1,.250,4,.400,10,0,,0,201403230DEN,21:24,1,2,Evan Fournier,fournev01,+12,9,3,den,1,3
+0,0,2,5,0,,0,.556,9,0,,0,201403230DEN,15:17,2,2,Jan Vesely,veselja01,+2,10,3,den,2,4
+0,0,1,2,1,.500,2,.500,4,0,,0,201403230DEN,13:50,0,1,Quincy Miller,millequ01,+2,5,0,den,0,1
+,,,,,,,,,,,,201403230DEN,Did Not Play,,,J.J. Hickson,hicksjj01,,,,den,,
+,,,,,,,,,,,,201403230DEN,Did Not Play,,,Wilson Chandler,chandwi01,,,,den,,
+,,,,,,,,,,,,201403230DEN,Did Not Play,,,Nate Robinson,robinna01,,,,den,,

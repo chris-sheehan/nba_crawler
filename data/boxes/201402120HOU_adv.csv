@@ -1,0 +1,27 @@
+ast_pct,blk_pct,def_rtg,drb_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,gm,mp,off_rtg,orb_pct,player,player_id,stl_pct,team,tov_pct,trb_pct,ts_pct,usg_pct
+10.9,2.7,110,28.6,.800,.700,.000,201402120HOU,41:56,141,4.6,Trevor Ariza,arizatr01,3.5,was,9.1,14.6,.800,22.3
+44.2,0.0,118,3.2,.368,.368,.316,201402120HOU,41:08,123,0.0,John Wall,walljo01,3.6,was,0.0,1.4,.439,22.3
+19.9,0.0,119,7.4,.417,.417,.000,201402120HOU,36:10,93,5.3,Bradley Beal,bealbr01,2.7,was,7.7,6.2,.417,30.5
+5.4,0.0,122,4.4,.750,.000,.750,201402120HOU,30:00,110,0.0,Nene Hilario,hilarne01,1.6,was,11.1,1.9,.658,25.4
+4.5,8.3,111,29.0,.429,.000,.143,201402120HOU,27:38,89,6.9,Marcin Gortat,gortama01,1.8,was,11.8,16.2,.403,13.0
+13.4,0.0,118,13.7,1.000,.000,.000,201402120HOU,19:30,153,4.9,Trevor Booker,booketr01,2.5,was,25.0,8.6,1.000,8.7
+0.0,0.0,117,0.0,.500,.000,.000,201402120HOU,12:55,108,7.4,Kevin Seraphin,serapke01,3.8,was,0.0,4.3,.500,19.7
+21.4,0.0,112,13.1,.000,1.000,.000,201402120HOU,10:11,95,0.0,Martell Webster,webstma02,4.9,was,0.0,5.5,.000,4.2
+0.0,0.0,114,0.0,.000,.000,.000,201402120HOU,8:19,0,0.0,Garrett Temple,templga01,6.0,was,0.0,0.0,.000,5.1
+0.0,0.0,120,20.2,.000,.000,.000,201402120HOU,6:37,0,0.0,Otto Porter,porteot01,0.0,was,50.0,8.4,.000,12.8
+0.0,0.0,127,0.0,.333,.000,.000,201402120HOU,5:36,126,68.6,Jan Vesely,veselja01,0.0,was,0.0,39.9,.333,22.7
+,,,,,,,201402120HOU,Did Not Play,,,Eric Maynor,maynoer01,,was,,,,
+,,,,,,,201402120HOU,Did Not Play,,,Chris Singleton,singlch01,,was,,,,
+29.0,0.0,117,11.8,.679,.429,1.143,201402120HOU,40:33,157,3.3,James Harden,hardeja01,1.2,hou,16.0,8.3,.832,27.3
+23.3,0.0,123,2.6,.813,.750,.500,201402120HOU,37:20,116,0.0,Jeremy Lin,linje01,0.0,hou,33.9,1.5,.820,17.5
+5.1,5.9,101,36.0,.778,.000,1.778,201402120HOU,37:19,105,7.1,Dwight Howard,howardw01,2.7,hou,30.4,23.9,.748,27.3
+30.9,0.0,115,18.0,.533,.267,.267,201402120HOU,37:18,128,17.9,Chandler Parsons,parsoch01,1.3,hou,10.7,18.0,.537,22.2
+0.0,4.8,114,18.9,.286,.143,.143,201402120HOU,30:31,61,8.7,Terrence Jones,joneste01,0.0,hou,21.2,14.6,.269,13.7
+0.0,0.0,123,5.3,.625,.750,.000,201402120HOU,18:13,100,0.0,Francisco Garcia,garcifr01,0.0,hou,20.0,3.1,.625,12.1
+0.0,4.2,117,11.0,.875,.500,1.500,201402120HOU,17:25,150,15.3,Donatas Motiejunas,motiedo01,0.0,hou,13.1,12.8,.828,19.4
+0.0,0.0,118,18.0,.000,.000,.000,201402120HOU,10:41,34,12.5,Omer Asik,asikom01,0.0,hou,50.0,15.7,.000,8.3
+0.0,6.9,117,0.0,.000,.000,.000,201402120HOU,10:40,0,0.0,Aaron Brooks,brookaa01,0.0,hou,33.3,0.0,.000,12.4
+,,,,,,,201402120HOU,Did Not Play,,,Omri Casspi,casspom01,,hou,,,,
+,,,,,,,201402120HOU,Did Not Play,,,Patrick Beverley,beverpa01,,hou,,,,
+,,,,,,,201402120HOU,Did Not Play,,,Robert Covington,covinro01,,hou,,,,
+,,,,,,,201402120HOU,Did Not Play,,,Ronnie Brewer,brewero02,,hou,,,,

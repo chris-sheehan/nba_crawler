@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+3,3,1,7,1,.500,2,.700,10,3,1.000,3,201401310DEN,36:43,0,2,Terrence Ross,rosste01,+1,18,2,tor,2,1
+1,0,2,6,0,.000,1,.353,17,7,.875,8,201401310DEN,32:39,1,0,DeMar DeRozan,derozde01,+5,19,1,tor,3,3
+6,0,3,5,3,.273,11,.333,15,0,,0,201401310DEN,30:49,0,1,Kyle Lowry,lowryky01,+15,13,2,tor,3,3
+0,0,7,4,0,,0,.400,10,5,.833,6,201401310DEN,28:41,1,2,Jonas Valanciunas,valanjo01,+4,13,0,tor,1,8
+1,3,7,2,0,,0,.333,6,2,1.000,2,201401310DEN,18:23,2,4,Amir Johnson,johnsam01,-3,6,1,tor,1,9
+9,0,1,4,3,.750,4,.444,9,0,,0,201401310DEN,24:16,0,0,John Salmons,salmojo01,+16,11,2,tor,0,1
+0,1,4,4,1,1.000,1,.571,7,0,,0,201401310DEN,24:02,2,3,Patrick Patterson,pattepa01,+18,9,0,tor,0,6
+3,0,2,0,0,.000,2,.000,4,0,,0,201401310DEN,19:33,0,1,Greivis Vasquez,vasqugr01,-7,0,0,tor,3,2
+0,0,2,4,0,,0,.800,5,1,1.000,1,201401310DEN,12:49,3,3,Tyler Hansbrough,hansbty01,+5,9,2,tor,1,5
+1,0,2,1,0,,0,.500,2,0,,0,201401310DEN,12:05,0,2,Chuck Hayes,hayesch01,-4,2,0,tor,0,2
+,,,,,,,,,,,,201401310DEN,Did Not Play,,,Austin Daye,dayeau01,,,,tor,,
+,,,,,,,,,,,,201401310DEN,Did Not Play,,,Steve Novak,novakst01,,,,tor,,
+,,,,,,,,,,,,201401310DEN,Did Not Play,,,Julyan Stone,stoneju01,,,,tor,,
+16,0,2,4,1,.167,6,.308,13,1,1.000,1,201401310DEN,43:29,1,3,Randy Foye,foyera01,-5,10,2,den,8,3
+0,0,3,7,3,.375,8,.350,20,1,1.000,1,201401310DEN,38:32,3,2,Evan Fournier,fournev01,+1,18,2,den,7,6
+4,0,3,4,2,.400,5,.400,10,0,,0,201401310DEN,34:22,2,2,Wilson Chandler,chandwi01,-9,10,1,den,2,5
+0,4,7,6,0,,0,.600,10,0,,0,201401310DEN,32:10,1,1,Kenneth Faried,farieke01,+12,12,1,den,3,8
+4,0,10,7,0,,0,.700,10,4,.500,8,201401310DEN,29:53,3,3,J.J. Hickson,hicksjj01,+13,18,1,den,2,13
+2,0,3,3,0,,0,.600,5,0,,0,201401310DEN,18:07,0,2,Timofey Mozgov,mozgoti01,-23,6,1,den,1,3
+0,2,5,3,2,1.000,2,.429,7,2,1.000,2,201401310DEN,15:20,1,2,Quincy Miller,millequ01,-4,10,1,den,1,6
+1,0,2,1,0,,0,.500,2,2,1.000,2,201401310DEN,12:32,0,3,Darrell Arthur,arthuda01,-13,4,0,den,0,2
+0,0,2,1,0,,0,.500,2,0,,0,201401310DEN,10:39,0,0,Jordan Hamilton,hamiljo02,-13,2,0,den,0,2
+0,0,0,0,0,,0,.000,1,0,,0,201401310DEN,4:56,1,1,Anthony Randolph,randoan01,-9,0,0,den,1,1
+,,,,,,,,,,,,201401310DEN,Did Not Play,,,Ty Lawson,lawsoty01,,,,den,,
+,,,,,,,,,,,,201401310DEN,Did Not Play,,,Andre Miller,millean02,,,,den,,
+,,,,,,,,,,,,201401310DEN,Did Not Play,,,Nate Robinson,robinna01,,,,den,,

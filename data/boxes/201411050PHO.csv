@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+3,1,3,9,4,.800,5,.643,14,0,,0,201411050PHO,39:08,0,2,Courtney Lee,leeco01,+23,22,2,mem,1,3
+6,0,4,6,0,,0,.500,12,6,1.000,6,201411050PHO,35:23,1,3,Marc Gasol,gasolma01,+17,18,4,mem,4,5
+0,0,6,4,0,,0,.444,9,2,.667,3,201411050PHO,29:26,0,2,Zach Randolph,randoza01,+20,10,2,mem,3,6
+11,0,1,9,3,.750,4,.643,14,3,.600,5,201411050PHO,29:13,0,2,Mike Conley,conlemi01,+12,24,2,mem,1,1
+1,0,2,4,0,,0,.667,6,1,1.000,1,201411050PHO,23:10,1,4,Tony Allen,allento01,+15,9,0,mem,1,3
+0,0,3,2,2,.400,5,.250,8,1,.500,2,201411050PHO,26:43,2,3,Quincy Pondexter,pondequ01,-5,7,0,mem,1,5
+3,0,2,3,0,.000,2,.500,6,0,,0,201411050PHO,18:47,0,3,Beno Udrih,udrihbe01,-1,6,0,mem,2,2
+0,0,4,1,0,,0,.250,4,0,,0,201411050PHO,16:13,2,0,Jon Leuer,leuerjo01,-10,2,0,mem,2,6
+1,0,3,0,0,,0,.000,2,0,,0,201411050PHO,12:37,2,1,Kosta Koufos,koufoko01,-6,0,0,mem,0,5
+0,0,1,2,0,.000,1,.400,5,0,,0,201411050PHO,9:20,0,1,Vince Carter,cartevi01,-10,4,0,mem,1,1
+,,,,,,,,,,,,201411050PHO,Did Not Play,,,Kalin Lucas,lucaska01,,,,mem,,
+,,,,,,,,,,,,201411050PHO,Did Not Play,,,Tayshaun Prince,princta01,,,,mem,,
+,,,,,,,,,,,,201411050PHO,Did Not Play,,,Jordan Adams,adamsjo01,,,,mem,,
+4,0,4,9,2,1.000,2,.750,12,3,.750,4,201411050PHO,36:25,1,0,Eric Bledsoe,bledser01,-20,23,0,pho,9,5
+1,1,4,8,2,.667,3,.615,13,2,.667,3,201411050PHO,33:05,1,2,Markieff Morris,morrima02,-13,20,2,pho,1,5
+3,0,1,3,0,.000,2,.333,9,0,,0,201411050PHO,25:37,0,1,Goran Dragic,dragigo01,-15,6,1,pho,2,1
+1,0,1,2,0,.000,2,.400,5,0,,0,201411050PHO,21:30,0,2,Marcus Morris,morrima03,-10,4,1,pho,2,1
+0,2,1,1,0,,0,.333,3,0,,0,201411050PHO,18:06,1,3,Miles Plumlee,plumlmi01,-17,2,1,pho,0,2
+2,1,11,2,1,1.000,1,.667,3,0,,0,201411050PHO,25:57,0,1,P.J. Tucker,tuckepj01,+4,5,4,pho,1,11
+2,0,1,4,1,.250,4,.400,10,6,1.000,6,201411050PHO,25:36,0,3,Isaiah Thomas,thomais02,+8,15,1,pho,2,1
+0,0,2,0,0,,0,.000,3,2,1.000,2,201411050PHO,24:26,2,5,Alex Len,lenal01,+4,2,0,pho,0,4
+0,0,3,2,1,.250,4,.250,8,6,1.000,6,201411050PHO,19:49,0,3,Gerald Green,greenge01,-5,11,1,pho,1,3
+0,0,2,1,1,.333,3,.333,3,0,,0,201411050PHO,7:38,0,0,Anthony Tolliver,tollian01,+8,3,0,pho,0,2
+0,0,0,0,0,,0,,0,0,,0,201411050PHO,1:51,0,0,Shavlik Randolph,randosh01,+1,0,0,pho,0,0
+,,,,,,,,,,,,201411050PHO,Did Not Play,,,Archie Goodwin,goodwar01,,,,pho,,
+,,,,,,,,,,,,201411050PHO,Did Not Play,,,Tyler Ennis,ennisty01,,,,pho,,

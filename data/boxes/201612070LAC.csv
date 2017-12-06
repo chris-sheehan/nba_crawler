@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+3,0,2,8,3,.500,6,.444,18,5,1.000,5,201612070LAC,35:05,2,1,Klay Thompson,thompkl01,+16,24,0,gsw,1,4
+6,0,4,7,0,.000,8,.438,16,5,1.000,5,201612070LAC,33:17,0,3,Stephen Curry,curryst01,+18,19,7,gsw,3,4
+7,0,8,5,1,.200,5,.294,17,5,.833,6,201612070LAC,31:51,0,3,Kevin Durant,duranke01,+14,16,1,gsw,0,8
+4,0,2,8,3,.600,5,.800,10,3,.750,4,201612070LAC,31:31,3,4,Draymond Green,greendr01,+25,22,2,gsw,1,5
+3,1,2,2,0,.000,1,.500,4,0,,0,201612070LAC,21:40,3,3,Zaza Pachulia,pachuza01,+17,4,0,gsw,2,5
+2,2,5,5,0,.000,2,.625,8,0,,0,201612070LAC,25:21,1,0,Andre Iguodala,iguodan01,+5,10,0,gsw,0,6
+2,0,1,2,0,,0,1.000,2,1,.500,2,201612070LAC,17:29,0,0,Shaun Livingston,livinsh01,-1,5,1,gsw,2,1
+1,0,3,3,0,.000,2,.429,7,1,1.000,1,201612070LAC,12:55,0,2,Ian Clark,clarkia01,+1,7,0,gsw,0,3
+3,0,5,0,0,,0,.000,1,2,1.000,2,201612070LAC,11:12,0,3,David West,westda01,+2,2,0,gsw,0,5
+0,0,0,0,0,.000,2,.000,2,0,,0,201612070LAC,7:44,0,0,Patrick McCaw,mccawpa01,-2,0,0,gsw,0,0
+0,1,0,1,0,,0,1.000,1,0,,0,201612070LAC,4:45,2,4,Kevon Looney,looneke01,-4,2,0,gsw,0,2
+1,1,0,1,0,,0,.500,2,2,1.000,2,201612070LAC,4:17,1,0,JaVale McGee,mcgeeja01,-6,4,0,gsw,0,1
+0,0,2,0,0,,0,.000,1,0,.000,2,201612070LAC,2:54,0,1,James Michael McAdoo,mcadoja01,0,0,0,gsw,1,2
+5,0,5,7,1,.167,6,.500,14,0,,0,201612070LAC,32:10,1,4,Chris Paul,paulch01,-16,15,1,lac,2,6
+0,2,7,5,0,,0,.714,7,0,.000,4,201612070LAC,31:45,5,3,DeAndre Jordan,jordade01,-16,10,0,lac,0,12
+2,0,5,5,0,.000,1,.250,20,2,.500,4,201612070LAC,30:54,4,4,Blake Griffin,griffbl01,-12,12,1,lac,7,9
+0,0,1,1,0,.000,2,.250,4,0,,0,201612070LAC,21:34,0,2,J.J. Redick,redicjj01,-23,2,0,lac,2,1
+0,0,1,0,0,,0,.000,3,2,1.000,2,201612070LAC,14:39,0,1,Luc Mbah a Moute,mbahalu01,-12,2,0,lac,0,1
+4,0,0,7,3,.500,6,.412,17,4,1.000,4,201612070LAC,35:25,2,2,Jamal Crawford,crawfja01,-5,21,1,lac,0,2
+2,0,2,4,2,.500,4,.400,10,4,1.000,4,201612070LAC,28:30,0,2,Austin Rivers,riverau01,+8,14,0,lac,0,2
+0,0,7,6,1,.333,3,.545,11,2,1.000,2,201612070LAC,16:15,2,3,Marreese Speights,speigma01,-1,15,0,lac,0,9
+1,0,2,1,1,.500,2,.250,4,4,1.000,4,201612070LAC,15:29,2,2,Wesley Johnson,johnswe01,-7,7,0,lac,2,4
+1,0,0,0,0,.000,2,.000,2,0,,0,201612070LAC,13:20,1,1,Alan Anderson,anderal01,-1,0,0,lac,0,1
+,,,,,,,,,,,,201612070LAC,Did Not Play,,,Brandon Bass,bassbr01,,,,lac,,
+,,,,,,,,,,,,201612070LAC,Not With Team,,,Raymond Felton,feltora01,,,,lac,,
+,,,,,,,,,,,,201612070LAC,Did Not Play,,,Paul Pierce,piercpa01,,,,lac,,

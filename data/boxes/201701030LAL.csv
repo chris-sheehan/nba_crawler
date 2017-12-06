@@ -1,0 +1,26 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+7,0,6,8,0,.000,2,.533,15,6,1.000,6,201701030LAL,35:03,0,1,Marc Gasol,gasolma01,-14,22,1,mem,1,6
+4,0,1,7,3,.429,7,.438,16,4,1.000,4,201701030LAL,32:09,0,1,Mike Conley,conlemi01,-11,21,0,mem,2,1
+2,0,3,3,1,1.000,1,.750,4,1,.500,2,201701030LAL,24:06,1,0,Tony Allen,allento01,-5,8,1,mem,3,4
+0,0,6,1,0,.000,2,.250,4,1,1.000,1,201701030LAL,21:30,0,1,JaMychal Green,greenja01,-9,3,1,mem,0,6
+1,0,2,1,0,.000,2,.167,6,0,,0,201701030LAL,14:59,0,1,Chandler Parsons,parsoch01,-9,2,0,mem,0,2
+1,0,6,3,1,.500,2,.250,12,4,1.000,4,201701030LAL,27:42,3,1,Zach Randolph,randoza01,+2,11,1,mem,0,9
+0,1,1,3,2,.500,4,.429,7,4,1.000,4,201701030LAL,20:59,1,1,Vince Carter,cartevi01,-13,12,1,mem,0,2
+1,0,2,3,3,.429,7,.429,7,0,,0,201701030LAL,18:46,0,0,Troy Daniels,danietr01,+6,9,1,mem,0,2
+1,0,1,1,0,.000,2,.333,3,8,.800,10,201701030LAL,17:29,0,4,Andrew Harrison,harrian01,-6,10,0,mem,2,1
+0,0,3,0,0,.000,1,.000,2,0,,0,201701030LAL,14:27,0,4,James Ennis,ennisja01,-15,0,0,mem,1,3
+1,0,1,0,0,,0,,0,4,1.000,4,201701030LAL,7:37,0,0,Wade Baldwin,baldwwa01,+3,4,0,mem,1,1
+0,0,2,0,0,.000,1,.000,1,0,,0,201701030LAL,5:13,0,2,Jarell Martin,martija01,+1,0,0,mem,0,2
+1,1,4,7,0,,0,.583,12,0,,0,201701030LAL,37:31,1,6,Timofey Mozgov,mozgoti01,+18,14,1,lal,1,5
+11,0,12,9,0,,0,.600,15,1,.250,4,201701030LAL,37:13,2,3,Julius Randle,randlju01,+21,19,1,lal,2,14
+6,0,4,6,6,.667,9,.500,12,0,,0,201701030LAL,32:33,0,0,D'Angelo Russell,russeda01,+18,18,1,lal,2,4
+6,0,4,1,1,.333,3,.250,4,0,,0,201701030LAL,31:20,2,0,Luol Deng,denglu01,+15,3,0,lal,1,6
+2,0,0,6,6,.545,11,.545,11,2,.500,4,201701030LAL,26:57,0,4,Nick Young,youngni01,+9,20,0,lal,0,0
+2,1,3,2,0,,0,.500,4,2,.333,6,201701030LAL,24:36,0,2,Brandon Ingram,ingrabr01,-1,6,0,lal,1,3
+3,0,4,6,3,.500,6,.667,9,1,.333,3,201701030LAL,18:24,3,3,Jordan Clarkson,clarkjo01,+5,16,0,lal,1,7
+2,0,1,4,1,.250,4,.444,9,5,1.000,5,201701030LAL,17:17,0,0,Lou Williams,willilo02,-1,14,1,lal,0,1
+0,0,2,1,0,,0,.250,4,4,.667,6,201701030LAL,9:55,1,3,Tarik Black,blackta01,-7,6,1,lal,0,3
+1,0,0,0,0,,0,.000,2,0,,0,201701030LAL,4:14,0,2,Thomas Robinson,robinth01,-7,0,0,lal,1,0
+,,,,,,,,,,,,201701030LAL,Did Not Play,,,Jose Calderon,caldejo01,,,,lal,,
+,,,,,,,,,,,,201701030LAL,Did Not Play,,,Marcelo Huertas,huertma01,,,,lal,,
+,,,,,,,,,,,,201701030LAL,Did Not Play,,,Ivica Zubac,zubaciv01,,,,lal,,

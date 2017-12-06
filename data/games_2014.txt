@@ -1,0 +1,1320 @@
+url	game_start_time	home_team_name	home_team_score	visitor_team_name	visitor_team_score	overtime
+/boxscores/201310290IND.html	7:00 pm	Indiana Pacers		Orlando Magic		
+/boxscores/201310290LAL.html	10:30 pm	Los Angeles Lakers		Los Angeles Clippers		
+/boxscores/201310290MIA.html	8:00 pm	Miami Heat		Chicago Bulls		
+/boxscores/201310300CLE.html	7:00 pm	Cleveland Cavaliers		Brooklyn Nets		
+/boxscores/201310300DAL.html	8:30 pm	Dallas Mavericks		Atlanta Hawks		
+/boxscores/201310300DET.html	7:30 pm	Detroit Pistons		Washington Wizards		
+/boxscores/201310300GSW.html	10:30 pm	Golden State Warriors		Los Angeles Lakers		
+/boxscores/201310300HOU.html	8:00 pm	Houston Rockets		Charlotte Bobcats		
+/boxscores/201310300MIN.html	8:00 pm	Minnesota Timberwolves		Orlando Magic		
+/boxscores/201310300NOP.html	8:00 pm	New Orleans Pelicans		Indiana Pacers		
+/boxscores/201310300NYK.html	7:30 pm	New York Knicks		Milwaukee Bucks		
+/boxscores/201310300PHI.html	7:00 pm	Philadelphia 76ers		Miami Heat		
+/boxscores/201310300PHO.html	10:00 pm	Phoenix Suns		Portland Trail Blazers		
+/boxscores/201310300SAC.html	10:00 pm	Sacramento Kings		Denver Nuggets		
+/boxscores/201310300SAS.html	8:30 pm	San Antonio Spurs		Memphis Grizzlies		
+/boxscores/201310300TOR.html	7:00 pm	Toronto Raptors		Boston Celtics		
+/boxscores/201310300UTA.html	9:00 pm	Utah Jazz		Oklahoma City Thunder		
+/boxscores/201310310CHI.html	8:00 pm	Chicago Bulls		New York Knicks		
+/boxscores/201310310LAC.html	10:30 pm	Los Angeles Clippers		Golden State Warriors		
+/boxscores/201311010ATL.html	7:30 pm	Atlanta Hawks		Toronto Raptors		
+/boxscores/201311010BOS.html	7:30 pm	Boston Celtics		Milwaukee Bucks		
+/boxscores/201311010BRK.html	8:00 pm	Brooklyn Nets		Miami Heat		
+/boxscores/201311010CHA.html	7:00 pm	Charlotte Bobcats		Cleveland Cavaliers		
+/boxscores/201311010DEN.html	9:00 pm	Denver Nuggets		Portland Trail Blazers		
+/boxscores/201311010HOU.html	8:00 pm	Houston Rockets		Dallas Mavericks		
+/boxscores/201311010LAL.html	10:30 pm	Los Angeles Lakers		San Antonio Spurs		
+/boxscores/201311010MEM.html	8:00 pm	Memphis Grizzlies		Detroit Pistons		
+/boxscores/201311010MIN.html	8:00 pm	Minnesota Timberwolves		Oklahoma City Thunder		
+/boxscores/201311010ORL.html	7:00 pm	Orlando Magic		New Orleans Pelicans		
+/boxscores/201311010PHO.html	10:00 pm	Phoenix Suns		Utah Jazz		
+/boxscores/201311010SAC.html	10:00 pm	Sacramento Kings		Los Angeles Clippers		
+/boxscores/201311010WAS.html	7:00 pm	Washington Wizards		Philadelphia 76ers		
+/boxscores/201311020DAL.html	8:30 pm	Dallas Mavericks		Memphis Grizzlies		
+/boxscores/201311020GSW.html	10:30 pm	Golden State Warriors		Sacramento Kings		
+/boxscores/201311020IND.html	7:00 pm	Indiana Pacers		Cleveland Cavaliers		
+/boxscores/201311020MIL.html	8:30 pm	Milwaukee Bucks		Toronto Raptors		
+/boxscores/201311020NOP.html	8:00 pm	New Orleans Pelicans		Charlotte Bobcats		
+/boxscores/201311020PHI.html	7:30 pm	Philadelphia 76ers		Chicago Bulls		
+/boxscores/201311020POR.html	10:00 pm	Portland Trail Blazers		San Antonio Spurs		
+/boxscores/201311020UTA.html	9:00 pm	Utah Jazz		Houston Rockets		
+/boxscores/201311030DET.html	6:00 pm	Detroit Pistons		Boston Celtics		
+/boxscores/201311030LAL.html	9:30 pm	Los Angeles Lakers		Atlanta Hawks		
+/boxscores/201311030MIA.html	6:00 pm	Miami Heat		Washington Wizards		
+/boxscores/201311030NYK.html	7:30 pm	New York Knicks		Minnesota Timberwolves		
+/boxscores/201311030OKC.html	7:00 pm	Oklahoma City Thunder		Phoenix Suns		
+/boxscores/201311030ORL.html	6:00 pm	Orlando Magic		Brooklyn Nets		
+/boxscores/201311040CLE.html	7:00 pm	Cleveland Cavaliers		Minnesota Timberwolves		
+/boxscores/201311040LAC.html	10:30 pm	Los Angeles Clippers		Houston Rockets		
+/boxscores/201311040MEM.html	8:00 pm	Memphis Grizzlies		Boston Celtics		
+/boxscores/201311040PHI.html	7:00 pm	Philadelphia 76ers		Golden State Warriors		
+/boxscores/201311050BRK.html	7:30 pm	Brooklyn Nets		Utah Jazz		
+/boxscores/201311050DAL.html	8:30 pm	Dallas Mavericks		Los Angeles Lakers		
+/boxscores/201311050DEN.html	9:00 pm	Denver Nuggets		San Antonio Spurs		
+/boxscores/201311050DET.html	7:30 pm	Detroit Pistons		Indiana Pacers		
+/boxscores/201311050NOP.html	8:00 pm	New Orleans Pelicans		Phoenix Suns		
+/boxscores/201311050NYK.html	7:30 pm	New York Knicks		Charlotte Bobcats		
+/boxscores/201311050POR.html	10:00 pm	Portland Trail Blazers		Houston Rockets		
+/boxscores/201311050SAC.html	10:00 pm	Sacramento Kings		Atlanta Hawks		
+/boxscores/201311050TOR.html	7:00 pm	Toronto Raptors		Miami Heat		
+/boxscores/201311060BOS.html	7:30 pm	Boston Celtics		Utah Jazz		
+/boxscores/201311060CHA.html	7:00 pm	Charlotte Bobcats		Toronto Raptors		
+/boxscores/201311060IND.html	7:00 pm	Indiana Pacers		Chicago Bulls		
+/boxscores/201311060MEM.html	8:00 pm	Memphis Grizzlies		New Orleans Pelicans		
+/boxscores/201311060MIL.html	8:00 pm	Milwaukee Bucks		Cleveland Cavaliers		
+/boxscores/201311060MIN.html	8:00 pm	Minnesota Timberwolves		Golden State Warriors		
+/boxscores/201311060OKC.html	9:30 pm	Oklahoma City Thunder		Dallas Mavericks		
+/boxscores/201311060ORL.html	7:00 pm	Orlando Magic		Los Angeles Clippers		
+/boxscores/201311060PHI.html	7:00 pm	Philadelphia 76ers		Washington Wizards		
+/boxscores/201311060SAS.html	8:30 pm	San Antonio Spurs		Phoenix Suns		
+/boxscores/201311070DEN.html	9:00 pm	Denver Nuggets		Atlanta Hawks		
+/boxscores/201311070HOU.html	9:30 pm	Houston Rockets		Los Angeles Lakers		
+/boxscores/201311070MIA.html	7:00 pm	Miami Heat		Los Angeles Clippers		
+/boxscores/201311080CHA.html	7:00 pm	Charlotte Bobcats		New York Knicks		
+/boxscores/201311080CHI.html	8:00 pm	Chicago Bulls		Utah Jazz		
+/boxscores/201311080DET.html	7:30 pm	Detroit Pistons		Oklahoma City Thunder		
+/boxscores/201311080IND.html	7:00 pm	Indiana Pacers		Toronto Raptors		
+/boxscores/201311080MIN.html	8:00 pm	Minnesota Timberwolves		Dallas Mavericks		
+/boxscores/201311080NOP.html	8:00 pm	New Orleans Pelicans		Los Angeles Lakers		
+/boxscores/201311080ORL.html	7:00 pm	Orlando Magic		Boston Celtics		
+/boxscores/201311080PHI.html	7:00 pm	Philadelphia 76ers		Cleveland Cavaliers		
+/boxscores/201311080PHO.html	9:00 pm	Phoenix Suns		Denver Nuggets		
+/boxscores/201311080POR.html	10:00 pm	Portland Trail Blazers		Sacramento Kings		
+/boxscores/201311080SAS.html	8:30 pm	San Antonio Spurs		Golden State Warriors		
+/boxscores/201311080WAS.html	7:00 pm	Washington Wizards		Brooklyn Nets		
+/boxscores/201311090ATL.html	7:30 pm	Atlanta Hawks		Orlando Magic		
+/boxscores/201311090BRK.html	7:30 pm	Brooklyn Nets		Indiana Pacers		
+/boxscores/201311090CLE.html	7:30 pm	Cleveland Cavaliers		Philadelphia 76ers		
+/boxscores/201311090HOU.html	8:00 pm	Houston Rockets		Los Angeles Clippers		
+/boxscores/201311090MEM.html	8:00 pm	Memphis Grizzlies		Golden State Warriors		
+/boxscores/201311090MIA.html	7:30 pm	Miami Heat		Boston Celtics		
+/boxscores/201311090MIL.html	8:30 pm	Milwaukee Bucks		Dallas Mavericks		
+/boxscores/201311090SAC.html	10:00 pm	Sacramento Kings		Portland Trail Blazers		
+/boxscores/201311090TOR.html	7:00 pm	Toronto Raptors		Utah Jazz		
+/boxscores/201311100LAL.html	9:30 pm	Los Angeles Lakers		Minnesota Timberwolves		
+/boxscores/201311100NYK.html	12:00 am	New York Knicks		San Antonio Spurs		
+/boxscores/201311100OKC.html	7:00 pm	Oklahoma City Thunder		Washington Wizards		
+/boxscores/201311100PHO.html	8:00 pm	Phoenix Suns		New Orleans Pelicans		
+/boxscores/201311110BOS.html	7:30 pm	Boston Celtics		Orlando Magic		
+/boxscores/201311110CHA.html	7:00 pm	Charlotte Bobcats		Atlanta Hawks		
+/boxscores/201311110CHI.html	8:00 pm	Chicago Bulls		Cleveland Cavaliers		
+/boxscores/201311110HOU.html	8:00 pm	Houston Rockets		Toronto Raptors		
+/boxscores/201311110IND.html	7:00 pm	Indiana Pacers		Memphis Grizzlies		
+/boxscores/201311110LAC.html	10:30 pm	Los Angeles Clippers		Minnesota Timberwolves		
+/boxscores/201311110PHI.html	7:00 pm	Philadelphia 76ers		San Antonio Spurs		
+/boxscores/201311110POR.html	10:00 pm	Portland Trail Blazers		Detroit Pistons		
+/boxscores/201311110UTA.html	9:00 pm	Utah Jazz		Denver Nuggets		
+/boxscores/201311120DAL.html	8:30 pm	Dallas Mavericks		Washington Wizards		
+/boxscores/201311120GSW.html	10:30 pm	Golden State Warriors		Detroit Pistons		
+/boxscores/201311120LAL.html	10:30 pm	Los Angeles Lakers		New Orleans Pelicans		
+/boxscores/201311120MIA.html	7:30 pm	Miami Heat		Milwaukee Bucks		
+/boxscores/201311130ATL.html	8:00 pm	Atlanta Hawks		New York Knicks		
+/boxscores/201311130BOS.html	7:30 pm	Boston Celtics		Charlotte Bobcats		
+/boxscores/201311130DEN.html	9:00 pm	Denver Nuggets		Los Angeles Lakers		
+/boxscores/201311130LAC.html	10:30 pm	Los Angeles Clippers		Oklahoma City Thunder		
+/boxscores/201311130MEM.html	8:00 pm	Memphis Grizzlies		Toronto Raptors		
+/boxscores/201311130MIN.html	8:00 pm	Minnesota Timberwolves		Cleveland Cavaliers		
+/boxscores/201311130ORL.html	7:00 pm	Orlando Magic		Milwaukee Bucks		
+/boxscores/201311130PHI.html	7:00 pm	Philadelphia 76ers		Houston Rockets		
+/boxscores/201311130POR.html	10:00 pm	Portland Trail Blazers		Phoenix Suns		
+/boxscores/201311130SAC.html	10:00 pm	Sacramento Kings		Brooklyn Nets		
+/boxscores/201311130SAS.html	8:30 pm	San Antonio Spurs		Washington Wizards		
+/boxscores/201311130UTA.html	9:00 pm	Utah Jazz		New Orleans Pelicans		
+/boxscores/201311140GSW.html	10:30 pm	Golden State Warriors		Oklahoma City Thunder		
+/boxscores/201311140NYK.html	8:00 pm	New York Knicks		Houston Rockets		
+/boxscores/201311150ATL.html	7:30 pm	Atlanta Hawks		Philadelphia 76ers		
+/boxscores/201311150BOS.html	7:30 pm	Boston Celtics		Portland Trail Blazers		
+/boxscores/201311150CLE.html	7:30 pm	Cleveland Cavaliers		Charlotte Bobcats		
+/boxscores/201311150DEN.html	8:00 pm	Denver Nuggets		Minnesota Timberwolves		
+/boxscores/201311150IND.html	7:00 pm	Indiana Pacers		Milwaukee Bucks		
+/boxscores/201311150LAL.html	10:30 pm	Los Angeles Lakers		Memphis Grizzlies		
+/boxscores/201311150MIA.html	7:30 pm	Miami Heat		Dallas Mavericks		
+/boxscores/201311150PHO.html	9:00 pm	Phoenix Suns		Brooklyn Nets		
+/boxscores/201311150SAC.html	10:30 pm	Sacramento Kings		Detroit Pistons		
+/boxscores/201311150TOR.html	7:00 pm	Toronto Raptors		Chicago Bulls		
+/boxscores/201311150UTA.html	9:00 pm	Utah Jazz		San Antonio Spurs		
+/boxscores/201311160CHA.html	7:00 pm	Charlotte Bobcats		Miami Heat		
+/boxscores/201311160CHI.html	8:00 pm	Chicago Bulls		Indiana Pacers		
+/boxscores/201311160GSW.html	10:30 pm	Golden State Warriors		Utah Jazz		
+/boxscores/201311160HOU.html	8:00 pm	Houston Rockets		Denver Nuggets		
+/boxscores/201311160LAC.html	10:30 pm	Los Angeles Clippers		Brooklyn Nets		
+/boxscores/201311160MIL.html	8:30 pm	Milwaukee Bucks		Oklahoma City Thunder		
+/boxscores/201311160MIN.html	8:00 pm	Minnesota Timberwolves		Boston Celtics		
+/boxscores/201311160NOP.html	8:00 pm	New Orleans Pelicans		Philadelphia 76ers		
+/boxscores/201311160NYK.html	7:30 pm	New York Knicks		Atlanta Hawks		
+/boxscores/201311160ORL.html	7:00 pm	Orlando Magic		Dallas Mavericks		
+/boxscores/201311160WAS.html	7:00 pm	Washington Wizards		Cleveland Cavaliers		
+/boxscores/201311170LAL.html	9:30 pm	Los Angeles Lakers		Detroit Pistons		
+/boxscores/201311170SAC.html	6:00 pm	Sacramento Kings		Memphis Grizzlies		
+/boxscores/201311170TOR.html	1:00 pm	Toronto Raptors		Portland Trail Blazers		
+/boxscores/201311180BRK.html	7:30 pm	Brooklyn Nets		Portland Trail Blazers		
+/boxscores/201311180CHI.html	8:00 pm	Chicago Bulls		Charlotte Bobcats		
+/boxscores/201311180DAL.html	8:30 pm	Dallas Mavericks		Philadelphia 76ers		
+/boxscores/201311180LAC.html	10:30 pm	Los Angeles Clippers		Memphis Grizzlies		
+/boxscores/201311180OKC.html	8:00 pm	Oklahoma City Thunder		Denver Nuggets		
+/boxscores/201311180UTA.html	9:00 pm	Utah Jazz		Golden State Warriors		
+/boxscores/201311190DET.html	7:30 pm	Detroit Pistons		New York Knicks		
+/boxscores/201311190HOU.html	8:00 pm	Houston Rockets		Boston Celtics		
+/boxscores/201311190MIA.html	7:30 pm	Miami Heat		Atlanta Hawks		
+/boxscores/201311190SAC.html	10:00 pm	Sacramento Kings		Phoenix Suns		
+/boxscores/201311190WAS.html	7:00 pm	Washington Wizards		Minnesota Timberwolves		
+/boxscores/201311200ATL.html	7:30 pm	Atlanta Hawks		Detroit Pistons		
+/boxscores/201311200CHA.html	7:00 pm	Charlotte Bobcats		Brooklyn Nets		
+/boxscores/201311200CLE.html	7:00 pm	Cleveland Cavaliers		Washington Wizards		
+/boxscores/201311200DAL.html	9:30 pm	Dallas Mavericks		Houston Rockets		
+/boxscores/201311200GSW.html	10:30 pm	Golden State Warriors		Memphis Grizzlies		
+/boxscores/201311200MIL.html	8:00 pm	Milwaukee Bucks		Portland Trail Blazers		
+/boxscores/201311200MIN.html	8:00 pm	Minnesota Timberwolves		Los Angeles Clippers		
+/boxscores/201311200NOP.html	8:00 pm	New Orleans Pelicans		Utah Jazz		
+/boxscores/201311200NYK.html	7:00 pm	New York Knicks		Indiana Pacers		
+/boxscores/201311200ORL.html	7:00 pm	Orlando Magic		Miami Heat		
+/boxscores/201311200PHI.html	7:00 pm	Philadelphia 76ers		Toronto Raptors		
+/boxscores/201311200PHO.html	9:00 pm	Phoenix Suns		Sacramento Kings		
+/boxscores/201311200SAS.html	8:30 pm	San Antonio Spurs		Boston Celtics		
+/boxscores/201311210DEN.html	10:30 pm	Denver Nuggets		Chicago Bulls		
+/boxscores/201311210OKC.html	8:00 pm	Oklahoma City Thunder		Los Angeles Clippers		
+/boxscores/201311220BOS.html	7:30 pm	Boston Celtics		Indiana Pacers		
+/boxscores/201311220CHA.html	7:00 pm	Charlotte Bobcats		Phoenix Suns		
+/boxscores/201311220DAL.html	8:30 pm	Dallas Mavericks		Utah Jazz		
+/boxscores/201311220DET.html	7:30 pm	Detroit Pistons		Atlanta Hawks		
+/boxscores/201311220LAL.html	10:30 pm	Los Angeles Lakers		Golden State Warriors		
+/boxscores/201311220MEM.html	8:00 pm	Memphis Grizzlies		San Antonio Spurs		
+/boxscores/201311220MIN.html	8:00 pm	Minnesota Timberwolves		Brooklyn Nets		
+/boxscores/201311220NOP.html	8:00 pm	New Orleans Pelicans		Cleveland Cavaliers		
+/boxscores/201311220PHI.html	7:00 pm	Philadelphia 76ers		Milwaukee Bucks		
+/boxscores/201311220POR.html	10:00 pm	Portland Trail Blazers		Chicago Bulls		
+/boxscores/201311220TOR.html	7:00 pm	Toronto Raptors		Washington Wizards		
+/boxscores/201311230ATL.html	7:30 pm	Atlanta Hawks		Boston Celtics		
+/boxscores/201311230DEN.html	9:00 pm	Denver Nuggets		Dallas Mavericks		
+/boxscores/201311230GSW.html	10:30 pm	Golden State Warriors		Portland Trail Blazers		
+/boxscores/201311230HOU.html	8:00 pm	Houston Rockets		Minnesota Timberwolves		
+/boxscores/201311230IND.html	7:00 pm	Indiana Pacers		Philadelphia 76ers		
+/boxscores/201311230LAC.html	3:30 pm	Los Angeles Clippers		Sacramento Kings		
+/boxscores/201311230MIA.html	7:30 pm	Miami Heat		Orlando Magic		
+/boxscores/201311230MIL.html	8:30 pm	Milwaukee Bucks		Charlotte Bobcats		
+/boxscores/201311230SAS.html	8:30 pm	San Antonio Spurs		Cleveland Cavaliers		
+/boxscores/201311230WAS.html	7:00 pm	Washington Wizards		New York Knicks		
+/boxscores/201311240BRK.html	2:00 pm	Brooklyn Nets		Detroit Pistons		
+/boxscores/201311240LAC.html	3:30 pm	Los Angeles Clippers		Chicago Bulls		
+/boxscores/201311240LAL.html	9:30 pm	Los Angeles Lakers		Sacramento Kings		
+/boxscores/201311240OKC.html	7:00 pm	Oklahoma City Thunder		Utah Jazz		
+/boxscores/201311240ORL.html	6:00 pm	Orlando Magic		Phoenix Suns		
+/boxscores/201311250CHA.html	7:00 pm	Charlotte Bobcats		Boston Celtics		
+/boxscores/201311250DAL.html	8:30 pm	Dallas Mavericks		Denver Nuggets		
+/boxscores/201311250DET.html	7:30 pm	Detroit Pistons		Milwaukee Bucks		
+/boxscores/201311250IND.html	7:00 pm	Indiana Pacers		Minnesota Timberwolves		
+/boxscores/201311250MEM.html	8:00 pm	Memphis Grizzlies		Houston Rockets		
+/boxscores/201311250MIA.html	7:30 pm	Miami Heat		Phoenix Suns		
+/boxscores/201311250POR.html	10:00 pm	Portland Trail Blazers		New York Knicks		
+/boxscores/201311250SAS.html	8:30 pm	San Antonio Spurs		New Orleans Pelicans		
+/boxscores/201311250UTA.html	9:00 pm	Utah Jazz		Chicago Bulls		
+/boxscores/201311260ATL.html	7:30 pm	Atlanta Hawks		Orlando Magic		
+/boxscores/201311260NOP.html	8:00 pm	New Orleans Pelicans		Golden State Warriors		
+/boxscores/201311260TOR.html	7:00 pm	Toronto Raptors		Brooklyn Nets		
+/boxscores/201311260WAS.html	7:00 pm	Washington Wizards		Los Angeles Lakers		
+/boxscores/201311270BOS.html	7:30 pm	Boston Celtics		Memphis Grizzlies		
+/boxscores/201311270BRK.html	7:30 pm	Brooklyn Nets		Los Angeles Lakers		
+/boxscores/201311270CHA.html	7:00 pm	Charlotte Bobcats		Indiana Pacers		
+/boxscores/201311270CLE.html	7:30 pm	Cleveland Cavaliers		Miami Heat		
+/boxscores/201311270DAL.html	8:30 pm	Dallas Mavericks		Golden State Warriors		
+/boxscores/201311270DET.html	7:30 pm	Detroit Pistons		Chicago Bulls		
+/boxscores/201311270HOU.html	8:00 pm	Houston Rockets		Atlanta Hawks		
+/boxscores/201311270LAC.html	10:30 pm	Los Angeles Clippers		New York Knicks		
+/boxscores/201311270MIL.html	8:00 pm	Milwaukee Bucks		Washington Wizards		
+/boxscores/201311270MIN.html	8:00 pm	Minnesota Timberwolves		Denver Nuggets		
+/boxscores/201311270OKC.html	8:00 pm	Oklahoma City Thunder		San Antonio Spurs		
+/boxscores/201311270ORL.html	7:00 pm	Orlando Magic		Philadelphia 76ers		
+/boxscores/201311270PHO.html	9:00 pm	Phoenix Suns		Portland Trail Blazers		
+/boxscores/201311290ATL.html	7:30 pm	Atlanta Hawks		Dallas Mavericks		
+/boxscores/201311290BOS.html	7:30 pm	Boston Celtics		Cleveland Cavaliers		
+/boxscores/201311290CHA.html	7:00 pm	Charlotte Bobcats		Milwaukee Bucks		
+/boxscores/201311290DEN.html	9:00 pm	Denver Nuggets		New York Knicks		
+/boxscores/201311290DET.html	7:30 pm	Detroit Pistons		Los Angeles Lakers		
+/boxscores/201311290HOU.html	8:00 pm	Houston Rockets		Brooklyn Nets		
+/boxscores/201311290IND.html	8:00 pm	Indiana Pacers		Washington Wizards		
+/boxscores/201311290OKC.html	8:00 pm	Oklahoma City Thunder		Golden State Warriors		
+/boxscores/201311290ORL.html	7:00 pm	Orlando Magic		San Antonio Spurs		
+/boxscores/201311290PHI.html	8:00 pm	Philadelphia 76ers		New Orleans Pelicans		
+/boxscores/201311290SAC.html	10:00 pm	Sacramento Kings		Los Angeles Clippers		
+/boxscores/201311290TOR.html	7:00 pm	Toronto Raptors		Miami Heat		
+/boxscores/201311290UTA.html	9:00 pm	Utah Jazz		Phoenix Suns		
+/boxscores/201311300CLE.html	7:30 pm	Cleveland Cavaliers		Chicago Bulls		
+/boxscores/201311300DAL.html	8:30 pm	Dallas Mavericks		Minnesota Timberwolves		
+/boxscores/201311300MEM.html	8:00 pm	Memphis Grizzlies		Brooklyn Nets		
+/boxscores/201311300MIL.html	9:00 pm	Milwaukee Bucks		Boston Celtics		
+/boxscores/201311300PHO.html	9:00 pm	Phoenix Suns		Utah Jazz		
+/boxscores/201311300SAS.html	8:30 pm	San Antonio Spurs		Houston Rockets		
+/boxscores/201311300WAS.html	7:00 pm	Washington Wizards		Atlanta Hawks		
+/boxscores/201312010DET.html	3:30 pm	Detroit Pistons		Philadelphia 76ers		
+/boxscores/201312010LAC.html	3:30 pm	Los Angeles Clippers		Indiana Pacers		
+/boxscores/201312010LAL.html	9:30 pm	Los Angeles Lakers		Portland Trail Blazers		
+/boxscores/201312010MIA.html	6:00 pm	Miami Heat		Charlotte Bobcats		
+/boxscores/201312010NYK.html	7:30 pm	New York Knicks		New Orleans Pelicans		
+/boxscores/201312010OKC.html	7:00 pm	Oklahoma City Thunder		Minnesota Timberwolves		
+/boxscores/201312010SAC.html	6:00 pm	Sacramento Kings		Golden State Warriors		
+/boxscores/201312010TOR.html	1:00 pm	Toronto Raptors		Denver Nuggets		
+/boxscores/201312020CHI.html	8:00 pm	Chicago Bulls		New Orleans Pelicans		
+/boxscores/201312020POR.html	10:00 pm	Portland Trail Blazers		Indiana Pacers		
+/boxscores/201312020SAS.html	8:30 pm	San Antonio Spurs		Atlanta Hawks		
+/boxscores/201312020UTA.html	9:00 pm	Utah Jazz		Houston Rockets		
+/boxscores/201312020WAS.html	7:00 pm	Washington Wizards		Orlando Magic		
+/boxscores/201312030BOS.html	7:30 pm	Boston Celtics		Milwaukee Bucks		
+/boxscores/201312030BRK.html	7:30 pm	Brooklyn Nets		Denver Nuggets		
+/boxscores/201312030DAL.html	8:30 pm	Dallas Mavericks		Charlotte Bobcats		
+/boxscores/201312030GSW.html	10:30 pm	Golden State Warriors		Toronto Raptors		
+/boxscores/201312030MEM.html	8:00 pm	Memphis Grizzlies		Phoenix Suns		
+/boxscores/201312030MIA.html	7:30 pm	Miami Heat		Detroit Pistons		
+/boxscores/201312030PHI.html	7:00 pm	Philadelphia 76ers		Orlando Magic		
+/boxscores/201312030SAC.html	10:00 pm	Sacramento Kings		Oklahoma City Thunder		
+/boxscores/201312040ATL.html	7:30 pm	Atlanta Hawks		Los Angeles Clippers		
+/boxscores/201312040CLE.html	7:00 pm	Cleveland Cavaliers		Denver Nuggets		
+/boxscores/201312040HOU.html	8:00 pm	Houston Rockets		Phoenix Suns		
+/boxscores/201312040MIL.html	8:00 pm	Milwaukee Bucks		Detroit Pistons		
+/boxscores/201312040NOP.html	8:00 pm	New Orleans Pelicans		Dallas Mavericks		
+/boxscores/201312040POR.html	10:00 pm	Portland Trail Blazers		Oklahoma City Thunder		
+/boxscores/201312040UTA.html	9:00 pm	Utah Jazz		Indiana Pacers		
+/boxscores/201312050BRK.html	7:00 pm	Brooklyn Nets		New York Knicks		
+/boxscores/201312050CHI.html	9:30 pm	Chicago Bulls		Miami Heat		
+/boxscores/201312050MEM.html	8:00 pm	Memphis Grizzlies		Los Angeles Clippers		
+/boxscores/201312060ATL.html	7:30 pm	Atlanta Hawks		Cleveland Cavaliers		
+/boxscores/201312060BOS.html	7:30 pm	Boston Celtics		Denver Nuggets		
+/boxscores/201312060CHA.html	7:00 pm	Charlotte Bobcats		Philadelphia 76ers		
+/boxscores/201312060HOU.html	8:00 pm	Houston Rockets		Golden State Warriors		
+/boxscores/201312060NOP.html	8:00 pm	New Orleans Pelicans		Oklahoma City Thunder		
+/boxscores/201312060NYK.html	7:30 pm	New York Knicks		Orlando Magic		
+/boxscores/201312060PHO.html	9:00 pm	Phoenix Suns		Toronto Raptors		
+/boxscores/201312060POR.html	10:00 pm	Portland Trail Blazers		Utah Jazz		
+/boxscores/201312060SAC.html	10:00 pm	Sacramento Kings		Los Angeles Lakers		
+/boxscores/201312060WAS.html	7:00 pm	Washington Wizards		Milwaukee Bucks		
+/boxscores/201312070CHI.html	8:00 pm	Chicago Bulls		Detroit Pistons		
+/boxscores/201312070CLE.html	7:30 pm	Cleveland Cavaliers		Los Angeles Clippers		
+/boxscores/201312070MEM.html	8:00 pm	Memphis Grizzlies		Golden State Warriors		
+/boxscores/201312070MIL.html	8:30 pm	Milwaukee Bucks		Brooklyn Nets		
+/boxscores/201312070MIN.html	8:00 pm	Minnesota Timberwolves		Miami Heat		
+/boxscores/201312070PHI.html	7:00 pm	Philadelphia 76ers		Denver Nuggets		
+/boxscores/201312070POR.html	10:00 pm	Portland Trail Blazers		Dallas Mavericks		
+/boxscores/201312070SAS.html	8:30 pm	San Antonio Spurs		Indiana Pacers		
+/boxscores/201312070UTA.html	9:00 pm	Utah Jazz		Sacramento Kings		
+/boxscores/201312080DET.html	6:00 pm	Detroit Pistons		Miami Heat		
+/boxscores/201312080HOU.html	7:00 pm	Houston Rockets		Orlando Magic		
+/boxscores/201312080LAL.html	9:30 pm	Los Angeles Lakers		Toronto Raptors		
+/boxscores/201312080NYK.html	12:00 am	New York Knicks		Boston Celtics		
+/boxscores/201312080OKC.html	7:00 pm	Oklahoma City Thunder		Indiana Pacers		
+/boxscores/201312090CHA.html	7:00 pm	Charlotte Bobcats		Golden State Warriors		
+/boxscores/201312090MEM.html	8:00 pm	Memphis Grizzlies		Orlando Magic		
+/boxscores/201312090PHI.html	7:00 pm	Philadelphia 76ers		Los Angeles Clippers		
+/boxscores/201312090SAC.html	10:00 pm	Sacramento Kings		Dallas Mavericks		
+/boxscores/201312090UTA.html	9:00 pm	Utah Jazz		Portland Trail Blazers		
+/boxscores/201312090WAS.html	7:00 pm	Washington Wizards		Denver Nuggets		
+/boxscores/201312100ATL.html	7:30 pm	Atlanta Hawks		Oklahoma City Thunder		
+/boxscores/201312100BRK.html	7:30 pm	Brooklyn Nets		Boston Celtics		
+/boxscores/201312100CHI.html	8:00 pm	Chicago Bulls		Milwaukee Bucks		
+/boxscores/201312100CLE.html	7:00 pm	Cleveland Cavaliers		New York Knicks		
+/boxscores/201312100DET.html	7:30 pm	Detroit Pistons		Minnesota Timberwolves		
+/boxscores/201312100IND.html	7:00 pm	Indiana Pacers		Miami Heat		
+/boxscores/201312100LAL.html	10:30 pm	Los Angeles Lakers		Phoenix Suns		
+/boxscores/201312100TOR.html	7:00 pm	Toronto Raptors		San Antonio Spurs		
+/boxscores/201312110BOS.html	7:30 pm	Boston Celtics		Los Angeles Clippers		
+/boxscores/201312110CHA.html	7:00 pm	Charlotte Bobcats		Orlando Magic		
+/boxscores/201312110GSW.html	10:30 pm	Golden State Warriors		Dallas Mavericks		
+/boxscores/201312110MEM.html	8:00 pm	Memphis Grizzlies		Oklahoma City Thunder		
+/boxscores/201312110MIL.html	8:00 pm	Milwaukee Bucks		San Antonio Spurs		
+/boxscores/201312110MIN.html	8:00 pm	Minnesota Timberwolves		Philadelphia 76ers		
+/boxscores/201312110NOP.html	8:00 pm	New Orleans Pelicans		Detroit Pistons		
+/boxscores/201312110NYK.html	8:00 pm	New York Knicks		Chicago Bulls		
+/boxscores/201312110SAC.html	10:00 pm	Sacramento Kings		Utah Jazz		
+/boxscores/201312120BRK.html	8:00 pm	Brooklyn Nets		Los Angeles Clippers		
+/boxscores/201312120POR.html	10:30 pm	Portland Trail Blazers		Houston Rockets		
+/boxscores/201312130ATL.html	7:30 pm	Atlanta Hawks		Washington Wizards		
+/boxscores/201312130BOS.html	7:30 pm	Boston Celtics		New York Knicks		
+/boxscores/201312130DEN.html	9:00 pm	Denver Nuggets		Utah Jazz		
+/boxscores/201312130DET.html	7:30 pm	Detroit Pistons		Brooklyn Nets		
+/boxscores/201312130GSW.html	10:30 pm	Golden State Warriors		Houston Rockets		
+/boxscores/201312130IND.html	7:00 pm	Indiana Pacers		Charlotte Bobcats		
+/boxscores/201312130MIL.html	8:30 pm	Milwaukee Bucks		Chicago Bulls		
+/boxscores/201312130NOP.html	8:00 pm	New Orleans Pelicans		Memphis Grizzlies		
+/boxscores/201312130OKC.html	8:00 pm	Oklahoma City Thunder		Los Angeles Lakers		
+/boxscores/201312130ORL.html	7:00 pm	Orlando Magic		Cleveland Cavaliers		
+/boxscores/201312130PHO.html	9:00 pm	Phoenix Suns		Sacramento Kings		
+/boxscores/201312130SAS.html	8:30 pm	San Antonio Spurs		Minnesota Timberwolves		
+/boxscores/201312130TOR.html	7:00 pm	Toronto Raptors		Philadelphia 76ers		
+/boxscores/201312140CHA.html	7:00 pm	Charlotte Bobcats		Los Angeles Lakers		
+/boxscores/201312140CHI.html	8:00 pm	Chicago Bulls		Toronto Raptors		
+/boxscores/201312140DAL.html	8:30 pm	Dallas Mavericks		Milwaukee Bucks		
+/boxscores/201312140MIA.html	7:30 pm	Miami Heat		Cleveland Cavaliers		
+/boxscores/201312140NYK.html	7:30 pm	New York Knicks		Atlanta Hawks		
+/boxscores/201312140PHI.html	8:00 pm	Philadelphia 76ers		Portland Trail Blazers		
+/boxscores/201312140UTA.html	9:00 pm	Utah Jazz		San Antonio Spurs		
+/boxscores/201312140WAS.html	7:00 pm	Washington Wizards		Los Angeles Clippers		
+/boxscores/201312150DEN.html	8:00 pm	Denver Nuggets		New Orleans Pelicans		
+/boxscores/201312150DET.html	6:00 pm	Detroit Pistons		Portland Trail Blazers		
+/boxscores/201312150MEM.html	6:00 pm	Memphis Grizzlies		Minnesota Timberwolves		
+/boxscores/201312150OKC.html	7:00 pm	Oklahoma City Thunder		Orlando Magic		
+/boxscores/201312150PHO.html	8:00 pm	Phoenix Suns		Golden State Warriors		
+/boxscores/201312150SAC.html	6:00 pm	Sacramento Kings		Houston Rockets		
+/boxscores/201312160ATL.html	7:30 pm	Atlanta Hawks		Los Angeles Lakers		
+/boxscores/201312160BOS.html	7:30 pm	Boston Celtics		Minnesota Timberwolves		
+/boxscores/201312160BRK.html	7:30 pm	Brooklyn Nets		Philadelphia 76ers		
+/boxscores/201312160CHI.html	8:00 pm	Chicago Bulls		Orlando Magic		
+/boxscores/201312160IND.html	7:00 pm	Indiana Pacers		Detroit Pistons		
+/boxscores/201312160LAC.html	10:30 pm	Los Angeles Clippers		San Antonio Spurs		
+/boxscores/201312160MIA.html	7:30 pm	Miami Heat		Utah Jazz		
+/boxscores/201312160NYK.html	7:30 pm	New York Knicks		Washington Wizards		
+/boxscores/201312170CHA.html	7:00 pm	Charlotte Bobcats		Sacramento Kings		
+/boxscores/201312170CLE.html	7:00 pm	Cleveland Cavaliers		Portland Trail Blazers		
+/boxscores/201312170DEN.html	9:00 pm	Denver Nuggets		Oklahoma City Thunder		
+/boxscores/201312170GSW.html	10:30 pm	Golden State Warriors		New Orleans Pelicans		
+/boxscores/201312170MEM.html	8:00 pm	Memphis Grizzlies		Los Angeles Lakers		
+/boxscores/201312180ATL.html	7:30 pm	Atlanta Hawks		Sacramento Kings		
+/boxscores/201312180BOS.html	7:30 pm	Boston Celtics		Detroit Pistons		
+/boxscores/201312180BRK.html	7:30 pm	Brooklyn Nets		Washington Wizards		
+/boxscores/201312180DAL.html	8:30 pm	Dallas Mavericks		Memphis Grizzlies		
+/boxscores/201312180HOU.html	9:30 pm	Houston Rockets		Chicago Bulls		
+/boxscores/201312180LAC.html	10:30 pm	Los Angeles Clippers		New Orleans Pelicans		
+/boxscores/201312180MIA.html	7:00 pm	Miami Heat		Indiana Pacers		
+/boxscores/201312180MIL.html	8:00 pm	Milwaukee Bucks		New York Knicks		
+/boxscores/201312180MIN.html	8:00 pm	Minnesota Timberwolves		Portland Trail Blazers		
+/boxscores/201312180ORL.html	7:00 pm	Orlando Magic		Utah Jazz		
+/boxscores/201312180PHO.html	9:00 pm	Phoenix Suns		San Antonio Spurs		
+/boxscores/201312180TOR.html	7:00 pm	Toronto Raptors		Charlotte Bobcats		
+/boxscores/201312190GSW.html	10:30 pm	Golden State Warriors		San Antonio Spurs		
+/boxscores/201312190OKC.html	8:00 pm	Oklahoma City Thunder		Chicago Bulls		
+/boxscores/201312200ATL.html	7:30 pm	Atlanta Hawks		Utah Jazz		
+/boxscores/201312200CLE.html	7:30 pm	Cleveland Cavaliers		Milwaukee Bucks		
+/boxscores/201312200DAL.html	8:30 pm	Dallas Mavericks		Toronto Raptors		
+/boxscores/201312200DEN.html	9:00 pm	Denver Nuggets		Phoenix Suns		
+/boxscores/201312200DET.html	7:30 pm	Detroit Pistons		Charlotte Bobcats		
+/boxscores/201312200IND.html	8:00 pm	Indiana Pacers		Houston Rockets		
+/boxscores/201312200LAL.html	10:30 pm	Los Angeles Lakers		Minnesota Timberwolves		
+/boxscores/201312200MIA.html	7:30 pm	Miami Heat		Sacramento Kings		
+/boxscores/201312200PHI.html	7:00 pm	Philadelphia 76ers		Brooklyn Nets		
+/boxscores/201312210BOS.html	1:00 pm	Boston Celtics		Washington Wizards		
+/boxscores/201312210CHA.html	7:30 pm	Charlotte Bobcats		Utah Jazz		
+/boxscores/201312210CHI.html	8:00 pm	Chicago Bulls		Cleveland Cavaliers		
+/boxscores/201312210DET.html	7:30 pm	Detroit Pistons		Houston Rockets		
+/boxscores/201312210GSW.html	10:30 pm	Golden State Warriors		Los Angeles Lakers		
+/boxscores/201312210LAC.html	10:30 pm	Los Angeles Clippers		Denver Nuggets		
+/boxscores/201312210MIL.html	8:30 pm	Milwaukee Bucks		Philadelphia 76ers		
+/boxscores/201312210NYK.html	12:00 am	New York Knicks		Memphis Grizzlies		
+/boxscores/201312210ORL.html	7:00 pm	Orlando Magic		Sacramento Kings		
+/boxscores/201312210PHO.html	9:00 pm	Phoenix Suns		Dallas Mavericks		
+/boxscores/201312210POR.html	10:00 pm	Portland Trail Blazers		New Orleans Pelicans		
+/boxscores/201312210SAS.html	8:30 pm	San Antonio Spurs		Oklahoma City Thunder		
+/boxscores/201312220IND.html	6:00 pm	Indiana Pacers		Boston Celtics		
+/boxscores/201312220LAC.html	9:30 pm	Los Angeles Clippers		Minnesota Timberwolves		
+/boxscores/201312220OKC.html	7:00 pm	Oklahoma City Thunder		Toronto Raptors		
+/boxscores/201312230BRK.html	7:30 pm	Brooklyn Nets		Indiana Pacers		
+/boxscores/201312230CHA.html	7:00 pm	Charlotte Bobcats		Milwaukee Bucks		
+/boxscores/201312230CLE.html	7:00 pm	Cleveland Cavaliers		Detroit Pistons		
+/boxscores/201312230DEN.html	9:00 pm	Denver Nuggets		Golden State Warriors		
+/boxscores/201312230HOU.html	8:00 pm	Houston Rockets		Dallas Mavericks		
+/boxscores/201312230MEM.html	8:00 pm	Memphis Grizzlies		Utah Jazz		
+/boxscores/201312230MIA.html	7:30 pm	Miami Heat		Atlanta Hawks		
+/boxscores/201312230ORL.html	7:00 pm	Orlando Magic		New York Knicks		
+/boxscores/201312230PHO.html	9:00 pm	Phoenix Suns		Los Angeles Lakers		
+/boxscores/201312230SAC.html	10:00 pm	Sacramento Kings		New Orleans Pelicans		
+/boxscores/201312230SAS.html	8:30 pm	San Antonio Spurs		Toronto Raptors		
+/boxscores/201312250BRK.html	12:00 am	Brooklyn Nets		Chicago Bulls		
+/boxscores/201312250GSW.html	10:30 pm	Golden State Warriors		Los Angeles Clippers		
+/boxscores/201312250LAL.html	5:00 pm	Los Angeles Lakers		Miami Heat		
+/boxscores/201312250NYK.html	2:30 pm	New York Knicks		Oklahoma City Thunder		
+/boxscores/201312250SAS.html	8:00 pm	San Antonio Spurs		Houston Rockets		
+/boxscores/201312260CLE.html	7:00 pm	Cleveland Cavaliers		Atlanta Hawks		
+/boxscores/201312260DAL.html	8:30 pm	Dallas Mavericks		San Antonio Spurs		
+/boxscores/201312260HOU.html	8:00 pm	Houston Rockets		Memphis Grizzlies		
+/boxscores/201312260POR.html	10:30 pm	Portland Trail Blazers		Los Angeles Clippers		
+/boxscores/201312270BRK.html	7:30 pm	Brooklyn Nets		Milwaukee Bucks		
+/boxscores/201312270CHA.html	7:00 pm	Charlotte Bobcats		Oklahoma City Thunder		
+/boxscores/201312270GSW.html	10:30 pm	Golden State Warriors		Phoenix Suns		
+/boxscores/201312270MIN.html	8:00 pm	Minnesota Timberwolves		Washington Wizards		
+/boxscores/201312270NOP.html	8:00 pm	New Orleans Pelicans		Denver Nuggets		
+/boxscores/201312270NYK.html	7:30 pm	New York Knicks		Toronto Raptors		
+/boxscores/201312270ORL.html	7:00 pm	Orlando Magic		Detroit Pistons		
+/boxscores/201312270SAC.html	10:00 pm	Sacramento Kings		Miami Heat		
+/boxscores/201312270UTA.html	9:00 pm	Utah Jazz		Los Angeles Lakers		
+/boxscores/201312280ATL.html	7:30 pm	Atlanta Hawks		Charlotte Bobcats		
+/boxscores/201312280BOS.html	1:00 pm	Boston Celtics		Cleveland Cavaliers		
+/boxscores/201312280CHI.html	8:00 pm	Chicago Bulls		Dallas Mavericks		
+/boxscores/201312280HOU.html	8:00 pm	Houston Rockets		New Orleans Pelicans		
+/boxscores/201312280IND.html	7:00 pm	Indiana Pacers		Brooklyn Nets		
+/boxscores/201312280LAC.html	10:30 pm	Los Angeles Clippers		Utah Jazz		
+/boxscores/201312280MEM.html	8:00 pm	Memphis Grizzlies		Denver Nuggets		
+/boxscores/201312280MIL.html	8:30 pm	Milwaukee Bucks		Minnesota Timberwolves		
+/boxscores/201312280PHO.html	9:00 pm	Phoenix Suns		Philadelphia 76ers		
+/boxscores/201312280POR.html	10:00 pm	Portland Trail Blazers		Miami Heat		
+/boxscores/201312280TOR.html	7:00 pm	Toronto Raptors		New York Knicks		
+/boxscores/201312280WAS.html	7:00 pm	Washington Wizards		Detroit Pistons		
+/boxscores/201312290CLE.html	6:00 pm	Cleveland Cavaliers		Golden State Warriors		
+/boxscores/201312290LAL.html	9:30 pm	Los Angeles Lakers		Philadelphia 76ers		
+/boxscores/201312290OKC.html	7:00 pm	Oklahoma City Thunder		Houston Rockets		
+/boxscores/201312290ORL.html	6:00 pm	Orlando Magic		Atlanta Hawks		
+/boxscores/201312290SAS.html	7:00 pm	San Antonio Spurs		Sacramento Kings		
+/boxscores/201312300DEN.html	9:00 pm	Denver Nuggets		Miami Heat		
+/boxscores/201312300DET.html	7:30 pm	Detroit Pistons		Washington Wizards		
+/boxscores/201312300LAC.html	10:30 pm	Los Angeles Clippers		Phoenix Suns		
+/boxscores/201312300MEM.html	8:00 pm	Memphis Grizzlies		Chicago Bulls		
+/boxscores/201312300MIN.html	8:00 pm	Minnesota Timberwolves		Dallas Mavericks		
+/boxscores/201312300NOP.html	8:00 pm	New Orleans Pelicans		Portland Trail Blazers		
+/boxscores/201312300UTA.html	9:00 pm	Utah Jazz		Charlotte Bobcats		
+/boxscores/201312310BOS.html	1:00 pm	Boston Celtics		Atlanta Hawks		
+/boxscores/201312310CHI.html	8:00 pm	Chicago Bulls		Toronto Raptors		
+/boxscores/201312310HOU.html	7:00 pm	Houston Rockets		Sacramento Kings		
+/boxscores/201312310IND.html	3:00 pm	Indiana Pacers		Cleveland Cavaliers		
+/boxscores/201312310LAL.html	10:30 pm	Los Angeles Lakers		Milwaukee Bucks		
+/boxscores/201312310OKC.html	8:00 pm	Oklahoma City Thunder		Portland Trail Blazers		
+/boxscores/201312310ORL.html	5:00 pm	Orlando Magic		Golden State Warriors		
+/boxscores/201312310SAS.html	7:00 pm	San Antonio Spurs		Brooklyn Nets		
+/boxscores/201401010DEN.html	9:00 pm	Denver Nuggets		Philadelphia 76ers		
+/boxscores/201401010LAC.html	9:30 pm	Los Angeles Clippers		Charlotte Bobcats		
+/boxscores/201401010MIN.html	8:00 pm	Minnesota Timberwolves		New Orleans Pelicans		
+/boxscores/201401010TOR.html	7:00 pm	Toronto Raptors		Indiana Pacers		
+/boxscores/201401010WAS.html	6:00 pm	Washington Wizards		Dallas Mavericks		
+/boxscores/201401020CHI.html	8:00 pm	Chicago Bulls		Boston Celtics		
+/boxscores/201401020CLE.html	7:00 pm	Cleveland Cavaliers		Orlando Magic		
+/boxscores/201401020MIA.html	7:30 pm	Miami Heat		Golden State Warriors		
+/boxscores/201401020OKC.html	8:00 pm	Oklahoma City Thunder		Brooklyn Nets		
+/boxscores/201401020PHO.html	9:00 pm	Phoenix Suns		Memphis Grizzlies		
+/boxscores/201401020POR.html	10:00 pm	Portland Trail Blazers		Charlotte Bobcats		
+/boxscores/201401020SAC.html	10:00 pm	Sacramento Kings		Philadelphia 76ers		
+/boxscores/201401020SAS.html	8:30 pm	San Antonio Spurs		New York Knicks		
+/boxscores/201401020UTA.html	9:00 pm	Utah Jazz		Milwaukee Bucks		
+/boxscores/201401030ATL.html	7:30 pm	Atlanta Hawks		Golden State Warriors		
+/boxscores/201401030BOS.html	7:30 pm	Boston Celtics		New Orleans Pelicans		
+/boxscores/201401030DAL.html	8:30 pm	Dallas Mavericks		Los Angeles Clippers		
+/boxscores/201401030DEN.html	9:00 pm	Denver Nuggets		Memphis Grizzlies		
+/boxscores/201401030HOU.html	8:00 pm	Houston Rockets		New York Knicks		
+/boxscores/201401030LAL.html	10:30 pm	Los Angeles Lakers		Utah Jazz		
+/boxscores/201401030WAS.html	7:00 pm	Washington Wizards		Toronto Raptors		
+/boxscores/201401040BRK.html	7:30 pm	Brooklyn Nets		Cleveland Cavaliers		
+/boxscores/201401040CHI.html	8:00 pm	Chicago Bulls		Atlanta Hawks		
+/boxscores/201401040IND.html	7:00 pm	Indiana Pacers		New Orleans Pelicans		
+/boxscores/201401040MIN.html	8:00 pm	Minnesota Timberwolves		Oklahoma City Thunder		
+/boxscores/201401040ORL.html	7:00 pm	Orlando Magic		Miami Heat		
+/boxscores/201401040PHO.html	9:00 pm	Phoenix Suns		Milwaukee Bucks		
+/boxscores/201401040POR.html	10:00 pm	Portland Trail Blazers		Philadelphia 76ers		
+/boxscores/201401040SAC.html	10:00 pm	Sacramento Kings		Charlotte Bobcats		
+/boxscores/201401040SAS.html	8:30 pm	San Antonio Spurs		Los Angeles Clippers		
+/boxscores/201401050CLE.html	6:00 pm	Cleveland Cavaliers		Indiana Pacers		
+/boxscores/201401050DAL.html	7:30 pm	Dallas Mavericks		New York Knicks		
+/boxscores/201401050DET.html	1:00 pm	Detroit Pistons		Memphis Grizzlies		
+/boxscores/201401050LAL.html	9:30 pm	Los Angeles Lakers		Denver Nuggets		
+/boxscores/201401050MIA.html	6:00 pm	Miami Heat		Toronto Raptors		
+/boxscores/201401050OKC.html	7:00 pm	Oklahoma City Thunder		Boston Celtics		
+/boxscores/201401050WAS.html	6:00 pm	Washington Wizards		Golden State Warriors		
+/boxscores/201401060BRK.html	7:30 pm	Brooklyn Nets		Atlanta Hawks		
+/boxscores/201401060LAC.html	10:30 pm	Los Angeles Clippers		Orlando Magic		
+/boxscores/201401060PHI.html	7:00 pm	Philadelphia 76ers		Minnesota Timberwolves		
+/boxscores/201401070CHA.html	7:00 pm	Charlotte Bobcats		Washington Wizards		
+/boxscores/201401070CHI.html	8:00 pm	Chicago Bulls		Phoenix Suns		
+/boxscores/201401070CLE.html	7:00 pm	Cleveland Cavaliers		Philadelphia 76ers		
+/boxscores/201401070DAL.html	8:30 pm	Dallas Mavericks		Los Angeles Lakers		
+/boxscores/201401070DEN.html	9:00 pm	Denver Nuggets		Boston Celtics		
+/boxscores/201401070IND.html	7:00 pm	Indiana Pacers		Toronto Raptors		
+/boxscores/201401070MEM.html	8:00 pm	Memphis Grizzlies		San Antonio Spurs		
+/boxscores/201401070MIA.html	7:30 pm	Miami Heat		New Orleans Pelicans		
+/boxscores/201401070MIL.html	8:00 pm	Milwaukee Bucks		Golden State Warriors		
+/boxscores/201401070NYK.html	7:30 pm	New York Knicks		Detroit Pistons		
+/boxscores/201401070SAC.html	10:00 pm	Sacramento Kings		Portland Trail Blazers		
+/boxscores/201401070UTA.html	9:00 pm	Utah Jazz		Oklahoma City Thunder		
+/boxscores/201401080ATL.html	7:30 pm	Atlanta Hawks		Indiana Pacers		
+/boxscores/201401080BRK.html	7:30 pm	Brooklyn Nets		Golden State Warriors		
+/boxscores/201401080HOU.html	8:00 pm	Houston Rockets		Los Angeles Lakers		
+/boxscores/201401080LAC.html	10:30 pm	Los Angeles Clippers		Boston Celtics		
+/boxscores/201401080MIN.html	9:30 pm	Minnesota Timberwolves		Phoenix Suns		
+/boxscores/201401080NOP.html	8:00 pm	New Orleans Pelicans		Washington Wizards		
+/boxscores/201401080POR.html	10:00 pm	Portland Trail Blazers		Orlando Magic		
+/boxscores/201401080SAS.html	7:00 pm	San Antonio Spurs		Dallas Mavericks		
+/boxscores/201401080TOR.html	7:00 pm	Toronto Raptors		Detroit Pistons		
+/boxscores/201401090DEN.html	10:30 pm	Denver Nuggets		Oklahoma City Thunder		
+/boxscores/201401090NYK.html	8:00 pm	New York Knicks		Miami Heat		
+/boxscores/201401100ATL.html	7:30 pm	Atlanta Hawks		Houston Rockets		
+/boxscores/201401100BRK.html	8:00 pm	Brooklyn Nets		Miami Heat		
+/boxscores/201401100GSW.html	10:30 pm	Golden State Warriors		Boston Celtics		
+/boxscores/201401100IND.html	7:00 pm	Indiana Pacers		Washington Wizards		
+/boxscores/201401100LAC.html	10:30 pm	Los Angeles Clippers		Los Angeles Lakers		
+/boxscores/201401100MEM.html	8:00 pm	Memphis Grizzlies		Phoenix Suns		
+/boxscores/201401100MIL.html	8:30 pm	Milwaukee Bucks		Chicago Bulls		
+/boxscores/201401100MIN.html	8:00 pm	Minnesota Timberwolves		Charlotte Bobcats		
+/boxscores/201401100NOP.html	8:00 pm	New Orleans Pelicans		Dallas Mavericks		
+/boxscores/201401100PHI.html	7:00 pm	Philadelphia 76ers		Detroit Pistons		
+/boxscores/201401100SAC.html	10:00 pm	Sacramento Kings		Orlando Magic		
+/boxscores/201401100UTA.html	9:00 pm	Utah Jazz		Cleveland Cavaliers		
+/boxscores/201401110CHI.html	8:00 pm	Chicago Bulls		Charlotte Bobcats		
+/boxscores/201401110DAL.html	8:30 pm	Dallas Mavericks		New Orleans Pelicans		
+/boxscores/201401110DEN.html	9:00 pm	Denver Nuggets		Orlando Magic		
+/boxscores/201401110DET.html	7:30 pm	Detroit Pistons		Phoenix Suns		
+/boxscores/201401110OKC.html	8:00 pm	Oklahoma City Thunder		Milwaukee Bucks		
+/boxscores/201401110PHI.html	7:30 pm	Philadelphia 76ers		New York Knicks		
+/boxscores/201401110POR.html	10:00 pm	Portland Trail Blazers		Boston Celtics		
+/boxscores/201401110TOR.html	7:00 pm	Toronto Raptors		Brooklyn Nets		
+/boxscores/201401110WAS.html	7:00 pm	Washington Wizards		Houston Rockets		
+/boxscores/201401120MEM.html	6:00 pm	Memphis Grizzlies		Atlanta Hawks		
+/boxscores/201401120SAC.html	6:00 pm	Sacramento Kings		Cleveland Cavaliers		
+/boxscores/201401120SAS.html	7:00 pm	San Antonio Spurs		Minnesota Timberwolves		
+/boxscores/201401130BOS.html	7:30 pm	Boston Celtics		Houston Rockets		
+/boxscores/201401130CHI.html	8:00 pm	Chicago Bulls		Washington Wizards		
+/boxscores/201401130DAL.html	8:30 pm	Dallas Mavericks		Orlando Magic		
+/boxscores/201401130NOP.html	8:00 pm	New Orleans Pelicans		San Antonio Spurs		
+/boxscores/201401130NYK.html	7:30 pm	New York Knicks		Phoenix Suns		
+/boxscores/201401130TOR.html	7:00 pm	Toronto Raptors		Milwaukee Bucks		
+/boxscores/201401130UTA.html	9:00 pm	Utah Jazz		Denver Nuggets		
+/boxscores/201401140CHA.html	7:00 pm	Charlotte Bobcats		New York Knicks		
+/boxscores/201401140IND.html	7:00 pm	Indiana Pacers		Sacramento Kings		
+/boxscores/201401140LAL.html	10:30 pm	Los Angeles Lakers		Cleveland Cavaliers		
+/boxscores/201401140MEM.html	8:00 pm	Memphis Grizzlies		Oklahoma City Thunder		
+/boxscores/201401150BOS.html	7:30 pm	Boston Celtics		Toronto Raptors		
+/boxscores/201401150GSW.html	10:30 pm	Golden State Warriors		Denver Nuggets		
+/boxscores/201401150LAC.html	10:30 pm	Los Angeles Clippers		Dallas Mavericks		
+/boxscores/201401150MIL.html	8:00 pm	Milwaukee Bucks		Memphis Grizzlies		
+/boxscores/201401150MIN.html	8:00 pm	Minnesota Timberwolves		Sacramento Kings		
+/boxscores/201401150NOP.html	8:00 pm	New Orleans Pelicans		Houston Rockets		
+/boxscores/201401150ORL.html	7:00 pm	Orlando Magic		Chicago Bulls		
+/boxscores/201401150PHI.html	7:00 pm	Philadelphia 76ers		Charlotte Bobcats		
+/boxscores/201401150PHO.html	9:00 pm	Phoenix Suns		Los Angeles Lakers		
+/boxscores/201401150POR.html	10:00 pm	Portland Trail Blazers		Cleveland Cavaliers		
+/boxscores/201401150SAS.html	8:00 pm	San Antonio Spurs		Utah Jazz		
+/boxscores/201401150WAS.html	7:00 pm	Washington Wizards		Miami Heat		
+/boxscores/201401160ATL.html	3:00 pm	Atlanta Hawks		Brooklyn Nets		
+/boxscores/201401160HOU.html	9:30 pm	Houston Rockets		Oklahoma City Thunder		
+/boxscores/201401160IND.html	7:00 pm	Indiana Pacers		New York Knicks		
+/boxscores/201401170BOS.html	7:30 pm	Boston Celtics		Los Angeles Lakers		
+/boxscores/201401170DEN.html	9:00 pm	Denver Nuggets		Cleveland Cavaliers		
+/boxscores/201401170DET.html	7:30 pm	Detroit Pistons		Utah Jazz		
+/boxscores/201401170MEM.html	8:00 pm	Memphis Grizzlies		Sacramento Kings		
+/boxscores/201401170NYK.html	7:00 pm	New York Knicks		Los Angeles Clippers		
+/boxscores/201401170OKC.html	9:30 pm	Oklahoma City Thunder		Golden State Warriors		
+/boxscores/201401170ORL.html	7:00 pm	Orlando Magic		Charlotte Bobcats		
+/boxscores/201401170PHI.html	7:00 pm	Philadelphia 76ers		Miami Heat		
+/boxscores/201401170PHO.html	9:00 pm	Phoenix Suns		Dallas Mavericks		
+/boxscores/201401170SAS.html	8:30 pm	San Antonio Spurs		Portland Trail Blazers		
+/boxscores/201401170TOR.html	7:00 pm	Toronto Raptors		Minnesota Timberwolves		
+/boxscores/201401170WAS.html	7:00 pm	Washington Wizards		Chicago Bulls		
+/boxscores/201401180CHA.html	7:30 pm	Charlotte Bobcats		Miami Heat		
+/boxscores/201401180CHI.html	8:00 pm	Chicago Bulls		Philadelphia 76ers		
+/boxscores/201401180DAL.html	8:30 pm	Dallas Mavericks		Portland Trail Blazers		
+/boxscores/201401180HOU.html	8:00 pm	Houston Rockets		Milwaukee Bucks		
+/boxscores/201401180IND.html	7:00 pm	Indiana Pacers		Los Angeles Clippers		
+/boxscores/201401180MIN.html	8:00 pm	Minnesota Timberwolves		Utah Jazz		
+/boxscores/201401180NOP.html	8:00 pm	New Orleans Pelicans		Golden State Warriors		
+/boxscores/201401180WAS.html	7:00 pm	Washington Wizards		Detroit Pistons		
+/boxscores/201401190OKC.html	7:00 pm	Oklahoma City Thunder		Sacramento Kings		
+/boxscores/201401190ORL.html	6:00 pm	Orlando Magic		Boston Celtics		
+/boxscores/201401190PHO.html	8:00 pm	Phoenix Suns		Denver Nuggets		
+/boxscores/201401190SAS.html	7:00 pm	San Antonio Spurs		Milwaukee Bucks		
+/boxscores/201401190TOR.html	1:00 pm	Toronto Raptors		Los Angeles Lakers		
+/boxscores/201401200ATL.html	5:30 pm	Atlanta Hawks		Miami Heat		
+/boxscores/201401200CHA.html	2:00 pm	Charlotte Bobcats		Toronto Raptors		
+/boxscores/201401200CHI.html	8:00 pm	Chicago Bulls		Los Angeles Lakers		
+/boxscores/201401200CLE.html	1:00 pm	Cleveland Cavaliers		Dallas Mavericks		
+/boxscores/201401200DET.html	1:00 pm	Detroit Pistons		Los Angeles Clippers		
+/boxscores/201401200GSW.html	10:30 pm	Golden State Warriors		Indiana Pacers		
+/boxscores/201401200HOU.html	8:00 pm	Houston Rockets		Portland Trail Blazers		
+/boxscores/201401200MEM.html	5:00 pm	Memphis Grizzlies		New Orleans Pelicans		
+/boxscores/201401200NYK.html	2:30 pm	New York Knicks		Brooklyn Nets		
+/boxscores/201401200WAS.html	2:00 pm	Washington Wizards		Philadelphia 76ers		
+/boxscores/201401210BRK.html	7:30 pm	Brooklyn Nets		Orlando Magic		
+/boxscores/201401210MIA.html	7:30 pm	Miami Heat		Boston Celtics		
+/boxscores/201401210NOP.html	8:00 pm	New Orleans Pelicans		Sacramento Kings		
+/boxscores/201401210OKC.html	8:00 pm	Oklahoma City Thunder		Portland Trail Blazers		
+/boxscores/201401210UTA.html	9:00 pm	Utah Jazz		Minnesota Timberwolves		
+/boxscores/201401220CHA.html	7:00 pm	Charlotte Bobcats		Los Angeles Clippers		
+/boxscores/201401220CLE.html	7:00 pm	Cleveland Cavaliers		Chicago Bulls		
+/boxscores/201401220HOU.html	8:00 pm	Houston Rockets		Sacramento Kings		
+/boxscores/201401220MIL.html	8:00 pm	Milwaukee Bucks		Detroit Pistons		
+/boxscores/201401220NYK.html	7:30 pm	New York Knicks		Philadelphia 76ers		
+/boxscores/201401220ORL.html	7:00 pm	Orlando Magic		Atlanta Hawks		
+/boxscores/201401220PHO.html	10:30 pm	Phoenix Suns		Indiana Pacers		
+/boxscores/201401220SAS.html	8:00 pm	San Antonio Spurs		Oklahoma City Thunder		
+/boxscores/201401220TOR.html	7:00 pm	Toronto Raptors		Dallas Mavericks		
+/boxscores/201401220WAS.html	7:00 pm	Washington Wizards		Boston Celtics		
+/boxscores/201401230MIA.html	8:00 pm	Miami Heat		Los Angeles Lakers		
+/boxscores/201401230POR.html	10:30 pm	Portland Trail Blazers		Denver Nuggets		
+/boxscores/201401240ATL.html	7:30 pm	Atlanta Hawks		San Antonio Spurs		
+/boxscores/201401240BOS.html	7:30 pm	Boston Celtics		Oklahoma City Thunder		
+/boxscores/201401240BRK.html	7:30 pm	Brooklyn Nets		Dallas Mavericks		
+/boxscores/201401240CHI.html	8:00 pm	Chicago Bulls		Los Angeles Clippers		
+/boxscores/201401240CLE.html	7:30 pm	Cleveland Cavaliers		Milwaukee Bucks		
+/boxscores/201401240DET.html	7:30 pm	Detroit Pistons		New Orleans Pelicans		
+/boxscores/201401240GSW.html	10:30 pm	Golden State Warriors		Minnesota Timberwolves		
+/boxscores/201401240HOU.html	8:00 pm	Houston Rockets		Memphis Grizzlies		
+/boxscores/201401240NYK.html	7:30 pm	New York Knicks		Charlotte Bobcats		
+/boxscores/201401240ORL.html	7:00 pm	Orlando Magic		Los Angeles Lakers		
+/boxscores/201401240PHI.html	7:00 pm	Philadelphia 76ers		Toronto Raptors		
+/boxscores/201401240PHO.html	9:00 pm	Phoenix Suns		Washington Wizards		
+/boxscores/201401240SAC.html	10:00 pm	Sacramento Kings		Indiana Pacers		
+/boxscores/201401250CHA.html	7:00 pm	Charlotte Bobcats		Chicago Bulls		
+/boxscores/201401250DEN.html	9:00 pm	Denver Nuggets		Indiana Pacers		
+/boxscores/201401250MEM.html	8:00 pm	Memphis Grizzlies		Houston Rockets		
+/boxscores/201401250MIL.html	8:30 pm	Milwaukee Bucks		Atlanta Hawks		
+/boxscores/201401250PHI.html	7:30 pm	Philadelphia 76ers		Oklahoma City Thunder		
+/boxscores/201401250POR.html	10:00 pm	Portland Trail Blazers		Minnesota Timberwolves		
+/boxscores/201401250TOR.html	7:00 pm	Toronto Raptors		Los Angeles Clippers		
+/boxscores/201401250UTA.html	9:00 pm	Utah Jazz		Washington Wizards		
+/boxscores/201401260BOS.html	6:30 pm	Boston Celtics		Brooklyn Nets		
+/boxscores/201401260CLE.html	6:00 pm	Cleveland Cavaliers		Phoenix Suns		
+/boxscores/201401260DAL.html	7:30 pm	Dallas Mavericks		Detroit Pistons		
+/boxscores/201401260GSW.html	9:00 pm	Golden State Warriors		Portland Trail Blazers		
+/boxscores/201401260MIA.html	1:00 pm	Miami Heat		San Antonio Spurs		
+/boxscores/201401260NOP.html	6:00 pm	New Orleans Pelicans		Orlando Magic		
+/boxscores/201401260NYK.html	3:30 pm	New York Knicks		Los Angeles Lakers		
+/boxscores/201401260SAC.html	9:00 pm	Sacramento Kings		Denver Nuggets		
+/boxscores/201401270BRK.html	7:30 pm	Brooklyn Nets		Toronto Raptors		
+/boxscores/201401270CHI.html	8:00 pm	Chicago Bulls		Minnesota Timberwolves		
+/boxscores/201401270MIL.html	8:00 pm	Milwaukee Bucks		Los Angeles Clippers		
+/boxscores/201401270OKC.html	8:00 pm	Oklahoma City Thunder		Atlanta Hawks		
+/boxscores/201401270PHI.html	7:00 pm	Philadelphia 76ers		Phoenix Suns		
+/boxscores/201401270UTA.html	9:00 pm	Utah Jazz		Sacramento Kings		
+/boxscores/201401280CLE.html	7:00 pm	Cleveland Cavaliers		New Orleans Pelicans		
+/boxscores/201401280DET.html	7:30 pm	Detroit Pistons		Orlando Magic		
+/boxscores/201401280GSW.html	10:30 pm	Golden State Warriors		Washington Wizards		
+/boxscores/201401280HOU.html	8:00 pm	Houston Rockets		San Antonio Spurs		
+/boxscores/201401280LAL.html	10:30 pm	Los Angeles Lakers		Indiana Pacers		
+/boxscores/201401280NYK.html	7:30 pm	New York Knicks		Boston Celtics		
+/boxscores/201401280POR.html	10:00 pm	Portland Trail Blazers		Memphis Grizzlies		
+/boxscores/201401290BOS.html	7:30 pm	Boston Celtics		Philadelphia 76ers		
+/boxscores/201401290DAL.html	8:30 pm	Dallas Mavericks		Houston Rockets		
+/boxscores/201401290DEN.html	9:00 pm	Denver Nuggets		Charlotte Bobcats		
+/boxscores/201401290LAC.html	10:30 pm	Los Angeles Clippers		Washington Wizards		
+/boxscores/201401290MIA.html	7:00 pm	Miami Heat		Oklahoma City Thunder		
+/boxscores/201401290MIL.html	8:00 pm	Milwaukee Bucks		Phoenix Suns		
+/boxscores/201401290MIN.html	8:00 pm	Minnesota Timberwolves		New Orleans Pelicans		
+/boxscores/201401290SAC.html	10:00 pm	Sacramento Kings		Memphis Grizzlies		
+/boxscores/201401290SAS.html	9:30 pm	San Antonio Spurs		Chicago Bulls		
+/boxscores/201401290TOR.html	7:00 pm	Toronto Raptors		Orlando Magic		
+/boxscores/201401300GSW.html	10:30 pm	Golden State Warriors		Los Angeles Clippers		
+/boxscores/201401300IND.html	7:00 pm	Indiana Pacers		Phoenix Suns		
+/boxscores/201401300NYK.html	8:00 pm	New York Knicks		Cleveland Cavaliers		
+/boxscores/201401310BRK.html	8:00 pm	Brooklyn Nets		Oklahoma City Thunder		
+/boxscores/201401310DAL.html	8:30 pm	Dallas Mavericks		Sacramento Kings		
+/boxscores/201401310DEN.html	9:00 pm	Denver Nuggets		Toronto Raptors		
+/boxscores/201401310LAL.html	10:30 pm	Los Angeles Lakers		Charlotte Bobcats		
+/boxscores/201401310MIN.html	8:00 pm	Minnesota Timberwolves		Memphis Grizzlies		
+/boxscores/201401310ORL.html	7:00 pm	Orlando Magic		Milwaukee Bucks		
+/boxscores/201401310PHI.html	7:30 pm	Philadelphia 76ers		Atlanta Hawks		
+/boxscores/201401310UTA.html	10:30 pm	Utah Jazz		Golden State Warriors		
+/boxscores/201402010ATL.html	7:30 pm	Atlanta Hawks		Minnesota Timberwolves		
+/boxscores/201402010DET.html	7:30 pm	Detroit Pistons		Philadelphia 76ers		
+/boxscores/201402010HOU.html	8:00 pm	Houston Rockets		Cleveland Cavaliers		
+/boxscores/201402010IND.html	7:00 pm	Indiana Pacers		Brooklyn Nets		
+/boxscores/201402010LAC.html	10:30 pm	Los Angeles Clippers		Utah Jazz		
+/boxscores/201402010MEM.html	8:00 pm	Memphis Grizzlies		Milwaukee Bucks		
+/boxscores/201402010NOP.html	8:00 pm	New Orleans Pelicans		Chicago Bulls		
+/boxscores/201402010NYK.html	8:30 pm	New York Knicks		Miami Heat		
+/boxscores/201402010PHO.html	9:00 pm	Phoenix Suns		Charlotte Bobcats		
+/boxscores/201402010POR.html	10:00 pm	Portland Trail Blazers		Toronto Raptors		
+/boxscores/201402010SAS.html	8:30 pm	San Antonio Spurs		Sacramento Kings		
+/boxscores/201402010WAS.html	7:00 pm	Washington Wizards		Oklahoma City Thunder		
+/boxscores/201402020BOS.html	1:00 pm	Boston Celtics		Orlando Magic		
+/boxscores/201402030BRK.html	7:30 pm	Brooklyn Nets		Philadelphia 76ers		
+/boxscores/201402030DAL.html	8:30 pm	Dallas Mavericks		Cleveland Cavaliers		
+/boxscores/201402030DEN.html	9:00 pm	Denver Nuggets		Los Angeles Clippers		
+/boxscores/201402030IND.html	7:00 pm	Indiana Pacers		Orlando Magic		
+/boxscores/201402030MIA.html	7:30 pm	Miami Heat		Detroit Pistons		
+/boxscores/201402030MIL.html	8:00 pm	Milwaukee Bucks		New York Knicks		
+/boxscores/201402030NOP.html	8:00 pm	New Orleans Pelicans		San Antonio Spurs		
+/boxscores/201402030OKC.html	8:00 pm	Oklahoma City Thunder		Memphis Grizzlies		
+/boxscores/201402030SAC.html	10:00 pm	Sacramento Kings		Chicago Bulls		
+/boxscores/201402030UTA.html	9:00 pm	Utah Jazz		Toronto Raptors		
+/boxscores/201402030WAS.html	7:00 pm	Washington Wizards		Portland Trail Blazers		
+/boxscores/201402040ATL.html	7:30 pm	Atlanta Hawks		Indiana Pacers		
+/boxscores/201402040GSW.html	10:30 pm	Golden State Warriors		Charlotte Bobcats		
+/boxscores/201402040MIN.html	8:00 pm	Minnesota Timberwolves		Los Angeles Lakers		
+/boxscores/201402040PHO.html	9:00 pm	Phoenix Suns		Chicago Bulls		
+/boxscores/201402050CLE.html	7:00 pm	Cleveland Cavaliers		Los Angeles Lakers		
+/boxscores/201402050DEN.html	9:00 pm	Denver Nuggets		Milwaukee Bucks		
+/boxscores/201402050HOU.html	8:00 pm	Houston Rockets		Phoenix Suns		
+/boxscores/201402050LAC.html	10:30 pm	Los Angeles Clippers		Miami Heat		
+/boxscores/201402050MEM.html	8:00 pm	Memphis Grizzlies		Dallas Mavericks		
+/boxscores/201402050NOP.html	8:00 pm	New Orleans Pelicans		Atlanta Hawks		
+/boxscores/201402050NYK.html	8:00 pm	New York Knicks		Portland Trail Blazers		
+/boxscores/201402050OKC.html	8:00 pm	Oklahoma City Thunder		Minnesota Timberwolves		
+/boxscores/201402050ORL.html	7:00 pm	Orlando Magic		Detroit Pistons		
+/boxscores/201402050PHI.html	7:00 pm	Philadelphia 76ers		Boston Celtics		
+/boxscores/201402050SAC.html	10:00 pm	Sacramento Kings		Toronto Raptors		
+/boxscores/201402050WAS.html	7:00 pm	Washington Wizards		San Antonio Spurs		
+/boxscores/201402060BRK.html	8:00 pm	Brooklyn Nets		San Antonio Spurs		
+/boxscores/201402060GSW.html	10:30 pm	Golden State Warriors		Chicago Bulls		
+/boxscores/201402070BOS.html	7:30 pm	Boston Celtics		Sacramento Kings		
+/boxscores/201402070DAL.html	8:30 pm	Dallas Mavericks		Utah Jazz		
+/boxscores/201402070DET.html	7:30 pm	Detroit Pistons		Brooklyn Nets		
+/boxscores/201402070IND.html	7:00 pm	Indiana Pacers		Portland Trail Blazers		
+/boxscores/201402070LAC.html	10:30 pm	Los Angeles Clippers		Toronto Raptors		
+/boxscores/201402070NOP.html	9:30 pm	New Orleans Pelicans		Minnesota Timberwolves		
+/boxscores/201402070NYK.html	7:30 pm	New York Knicks		Denver Nuggets		
+/boxscores/201402070ORL.html	7:00 pm	Orlando Magic		Oklahoma City Thunder		
+/boxscores/201402070PHI.html	7:00 pm	Philadelphia 76ers		Los Angeles Lakers		
+/boxscores/201402070WAS.html	7:00 pm	Washington Wizards		Cleveland Cavaliers		
+/boxscores/201402080ATL.html	7:30 pm	Atlanta Hawks		Memphis Grizzlies		
+/boxscores/201402080CHA.html	7:00 pm	Charlotte Bobcats		San Antonio Spurs		
+/boxscores/201402080DET.html	7:30 pm	Detroit Pistons		Denver Nuggets		
+/boxscores/201402080MIL.html	8:30 pm	Milwaukee Bucks		Houston Rockets		
+/boxscores/201402080MIN.html	8:00 pm	Minnesota Timberwolves		Portland Trail Blazers		
+/boxscores/201402080PHO.html	9:00 pm	Phoenix Suns		Golden State Warriors		
+/boxscores/201402080UTA.html	9:00 pm	Utah Jazz		Miami Heat		
+/boxscores/201402090BOS.html	6:00 pm	Boston Celtics		Dallas Mavericks		
+/boxscores/201402090BRK.html	6:00 pm	Brooklyn Nets		New Orleans Pelicans		
+/boxscores/201402090CLE.html	6:00 pm	Cleveland Cavaliers		Memphis Grizzlies		
+/boxscores/201402090LAC.html	9:30 pm	Los Angeles Clippers		Philadelphia 76ers		
+/boxscores/201402090LAL.html	3:30 pm	Los Angeles Lakers		Chicago Bulls		
+/boxscores/201402090OKC.html	1:00 pm	Oklahoma City Thunder		New York Knicks		
+/boxscores/201402090ORL.html	6:00 pm	Orlando Magic		Indiana Pacers		
+/boxscores/201402090WAS.html	6:00 pm	Washington Wizards		Sacramento Kings		
+/boxscores/201402100DET.html	7:30 pm	Detroit Pistons		San Antonio Spurs		
+/boxscores/201402100GSW.html	10:30 pm	Golden State Warriors		Philadelphia 76ers		
+/boxscores/201402100IND.html	7:00 pm	Indiana Pacers		Denver Nuggets		
+/boxscores/201402100MIL.html	8:00 pm	Milwaukee Bucks		Boston Celtics		
+/boxscores/201402100MIN.html	8:00 pm	Minnesota Timberwolves		Houston Rockets		
+/boxscores/201402100TOR.html	7:00 pm	Toronto Raptors		New Orleans Pelicans		
+/boxscores/201402110CHA.html	7:00 pm	Charlotte Bobcats		Dallas Mavericks		
+/boxscores/201402110CHI.html	8:00 pm	Chicago Bulls		Atlanta Hawks		
+/boxscores/201402110CLE.html	7:00 pm	Cleveland Cavaliers		Sacramento Kings		
+/boxscores/201402110LAL.html	10:30 pm	Los Angeles Lakers		Utah Jazz		
+/boxscores/201402110MEM.html	8:00 pm	Memphis Grizzlies		Washington Wizards		
+/boxscores/201402110PHO.html	9:00 pm	Phoenix Suns		Miami Heat		
+/boxscores/201402110POR.html	10:00 pm	Portland Trail Blazers		Oklahoma City Thunder		
+/boxscores/201402120BOS.html	7:30 pm	Boston Celtics		San Antonio Spurs		
+/boxscores/201402120BRK.html	7:30 pm	Brooklyn Nets		Charlotte Bobcats		
+/boxscores/201402120DET.html	7:30 pm	Detroit Pistons		Cleveland Cavaliers		
+/boxscores/201402120GSW.html	10:30 pm	Golden State Warriors		Miami Heat		
+/boxscores/201402120HOU.html	8:00 pm	Houston Rockets		Washington Wizards		
+/boxscores/201402120IND.html	7:00 pm	Indiana Pacers		Dallas Mavericks		
+/boxscores/201402120LAC.html	10:30 pm	Los Angeles Clippers		Portland Trail Blazers		
+/boxscores/201402120MIL.html	8:00 pm	Milwaukee Bucks		New Orleans Pelicans		
+/boxscores/201402120MIN.html	8:00 pm	Minnesota Timberwolves		Denver Nuggets		
+/boxscores/201402120NYK.html	7:30 pm	New York Knicks		Sacramento Kings		
+/boxscores/201402120ORL.html	7:00 pm	Orlando Magic		Memphis Grizzlies		
+/boxscores/201402120TOR.html	7:00 pm	Toronto Raptors		Atlanta Hawks		
+/boxscores/201402120UTA.html	9:00 pm	Utah Jazz		Philadelphia 76ers		
+/boxscores/201402130CHI.html	8:00 pm	Chicago Bulls		Brooklyn Nets		
+/boxscores/201402130LAL.html	10:30 pm	Los Angeles Lakers		Oklahoma City Thunder		
+/boxscores/201402180DAL.html	8:30 pm	Dallas Mavericks		Miami Heat		
+/boxscores/201402180DEN.html	9:00 pm	Denver Nuggets		Phoenix Suns		
+/boxscores/201402180DET.html	7:30 pm	Detroit Pistons		Charlotte Bobcats		
+/boxscores/201402180IND.html	7:00 pm	Indiana Pacers		Atlanta Hawks		
+/boxscores/201402180LAC.html	10:30 pm	Los Angeles Clippers		San Antonio Spurs		
+/boxscores/201402180MEM.html	8:00 pm	Memphis Grizzlies		New York Knicks		
+/boxscores/201402180MIL.html	8:00 pm	Milwaukee Bucks		Orlando Magic		
+/boxscores/201402180PHI.html	7:00 pm	Philadelphia 76ers		Cleveland Cavaliers		
+/boxscores/201402180WAS.html	7:00 pm	Washington Wizards		Toronto Raptors		
+/boxscores/201402190ATL.html	7:30 pm	Atlanta Hawks		Washington Wizards		
+/boxscores/201402190CHA.html	7:00 pm	Charlotte Bobcats		Detroit Pistons		
+/boxscores/201402190CLE.html	7:00 pm	Cleveland Cavaliers		Orlando Magic		
+/boxscores/201402190LAL.html	10:30 pm	Los Angeles Lakers		Houston Rockets		
+/boxscores/201402190MIN.html	8:00 pm	Minnesota Timberwolves		Indiana Pacers		
+/boxscores/201402190NOP.html	8:00 pm	New Orleans Pelicans		New York Knicks		
+/boxscores/201402190PHO.html	9:00 pm	Phoenix Suns		Boston Celtics		
+/boxscores/201402190POR.html	10:00 pm	Portland Trail Blazers		San Antonio Spurs		
+/boxscores/201402190SAC.html	10:00 pm	Sacramento Kings		Golden State Warriors		
+/boxscores/201402190TOR.html	7:00 pm	Toronto Raptors		Chicago Bulls		
+/boxscores/201402190UTA.html	9:00 pm	Utah Jazz		Brooklyn Nets		
+/boxscores/201402200GSW.html	10:30 pm	Golden State Warriors		Houston Rockets		
+/boxscores/201402200MIL.html	8:00 pm	Milwaukee Bucks		Denver Nuggets		
+/boxscores/201402200OKC.html	8:00 pm	Oklahoma City Thunder		Miami Heat		
+/boxscores/201402210CHA.html	7:00 pm	Charlotte Bobcats		New Orleans Pelicans		
+/boxscores/201402210CHI.html	8:00 pm	Chicago Bulls		Denver Nuggets		
+/boxscores/201402210DET.html	7:30 pm	Detroit Pistons		Atlanta Hawks		
+/boxscores/201402210LAL.html	10:30 pm	Los Angeles Lakers		Boston Celtics		
+/boxscores/201402210MEM.html	8:00 pm	Memphis Grizzlies		Los Angeles Clippers		
+/boxscores/201402210ORL.html	7:00 pm	Orlando Magic		New York Knicks		
+/boxscores/201402210PHI.html	7:00 pm	Philadelphia 76ers		Dallas Mavericks		
+/boxscores/201402210PHO.html	9:00 pm	Phoenix Suns		San Antonio Spurs		
+/boxscores/201402210POR.html	10:00 pm	Portland Trail Blazers		Utah Jazz		
+/boxscores/201402210TOR.html	7:00 pm	Toronto Raptors		Cleveland Cavaliers		
+/boxscores/201402220ATL.html	7:30 pm	Atlanta Hawks		New York Knicks		
+/boxscores/201402220CHA.html	7:00 pm	Charlotte Bobcats		Memphis Grizzlies		
+/boxscores/201402220DET.html	7:30 pm	Detroit Pistons		Dallas Mavericks		
+/boxscores/201402220GSW.html	10:30 pm	Golden State Warriors		Brooklyn Nets		
+/boxscores/201402220MIL.html	8:30 pm	Milwaukee Bucks		Indiana Pacers		
+/boxscores/201402220SAC.html	10:00 pm	Sacramento Kings		Boston Celtics		
+/boxscores/201402220UTA.html	9:00 pm	Utah Jazz		Minnesota Timberwolves		
+/boxscores/201402220WAS.html	7:00 pm	Washington Wizards		New Orleans Pelicans		
+/boxscores/201402230CLE.html	6:00 pm	Cleveland Cavaliers		Washington Wizards		
+/boxscores/201402230DEN.html	8:00 pm	Denver Nuggets		Sacramento Kings		
+/boxscores/201402230LAL.html	9:00 pm	Los Angeles Lakers		Brooklyn Nets		
+/boxscores/201402230MIA.html	3:30 pm	Miami Heat		Chicago Bulls		
+/boxscores/201402230OKC.html	1:00 pm	Oklahoma City Thunder		Los Angeles Clippers		
+/boxscores/201402230PHO.html	9:00 pm	Phoenix Suns		Houston Rockets		
+/boxscores/201402230POR.html	9:00 pm	Portland Trail Blazers		Minnesota Timberwolves		
+/boxscores/201402230TOR.html	6:00 pm	Toronto Raptors		Orlando Magic		
+/boxscores/201402240DET.html	7:30 pm	Detroit Pistons		Golden State Warriors		
+/boxscores/201402240NOP.html	8:00 pm	New Orleans Pelicans		Los Angeles Clippers		
+/boxscores/201402240NYK.html	7:30 pm	New York Knicks		Dallas Mavericks		
+/boxscores/201402240PHI.html	7:00 pm	Philadelphia 76ers		Milwaukee Bucks		
+/boxscores/201402240UTA.html	9:00 pm	Utah Jazz		Boston Celtics		
+/boxscores/201402250ATL.html	7:30 pm	Atlanta Hawks		Chicago Bulls		
+/boxscores/201402250CLE.html	7:00 pm	Cleveland Cavaliers		Toronto Raptors		
+/boxscores/201402250DEN.html	9:00 pm	Denver Nuggets		Portland Trail Blazers		
+/boxscores/201402250IND.html	7:00 pm	Indiana Pacers		Los Angeles Lakers		
+/boxscores/201402250PHO.html	9:00 pm	Phoenix Suns		Minnesota Timberwolves		
+/boxscores/201402250SAC.html	10:00 pm	Sacramento Kings		Houston Rockets		
+/boxscores/201402250WAS.html	7:00 pm	Washington Wizards		Orlando Magic		
+/boxscores/201402260BOS.html	7:30 pm	Boston Celtics		Atlanta Hawks		
+/boxscores/201402260CHI.html	8:00 pm	Chicago Bulls		Golden State Warriors		
+/boxscores/201402260DAL.html	8:00 pm	Dallas Mavericks		New Orleans Pelicans		
+/boxscores/201402260LAC.html	10:30 pm	Los Angeles Clippers		Houston Rockets		
+/boxscores/201402260MEM.html	8:00 pm	Memphis Grizzlies		Los Angeles Lakers		
+/boxscores/201402260OKC.html	8:00 pm	Oklahoma City Thunder		Cleveland Cavaliers		
+/boxscores/201402260PHI.html	7:00 pm	Philadelphia 76ers		Orlando Magic		
+/boxscores/201402260POR.html	10:00 pm	Portland Trail Blazers		Brooklyn Nets		
+/boxscores/201402260SAS.html	8:30 pm	San Antonio Spurs		Detroit Pistons		
+/boxscores/201402260UTA.html	9:00 pm	Utah Jazz		Phoenix Suns		
+/boxscores/201402270DEN.html	10:30 pm	Denver Nuggets		Brooklyn Nets		
+/boxscores/201402270IND.html	7:00 pm	Indiana Pacers		Milwaukee Bucks		
+/boxscores/201402270MIA.html	8:00 pm	Miami Heat		New York Knicks		
+/boxscores/201402270TOR.html	7:00 pm	Toronto Raptors		Washington Wizards		
+/boxscores/201402280CLE.html	7:30 pm	Cleveland Cavaliers		Utah Jazz		
+/boxscores/201402280DAL.html	8:30 pm	Dallas Mavericks		Chicago Bulls		
+/boxscores/201402280LAL.html	10:30 pm	Los Angeles Lakers		Sacramento Kings		
+/boxscores/201402280NYK.html	8:00 pm	New York Knicks		Golden State Warriors		
+/boxscores/201402280OKC.html	8:00 pm	Oklahoma City Thunder		Memphis Grizzlies		
+/boxscores/201402280PHO.html	10:30 pm	Phoenix Suns		New Orleans Pelicans		
+/boxscores/201402280SAS.html	8:30 pm	San Antonio Spurs		Charlotte Bobcats		
+/boxscores/201403010BOS.html	8:00 pm	Boston Celtics		Indiana Pacers		
+/boxscores/201403010HOU.html	8:00 pm	Houston Rockets		Detroit Pistons		
+/boxscores/201403010LAC.html	10:30 pm	Los Angeles Clippers		New Orleans Pelicans		
+/boxscores/201403010MEM.html	9:00 pm	Memphis Grizzlies		Cleveland Cavaliers		
+/boxscores/201403010MIA.html	7:30 pm	Miami Heat		Orlando Magic		
+/boxscores/201403010MIL.html	8:30 pm	Milwaukee Bucks		Brooklyn Nets		
+/boxscores/201403010PHI.html	7:30 pm	Philadelphia 76ers		Washington Wizards		
+/boxscores/201403010POR.html	10:00 pm	Portland Trail Blazers		Denver Nuggets		
+/boxscores/201403010SAC.html	10:00 pm	Sacramento Kings		Minnesota Timberwolves		
+/boxscores/201403020CHI.html	1:00 pm	Chicago Bulls		New York Knicks		
+/boxscores/201403020IND.html	6:00 pm	Indiana Pacers		Utah Jazz		
+/boxscores/201403020OKC.html	7:00 pm	Oklahoma City Thunder		Charlotte Bobcats		
+/boxscores/201403020ORL.html	6:00 pm	Orlando Magic		Philadelphia 76ers		
+/boxscores/201403020PHO.html	8:00 pm	Phoenix Suns		Atlanta Hawks		
+/boxscores/201403020SAS.html	7:00 pm	San Antonio Spurs		Dallas Mavericks		
+/boxscores/201403020TOR.html	4:00 pm	Toronto Raptors		Golden State Warriors		
+/boxscores/201403030BRK.html	7:30 pm	Brooklyn Nets		Chicago Bulls		
+/boxscores/201403030DEN.html	9:00 pm	Denver Nuggets		Minnesota Timberwolves		
+/boxscores/201403030DET.html	7:30 pm	Detroit Pistons		New York Knicks		
+/boxscores/201403030MIA.html	7:30 pm	Miami Heat		Charlotte Bobcats		
+/boxscores/201403030MIL.html	8:00 pm	Milwaukee Bucks		Utah Jazz		
+/boxscores/201403030POR.html	10:00 pm	Portland Trail Blazers		Los Angeles Lakers		
+/boxscores/201403030SAC.html	10:00 pm	Sacramento Kings		New Orleans Pelicans		
+/boxscores/201403030WAS.html	7:00 pm	Washington Wizards		Memphis Grizzlies		
+/boxscores/201403040CLE.html	7:00 pm	Cleveland Cavaliers		San Antonio Spurs		
+/boxscores/201403040HOU.html	8:00 pm	Houston Rockets		Miami Heat		
+/boxscores/201403040IND.html	7:00 pm	Indiana Pacers		Golden State Warriors		
+/boxscores/201403040LAL.html	10:30 pm	Los Angeles Lakers		New Orleans Pelicans		
+/boxscores/201403040OKC.html	8:00 pm	Oklahoma City Thunder		Philadelphia 76ers		
+/boxscores/201403040PHO.html	9:00 pm	Phoenix Suns		Los Angeles Clippers		
+/boxscores/201403050BOS.html	7:30 pm	Boston Celtics		Golden State Warriors		
+/boxscores/201403050BRK.html	7:30 pm	Brooklyn Nets		Memphis Grizzlies		
+/boxscores/201403050CHA.html	7:00 pm	Charlotte Bobcats		Indiana Pacers		
+/boxscores/201403050DEN.html	8:00 pm	Denver Nuggets		Dallas Mavericks		
+/boxscores/201403050DET.html	7:30 pm	Detroit Pistons		Chicago Bulls		
+/boxscores/201403050MIL.html	8:00 pm	Milwaukee Bucks		Sacramento Kings		
+/boxscores/201403050MIN.html	8:00 pm	Minnesota Timberwolves		New York Knicks		
+/boxscores/201403050ORL.html	7:00 pm	Orlando Magic		Houston Rockets		
+/boxscores/201403050POR.html	10:30 pm	Portland Trail Blazers		Atlanta Hawks		
+/boxscores/201403050WAS.html	7:00 pm	Washington Wizards		Utah Jazz		
+/boxscores/201403060LAL.html	10:30 pm	Los Angeles Lakers		Los Angeles Clippers		
+/boxscores/201403060PHO.html	9:00 pm	Phoenix Suns		Oklahoma City Thunder		
+/boxscores/201403060SAS.html	8:00 pm	San Antonio Spurs		Miami Heat		
+/boxscores/201403070BOS.html	7:30 pm	Boston Celtics		Brooklyn Nets		
+/boxscores/201403070CHA.html	7:00 pm	Charlotte Bobcats		Cleveland Cavaliers		
+/boxscores/201403070CHI.html	7:00 pm	Chicago Bulls		Memphis Grizzlies		
+/boxscores/201403070DAL.html	8:30 pm	Dallas Mavericks		Portland Trail Blazers		
+/boxscores/201403070DEN.html	9:00 pm	Denver Nuggets		Los Angeles Lakers		
+/boxscores/201403070GSW.html	10:30 pm	Golden State Warriors		Atlanta Hawks		
+/boxscores/201403070HOU.html	9:30 pm	Houston Rockets		Indiana Pacers		
+/boxscores/201403070MIN.html	8:00 pm	Minnesota Timberwolves		Detroit Pistons		
+/boxscores/201403070NOP.html	8:00 pm	New Orleans Pelicans		Milwaukee Bucks		
+/boxscores/201403070NYK.html	7:30 pm	New York Knicks		Utah Jazz		
+/boxscores/201403070TOR.html	7:00 pm	Toronto Raptors		Sacramento Kings		
+/boxscores/201403080CLE.html	7:30 pm	Cleveland Cavaliers		New York Knicks		
+/boxscores/201403080LAC.html	10:30 pm	Los Angeles Clippers		Atlanta Hawks		
+/boxscores/201403080MEM.html	8:00 pm	Memphis Grizzlies		Charlotte Bobcats		
+/boxscores/201403080MIL.html	9:00 pm	Milwaukee Bucks		Washington Wizards		
+/boxscores/201403080PHI.html	7:30 pm	Philadelphia 76ers		Utah Jazz		
+/boxscores/201403080SAS.html	8:30 pm	San Antonio Spurs		Orlando Magic		
+/boxscores/201403090BOS.html	6:00 pm	Boston Celtics		Detroit Pistons		
+/boxscores/201403090BRK.html	6:00 pm	Brooklyn Nets		Sacramento Kings		
+/boxscores/201403090CHI.html	1:00 pm	Chicago Bulls		Miami Heat		
+/boxscores/201403090DAL.html	7:30 pm	Dallas Mavericks		Indiana Pacers		
+/boxscores/201403090GSW.html	9:00 pm	Golden State Warriors		Phoenix Suns		
+/boxscores/201403090HOU.html	7:00 pm	Houston Rockets		Portland Trail Blazers		
+/boxscores/201403090LAL.html	3:30 pm	Los Angeles Lakers		Oklahoma City Thunder		
+/boxscores/201403090MIN.html	7:00 pm	Minnesota Timberwolves		Toronto Raptors		
+/boxscores/201403090NOP.html	6:00 pm	New Orleans Pelicans		Denver Nuggets		
+/boxscores/201403100BRK.html	7:30 pm	Brooklyn Nets		Toronto Raptors		
+/boxscores/201403100CHA.html	7:00 pm	Charlotte Bobcats		Denver Nuggets		
+/boxscores/201403100LAC.html	10:30 pm	Los Angeles Clippers		Phoenix Suns		
+/boxscores/201403100MIA.html	7:30 pm	Miami Heat		Washington Wizards		
+/boxscores/201403100MIL.html	8:00 pm	Milwaukee Bucks		Orlando Magic		
+/boxscores/201403100NYK.html	7:30 pm	New York Knicks		Philadelphia 76ers		
+/boxscores/201403100UTA.html	9:00 pm	Utah Jazz		Atlanta Hawks		
+/boxscores/201403110CHI.html	8:00 pm	Chicago Bulls		San Antonio Spurs		
+/boxscores/201403110DET.html	7:30 pm	Detroit Pistons		Sacramento Kings		
+/boxscores/201403110GSW.html	10:30 pm	Golden State Warriors		Dallas Mavericks		
+/boxscores/201403110IND.html	7:00 pm	Indiana Pacers		Boston Celtics		
+/boxscores/201403110MEM.html	8:00 pm	Memphis Grizzlies		Portland Trail Blazers		
+/boxscores/201403110MIN.html	8:00 pm	Minnesota Timberwolves		Milwaukee Bucks		
+/boxscores/201403110OKC.html	8:00 pm	Oklahoma City Thunder		Houston Rockets		
+/boxscores/201403120BOS.html	7:30 pm	Boston Celtics		New York Knicks		
+/boxscores/201403120LAC.html	10:30 pm	Los Angeles Clippers		Golden State Warriors		
+/boxscores/201403120MIA.html	7:00 pm	Miami Heat		Brooklyn Nets		
+/boxscores/201403120NOP.html	8:00 pm	New Orleans Pelicans		Memphis Grizzlies		
+/boxscores/201403120ORL.html	7:00 pm	Orlando Magic		Denver Nuggets		
+/boxscores/201403120PHI.html	7:00 pm	Philadelphia 76ers		Sacramento Kings		
+/boxscores/201403120PHO.html	10:00 pm	Phoenix Suns		Cleveland Cavaliers		
+/boxscores/201403120SAS.html	9:30 pm	San Antonio Spurs		Portland Trail Blazers		
+/boxscores/201403120TOR.html	7:00 pm	Toronto Raptors		Detroit Pistons		
+/boxscores/201403120UTA.html	9:00 pm	Utah Jazz		Dallas Mavericks		
+/boxscores/201403120WAS.html	7:00 pm	Washington Wizards		Charlotte Bobcats		
+/boxscores/201403130ATL.html	7:30 pm	Atlanta Hawks		Milwaukee Bucks		
+/boxscores/201403130CHI.html	7:00 pm	Chicago Bulls		Houston Rockets		
+/boxscores/201403130OKC.html	9:30 pm	Oklahoma City Thunder		Los Angeles Lakers		
+/boxscores/201403140BOS.html	7:30 pm	Boston Celtics		Phoenix Suns		
+/boxscores/201403140CHA.html	7:00 pm	Charlotte Bobcats		Minnesota Timberwolves		
+/boxscores/201403140GSW.html	10:30 pm	Golden State Warriors		Cleveland Cavaliers		
+/boxscores/201403140MIA.html	7:30 pm	Miami Heat		Denver Nuggets		
+/boxscores/201403140NOP.html	8:00 pm	New Orleans Pelicans		Portland Trail Blazers		
+/boxscores/201403140ORL.html	7:00 pm	Orlando Magic		Washington Wizards		
+/boxscores/201403140PHI.html	7:00 pm	Philadelphia 76ers		Indiana Pacers		
+/boxscores/201403140SAS.html	8:30 pm	San Antonio Spurs		Los Angeles Lakers		
+/boxscores/201403140TOR.html	7:00 pm	Toronto Raptors		Memphis Grizzlies		
+/boxscores/201403140UTA.html	9:00 pm	Utah Jazz		Los Angeles Clippers		
+/boxscores/201403150ATL.html	7:30 pm	Atlanta Hawks		Denver Nuggets		
+/boxscores/201403150CHI.html	8:00 pm	Chicago Bulls		Sacramento Kings		
+/boxscores/201403150DET.html	7:30 pm	Detroit Pistons		Indiana Pacers		
+/boxscores/201403150NYK.html	12:00 am	New York Knicks		Milwaukee Bucks		
+/boxscores/201403150PHI.html	7:30 pm	Philadelphia 76ers		Memphis Grizzlies		
+/boxscores/201403150WAS.html	7:00 pm	Washington Wizards		Brooklyn Nets		
+/boxscores/201403160LAC.html	9:30 pm	Los Angeles Clippers		Cleveland Cavaliers		
+/boxscores/201403160MIA.html	3:30 pm	Miami Heat		Houston Rockets		
+/boxscores/201403160MIL.html	1:00 pm	Milwaukee Bucks		Charlotte Bobcats		
+/boxscores/201403160MIN.html	7:00 pm	Minnesota Timberwolves		Sacramento Kings		
+/boxscores/201403160NOP.html	6:00 pm	New Orleans Pelicans		Boston Celtics		
+/boxscores/201403160OKC.html	7:00 pm	Oklahoma City Thunder		Dallas Mavericks		
+/boxscores/201403160POR.html	9:00 pm	Portland Trail Blazers		Golden State Warriors		
+/boxscores/201403160SAS.html	7:00 pm	San Antonio Spurs		Utah Jazz		
+/boxscores/201403160TOR.html	1:00 pm	Toronto Raptors		Phoenix Suns		
+/boxscores/201403170BRK.html	7:30 pm	Brooklyn Nets		Phoenix Suns		
+/boxscores/201403170CHA.html	7:00 pm	Charlotte Bobcats		Atlanta Hawks		
+/boxscores/201403170CHI.html	8:00 pm	Chicago Bulls		Oklahoma City Thunder		
+/boxscores/201403170DAL.html	8:30 pm	Dallas Mavericks		Boston Celtics		
+/boxscores/201403170DEN.html	10:30 pm	Denver Nuggets		Los Angeles Clippers		
+/boxscores/201403170HOU.html	8:00 pm	Houston Rockets		Utah Jazz		
+/boxscores/201403170IND.html	7:00 pm	Indiana Pacers		Philadelphia 76ers		
+/boxscores/201403180ATL.html	7:30 pm	Atlanta Hawks		Toronto Raptors		
+/boxscores/201403180CLE.html	7:00 pm	Cleveland Cavaliers		Miami Heat		
+/boxscores/201403180GSW.html	10:30 pm	Golden State Warriors		Orlando Magic		
+/boxscores/201403180POR.html	10:00 pm	Portland Trail Blazers		Milwaukee Bucks		
+/boxscores/201403180SAC.html	10:00 pm	Sacramento Kings		Washington Wizards		
+/boxscores/201403190BOS.html	7:30 pm	Boston Celtics		Miami Heat		
+/boxscores/201403190BRK.html	7:30 pm	Brooklyn Nets		Charlotte Bobcats		
+/boxscores/201403190DAL.html	8:30 pm	Dallas Mavericks		Minnesota Timberwolves		
+/boxscores/201403190DEN.html	9:00 pm	Denver Nuggets		Detroit Pistons		
+/boxscores/201403190LAL.html	10:30 pm	Los Angeles Lakers		San Antonio Spurs		
+/boxscores/201403190MEM.html	8:00 pm	Memphis Grizzlies		Utah Jazz		
+/boxscores/201403190NOP.html	8:00 pm	New Orleans Pelicans		Toronto Raptors		
+/boxscores/201403190NYK.html	8:00 pm	New York Knicks		Indiana Pacers		
+/boxscores/201403190PHI.html	7:00 pm	Philadelphia 76ers		Chicago Bulls		
+/boxscores/201403190PHO.html	10:00 pm	Phoenix Suns		Orlando Magic		
+/boxscores/201403200CLE.html	7:00 pm	Cleveland Cavaliers		Oklahoma City Thunder		
+/boxscores/201403200GSW.html	10:30 pm	Golden State Warriors		Milwaukee Bucks		
+/boxscores/201403200HOU.html	8:00 pm	Houston Rockets		Minnesota Timberwolves		
+/boxscores/201403200POR.html	10:00 pm	Portland Trail Blazers		Washington Wizards		
+/boxscores/201403210ATL.html	7:30 pm	Atlanta Hawks		New Orleans Pelicans		
+/boxscores/201403210BRK.html	7:30 pm	Brooklyn Nets		Boston Celtics		
+/boxscores/201403210DAL.html	8:30 pm	Dallas Mavericks		Denver Nuggets		
+/boxscores/201403210IND.html	7:00 pm	Indiana Pacers		Chicago Bulls		
+/boxscores/201403210LAL.html	10:30 pm	Los Angeles Lakers		Washington Wizards		
+/boxscores/201403210MIA.html	7:30 pm	Miami Heat		Memphis Grizzlies		
+/boxscores/201403210PHI.html	7:00 pm	Philadelphia 76ers		New York Knicks		
+/boxscores/201403210PHO.html	10:00 pm	Phoenix Suns		Detroit Pistons		
+/boxscores/201403210SAC.html	10:00 pm	Sacramento Kings		San Antonio Spurs		
+/boxscores/201403210TOR.html	7:00 pm	Toronto Raptors		Oklahoma City Thunder		
+/boxscores/201403220CHA.html	7:00 pm	Charlotte Bobcats		Portland Trail Blazers		
+/boxscores/201403220CHI.html	8:00 pm	Chicago Bulls		Philadelphia 76ers		
+/boxscores/201403220CLE.html	7:30 pm	Cleveland Cavaliers		Houston Rockets		
+/boxscores/201403220GSW.html	10:30 pm	Golden State Warriors		San Antonio Spurs		
+/boxscores/201403220LAC.html	10:30 pm	Los Angeles Clippers		Detroit Pistons		
+/boxscores/201403220MEM.html	8:00 pm	Memphis Grizzlies		Indiana Pacers		
+/boxscores/201403220NOP.html	8:00 pm	New Orleans Pelicans		Miami Heat		
+/boxscores/201403220UTA.html	9:00 pm	Utah Jazz		Orlando Magic		
+/boxscores/201403230DAL.html	7:30 pm	Dallas Mavericks		Brooklyn Nets		
+/boxscores/201403230DEN.html	5:00 pm	Denver Nuggets		Washington Wizards		
+/boxscores/201403230LAL.html	9:30 pm	Los Angeles Lakers		Orlando Magic		
+/boxscores/201403230MIN.html	3:30 pm	Minnesota Timberwolves		Phoenix Suns		
+/boxscores/201403230NYK.html	7:30 pm	New York Knicks		Cleveland Cavaliers		
+/boxscores/201403230SAC.html	6:00 pm	Sacramento Kings		Milwaukee Bucks		
+/boxscores/201403230TOR.html	1:00 pm	Toronto Raptors		Atlanta Hawks		
+/boxscores/201403240ATL.html	7:30 pm	Atlanta Hawks		Phoenix Suns		
+/boxscores/201403240CHA.html	7:00 pm	Charlotte Bobcats		Houston Rockets		
+/boxscores/201403240CHI.html	8:00 pm	Chicago Bulls		Indiana Pacers		
+/boxscores/201403240LAC.html	10:30 pm	Los Angeles Clippers		Milwaukee Bucks		
+/boxscores/201403240MEM.html	8:00 pm	Memphis Grizzlies		Minnesota Timberwolves		
+/boxscores/201403240MIA.html	7:30 pm	Miami Heat		Portland Trail Blazers		
+/boxscores/201403240NOP.html	8:00 pm	New Orleans Pelicans		Brooklyn Nets		
+/boxscores/201403240OKC.html	8:00 pm	Oklahoma City Thunder		Denver Nuggets		
+/boxscores/201403240SAS.html	8:30 pm	San Antonio Spurs		Philadelphia 76ers		
+/boxscores/201403240UTA.html	9:00 pm	Utah Jazz		Detroit Pistons		
+/boxscores/201403250CLE.html	7:00 pm	Cleveland Cavaliers		Toronto Raptors		
+/boxscores/201403250DAL.html	8:00 pm	Dallas Mavericks		Oklahoma City Thunder		
+/boxscores/201403250LAL.html	10:30 pm	Los Angeles Lakers		New York Knicks		
+/boxscores/201403250ORL.html	7:00 pm	Orlando Magic		Portland Trail Blazers		
+/boxscores/201403260BOS.html	7:30 pm	Boston Celtics		Toronto Raptors		
+/boxscores/201403260CHA.html	7:00 pm	Charlotte Bobcats		Brooklyn Nets		
+/boxscores/201403260DET.html	7:30 pm	Detroit Pistons		Cleveland Cavaliers		
+/boxscores/201403260IND.html	8:00 pm	Indiana Pacers		Miami Heat		
+/boxscores/201403260MIN.html	8:00 pm	Minnesota Timberwolves		Atlanta Hawks		
+/boxscores/201403260NOP.html	8:00 pm	New Orleans Pelicans		Los Angeles Clippers		
+/boxscores/201403260SAC.html	10:00 pm	Sacramento Kings		New York Knicks		
+/boxscores/201403260SAS.html	8:30 pm	San Antonio Spurs		Denver Nuggets		
+/boxscores/201403260UTA.html	10:30 pm	Utah Jazz		Memphis Grizzlies		
+/boxscores/201403260WAS.html	7:00 pm	Washington Wizards		Phoenix Suns		
+/boxscores/201403270ATL.html	7:30 pm	Atlanta Hawks		Portland Trail Blazers		
+/boxscores/201403270DAL.html	8:30 pm	Dallas Mavericks		Los Angeles Clippers		
+/boxscores/201403270HOU.html	8:00 pm	Houston Rockets		Philadelphia 76ers		
+/boxscores/201403270MIL.html	8:00 pm	Milwaukee Bucks		Los Angeles Lakers		
+/boxscores/201403280BRK.html	7:30 pm	Brooklyn Nets		Cleveland Cavaliers		
+/boxscores/201403280CHI.html	8:00 pm	Chicago Bulls		Portland Trail Blazers		
+/boxscores/201403280DEN.html	9:00 pm	Denver Nuggets		San Antonio Spurs		
+/boxscores/201403280DET.html	7:30 pm	Detroit Pistons		Miami Heat		
+/boxscores/201403280GSW.html	10:30 pm	Golden State Warriors		Memphis Grizzlies		
+/boxscores/201403280MIN.html	8:00 pm	Minnesota Timberwolves		Los Angeles Lakers		
+/boxscores/201403280NOP.html	8:00 pm	New Orleans Pelicans		Utah Jazz		
+/boxscores/201403280OKC.html	8:00 pm	Oklahoma City Thunder		Sacramento Kings		
+/boxscores/201403280ORL.html	7:00 pm	Orlando Magic		Charlotte Bobcats		
+/boxscores/201403280PHO.html	10:00 pm	Phoenix Suns		New York Knicks		
+/boxscores/201403280TOR.html	7:00 pm	Toronto Raptors		Boston Celtics		
+/boxscores/201403280WAS.html	7:00 pm	Washington Wizards		Indiana Pacers		
+/boxscores/201403290DAL.html	8:30 pm	Dallas Mavericks		Sacramento Kings		
+/boxscores/201403290HOU.html	8:00 pm	Houston Rockets		Los Angeles Clippers		
+/boxscores/201403290MIL.html	8:30 pm	Milwaukee Bucks		Miami Heat		
+/boxscores/201403290PHI.html	7:30 pm	Philadelphia 76ers		Detroit Pistons		
+/boxscores/201403290SAS.html	8:30 pm	San Antonio Spurs		New Orleans Pelicans		
+/boxscores/201403290WAS.html	8:00 pm	Washington Wizards		Atlanta Hawks		
+/boxscores/201403300BOS.html	7:00 pm	Boston Celtics		Chicago Bulls		
+/boxscores/201403300BRK.html	6:00 pm	Brooklyn Nets		Minnesota Timberwolves		
+/boxscores/201403300CLE.html	3:00 pm	Cleveland Cavaliers		Indiana Pacers		
+/boxscores/201403300GSW.html	9:00 pm	Golden State Warriors		New York Knicks		
+/boxscores/201403300LAL.html	9:30 pm	Los Angeles Lakers		Phoenix Suns		
+/boxscores/201403300OKC.html	3:00 pm	Oklahoma City Thunder		Utah Jazz		
+/boxscores/201403300ORL.html	6:00 pm	Orlando Magic		Toronto Raptors		
+/boxscores/201403300POR.html	9:00 pm	Portland Trail Blazers		Memphis Grizzlies		
+/boxscores/201403310ATL.html	7:30 pm	Atlanta Hawks		Philadelphia 76ers		
+/boxscores/201403310CHA.html	7:00 pm	Charlotte Bobcats		Washington Wizards		
+/boxscores/201403310CHI.html	8:00 pm	Chicago Bulls		Boston Celtics		
+/boxscores/201403310DEN.html	9:00 pm	Denver Nuggets		Memphis Grizzlies		
+/boxscores/201403310DET.html	7:30 pm	Detroit Pistons		Milwaukee Bucks		
+/boxscores/201403310IND.html	7:00 pm	Indiana Pacers		San Antonio Spurs		
+/boxscores/201403310MIA.html	7:30 pm	Miami Heat		Toronto Raptors		
+/boxscores/201403310MIN.html	8:00 pm	Minnesota Timberwolves		Los Angeles Clippers		
+/boxscores/201403310NOP.html	8:00 pm	New Orleans Pelicans		Sacramento Kings		
+/boxscores/201403310UTA.html	9:00 pm	Utah Jazz		New York Knicks		
+/boxscores/201404010BRK.html	8:00 pm	Brooklyn Nets		Houston Rockets		
+/boxscores/201404010DAL.html	8:30 pm	Dallas Mavericks		Golden State Warriors		
+/boxscores/201404010LAL.html	10:30 pm	Los Angeles Lakers		Portland Trail Blazers		
+/boxscores/201404020ATL.html	7:30 pm	Atlanta Hawks		Chicago Bulls		
+/boxscores/201404020DEN.html	9:00 pm	Denver Nuggets		New Orleans Pelicans		
+/boxscores/201404020IND.html	7:00 pm	Indiana Pacers		Detroit Pistons		
+/boxscores/201404020MIA.html	7:30 pm	Miami Heat		Milwaukee Bucks		
+/boxscores/201404020MIN.html	8:00 pm	Minnesota Timberwolves		Memphis Grizzlies		
+/boxscores/201404020NYK.html	7:00 pm	New York Knicks		Brooklyn Nets		
+/boxscores/201404020ORL.html	7:00 pm	Orlando Magic		Cleveland Cavaliers		
+/boxscores/201404020PHI.html	7:00 pm	Philadelphia 76ers		Charlotte Bobcats		
+/boxscores/201404020PHO.html	10:00 pm	Phoenix Suns		Los Angeles Clippers		
+/boxscores/201404020SAC.html	10:00 pm	Sacramento Kings		Los Angeles Lakers		
+/boxscores/201404020SAS.html	8:30 pm	San Antonio Spurs		Golden State Warriors		
+/boxscores/201404020TOR.html	7:00 pm	Toronto Raptors		Houston Rockets		
+/boxscores/201404020WAS.html	7:00 pm	Washington Wizards		Boston Celtics		
+/boxscores/201404030LAC.html	10:30 pm	Los Angeles Clippers		Dallas Mavericks		
+/boxscores/201404030OKC.html	8:00 pm	Oklahoma City Thunder		San Antonio Spurs		
+/boxscores/201404040ATL.html	7:30 pm	Atlanta Hawks		Cleveland Cavaliers		
+/boxscores/201404040BOS.html	7:30 pm	Boston Celtics		Philadelphia 76ers		
+/boxscores/201404040BRK.html	7:30 pm	Brooklyn Nets		Detroit Pistons		
+/boxscores/201404040CHA.html	7:00 pm	Charlotte Bobcats		Orlando Magic		
+/boxscores/201404040CHI.html	8:00 pm	Chicago Bulls		Milwaukee Bucks		
+/boxscores/201404040GSW.html	10:30 pm	Golden State Warriors		Sacramento Kings		
+/boxscores/201404040HOU.html	9:30 pm	Houston Rockets		Oklahoma City Thunder		
+/boxscores/201404040LAL.html	10:30 pm	Los Angeles Lakers		Dallas Mavericks		
+/boxscores/201404040MEM.html	7:00 pm	Memphis Grizzlies		Denver Nuggets		
+/boxscores/201404040MIA.html	7:30 pm	Miami Heat		Minnesota Timberwolves		
+/boxscores/201404040NYK.html	7:30 pm	New York Knicks		Washington Wizards		
+/boxscores/201404040POR.html	10:00 pm	Portland Trail Blazers		Phoenix Suns		
+/boxscores/201404040TOR.html	7:00 pm	Toronto Raptors		Indiana Pacers		
+/boxscores/201404040UTA.html	9:00 pm	Utah Jazz		New Orleans Pelicans		
+/boxscores/201404050CLE.html	7:30 pm	Cleveland Cavaliers		Charlotte Bobcats		
+/boxscores/201404050DET.html	7:30 pm	Detroit Pistons		Boston Celtics		
+/boxscores/201404050MIL.html	8:30 pm	Milwaukee Bucks		Toronto Raptors		
+/boxscores/201404050ORL.html	7:00 pm	Orlando Magic		Minnesota Timberwolves		
+/boxscores/201404050PHI.html	7:30 pm	Philadelphia 76ers		Brooklyn Nets		
+/boxscores/201404050WAS.html	7:00 pm	Washington Wizards		Chicago Bulls		
+/boxscores/201404060GSW.html	9:00 pm	Golden State Warriors		Utah Jazz		
+/boxscores/201404060HOU.html	7:00 pm	Houston Rockets		Denver Nuggets		
+/boxscores/201404060IND.html	6:00 pm	Indiana Pacers		Atlanta Hawks		
+/boxscores/201404060LAC.html	3:30 pm	Los Angeles Clippers		Los Angeles Lakers		
+/boxscores/201404060MIA.html	1:00 pm	Miami Heat		New York Knicks		
+/boxscores/201404060PHO.html	9:00 pm	Phoenix Suns		Oklahoma City Thunder		
+/boxscores/201404060POR.html	9:00 pm	Portland Trail Blazers		New Orleans Pelicans		
+/boxscores/201404060SAC.html	6:00 pm	Sacramento Kings		Dallas Mavericks		
+/boxscores/201404060SAS.html	7:00 pm	San Antonio Spurs		Memphis Grizzlies		
+/boxscores/201404080ATL.html	7:30 pm	Atlanta Hawks		Detroit Pistons		
+/boxscores/201404080LAL.html	10:30 pm	Los Angeles Lakers		Houston Rockets		
+/boxscores/201404080MIA.html	8:00 pm	Miami Heat		Brooklyn Nets		
+/boxscores/201404080MIN.html	8:00 pm	Minnesota Timberwolves		San Antonio Spurs		
+/boxscores/201404080SAC.html	10:00 pm	Sacramento Kings		Oklahoma City Thunder		
+/boxscores/201404080UTA.html	9:00 pm	Utah Jazz		Dallas Mavericks		
+/boxscores/201404090ATL.html	7:30 pm	Atlanta Hawks		Boston Celtics		
+/boxscores/201404090CLE.html	7:00 pm	Cleveland Cavaliers		Detroit Pistons		
+/boxscores/201404090DEN.html	9:00 pm	Denver Nuggets		Houston Rockets		
+/boxscores/201404090LAC.html	10:30 pm	Los Angeles Clippers		Oklahoma City Thunder		
+/boxscores/201404090MEM.html	8:00 pm	Memphis Grizzlies		Miami Heat		
+/boxscores/201404090MIL.html	8:00 pm	Milwaukee Bucks		Indiana Pacers		
+/boxscores/201404090MIN.html	8:00 pm	Minnesota Timberwolves		Chicago Bulls		
+/boxscores/201404090NOP.html	8:00 pm	New Orleans Pelicans		Phoenix Suns		
+/boxscores/201404090ORL.html	7:00 pm	Orlando Magic		Brooklyn Nets		
+/boxscores/201404090POR.html	10:00 pm	Portland Trail Blazers		Sacramento Kings		
+/boxscores/201404090TOR.html	7:00 pm	Toronto Raptors		Philadelphia 76ers		
+/boxscores/201404090WAS.html	7:00 pm	Washington Wizards		Charlotte Bobcats		
+/boxscores/201404100DAL.html	8:00 pm	Dallas Mavericks		San Antonio Spurs		
+/boxscores/201404100GSW.html	10:30 pm	Golden State Warriors		Denver Nuggets		
+/boxscores/201404110BOS.html	7:30 pm	Boston Celtics		Charlotte Bobcats		
+/boxscores/201404110BRK.html	7:30 pm	Brooklyn Nets		Atlanta Hawks		
+/boxscores/201404110CHI.html	8:00 pm	Chicago Bulls		Detroit Pistons		
+/boxscores/201404110LAL.html	10:30 pm	Los Angeles Lakers		Golden State Warriors		
+/boxscores/201404110MEM.html	8:00 pm	Memphis Grizzlies		Philadelphia 76ers		
+/boxscores/201404110MIA.html	7:30 pm	Miami Heat		Indiana Pacers		
+/boxscores/201404110MIL.html	8:30 pm	Milwaukee Bucks		Cleveland Cavaliers		
+/boxscores/201404110MIN.html	8:00 pm	Minnesota Timberwolves		Houston Rockets		
+/boxscores/201404110OKC.html	8:00 pm	Oklahoma City Thunder		New Orleans Pelicans		
+/boxscores/201404110ORL.html	7:00 pm	Orlando Magic		Washington Wizards		
+/boxscores/201404110SAS.html	8:30 pm	San Antonio Spurs		Phoenix Suns		
+/boxscores/201404110TOR.html	7:00 pm	Toronto Raptors		New York Knicks		
+/boxscores/201404110UTA.html	9:00 pm	Utah Jazz		Portland Trail Blazers		
+/boxscores/201404120ATL.html	7:30 pm	Atlanta Hawks		Miami Heat		
+/boxscores/201404120CHA.html	7:00 pm	Charlotte Bobcats		Philadelphia 76ers		
+/boxscores/201404120CLE.html	7:30 pm	Cleveland Cavaliers		Boston Celtics		
+/boxscores/201404120DAL.html	8:30 pm	Dallas Mavericks		Phoenix Suns		
+/boxscores/201404120DEN.html	9:00 pm	Denver Nuggets		Utah Jazz		
+/boxscores/201404120HOU.html	8:00 pm	Houston Rockets		New Orleans Pelicans		
+/boxscores/201404120LAC.html	3:30 pm	Los Angeles Clippers		Sacramento Kings		
+/boxscores/201404120WAS.html	7:00 pm	Washington Wizards		Milwaukee Bucks		
+/boxscores/201404130BRK.html	6:00 pm	Brooklyn Nets		Orlando Magic		
+/boxscores/201404130DET.html	3:30 pm	Detroit Pistons		Toronto Raptors		
+/boxscores/201404130IND.html	1:00 pm	Indiana Pacers		Oklahoma City Thunder		
+/boxscores/201404130LAL.html	9:30 pm	Los Angeles Lakers		Memphis Grizzlies		
+/boxscores/201404130NYK.html	7:30 pm	New York Knicks		Chicago Bulls		
+/boxscores/201404130POR.html	9:00 pm	Portland Trail Blazers		Golden State Warriors		
+/boxscores/201404130SAC.html	9:00 pm	Sacramento Kings		Minnesota Timberwolves		
+/boxscores/201404140ATL.html	7:30 pm	Atlanta Hawks		Charlotte Bobcats		
+/boxscores/201404140CHI.html	8:00 pm	Chicago Bulls		Orlando Magic		
+/boxscores/201404140GSW.html	10:30 pm	Golden State Warriors		Minnesota Timberwolves		
+/boxscores/201404140HOU.html	8:00 pm	Houston Rockets		San Antonio Spurs		
+/boxscores/201404140NOP.html	8:00 pm	New Orleans Pelicans		Oklahoma City Thunder		
+/boxscores/201404140PHI.html	7:00 pm	Philadelphia 76ers		Boston Celtics		
+/boxscores/201404140PHO.html	10:00 pm	Phoenix Suns		Memphis Grizzlies		
+/boxscores/201404140TOR.html	7:00 pm	Toronto Raptors		Milwaukee Bucks		
+/boxscores/201404140UTA.html	9:00 pm	Utah Jazz		Los Angeles Lakers		
+/boxscores/201404140WAS.html	7:00 pm	Washington Wizards		Miami Heat		
+/boxscores/201404150BRK.html	8:00 pm	Brooklyn Nets		New York Knicks		
+/boxscores/201404150LAC.html	10:30 pm	Los Angeles Clippers		Denver Nuggets		
+/boxscores/201404160BOS.html	8:00 pm	Boston Celtics		Washington Wizards		
+/boxscores/201404160CHA.html	7:00 pm	Charlotte Bobcats		Chicago Bulls		
+/boxscores/201404160CLE.html	8:00 pm	Cleveland Cavaliers		Brooklyn Nets		
+/boxscores/201404160DEN.html	10:30 pm	Denver Nuggets		Golden State Warriors		
+/boxscores/201404160MEM.html	8:00 pm	Memphis Grizzlies		Dallas Mavericks		
+/boxscores/201404160MIA.html	8:00 pm	Miami Heat		Philadelphia 76ers		
+/boxscores/201404160MIL.html	8:00 pm	Milwaukee Bucks		Atlanta Hawks		
+/boxscores/201404160MIN.html	8:00 pm	Minnesota Timberwolves		Utah Jazz		
+/boxscores/201404160NOP.html	8:00 pm	New Orleans Pelicans		Houston Rockets		
+/boxscores/201404160NYK.html	8:00 pm	New York Knicks		Toronto Raptors		
+/boxscores/201404160OKC.html	8:00 pm	Oklahoma City Thunder		Detroit Pistons		
+/boxscores/201404160ORL.html	7:00 pm	Orlando Magic		Indiana Pacers		
+/boxscores/201404160POR.html	10:30 pm	Portland Trail Blazers		Los Angeles Clippers		
+/boxscores/201404160SAC.html	10:30 pm	Sacramento Kings		Phoenix Suns		
+/boxscores/201404160SAS.html	8:00 pm	San Antonio Spurs		Los Angeles Lakers		
+/boxscores/201404190IND.html	7:00 pm	Indiana Pacers		Atlanta Hawks		
+/boxscores/201404190LAC.html	3:30 pm	Los Angeles Clippers		Golden State Warriors		
+/boxscores/201404190OKC.html	9:43 pm	Oklahoma City Thunder		Memphis Grizzlies		
+/boxscores/201404190TOR.html	12:30 am	Toronto Raptors		Brooklyn Nets		
+/boxscores/201404200CHI.html	7:00 pm	Chicago Bulls		Washington Wizards		
+/boxscores/201404200HOU.html	9:30 pm	Houston Rockets		Portland Trail Blazers		
+/boxscores/201404200MIA.html	3:30 pm	Miami Heat		Charlotte Bobcats		
+/boxscores/201404200SAS.html	1:00 pm	San Antonio Spurs		Dallas Mavericks		
+/boxscores/201404210LAC.html	10:30 pm	Los Angeles Clippers		Golden State Warriors		
+/boxscores/201404210OKC.html	8:00 pm	Oklahoma City Thunder		Memphis Grizzlies		
+/boxscores/201404220CHI.html	9:30 pm	Chicago Bulls		Washington Wizards		
+/boxscores/201404220IND.html	7:00 pm	Indiana Pacers		Atlanta Hawks		
+/boxscores/201404220TOR.html	7:30 pm	Toronto Raptors		Brooklyn Nets		
+/boxscores/201404230HOU.html	9:30 pm	Houston Rockets		Portland Trail Blazers		
+/boxscores/201404230MIA.html	7:00 pm	Miami Heat		Charlotte Bobcats		
+/boxscores/201404230SAS.html	8:00 pm	San Antonio Spurs		Dallas Mavericks		
+/boxscores/201404240ATL.html	7:00 pm	Atlanta Hawks		Indiana Pacers		
+/boxscores/201404240GSW.html	10:30 pm	Golden State Warriors		Los Angeles Clippers		
+/boxscores/201404240MEM.html	8:00 pm	Memphis Grizzlies		Oklahoma City Thunder		
+/boxscores/201404250BRK.html	7:00 pm	Brooklyn Nets		Toronto Raptors		
+/boxscores/201404250POR.html	10:30 pm	Portland Trail Blazers		Houston Rockets		
+/boxscores/201404250WAS.html	8:00 pm	Washington Wizards		Chicago Bulls		
+/boxscores/201404260ATL.html	2:00 pm	Atlanta Hawks		Indiana Pacers		
+/boxscores/201404260CHA.html	7:00 pm	Charlotte Bobcats		Miami Heat		
+/boxscores/201404260DAL.html	4:30 pm	Dallas Mavericks		San Antonio Spurs		
+/boxscores/201404260MEM.html	9:30 pm	Memphis Grizzlies		Oklahoma City Thunder		
+/boxscores/201404270BRK.html	7:00 pm	Brooklyn Nets		Toronto Raptors		
+/boxscores/201404270GSW.html	3:30 pm	Golden State Warriors		Los Angeles Clippers		
+/boxscores/201404270POR.html	9:30 pm	Portland Trail Blazers		Houston Rockets		
+/boxscores/201404270WAS.html	1:00 pm	Washington Wizards		Chicago Bulls		
+/boxscores/201404280CHA.html	7:00 pm	Charlotte Bobcats		Miami Heat		
+/boxscores/201404280DAL.html	9:30 pm	Dallas Mavericks		San Antonio Spurs		
+/boxscores/201404280IND.html	8:00 pm	Indiana Pacers		Atlanta Hawks		
+/boxscores/201404290CHI.html	8:00 pm	Chicago Bulls		Washington Wizards		
+/boxscores/201404290LAC.html	10:30 pm	Los Angeles Clippers		Golden State Warriors		
+/boxscores/201404290OKC.html	9:00 pm	Oklahoma City Thunder		Memphis Grizzlies		
+/boxscores/201404300HOU.html	9:30 pm	Houston Rockets		Portland Trail Blazers		
+/boxscores/201404300SAS.html	7:00 pm	San Antonio Spurs		Dallas Mavericks		
+/boxscores/201404300TOR.html	7:30 pm	Toronto Raptors		Brooklyn Nets		
+/boxscores/201405010ATL.html	7:00 pm	Atlanta Hawks		Indiana Pacers		
+/boxscores/201405010GSW.html	10:30 pm	Golden State Warriors		Los Angeles Clippers		
+/boxscores/201405010MEM.html	8:00 pm	Memphis Grizzlies		Oklahoma City Thunder		
+/boxscores/201405020BRK.html	7:00 pm	Brooklyn Nets		Toronto Raptors		
+/boxscores/201405020DAL.html	8:00 pm	Dallas Mavericks		San Antonio Spurs		
+/boxscores/201405020POR.html	10:30 pm	Portland Trail Blazers		Houston Rockets		
+/boxscores/201405030IND.html	5:30 pm	Indiana Pacers		Atlanta Hawks		
+/boxscores/201405030LAC.html	10:30 pm	Los Angeles Clippers		Golden State Warriors		
+/boxscores/201405030OKC.html	8:00 pm	Oklahoma City Thunder		Memphis Grizzlies		
+/boxscores/201405040SAS.html	3:30 pm	San Antonio Spurs		Dallas Mavericks		
+/boxscores/201405040TOR.html	1:00 pm	Toronto Raptors		Brooklyn Nets		
+/boxscores/201405050IND.html	7:00 pm	Indiana Pacers		Washington Wizards		
+/boxscores/201405050OKC.html	9:42 pm	Oklahoma City Thunder		Los Angeles Clippers		
+/boxscores/201405060MIA.html	7:00 pm	Miami Heat		Brooklyn Nets		
+/boxscores/201405060SAS.html	9:30 pm	San Antonio Spurs		Portland Trail Blazers		
+/boxscores/201405070IND.html	7:00 pm	Indiana Pacers		Washington Wizards		
+/boxscores/201405070OKC.html	9:30 pm	Oklahoma City Thunder		Los Angeles Clippers		
+/boxscores/201405080MIA.html	7:00 pm	Miami Heat		Brooklyn Nets		
+/boxscores/201405080SAS.html	9:30 pm	San Antonio Spurs		Portland Trail Blazers		
+/boxscores/201405090LAC.html	10:30 pm	Los Angeles Clippers		Oklahoma City Thunder		
+/boxscores/201405090WAS.html	8:00 pm	Washington Wizards		Indiana Pacers		
+/boxscores/201405100BRK.html	8:00 pm	Brooklyn Nets		Miami Heat		
+/boxscores/201405100POR.html	10:30 pm	Portland Trail Blazers		San Antonio Spurs		
+/boxscores/201405110LAC.html	3:30 pm	Los Angeles Clippers		Oklahoma City Thunder		
+/boxscores/201405110WAS.html	8:00 pm	Washington Wizards		Indiana Pacers		
+/boxscores/201405120BRK.html	8:00 pm	Brooklyn Nets		Miami Heat		
+/boxscores/201405120POR.html	10:30 pm	Portland Trail Blazers		San Antonio Spurs		
+/boxscores/201405130IND.html	7:00 pm	Indiana Pacers		Washington Wizards		
+/boxscores/201405130OKC.html	9:30 pm	Oklahoma City Thunder		Los Angeles Clippers		
+/boxscores/201405140MIA.html	7:00 pm	Miami Heat		Brooklyn Nets		
+/boxscores/201405140SAS.html	9:30 pm	San Antonio Spurs		Portland Trail Blazers		
+/boxscores/201405150LAC.html	10:30 pm	Los Angeles Clippers		Oklahoma City Thunder		
+/boxscores/201405150WAS.html	8:00 pm	Washington Wizards		Indiana Pacers		
+/boxscores/201405180IND.html	3:30 pm	Indiana Pacers		Miami Heat		
+/boxscores/201405190SAS.html	9:00 pm	San Antonio Spurs		Oklahoma City Thunder		
+/boxscores/201405200IND.html	8:30 pm	Indiana Pacers		Miami Heat		
+/boxscores/201405210SAS.html	9:00 pm	San Antonio Spurs		Oklahoma City Thunder		
+/boxscores/201405240MIA.html	8:30 pm	Miami Heat		Indiana Pacers		
+/boxscores/201405250OKC.html	8:30 pm	Oklahoma City Thunder		San Antonio Spurs		
+/boxscores/201405260MIA.html	8:30 pm	Miami Heat		Indiana Pacers		
+/boxscores/201405270OKC.html	9:00 pm	Oklahoma City Thunder		San Antonio Spurs		
+/boxscores/201405280IND.html	8:30 pm	Indiana Pacers		Miami Heat		
+/boxscores/201405290SAS.html	9:00 pm	San Antonio Spurs		Oklahoma City Thunder		
+/boxscores/201405300MIA.html	8:30 pm	Miami Heat		Indiana Pacers		
+/boxscores/201405310OKC.html	8:30 pm	Oklahoma City Thunder		San Antonio Spurs		
+/boxscores/201406050SAS.html	9:00 pm	San Antonio Spurs		Miami Heat		
+/boxscores/201406080SAS.html	8:00 pm	San Antonio Spurs		Miami Heat		
+/boxscores/201406100MIA.html	9:00 pm	Miami Heat		San Antonio Spurs		
+/boxscores/201406120MIA.html	9:00 pm	Miami Heat		San Antonio Spurs		
+/boxscores/201406150SAS.html	8:00 pm	San Antonio Spurs		Miami Heat		

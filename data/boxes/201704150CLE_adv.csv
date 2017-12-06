@@ -1,0 +1,27 @@
+ast_pct,blk_pct,def_rtg,drb_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,gm,mp,off_rtg,orb_pct,player,player_id,stl_pct,team,tov_pct,trb_pct,ts_pct,usg_pct
+27.6,0.0,123,14.9,.632,.421,.368,201704150CLE,41:17,126,0.0,Paul George,georgpa01,1.3,ind,15.3,7.8,.657,29.5
+15.0,0.0,127,6.9,.400,.500,.700,201704150CLE,35:36,133,0.0,Jeff Teague,teaguje01,0.0,ind,7.1,3.6,.573,18.5
+16.1,0.0,126,14.7,.750,.250,.500,201704150CLE,33:29,148,19.9,Thaddeus Young,youngth01,0.0,ind,29.1,17.2,.820,9.6
+4.5,3.0,109,15.2,.417,.000,.167,201704150CLE,32:27,105,16.4,Myles Turner,turnemy01,6.7,ind,7.2,15.8,.427,20.0
+5.3,0.0,121,17.8,.563,.375,.250,201704150CLE,27:36,109,0.0,Monta Ellis,ellismo01,2.0,ind,18.4,9.3,.619,18.4
+20.9,0.0,123,32.1,.615,.154,.000,201704150CLE,26:48,139,0.0,Lance Stephenson,stephla01,0.0,ind,0.0,16.7,.615,22.6
+0.0,0.0,124,7.8,.417,.500,.000,201704150CLE,15:45,96,0.0,C.J. Miles,milescj01,0.0,ind,0.0,4.1,.417,17.8
+0.0,0.0,128,0.0,.667,.000,.000,201704150CLE,15:33,128,25.7,Kevin Seraphin,serapke01,0.0,ind,14.3,12.3,.667,21.0
+24.6,0.0,126,16.9,.833,.667,.000,201704150CLE,7:17,125,0.0,Aaron Brooks,brookaa01,0.0,ind,25.0,8.8,.833,25.6
+0.0,0.0,124,29.3,,,,201704150CLE,4:12,0,0.0,Lavoy Allen,allenla01,0.0,ind,100.0,15.2,,11.1
+,,,,,,,201704150CLE,Did Not Play,,,Al Jefferson,jeffeal01,,ind,,,,
+,,,,,,,201704150CLE,Did Not Play,,,Joe Young,youngjo01,,ind,,,,
+,,,,,,,201704150CLE,Did Not Play,,,Rakeem Christmas,chrisra01,,ind,,,,
+51.2,0.0,117,15.6,.650,.150,.450,201704150CLE,42:44,138,2.9,LeBron James,jamesle01,3.8,cle,11.1,9.0,.668,30.0
+26.0,2.2,120,10.3,.426,.333,.037,201704150CLE,38:55,93,0.0,Kyrie Irving,irvinky01,2.8,cle,6.8,4.9,.419,36.0
+3.3,0.0,129,7.3,.625,.750,.500,201704150CLE,36:36,95,3.4,J.R. Smith,smithjr01,0.0,cle,29.1,5.2,.615,8.9
+4.4,2.7,125,12.7,.667,.667,.889,201704150CLE,31:25,111,3.9,Kevin Love,loveke01,0.0,cle,19.3,8.1,.679,23.5
+4.4,0.0,121,30.4,.800,.000,.600,201704150CLE,30:43,134,24.0,Tristan Thompson,thomptr01,0.0,cle,13.7,27.1,.633,11.3
+6.7,0.0,122,7.3,.500,.333,1.333,201704150CLE,18:18,120,0.0,Richard Jefferson,jefferi01,3.0,cle,0.0,3.5,.525,12.4
+19.9,0.0,126,16.6,1.100,.800,.000,201704150CLE,16:05,212,0.0,Channing Frye,fryech01,0.0,cle,0.0,8.0,1.100,14.8
+0.0,0.0,120,9.0,1.000,.000,.000,201704150CLE,14:47,206,8.3,Kyle Korver,korveky01,3.7,cle,0.0,8.7,1.000,3.2
+14.0,0.0,131,0.0,.625,.500,.000,201704150CLE,10:27,135,0.0,Deron Williams,willide01,0.0,cle,0.0,0.0,.625,18.2
+,,,,,,,201704150CLE,Did Not Play,,,Iman Shumpert,shumpim01,,cle,,,,
+,,,,,,,201704150CLE,Did Not Play,,,James Jones,jonesja02,,cle,,,,
+,,,,,,,201704150CLE,Did Not Play,,,Dahntay Jones,jonesda02,,cle,,,,
+,,,,,,,201704150CLE,Did Not Play,,,Derrick Williams,willide02,,cle,,,,

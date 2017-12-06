@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+4,0,4,7,2,.333,6,.538,13,4,1.000,4,201411010NOP,33:56,0,2,Chandler Parsons,parsoch01,-7,20,0,dal,3,4
+3,0,3,7,0,.000,2,.500,14,3,1.000,3,201411010NOP,32:34,4,4,Monta Ellis,ellismo01,0,17,1,dal,2,7
+4,0,4,3,2,.400,5,.375,8,0,,0,201411010NOP,30:55,1,2,Jameer Nelson,nelsoja01,-1,8,0,dal,1,5
+3,1,6,8,0,.000,5,.421,19,1,.500,2,201411010NOP,29:46,0,5,Dirk Nowitzki,nowitdi01,+14,17,0,dal,4,6
+1,2,6,5,0,,0,.714,7,1,.250,4,201411010NOP,29:43,1,4,Tyson Chandler,chandty01,-4,11,0,dal,1,7
+6,0,3,4,2,.500,4,.571,7,2,.500,4,201411010NOP,27:29,0,2,Devin Harris,harride01,-6,12,1,dal,0,3
+0,3,2,6,0,,0,.857,7,0,,0,201411010NOP,18:17,3,3,Brandan Wright,wrighbr03,+9,12,0,dal,0,5
+0,0,4,1,0,.000,1,.333,3,0,.000,2,201411010NOP,16:19,1,1,Al-Farouq Aminu,aminual01,+3,2,0,dal,0,5
+3,0,0,4,0,.000,1,.571,7,0,,0,201411010NOP,13:37,0,2,J.J. Barea,bareajo01,+13,8,1,dal,1,0
+1,0,1,1,0,.000,1,.250,4,0,,0,201411010NOP,7:24,1,0,Richard Jefferson,jefferi01,+4,2,1,dal,0,2
+,,,,,,,,,,,,201411010NOP,Did Not Play,,,Greg Smith,smithgr02,,,,dal,,
+,,,,,,,,,,,,201411010NOP,Did Not Play,,,Charlie Villanueva,villach01,,,,dal,,
+,,,,,,,,,,,,201411010NOP,Did Not Play,,,Jae Crowder,crowdja01,,,,dal,,
+2,3,9,9,0,,0,.429,21,13,.813,16,201411010NOP,42:48,6,2,Anthony Davis,davisan02,+3,31,2,nop,1,15
+9,1,9,8,3,.500,6,.421,19,3,1.000,3,201411010NOP,37:00,1,5,Tyreke Evans,evansty01,+9,22,2,nop,4,10
+6,0,3,10,3,.375,8,.526,19,1,1.000,1,201411010NOP,36:57,1,4,Jrue Holiday,holidjr01,+7,24,3,nop,2,4
+1,0,1,0,0,.000,1,.000,6,0,,0,201411010NOP,34:14,0,2,Eric Gordon,gordoer01,-8,0,0,nop,4,1
+1,0,5,5,0,,0,.625,8,3,.500,6,201411010NOP,32:49,4,2,Omer Asik,asikom01,-12,13,0,nop,1,9
+1,0,3,5,1,.500,2,.455,11,0,,0,201411010NOP,29:06,2,1,Ryan Anderson,anderry01,-6,11,1,nop,0,5
+4,0,3,1,0,.000,1,.333,3,1,.500,2,201411010NOP,18:25,0,3,Austin Rivers,riverau01,-5,3,0,nop,1,3
+0,0,0,0,0,.000,1,.000,2,0,,0,201411010NOP,5:02,0,0,John Salmons,salmojo01,-8,0,0,nop,0,0
+0,0,0,0,0,,0,,0,0,,0,201411010NOP,3:39,0,0,Jimmer Fredette,fredeji01,-5,0,0,nop,0,0
+,,,,,,,,,,,,201411010NOP,Did Not Play,,,Jeff Withey,witheje01,,,,nop,,
+,,,,,,,,,,,,201411010NOP,Did Not Play,,,Luke Babbitt,babbilu01,,,,nop,,
+,,,,,,,,,,,,201411010NOP,Did Not Play,,,Darius Miller,milleda01,,,,nop,,
+,,,,,,,,,,,,201411010NOP,Did Not Play,,,Alexis Ajinca,ajincal01,,,,nop,,

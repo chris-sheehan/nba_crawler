@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+6,0,6,15,2,.500,4,.500,30,21,.840,25,201601140PHI,49:03,4,4,Jimmy Butler,butleji01,+11,53,3,chi,4,10
+8,1,11,3,0,,0,.375,8,0,,0,201601140PHI,38:12,5,3,Joakim Noah,noahjo01,+11,6,2,chi,7,16
+0,0,4,5,0,,0,.556,9,1,.500,2,201601140PHI,35:26,7,1,Taj Gibson,gibsota01,+5,11,1,chi,1,11
+1,0,4,2,1,.333,3,.500,4,0,,0,201601140PHI,32:18,0,1,Kirk Hinrich,hinriki01,+14,5,1,chi,1,4
+0,1,5,2,1,.200,5,.154,13,2,1.000,2,201601140PHI,23:45,0,3,Nikola Mirotic,mirotni01,-3,7,0,chi,5,5
+0,0,2,7,1,.500,2,.583,12,2,1.000,2,201601140PHI,33:00,1,2,Doug McDermott,mcderdo01,+19,17,1,chi,0,3
+0,0,2,6,2,1.000,2,.750,8,0,,0,201601140PHI,26:24,0,3,E'Twaun Moore,mooreet01,+15,14,1,chi,0,2
+1,0,2,0,0,.000,1,.000,1,0,,0,201601140PHI,11:21,0,1,Tony Snell,snellto01,-18,0,0,chi,2,2
+0,0,0,0,0,,0,.000,1,0,,0,201601140PHI,8:31,0,0,Bobby Portis,portibo01,-18,0,0,chi,0,0
+1,0,0,1,0,,0,.500,2,0,,0,201601140PHI,6:58,0,2,Aaron Brooks,brookaa01,-16,2,0,chi,3,0
+,,,,,,,,,,,,201601140PHI,Did Not Play,,,Derrick Rose,rosede01,,,,chi,,
+,,,,,,,,,,,,201601140PHI,Did Not Play,,,Cristiano Felicio,feliccr01,,,,chi,,
+,,,,,,,,,,,,201601140PHI,Did Not Play,,,Cameron Bairstow,bairsca01,,,,chi,,
+5,0,2,4,3,.600,5,.400,10,1,.500,2,201601140PHI,39:16,0,2,Nik Stauskas,stausni01,-3,12,2,phi,1,2
+8,0,2,10,2,.400,5,.400,25,2,1.000,2,201601140PHI,35:50,2,3,Ish Smith,smithis01,-24,24,2,phi,2,4
+2,1,3,5,0,,0,.455,11,2,.667,3,201601140PHI,33:24,1,1,Jahlil Okafor,okafoja01,+9,12,1,phi,1,4
+2,0,3,1,0,,0,.333,3,3,.750,4,201601140PHI,24:34,1,4,JaKarr Sampson,sampsja02,-7,5,1,phi,2,4
+1,1,3,4,0,.000,1,.500,8,0,,0,201601140PHI,19:09,0,4,Carl Landry,landrca01,+12,8,0,phi,2,3
+1,0,2,3,1,.200,5,.375,8,0,,0,201601140PHI,33:32,0,4,Hollis Thompson,thompho01,+7,7,1,phi,1,2
+1,0,2,8,6,.600,10,.500,16,3,.750,4,201601140PHI,29:38,4,6,Robert Covington,covinro01,-10,25,2,phi,0,6
+0,3,3,3,0,,0,.429,7,2,1.000,2,201601140PHI,24:18,3,3,Nerlens Noel,noelne01,-18,8,1,phi,1,6
+3,0,3,4,0,.000,1,.800,5,2,.667,3,201601140PHI,17:42,0,0,T.J. McConnell,mccontj01,+18,10,3,phi,2,3
+0,0,0,0,0,,0,,0,0,,0,201601140PHI,4:46,0,0,Isaiah Canaan,canaais01,-2,0,0,phi,0,0
+0,0,0,0,0,,0,,0,0,,0,201601140PHI,2:50,0,0,Richaun Holmes,holmeri01,-2,0,0,phi,0,0
+,,,,,,,,,,,,201601140PHI,Did Not Play,,,Kendall Marshall,marshke01,,,,phi,,
+,,,,,,,,,,,,201601140PHI,Did Not Play,,,Jerami Grant,grantje01,,,,phi,,

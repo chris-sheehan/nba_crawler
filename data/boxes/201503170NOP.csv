@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+5,3,8,6,0,,0,.667,9,3,1.000,3,201503170NOP,35:49,1,2,Giannis Antetokounmpo,antetgi01,-6,15,0,mil,1,9
+2,0,6,6,3,.333,9,.400,15,0,,0,201503170NOP,35:31,2,4,Ersan Ilyasova,ilyaser01,-6,15,1,mil,0,8
+2,1,4,2,0,.000,4,.143,14,0,,0,201503170NOP,34:36,0,2,Khris Middleton,middlkh01,+4,4,0,mil,4,4
+4,2,1,2,0,,0,.167,12,2,1.000,2,201503170NOP,25:09,1,1,Michael Carter-Williams,cartemi01,-10,6,1,mil,0,2
+1,1,8,3,0,,0,.333,9,5,.833,6,201503170NOP,24:20,3,4,Zaza Pachulia,pachuza01,-11,11,2,mil,2,11
+5,0,8,4,0,.000,4,.364,11,6,1.000,6,201503170NOP,34:28,0,2,Jerryd Bayless,bayleje01,+10,14,0,mil,2,8
+0,4,5,7,0,,0,.700,10,0,.000,4,201503170NOP,23:40,2,3,John Henson,hensojo01,+10,14,0,mil,0,7
+1,1,0,2,1,.333,3,.333,6,0,,0,201503170NOP,23:13,0,2,Tyler Ennis,ennisty01,+6,5,0,mil,1,0
+0,0,0,0,0,,0,,0,0,,0,201503170NOP,3:14,0,2,Chris Johnson,johnsch04,-2,0,0,mil,0,0
+,,,,,,,,,,,,201503170NOP,Did Not Play,,,Jared Dudley,dudleja01,,,,mil,,
+,,,,,,,,,,,,201503170NOP,Did Not Play,,,Johnny O'Bryant,obryajo01,,,,mil,,
+,,,,,,,,,,,,201503170NOP,Did Not Play,,,O.J. Mayo,mayooj01,,,,mil,,
+,,,,,,,,,,,,201503170NOP,Did Not Play,,,Miles Plumlee,plumlmi01,,,,mil,,
+4,3,11,6,0,,0,.333,18,8,.889,9,201503170NOP,41:30,1,4,Anthony Davis,davisan02,+5,20,1,nop,2,12
+2,0,5,6,5,.500,10,.462,13,1,1.000,1,201503170NOP,38:09,2,1,Quincy Pondexter,pondequ01,+9,18,0,nop,1,7
+6,0,8,5,0,.000,4,.278,18,2,1.000,2,201503170NOP,36:40,1,1,Tyreke Evans,evansty01,+15,12,1,nop,4,9
+7,1,0,3,2,.333,6,.333,9,1,.500,2,201503170NOP,34:36,0,3,Eric Gordon,gordoer01,+6,9,2,nop,2,0
+3,2,7,6,0,,0,.750,8,4,.800,5,201503170NOP,29:16,4,4,Omer Asik,asikom01,+7,16,1,nop,2,11
+3,0,1,2,1,.333,3,.333,6,2,.667,3,201503170NOP,20:22,0,1,Norris Cole,coleno01,-10,7,0,nop,1,1
+0,0,4,1,0,,0,.143,7,1,.500,2,201503170NOP,17:21,2,4,Alexis Ajinca,ajincal01,-6,3,0,nop,0,6
+0,0,4,0,0,,0,.000,1,0,,0,201503170NOP,13:39,0,1,Dante Cunningham,cunnida01,-10,0,1,nop,1,4
+1,0,0,0,0,.000,2,.000,3,0,.000,2,201503170NOP,8:26,0,1,Elliot Williams,williel01,-11,0,0,nop,0,0
+,,,,,,,,,,,,201503170NOP,Did Not Play,,,Ryan Anderson,anderry01,,,,nop,,
+,,,,,,,,,,,,201503170NOP,Did Not Play,,,Jimmer Fredette,fredeji01,,,,nop,,
+,,,,,,,,,,,,201503170NOP,Did Not Play,,,Luke Babbitt,babbilu01,,,,nop,,
+,,,,,,,,,,,,201503170NOP,Did Not Play,,,Jeff Withey,witheje01,,,,nop,,

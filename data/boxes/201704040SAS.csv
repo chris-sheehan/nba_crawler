@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+6,0,2,8,2,.400,5,.471,17,1,1.000,1,201704040SAS,32:55,0,3,Mike Conley,conlemi01,+2,19,2,mem,5,2
+7,0,4,5,1,.333,3,.455,11,0,,0,201704040SAS,30:01,2,2,Marc Gasol,gasolma01,-4,11,1,mem,2,6
+2,0,2,3,2,.667,3,.750,4,0,,0,201704040SAS,26:39,0,1,Vince Carter,cartevi01,-2,8,0,mem,2,2
+2,0,4,1,0,.000,1,.250,4,2,1.000,2,201704040SAS,26:23,1,3,James Ennis,ennisja01,-7,4,2,mem,1,5
+0,0,2,1,0,,0,.333,3,0,,0,201704040SAS,14:02,0,2,JaMychal Green,greenja01,-18,2,0,mem,0,2
+2,0,12,7,0,.000,3,.333,21,4,.667,6,201704040SAS,35:14,4,1,Zach Randolph,randoza01,+8,18,2,mem,0,16
+2,0,4,4,2,.333,6,.444,9,0,.000,1,201704040SAS,29:37,2,2,Troy Daniels,danietr01,-3,10,0,mem,1,6
+0,1,3,3,0,,0,.500,6,0,,0,201704040SAS,26:46,1,2,Brandan Wright,wrighbr03,-3,6,0,mem,0,4
+1,1,0,3,1,.250,4,.375,8,3,.500,6,201704040SAS,23:49,0,0,Wayne Selden,seldewa01,+2,10,2,mem,2,0
+4,0,5,0,0,,0,.000,6,1,.500,2,201704040SAS,19:34,2,4,Wade Baldwin,baldwwa01,-5,1,0,mem,2,7
+,,,,,,,,,,,,201704040SAS,Did Not Play,,,Andrew Harrison,harrian01,,,,mem,,
+,,,,,,,,,,,,201704040SAS,Did Not Play,,,Jarell Martin,martija01,,,,mem,,
+,,,,,,,,,,,,201704040SAS,Did Not Play,,,Deyonta Davis,davisde01,,,,mem,,
+0,3,5,6,1,.500,2,.500,12,2,.500,4,201704040SAS,41:08,1,3,LaMarcus Aldridge,aldrila01,+5,15,1,sas,1,6
+4,1,12,10,5,.625,8,.417,24,7,.875,8,201704040SAS,39:40,0,5,Kawhi Leonard,leonaka01,+10,32,2,sas,1,12
+7,0,1,4,1,1.000,1,.500,8,1,.500,2,201704040SAS,30:31,0,1,Tony Parker,parketo01,+2,10,2,sas,3,1
+4,0,1,4,0,.000,1,.500,8,0,,0,201704040SAS,27:28,1,3,Jonathon Simmons,simmojo02,+5,8,1,sas,3,2
+1,0,3,1,0,,0,1.000,1,2,1.000,2,201704040SAS,15:57,0,2,Dewayne Dedmon,dedmode01,+10,4,0,sas,0,3
+1,2,8,5,2,1.000,2,.833,6,0,,0,201704040SAS,31:21,3,3,Pau Gasol,gasolpa01,-2,12,0,sas,1,11
+1,0,3,3,2,.667,3,.429,7,2,1.000,2,201704040SAS,25:18,1,0,Patty Mills,millspa02,0,10,2,sas,2,4
+1,0,1,0,0,,0,.000,2,0,,0,201704040SAS,17:15,1,2,David Lee,leeda02,-2,0,0,sas,1,2
+0,0,3,2,0,.000,2,.286,7,0,,0,201704040SAS,17:12,1,1,Kyle Anderson,anderky01,-4,4,0,sas,2,4
+3,0,0,0,0,.000,2,.000,3,0,,0,201704040SAS,12:57,0,0,Bryn Forbes,forbebr01,+13,0,0,sas,0,0
+0,0,1,0,0,,0,.000,2,0,,0,201704040SAS,6:13,0,0,Manu Ginobili,ginobma01,-7,0,0,sas,1,1
+,,,,,,,,,,,,201704040SAS,Did Not Play,,,Joel Anthony,anthojo01,,,,sas,,
+,,,,,,,,,,,,201704040SAS,Did Not Play,,,Davis Bertans,bertada01,,,,sas,,

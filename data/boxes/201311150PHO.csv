@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+1,0,3,6,0,.000,4,.316,19,1,.500,2,201311150PHO,44:47,2,3,Joe Johnson,johnsjo02,+10,13,0,brk,2,5
+0,0,4,5,1,.250,4,.417,12,3,.750,4,201311150PHO,40:57,0,1,Paul Pierce,piercpa01,+6,14,0,brk,1,4
+0,3,3,9,0,,0,.563,16,9,.900,10,201311150PHO,36:03,4,4,Brook Lopez,lopezbr01,+1,27,0,brk,4,7
+2,0,11,2,0,,0,.250,8,0,,0,201311150PHO,27:36,3,2,Kevin Garnett,garneke01,+5,4,1,brk,0,14
+0,0,1,1,0,,0,.500,2,0,,0,201311150PHO,4:40,0,0,Deron Williams,willide01,-4,2,0,brk,0,1
+6,1,1,7,0,,0,.583,12,4,.800,5,201311150PHO,37:00,2,3,Shaun Livingston,livinsh01,+16,18,2,brk,2,3
+1,0,0,1,0,.000,1,.333,3,1,.500,2,201311150PHO,18:13,0,2,Jason Terry,terryja01,-14,3,1,brk,1,0
+1,0,4,2,0,,0,.333,6,3,.750,4,201311150PHO,17:47,3,2,Andray Blatche,blatcan01,-15,7,1,brk,2,7
+2,0,3,3,0,,0,1.000,3,1,.500,2,201311150PHO,13:15,0,5,Mason Plumlee,plumlma01,0,7,0,brk,0,3
+1,0,1,1,1,.333,3,.250,4,0,,0,201311150PHO,11:22,0,0,Alan Anderson,anderal01,-7,3,0,brk,0,1
+0,0,2,1,0,,0,1.000,1,0,,0,201311150PHO,7:37,0,2,Mirza Teletovic,teletmi01,+12,2,0,brk,0,2
+0,0,2,0,0,,0,.000,1,0,,0,201311150PHO,3:42,0,1,Reggie Evans,evansre01,+1,0,1,brk,0,2
+0,0,0,0,0,,0,,0,0,,0,201311150PHO,2:01,0,0,Tyshawn Taylor,tayloty01,-1,0,2,brk,0,0
+10,0,1,5,0,.000,4,.417,12,9,.900,10,201311150PHO,46:19,0,1,Goran Dragic,dragigo01,0,19,2,pho,4,1
+4,0,6,5,1,.167,6,.385,13,4,1.000,4,201311150PHO,39:44,1,1,Eric Bledsoe,bledser01,-15,15,2,pho,2,7
+0,0,3,7,3,.750,4,.636,11,0,,0,201311150PHO,35:51,2,2,P.J. Tucker,tuckepj01,-1,17,0,pho,0,5
+1,2,5,3,0,,0,.300,10,0,,0,201311150PHO,35:17,2,5,Miles Plumlee,plumlmi01,-18,6,0,pho,4,7
+1,1,4,4,2,.500,4,.500,8,3,1.000,3,201311150PHO,28:39,1,4,Channing Frye,fryech01,+19,13,1,pho,0,5
+0,0,7,5,2,1.000,2,.714,7,1,.500,2,201311150PHO,25:58,2,3,Marcus Morris,morrima03,+10,13,1,pho,2,9
+1,1,5,1,1,.500,2,.111,9,1,.500,2,201311150PHO,21:06,1,0,Markieff Morris,morrima02,-17,4,2,pho,1,6
+0,0,0,3,1,.200,5,.429,7,1,.333,3,201311150PHO,17:56,0,4,Gerald Green,greenge01,+9,8,0,pho,1,0
+0,0,1,1,0,.000,1,.500,2,1,1.000,1,201311150PHO,7:50,0,0,Archie Goodwin,goodwar01,+7,3,0,pho,1,1
+0,0,1,0,0,,0,,0,0,,0,201311150PHO,4:48,0,2,Viacheslav Kravtsov,kravtvi01,-1,0,0,pho,1,1
+0,0,0,0,0,,0,,0,0,,0,201311150PHO,1:32,0,1,Ish Smith,smithis01,-3,0,0,pho,0,0
+,,,,,,,,,,,,201311150PHO,Did Not Play,,,Alex Len,lenal01,,,,pho,,
+,,,,,,,,,,,,201311150PHO,Did Not Play,,,Dionte Christmas,chrisdi01,,,,pho,,

@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+4,1,8,6,2,.500,4,.400,15,9,.900,10,201405090WAS,42:11,0,3,Paul George,georgpa01,+21,23,3,ind,4,8
+5,0,4,3,3,.600,5,.500,6,0,,0,201405090WAS,36:14,0,2,George Hill,hillge01,+23,9,3,ind,2,4
+5,0,6,4,1,.333,3,.308,13,0,.000,1,201405090WAS,34:45,1,2,Lance Stephenson,stephla01,+21,9,0,ind,1,7
+4,1,3,6,0,.000,1,.429,14,0,,0,201405090WAS,33:22,0,3,David West,westda01,+27,12,1,ind,0,3
+0,3,5,6,0,,0,.667,9,2,.500,4,201405090WAS,29:34,1,5,Roy Hibbert,hibbero01,+15,14,0,ind,1,6
+0,1,5,0,0,,0,,0,2,1.000,2,201405090WAS,18:26,2,2,Ian Mahinmi,mahinia01,+7,2,1,ind,0,7
+1,0,2,2,0,,0,.333,6,0,,0,201405090WAS,17:32,0,2,Evan Turner,turneev01,-2,4,0,ind,1,2
+0,0,3,4,1,1.000,1,.500,8,2,1.000,2,201405090WAS,14:38,0,1,Luis Scola,scolalu01,-5,11,1,ind,0,3
+0,0,2,0,0,.000,1,.000,3,1,.500,2,201405090WAS,11:46,0,0,C.J. Watson,watsocj01,-1,1,0,ind,0,2
+1,0,0,0,0,,0,,0,0,,0,201405090WAS,1:32,0,0,Rasual Butler,butlera01,+4,0,0,ind,0,0
+,,,,,,,,,,,,201405090WAS,Did Not Play,,,Lavoy Allen,allenla01,,,,ind,,
+,,,,,,,,,,,,201405090WAS,Did Not Play,,,Chris Copeland,copelch01,,,,ind,,
+,,,,,,,,,,,,201405090WAS,Did Not Play,,,Donald Sloan,sloando01,,,,ind,,
+2,2,3,6,1,.200,5,.316,19,3,1.000,3,201405090WAS,40:27,0,3,Bradley Beal,bealbr01,-18,16,1,was,2,3
+6,1,4,6,0,.000,1,.462,13,3,.500,6,201405090WAS,40:20,0,3,John Wall,walljo01,-18,15,1,was,7,4
+0,0,10,4,2,.333,6,.500,8,2,.500,4,201405090WAS,36:07,5,3,Trevor Ariza,arizatr01,-24,12,3,was,1,15
+0,2,2,3,0,,0,.214,14,2,.333,6,201405090WAS,33:46,1,2,Nene Hilario,hilarne01,-14,8,0,was,3,3
+0,0,10,2,0,,0,.286,7,0,,0,201405090WAS,30:15,0,2,Marcin Gortat,gortama01,-17,4,0,was,2,10
+0,0,4,0,0,,0,.000,1,1,.500,2,201405090WAS,17:20,2,3,Drew Gooden,goodedr01,+2,1,1,was,0,6
+1,0,0,0,0,.000,2,.000,3,0,,0,201405090WAS,16:56,0,3,Martell Webster,webstma02,0,0,0,was,0,0
+0,0,0,1,0,.000,1,.500,2,0,,0,201405090WAS,8:42,1,1,Al Harrington,harrial01,-9,2,0,was,0,1
+0,0,0,1,0,,0,.333,3,0,,0,201405090WAS,6:08,0,0,Andre Miller,millean02,0,2,0,was,2,0
+1,0,2,0,0,,0,,0,0,,0,201405090WAS,4:25,0,2,Trevor Booker,booketr01,-2,0,0,was,0,2
+0,0,0,1,1,1.000,1,1.000,1,0,,0,201405090WAS,2:30,0,0,Garrett Temple,templga01,-2,3,0,was,0,0
+0,0,0,0,0,,0,.000,1,0,,0,201405090WAS,1:32,0,0,Otto Porter,porteot01,-4,0,0,was,0,0
+0,0,0,0,0,,0,.000,1,0,,0,201405090WAS,1:32,1,0,Kevin Seraphin,serapke01,-4,0,0,was,0,1

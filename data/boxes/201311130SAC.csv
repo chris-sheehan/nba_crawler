@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+1,0,1,3,0,.000,2,.300,10,4,.667,6,201311130SAC,36:13,1,1,Joe Johnson,johnsjo02,-22,10,0,brk,0,2
+7,1,2,5,2,.400,5,.385,13,1,.500,2,201311130SAC,35:06,0,2,Deron Williams,willide01,-4,13,1,brk,4,2
+1,0,9,4,0,,0,.333,12,4,.800,5,201311130SAC,29:07,0,3,Paul Pierce,piercpa01,-9,12,0,brk,1,9
+0,5,5,6,0,,0,.500,12,4,1.000,4,201311130SAC,26:39,4,3,Brook Lopez,lopezbr01,-19,16,0,brk,1,9
+1,1,8,2,0,,0,.222,9,2,1.000,2,201311130SAC,14:37,0,1,Kevin Garnett,garneke01,-15,6,0,brk,1,8
+0,0,4,1,0,,0,1.000,1,1,.333,3,201311130SAC,17:49,1,2,Mason Plumlee,plumlma01,-11,3,0,brk,0,5
+1,0,1,1,0,.000,1,.250,4,0,,0,201311130SAC,16:52,0,3,Jason Terry,terryja01,-11,2,0,brk,1,1
+0,0,3,1,1,.250,4,.250,4,0,,0,201311130SAC,16:24,0,3,Alan Anderson,anderal01,+2,3,0,brk,2,3
+1,0,0,5,0,,0,.833,6,3,1.000,3,201311130SAC,15:24,2,1,Shaun Livingston,livinsh01,-10,13,0,brk,2,2
+1,0,5,2,0,,0,.400,5,0,,0,201311130SAC,14:47,0,2,Andray Blatche,blatcan01,-8,4,1,brk,2,5
+0,0,4,1,0,,0,.500,2,2,1.000,2,201311130SAC,12:26,2,1,Reggie Evans,evansre01,+8,4,0,brk,1,6
+1,0,0,0,0,,0,.000,3,0,,0,201311130SAC,2:18,0,0,Tyshawn Taylor,tayloty01,-3,0,0,brk,0,0
+0,0,0,0,0,.000,1,.000,1,0,,0,201311130SAC,2:18,0,1,Mirza Teletovic,teletmi01,-3,0,0,brk,0,0
+12,0,3,7,2,.333,6,.538,13,1,1.000,1,201311130SAC,32:33,1,4,Greivis Vasquez,vasqugr01,+22,17,1,sac,2,4
+2,0,1,3,0,,0,.600,5,1,1.000,1,201311130SAC,31:10,0,2,John Salmons,salmojo01,+18,7,2,sac,0,1
+0,0,10,4,0,,0,.333,12,1,.250,4,201311130SAC,26:02,1,3,Jason Thompson,thompja02,-3,9,0,sac,0,11
+1,3,7,5,0,,0,.357,14,5,.833,6,201311130SAC,21:49,2,6,DeMarcus Cousins,couside01,+1,15,1,sac,1,9
+2,0,0,1,0,.000,2,.125,8,0,,0,201311130SAC,14:52,0,0,Ben McLemore,mclembe01,0,2,0,sac,1,0
+2,0,2,10,4,.444,9,.526,19,0,.000,1,201311130SAC,33:38,2,1,Marcus Thornton,thornma01,+21,24,1,sac,0,4
+6,0,3,5,2,.667,3,.455,11,7,1.000,7,201311130SAC,25:41,3,1,Isaiah Thomas,thomais02,+6,19,1,sac,1,6
+0,0,8,4,0,.000,3,.500,8,0,.000,1,201311130SAC,25:33,2,1,Patrick Patterson,pattepa01,+30,8,0,sac,1,10
+0,0,2,2,0,.000,1,.500,4,2,1.000,2,201311130SAC,16:21,0,2,Travis Outlaw,outlatr01,+3,6,1,sac,0,2
+1,0,2,0,0,,0,,0,0,,0,201311130SAC,7:33,1,2,Chuck Hayes,hayesch01,+13,0,0,sac,0,3
+0,0,0,0,0,,0,,0,0,,0,201311130SAC,4:20,0,1,Luc Mbah a Moute,mbahalu01,-6,0,1,sac,0,0
+0,0,0,0,0,,0,,0,0,,0,201311130SAC,0:28,0,0,Hamady N'Diaye,ndiayha01,0,0,0,sac,0,0
+,,,,,,,,,,,,201311130SAC,Did Not Play,,,Jimmer Fredette,fredeji01,,,,sac,,

@@ -1,0 +1,27 @@
+ast_pct,blk_pct,def_rtg,drb_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,gm,mp,off_rtg,orb_pct,player,player_id,stl_pct,team,tov_pct,trb_pct,ts_pct,usg_pct
+24.5,6.7,107,27.3,.650,.400,.200,201503240POR,37:10,127,0.0,Draymond Green,greendr01,0.0,gsw,15.5,17.5,.643,16.5
+0.0,0.0,120,7.8,.917,.167,.333,201503240POR,35:41,152,0.0,Harrison Barnes,barneha02,0.0,gsw,12.7,5.0,.945,10.5
+41.8,0.0,117,5.2,.705,.409,.091,201503240POR,35:26,141,0.0,Stephen Curry,curryst01,1.4,gsw,8.0,3.3,.721,33.4
+9.9,3.3,113,7.3,.500,.231,.231,201503240POR,25:12,120,0.0,Klay Thompson,thompkl01,2.0,gsw,0.0,4.7,.559,27.0
+30.3,0.0,102,42.7,.625,.000,.000,201503240POR,23:48,138,34.8,Andrew Bogut,bogutan01,2.1,gsw,20.0,39.8,.625,20.0
+17.0,0.0,114,11.8,.955,.364,.000,201503240POR,31:10,115,0.0,Andre Iguodala,iguodan01,1.6,gsw,31.3,7.6,.955,24.4
+0.0,0.0,120,5.1,.400,.600,.000,201503240POR,18:15,64,0.0,Justin Holiday,holidju01,0.0,gsw,16.7,3.2,.400,15.6
+29.7,0.0,114,21.6,.500,.667,.667,201503240POR,17:07,167,0.0,Leandro Barbosa,barbole01,0.0,gsw,0.0,13.8,.644,10.8
+10.3,7.3,110,16.4,.667,.000,.000,201503240POR,11:17,153,14.7,Festus Ezeli,ezelife01,0.0,gsw,0.0,15.8,.667,12.7
+24.4,0.0,122,0.0,.500,.000,.000,201503240POR,4:54,122,0.0,Marreese Speights,speigma01,0.0,gsw,0.0,0.0,.500,19.4
+,,,,,,,201503240POR,Did Not Play,,,James Michael McAdoo,mcadoja01,,gsw,,,,
+,,,,,,,201503240POR,Did Not Play,,,Brandon Rush,rushbr01,,gsw,,,,
+,,,,,,,201503240POR,Did Not Play,,,David Lee,leeda02,,gsw,,,,
+28.3,2.6,128,20.2,.571,.524,.238,201503240POR,32:50,117,8.4,Damian Lillard,lillada01,1.5,por,14.7,12.6,.625,36.0
+9.7,0.0,132,0.0,.500,.100,.000,201503240POR,31:25,122,8.8,Alonzo Gee,geeal01,1.6,por,0.0,5.7,.500,13.8
+10.6,0.0,135,5.9,.450,.400,.000,201503240POR,28:13,82,0.0,Arron Afflalo,afflaar01,0.0,por,16.7,2.1,.450,18.5
+18.8,4.0,129,31.7,.200,.000,.000,201503240POR,20:52,101,13.3,Robin Lopez,lopezro01,0.0,por,0.0,19.9,.200,10.4
+15.4,0.0,133,31.7,.500,.400,.200,201503240POR,20:52,125,4.4,Dorell Wright,wrighdo01,0.0,por,0.0,14.2,.551,22.7
+13.9,0.0,123,5.7,.583,.278,.222,201503240POR,28:48,106,0.0,C.J. McCollum,mccolcj01,5.3,por,9.2,2.1,.582,32.9
+0.0,0.0,128,28.3,.500,.000,.333,201503240POR,23:22,104,0.0,Joel Freeland,freeljo01,2.2,por,0.0,10.1,.509,12.8
+11.9,0.0,125,7.2,.357,.571,.286,201503240POR,23:07,93,0.0,Allen Crabbe,crabbal01,4.4,por,0.0,2.6,.381,14.8
+47.5,0.0,127,10.7,.750,1.000,1.000,201503240POR,15:25,167,0.0,Steve Blake,blakest01,3.3,por,14.8,3.8,.868,19.1
+0.0,0.0,133,32.9,.000,1.000,.000,201503240POR,15:06,59,12.2,Meyers Leonard,leoname01,0.0,por,50.0,19.6,.000,5.8
+,,,,,,,201503240POR,Did Not Play,,,Nicolas Batum,batumni01,,por,,,,
+,,,,,,,201503240POR,Did Not Play,,,Chris Kaman,kamanch01,,por,,,,
+,,,,,,,201503240POR,Did Not Play,,,LaMarcus Aldridge,aldrila01,,por,,,,

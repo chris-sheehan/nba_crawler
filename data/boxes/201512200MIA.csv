@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+9,0,1,10,3,.333,9,.556,18,9,.818,11,201512200MIA,37:24,1,3,Damian Lillard,lillada01,+6,32,1,por,6,2
+6,0,3,8,4,.444,9,.421,19,0,,0,201512200MIA,33:24,0,1,C.J. McCollum,mccolcj01,-15,20,1,por,2,3
+2,0,3,6,4,.571,7,.667,9,0,,0,201512200MIA,32:13,1,3,Al-Farouq Aminu,aminual01,-6,16,3,por,2,4
+2,0,3,3,0,.000,1,.600,5,5,.714,7,201512200MIA,30:58,4,4,Mason Plumlee,plumlma01,-10,11,0,por,5,7
+0,0,2,1,0,,0,.250,4,0,,0,201512200MIA,11:00,1,3,Noah Vonleh,vonleno01,-12,2,0,por,1,3
+1,0,4,3,0,.000,3,.333,9,2,1.000,2,201512200MIA,30:15,0,2,Allen Crabbe,crabbal01,-1,8,2,por,0,4
+1,0,8,3,2,.667,3,.600,5,0,,0,201512200MIA,25:25,1,3,Meyers Leonard,leoname01,+7,8,0,por,0,9
+1,0,3,2,0,,0,.500,4,2,1.000,2,201512200MIA,16:51,1,5,Ed Davis,davised01,-6,6,0,por,0,4
+1,0,3,1,0,.000,1,.333,3,0,,0,201512200MIA,13:40,1,0,Maurice Harkless,harklma01,+3,2,0,por,0,4
+0,0,2,2,0,.000,1,.500,4,0,,0,201512200MIA,8:47,0,0,Gerald Henderson,hendege02,+1,4,0,por,3,2
+0,0,0,0,0,,0,,0,0,,0,201512200MIA,0:02,0,0,Tim Frazier,fraziti01,-2,0,0,por,0,0
+,,,,,,,,,,,,201512200MIA,Did Not Play,,,Chris Kaman,kamanch01,,,,por,,
+,,,,,,,,,,,,201512200MIA,Did Not Play,,,Pat Connaughton,connapa01,,,,por,,
+1,5,8,10,0,,0,.769,13,2,.500,4,201512200MIA,37:38,3,3,Hassan Whiteside,whiteha01,+11,22,2,mia,2,11
+1,0,2,5,5,.833,6,.714,7,2,1.000,2,201512200MIA,32:34,0,3,Luol Deng,denglu01,+5,17,0,mia,1,2
+4,0,6,11,3,.429,7,.579,19,4,.800,5,201512200MIA,30:52,0,2,Chris Bosh,boshch01,+8,29,2,mia,5,6
+7,0,1,6,0,,0,.545,11,6,.667,9,201512200MIA,27:22,1,3,Dwyane Wade,wadedw01,0,18,2,mia,2,2
+8,1,1,4,0,.000,1,.400,10,0,,0,201512200MIA,27:08,1,2,Goran Dragic,dragigo01,+2,8,2,mia,0,2
+1,0,1,6,4,.667,6,.667,9,1,.333,3,201512200MIA,32:14,0,1,Gerald Green,greenge01,+7,17,0,mia,0,1
+1,1,3,1,0,.000,2,.333,3,1,1.000,1,201512200MIA,24:41,0,0,Justise Winslow,winslju01,-3,3,3,mia,0,3
+2,0,1,0,0,.000,1,.000,3,2,1.000,2,201512200MIA,20:15,0,0,Beno Udrih,udrihbe01,+8,2,0,mia,1,1
+1,0,2,0,0,,0,,0,0,,0,201512200MIA,7:15,0,0,Udonis Haslem,hasleud01,-3,0,0,mia,0,2
+,,,,,,,,,,,,201512200MIA,Did Not Play,,,Josh Richardson,richajo01,,,,mia,,
+,,,,,,,,,,,,201512200MIA,Did Not Play,,,Amar'e Stoudemire,stoudam01,,,,mia,,
+,,,,,,,,,,,,201512200MIA,Did Not Play,,,Chris Andersen,anderch01,,,,mia,,
+,,,,,,,,,,,,201512200MIA,Did Not Play,,,Jarnell Stokes,stokeja01,,,,mia,,

@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+4,0,6,9,2,.333,6,.563,16,3,.750,4,201612080NOP,31:30,2,2,Ersan Ilyasova,ilyaser01,+9,23,1,phi,1,8
+1,1,5,3,1,.200,5,.333,9,0,,0,201612080NOP,31:11,2,1,Robert Covington,covinro01,+12,7,1,phi,2,7
+8,0,2,6,4,.500,8,.462,13,0,,0,201612080NOP,30:06,0,2,Sergio Rodriguez,rodrise01,+14,16,2,phi,1,2
+2,4,4,5,0,.000,5,.333,15,4,.800,5,201612080NOP,27:03,3,3,Joel Embiid,embiijo01,+27,14,3,phi,3,7
+1,0,4,1,0,.000,1,.167,6,0,,0,201612080NOP,24:17,0,2,Gerald Henderson,hendege02,+10,2,0,phi,1,4
+1,1,3,5,2,.333,6,.455,11,1,1.000,1,201612080NOP,25:13,2,2,Dario Saric,saricda01,+10,13,0,phi,1,5
+5,0,1,5,3,.600,5,.714,7,1,1.000,1,201612080NOP,21:53,1,0,Nik Stauskas,stausni01,-4,14,0,phi,0,2
+1,2,7,4,0,,0,.667,6,0,.000,2,201612080NOP,20:03,0,4,Richaun Holmes,holmeri01,-12,8,0,phi,0,7
+4,0,2,1,0,.000,1,.200,5,0,,0,201612080NOP,18:48,1,2,T.J. McConnell,mccontj01,-7,2,1,phi,1,3
+0,0,1,0,0,.000,1,.000,1,0,,0,201612080NOP,6:35,0,0,Hollis Thompson,thompho01,+2,0,0,phi,0,1
+0,0,0,0,0,.000,2,.000,2,0,,0,201612080NOP,3:21,0,2,Timothe Luwawu-Cabarrot,luwawti01,-6,0,0,phi,0,0
+,,,,,,,,,,,,201612080NOP,Not With Team,,,Jerryd Bayless,bayleje01,,,,phi,,
+,,,,,,,,,,,,201612080NOP,Not With Team,,,Jahlil Okafor,okafoja01,,,,phi,,
+2,2,10,8,0,.000,2,.381,21,10,.833,12,201612080NOP,40:33,1,1,Anthony Davis,davisan02,-10,26,0,nop,3,11
+3,0,3,3,1,.333,3,.429,7,1,.500,2,201612080NOP,37:37,1,2,Solomon Hill,hillso01,-13,8,0,nop,3,4
+2,0,4,2,2,.333,6,.167,12,0,,0,201612080NOP,34:08,0,1,Buddy Hield,hieldbu01,-2,6,0,nop,1,4
+6,0,4,3,1,.333,3,.429,7,0,,0,201612080NOP,29:18,2,3,Tim Frazier,fraziti01,-18,7,0,nop,3,6
+0,0,3,4,0,,0,.667,6,0,,0,201612080NOP,13:44,1,4,Alexis Ajinca,ajincal01,-2,8,0,nop,0,4
+2,0,3,8,3,.500,6,.500,16,0,.000,1,201612080NOP,28:25,1,2,Langston Galloway,gallola01,-3,19,1,nop,1,4
+2,0,4,3,0,,0,.750,4,2,.667,3,201612080NOP,19:50,5,3,Omer Asik,asikom01,-5,8,1,nop,0,9
+0,0,3,2,0,.000,2,.500,4,2,.500,4,201612080NOP,18:40,0,1,Terrence Jones,joneste01,-3,6,0,nop,1,3
+1,0,2,0,0,.000,3,.000,7,0,,0,201612080NOP,17:45,0,0,Anthony Brown,brownan02,+1,0,1,nop,0,2
+,,,,,,,,,,,,201612080NOP,Did Not Play,,,Dante Cunningham,cunnida01,,,,nop,,
+,,,,,,,,,,,,201612080NOP,Did Not Play,,,Jrue Holiday,holidjr01,,,,nop,,
+,,,,,,,,,,,,201612080NOP,Did Not Play,,,Cheick Diallo,diallch01,,,,nop,,
+,,,,,,,,,,,,201612080NOP,Did Not Play,,,E'Twaun Moore,mooreet01,,,,nop,,

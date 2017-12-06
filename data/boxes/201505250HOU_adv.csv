@@ -1,0 +1,27 @@
+ast_pct,blk_pct,def_rtg,drb_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,gm,mp,off_rtg,orb_pct,player,player_id,stl_pct,team,tov_pct,trb_pct,ts_pct,usg_pct
+14.5,13.7,116,35.2,.714,.357,.071,201505250HOU,39:52,128,6.9,Draymond Green,greendr01,0.0,gsw,17.2,19.4,.727,17.8
+7.7,0.0,123,6.2,.571,.619,.000,201505250HOU,38:03,96,2.4,Klay Thompson,thompkl01,2.4,gsw,16.0,4.1,.571,26.8
+18.7,0.0,129,0.0,.556,.722,.167,201505250HOU,30:59,130,3.0,Stephen Curry,curryst01,0.0,gsw,0.0,1.7,.595,25.4
+13.9,0.0,125,11.7,.538,.308,.000,201505250HOU,30:07,123,6.1,Harrison Barnes,barneha02,1.5,gsw,0.0,8.6,.538,17.6
+21.1,5.3,121,45.4,.000,.000,2.000,201505250HOU,20:38,46,0.0,Andrew Bogut,bogutan01,0.0,gsw,61.5,20.0,.000,9.6
+10.0,12.5,106,26.9,.556,.667,.556,201505250HOU,26:06,107,3.5,Andre Iguodala,iguodan01,5.2,gsw,15.2,13.8,.580,20.6
+11.5,0.0,128,9.6,.600,.500,.000,201505250HOU,24:27,125,0.0,Leandro Barbosa,barbole01,0.0,gsw,0.0,4.2,.600,16.7
+23.3,0.0,122,0.0,.333,.000,.000,201505250HOU,16:15,70,0.0,Shaun Livingston,livinsh01,2.8,gsw,25.0,0.0,.333,20.1
+27.2,0.0,116,34.4,.400,.000,.400,201505250HOU,10:12,102,18.1,Festus Ezeli,ezelife01,4.4,gsw,0.0,25.3,.340,23.5
+0.0,0.0,94,34.9,,,,201505250HOU,3:21,0,0.0,David Lee,leeda02,13.5,gsw,100.0,15.4,,12.2
+,,,,,,,201505250HOU,Did Not Play,,,Brandon Rush,rushbr01,,gsw,,,,
+,,,,,,,201505250HOU,Did Not Play,,,Justin Holiday,holidju01,,gsw,,,,
+,,,,,,,201505250HOU,Did Not Play,,,James Michael McAdoo,mcadoja01,,gsw,,,,
+9.6,2.3,109,11.4,.650,.700,.400,201505250HOU,40:29,151,0.0,Trevor Ariza,arizatr01,2.2,hou,0.0,6.4,.723,12.6
+21.6,4.7,106,16.0,.750,.500,.591,201505250HOU,40:20,151,5.8,James Harden,hardeja01,2.2,hou,9.8,11.5,.812,33.0
+0.0,5.5,101,29.7,.600,.000,.700,201505250HOU,34:11,86,3.4,Dwight Howard,howardw01,2.6,hou,18.7,18.1,.535,20.4
+17.0,0.0,110,18.0,.556,.667,.000,201505250HOU,30:42,114,0.0,Jason Terry,terryja01,1.5,hou,10.0,10.1,.556,14.1
+27.8,6.7,109,19.9,1.063,.500,1.500,201505250HOU,27:54,104,0.0,Josh Smith,smithjo03,0.0,hou,31.1,11.1,.753,29.9
+13.3,8.0,109,15.7,.591,.182,.091,201505250HOU,23:32,119,5.0,Terrence Jones,joneste01,0.0,hou,8.0,11.0,.612,22.9
+10.2,4.3,114,8.4,.000,.250,.500,201505250HOU,21:59,52,0.0,Corey Brewer,breweco01,0.0,hou,0.0,4.7,.102,9.6
+7.1,0.0,113,0.0,1.500,1.000,.000,201505250HOU,16:46,88,0.0,Pablo Prigioni,prigipa01,2.7,hou,66.7,0.0,1.500,7.7
+0.0,0.0,114,22.4,1.000,.000,4.000,201505250HOU,4:07,146,0.0,Clint Capela,capelca01,0.0,hou,0.0,12.5,.725,29.0
+,,,,,,,201505250HOU,Did Not Play,,,K.J. McDaniels,mcdankj01,,hou,,,,
+,,,,,,,201505250HOU,Did Not Play,,,Joey Dorsey,dorsejo01,,hou,,,,
+,,,,,,,201505250HOU,Did Not Play,,,Kostas Papanikolaou,papanko01,,hou,,,,
+,,,,,,,201505250HOU,Did Not Play,,,Nick Johnson,johnsni01,,hou,,,,

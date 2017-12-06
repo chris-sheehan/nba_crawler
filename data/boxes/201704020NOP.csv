@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+5,1,3,14,3,1.000,3,.538,26,8,.800,10,201704020NOP,38:48,3,0,Jimmy Butler,butleji01,0,39,1,chi,1,6
+9,0,8,5,0,.000,3,.357,14,0,,0,201704020NOP,33:44,1,4,Rajon Rondo,rondora01,-1,10,3,chi,3,9
+3,1,4,2,0,.000,1,.400,5,2,1.000,2,201704020NOP,31:21,0,3,Paul Zipser,zipsepa01,+3,6,1,chi,1,4
+0,0,3,3,0,,0,.429,7,2,.500,4,201704020NOP,26:20,1,1,Robin Lopez,lopezro01,+9,8,0,chi,0,4
+0,3,4,3,2,.400,5,.333,9,0,,0,201704020NOP,16:46,0,1,Nikola Mirotic,mirotni01,-1,8,0,chi,1,4
+0,0,10,9,3,.600,5,.600,15,0,,0,201704020NOP,31:01,1,4,Bobby Portis,portibo01,+8,21,0,chi,0,11
+1,1,2,3,2,.500,4,.500,6,0,,0,201704020NOP,26:26,1,3,Denzel Valentine,valende01,+12,8,1,chi,2,3
+2,0,3,5,3,.750,4,.714,7,2,1.000,2,201704020NOP,21:40,2,3,Joffrey Lauvergne,lauvejo01,-2,15,0,chi,2,5
+6,0,3,1,0,.000,1,.333,3,0,,0,201704020NOP,13:54,0,4,Michael Carter-Williams,cartemi01,+7,2,1,chi,1,3
+,,,,,,,,,,,,201704020NOP,Did Not Play,,,Isaiah Canaan,canaais01,,,,chi,,
+,,,,,,,,,,,,201704020NOP,Did Not Play,,,Jerian Grant,grantje02,,,,chi,,
+,,,,,,,,,,,,201704020NOP,Did Not Play,,,Cristiano Felicio,feliccr01,,,,chi,,
+,,,,,,,,,,,,201704020NOP,Did Not Play,,,Anthony Morrow,morroan01,,,,chi,,
+3,1,17,8,2,.333,6,.500,16,8,1.000,8,201704020NOP,41:55,1,5,DeMarcus Cousins,couside01,+4,26,0,nop,7,18
+2,1,9,8,1,.250,4,.421,19,13,.929,14,201704020NOP,40:01,2,2,Anthony Davis,davisan02,-6,30,3,nop,3,11
+6,1,1,5,2,.500,4,.417,12,5,1.000,5,201704020NOP,39:05,0,2,Jrue Holiday,holidjr01,+6,17,0,nop,1,1
+2,0,3,2,0,.000,2,.286,7,0,,0,201704020NOP,36:09,1,2,Solomon Hill,hillso01,+3,4,1,nop,0,4
+5,0,2,1,1,.333,3,.167,6,0,,0,201704020NOP,21:29,1,1,Tim Frazier,fraziti01,-9,3,0,nop,1,3
+3,0,0,5,1,.167,6,.455,11,4,1.000,4,201704020NOP,24:00,0,1,Jordan Crawford,crawfjo02,-8,15,1,nop,0,0
+3,1,1,1,0,.000,2,.167,6,4,1.000,4,201704020NOP,21:41,1,0,E'Twaun Moore,mooreet01,-6,6,1,nop,0,2
+0,0,1,3,3,1.000,3,.750,4,0,,0,201704020NOP,14:04,0,1,Dante Cunningham,cunnida01,-12,9,1,nop,0,1
+0,0,0,0,0,,0,,0,0,,0,201704020NOP,1:36,0,0,Quinn Cook,cookqu01,-7,0,0,nop,0,0
+,,,,,,,,,,,,201704020NOP,Did Not Play,,,Alexis Ajinca,ajincal01,,,,nop,,
+,,,,,,,,,,,,201704020NOP,Did Not Play,,,Cheick Diallo,diallch01,,,,nop,,
+,,,,,,,,,,,,201704020NOP,Did Not Dress,,,Omer Asik,asikom01,,,,nop,,
+,,,,,,,,,,,,201704020NOP,Did Not Play,,,Donatas Motiejunas,motiedo01,,,,nop,,

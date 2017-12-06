@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+4,3,4,8,2,.400,5,.421,19,2,1.000,2,201512250HOU,39:02,4,4,Kawhi Leonard,leonaka01,+5,20,5,sas,1,8
+2,0,4,9,0,,0,.529,17,0,,0,201512250HOU,35:32,5,3,LaMarcus Aldridge,aldrila01,+1,18,0,sas,1,9
+3,0,9,5,0,,0,.500,10,3,.750,4,201512250HOU,32:02,2,4,Tim Duncan,duncati01,+2,13,0,sas,3,11
+3,0,2,1,0,.000,1,.143,7,0,,0,201512250HOU,29:00,0,1,Tony Parker,parketo01,-1,2,1,sas,3,2
+0,1,1,2,1,.500,2,.333,6,0,,0,201512250HOU,22:21,0,1,Danny Green,greenda02,-5,5,1,sas,1,1
+3,0,4,3,1,.333,3,.429,7,2,1.000,2,201512250HOU,25:39,2,3,Manu Ginobili,ginobma01,+1,9,1,sas,3,6
+3,0,5,1,1,.200,5,.200,5,0,,0,201512250HOU,19:00,0,0,Patty Mills,millspa02,-3,3,1,sas,0,5
+2,0,0,5,0,.000,2,.455,11,0,,0,201512250HOU,15:58,0,2,Boris Diaw,diawbo01,-6,10,1,sas,2,0
+1,0,3,1,0,.000,1,.250,4,0,,0,201512250HOU,12:28,1,0,David West,westda01,-5,2,1,sas,0,4
+3,0,1,1,0,.000,1,.500,2,0,,0,201512250HOU,8:58,0,2,Jonathon Simmons,simmojo02,-9,2,0,sas,1,1
+,,,,,,,,,,,,201512250HOU,Did Not Play,,,Kyle Anderson,anderky01,,,,sas,,
+,,,,,,,,,,,,201512250HOU,Did Not Play,,,Boban Marjanovic,marjabo01,,,,sas,,
+,,,,,,,,,,,,201512250HOU,Did Not Play,,,Matt Bonner,bonnema01,,,,sas,,
+9,1,4,7,2,.333,6,.333,21,4,.800,5,201512250HOU,38:00,0,3,James Harden,hardeja01,-4,20,0,hou,4,4
+0,0,10,4,0,,0,.667,6,3,.375,8,201512250HOU,35:55,2,2,Dwight Howard,howardw01,+5,11,2,hou,0,12
+1,1,1,2,0,,0,.333,6,2,.500,4,201512250HOU,31:59,4,1,Clint Capela,capelca01,+2,6,0,hou,3,5
+1,0,4,2,1,1.000,1,.500,4,2,1.000,2,201512250HOU,28:08,0,4,Trevor Ariza,arizatr01,-5,7,0,hou,3,4
+3,0,1,1,1,.250,4,.125,8,0,,0,201512250HOU,22:06,1,2,Patrick Beverley,beverpa01,0,3,2,hou,1,2
+0,0,6,6,0,.000,1,.545,11,2,1.000,2,201512250HOU,22:06,0,0,Terrence Jones,joneste01,+4,14,1,hou,0,6
+3,0,5,2,0,,0,.333,6,0,,0,201512250HOU,19:52,0,3,Corey Brewer,breweco01,+9,4,0,hou,4,5
+5,0,2,3,1,1.000,1,.600,5,0,,0,201512250HOU,18:42,1,2,Ty Lawson,lawsoty01,+3,7,0,hou,1,3
+1,0,1,3,2,1.000,2,1.000,3,4,.800,5,201512250HOU,17:12,0,0,Jason Terry,terryja01,+9,12,3,hou,1,1
+0,0,0,2,0,,0,.500,4,0,,0,201512250HOU,6:00,0,0,Donatas Motiejunas,motiedo01,-3,4,0,hou,0,0
+,,,,,,,,,,,,201512250HOU,Did Not Play,,,Montrezl Harrell,harremo01,,,,hou,,
+,,,,,,,,,,,,201512250HOU,Did Not Play,,,Marcus Thornton,thornma01,,,,hou,,
+,,,,,,,,,,,,201512250HOU,Did Not Play,,,K.J. McDaniels,mcdankj01,,,,hou,,

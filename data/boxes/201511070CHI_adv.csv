@@ -1,0 +1,27 @@
+ast_pct,blk_pct,def_rtg,drb_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,gm,mp,off_rtg,orb_pct,player,player_id,stl_pct,team,tov_pct,trb_pct,ts_pct,usg_pct
+10.4,2.1,94,4.8,.481,.185,.370,201511070CHI,41:01,101,2.4,Andrew Wiggins,wiggian01,0.0,min,3.1,3.6,.494,34.1
+37.6,0.0,83,17.7,.200,.100,.400,201511070CHI,38:50,80,2.5,Ricky Rubio,rubiori01,3.8,min,20.3,10.1,.298,16.4
+0.0,2.3,93,10.2,.444,.111,.111,201511070CHI,38:34,72,2.5,Tayshaun Prince,princta01,0.0,min,17.5,6.4,.424,12.8
+17.1,13.0,75,25.7,.444,.000,.056,201511070CHI,26:47,110,22.0,Karl-Anthony Towns,townska01,1.8,min,0.0,23.8,.461,29.7
+24.9,0.0,75,40.0,.500,.000,1.000,201511070CHI,12:16,91,0.0,Kevin Garnett,garneke01,4.0,min,0.0,20.0,.347,10.1
+20.3,2.2,85,24.4,.667,.667,.667,201511070CHI,40:13,134,2.4,Nemanja Bjelica,bjeline01,1.2,min,14.7,13.4,.730,14.6
+0.0,0.0,82,17.3,.500,.000,.000,201511070CHI,22:45,85,12.9,Gorgui Dieng,dienggo01,4.3,min,25.0,15.1,.500,15.2
+6.8,0.0,94,9.2,.250,.000,.500,201511070CHI,21:17,67,0.0,Shabazz Muhammad,muhamsh01,0.0,min,29.1,4.6,.410,13.9
+35.7,0.0,92,15.3,.389,.333,.111,201511070CHI,19:18,80,5.1,Zach LaVine,lavinza01,0.0,min,24.1,10.2,.424,27.8
+0.0,0.0,95,0.0,.500,.000,.000,201511070CHI,3:59,98,0.0,Adreian Payne,paynead01,0.0,min,0.0,0.0,.500,21.7
+,,,,,,,201511070CHI,Did Not Play,,,Andre Miller,millean02,,min,,,,
+,,,,,,,201511070CHI,Did Not Play,,,Damjan Rudez,rudezda01,,min,,,,
+,,,,,,,201511070CHI,Did Not Play,,,Tyus Jones,jonesty01,,min,,,,
+9.3,3.2,93,19.1,.267,.467,.400,201511070CHI,41:08,54,0.0,Jimmy Butler,butleji01,1.2,chi,22.1,9.5,.312,24.1
+12.0,1.7,88,27.3,.421,.000,.316,201511070CHI,39:36,103,7.4,Pau Gasol,gasolpa01,2.5,chi,4.4,17.3,.485,25.0
+24.1,0.0,100,7.7,.269,.308,.385,201511070CHI,38:07,66,0.0,Derrick Rose,rosede01,1.3,chi,24.8,3.9,.362,23.2
+0.0,0.0,101,9.4,1.100,.800,.000,201511070CHI,20:58,199,0.0,Doug McDermott,mcderdo01,0.0,chi,0.0,4.7,1.100,10.4
+0.0,0.0,91,17.3,.125,.625,.250,201511070CHI,17:02,45,0.0,Nikola Mirotic,mirotni01,2.9,chi,10.1,8.6,.225,25.4
+0.0,2.4,96,21.1,.700,.600,.000,201511070CHI,27:56,102,0.0,Tony Snell,snellto01,0.0,chi,16.7,10.5,.700,18.8
+13.9,0.0,99,4.0,.250,.000,.500,201511070CHI,24:42,79,7.9,Taj Gibson,gibsota01,2.0,chi,17.0,6.0,.307,10.4
+48.7,2.7,89,23.9,.167,.000,.333,201511070CHI,24:41,78,19.9,Joakim Noah,noahjo01,2.0,chi,30.4,21.9,.218,17.5
+17.7,4.3,102,0.0,.556,.556,.000,201511070CHI,15:29,109,0.0,Aaron Brooks,brookaa01,0.0,chi,0.0,0.0,.556,25.4
+13.2,0.0,105,0.0,.625,.250,.000,201511070CHI,15:22,128,0.0,E'Twaun Moore,mooreet01,0.0,chi,0.0,0.0,.625,11.4
+,,,,,,,201511070CHI,Did Not Play,,,Cristiano Felicio,feliccr01,,chi,,,,
+,,,,,,,201511070CHI,Did Not Play,,,Bobby Portis,portibo01,,chi,,,,
+,,,,,,,201511070CHI,Did Not Play,,,Cameron Bairstow,bairsca01,,chi,,,,

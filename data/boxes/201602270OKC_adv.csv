@@ -1,0 +1,27 @@
+ast_pct,blk_pct,def_rtg,drb_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,gm,mp,off_rtg,orb_pct,player,player_id,stl_pct,team,tov_pct,trb_pct,ts_pct,usg_pct
+37.4,6.9,91,30.0,.000,.250,.625,201602270OKC,44:07,80,7.2,Draymond Green,greendr01,6.5,gsw,22.7,17.9,.098,13.6
+4.7,1.9,109,9.2,.565,.391,.304,201602270OKC,39:26,115,0.0,Klay Thompson,thompkl01,2.4,gsw,3.7,4.3,.613,31.1
+33.3,0.0,110,9.6,.833,.667,.333,201602270OKC,37:41,143,0.0,Stephen Curry,curryst01,2.5,gsw,9.8,4.5,.836,36.7
+3.9,2.2,116,3.6,.333,.111,.000,201602270OKC,33:46,70,0.0,Harrison Barnes,barneha02,0.0,gsw,0.0,1.7,.333,12.1
+0.0,4.4,116,0.0,.667,.000,.000,201602270OKC,17:20,69,0.0,Andrew Bogut,bogutan01,0.0,gsw,40.0,0.0,.667,13.1
+0.0,0.0,106,18.0,.625,.250,.250,201602270OKC,33:31,121,3.2,Andre Iguodala,iguodan01,2.9,gsw,10.1,10.1,.676,13.4
+14.9,0.0,107,18.7,.600,.000,.200,201602270OKC,19:20,114,0.0,Shaun Livingston,livinsh01,2.5,gsw,15.5,8.7,.643,15.1
+0.0,0.0,111,0.0,.333,.333,.000,201602270OKC,13:34,64,0.0,Leandro Barbosa,barbole01,3.5,gsw,0.0,0.0,.333,20.0
+15.6,0.0,115,9.8,.571,.000,.000,201602270OKC,12:15,111,0.0,Marreese Speights,speigma01,0.0,gsw,0.0,4.6,.571,25.9
+0.0,0.0,105,11.3,.000,.000,1.000,201602270OKC,10:39,0,0.0,Anderson Varejao,varejan01,4.5,gsw,0.0,5.3,.000,12.2
+0.0,0.0,119,0.0,,,,201602270OKC,3:21,0,0.0,Brandon Rush,rushbr01,0.0,gsw,,0.0,,0.0
+,,,,,,,201602270OKC,Did Not Play,,,Ian Clark,clarkia01,,gsw,,,,
+,,,,,,,201602270OKC,Did Not Play,,,James Michael McAdoo,mcadoja01,,gsw,,,,
+48.9,0.0,109,10.1,.345,.207,.276,201602270OKC,42:11,95,8.6,Russell Westbrook,westbru01,2.3,okc,17.7,9.4,.400,38.4
+3.5,4.1,105,39.1,.583,.167,.167,201602270OKC,40:41,128,14.8,Serge Ibaka,ibakase01,1.2,okc,7.2,27.7,.582,14.0
+23.7,4.3,104,32.4,.635,.423,.154,201602270OKC,39:16,124,0.0,Kevin Durant,duranke01,1.2,okc,15.3,17.2,.666,34.2
+3.5,0.0,111,8.6,.556,.444,.000,201602270OKC,37:06,136,6.5,Andre Roberson,roberan03,1.3,okc,0.0,7.6,.556,9.9
+9.9,0.0,109,22.7,.667,.000,1.000,201602270OKC,28:00,98,12.9,Steven Adams,adamsst01,1.7,okc,25.8,18.1,.579,17.0
+4.2,0.0,115,0.0,.429,.286,.286,201602270OKC,30:57,81,0.0,Dion Waiters,waitedi01,0.0,okc,20.2,0.0,.444,13.1
+0.0,0.0,114,9.4,.500,.000,.000,201602270OKC,22:34,91,10.7,Kyle Singler,singlky01,0.0,okc,33.3,10.0,.500,5.4
+0.0,0.0,113,23.8,1.000,.000,1.000,201602270OKC,17:49,115,6.8,Enes Kanter,kanteen01,0.0,okc,34.2,15.8,.955,20.1
+0.0,0.0,115,0.0,.000,1.000,.000,201602270OKC,6:26,0,0.0,Randy Foye,foyera01,0.0,okc,0.0,0.0,.000,6.4
+,,,,,,,201602270OKC,Did Not Play,,,Anthony Morrow,morroan01,,okc,,,,
+,,,,,,,201602270OKC,Did Not Play,,,Nick Collison,collini01,,okc,,,,
+,,,,,,,201602270OKC,Did Not Play,,,Cameron Payne,payneca01,,okc,,,,
+,,,,,,,201602270OKC,Did Not Play,,,Mitch McGary,mcgarmi01,,okc,,,,

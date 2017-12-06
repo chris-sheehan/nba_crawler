@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+4,0,5,5,2,.400,5,.625,8,4,.800,5,201601300HOU,36:55,0,4,Jared Dudley,dudleja01,+2,16,1,was,1,5
+13,2,8,7,1,.200,5,.318,22,4,.800,5,201601300HOU,35:42,0,4,John Wall,walljo01,-5,19,1,was,4,8
+4,0,4,5,1,.143,7,.357,14,0,,0,201601300HOU,34:11,0,6,Garrett Temple,templga01,+3,11,1,was,0,4
+2,2,6,4,0,,0,1.000,4,5,.714,7,201601300HOU,27:03,5,3,Marcin Gortat,gortama01,-2,13,1,was,2,11
+0,0,2,4,1,.200,5,.444,9,0,,0,201601300HOU,12:01,1,0,Otto Porter,porteot01,+5,9,0,was,0,3
+4,0,3,4,1,.200,5,.444,9,2,1.000,2,201601300HOU,29:31,0,2,Bradley Beal,bealbr01,-5,11,0,was,2,3
+2,1,2,4,0,,0,1.000,4,2,.400,5,201601300HOU,18:53,0,3,Nene Hilario,hilarne01,+6,10,1,was,1,2
+1,0,3,5,2,1.000,2,.625,8,5,.833,6,201601300HOU,18:08,0,3,Ramon Sessions,sessira01,+7,17,1,was,1,3
+0,0,1,5,2,1.000,2,1.000,5,0,,0,201601300HOU,16:26,0,0,Gary Neal,nealga01,-3,12,0,was,0,1
+0,0,4,2,1,1.000,1,.667,3,0,,0,201601300HOU,11:05,1,0,Drew Gooden,goodedr01,-1,5,0,was,1,5
+0,0,0,0,0,,0,,0,0,,0,201601300HOU,0:06,0,0,Kelly Oubre,oubreke01,-2,0,0,was,0,0
+,,,,,,,,,,,,201601300HOU,Did Not Play,,,DeJuan Blair,blairde01,,,,was,,
+,,,,,,,,,,,,201601300HOU,Did Not Play,,,Jarell Eddie,eddieja01,,,,was,,
+11,0,6,12,6,.667,9,.600,20,10,1.000,10,201601300HOU,37:20,1,5,James Harden,hardeja01,-1,40,4,hou,2,7
+1,0,6,5,3,.500,6,.455,11,4,1.000,4,201601300HOU,35:41,1,0,Trevor Ariza,arizatr01,+6,17,1,hou,0,7
+5,0,3,6,3,.750,4,.600,10,0,,0,201601300HOU,34:49,0,4,Patrick Beverley,beverpa01,-5,15,2,hou,0,3
+2,1,3,2,1,.333,3,.286,7,0,.000,1,201601300HOU,29:30,0,2,Corey Brewer,breweco01,-6,5,0,hou,1,3
+0,0,5,7,0,,0,.636,11,6,.750,8,201601300HOU,28:31,2,2,Dwight Howard,howardw01,-1,20,0,hou,2,7
+1,0,1,2,1,.500,2,.500,4,2,1.000,2,201601300HOU,18:46,0,2,Ty Lawson,lawsoty01,+5,7,0,hou,0,1
+0,2,2,0,0,,0,.000,3,1,.125,8,201601300HOU,17:25,2,4,Clint Capela,capelca01,-3,1,1,hou,2,4
+3,0,1,4,1,.333,3,.444,9,0,,0,201601300HOU,17:15,3,2,Josh Smith,smithjo03,0,9,0,hou,2,4
+1,0,0,2,2,.286,7,.286,7,0,,0,201601300HOU,14:59,1,2,Jason Terry,terryja01,+5,6,0,hou,1,1
+0,0,0,1,0,.000,1,.250,4,0,,0,201601300HOU,5:44,0,0,Terrence Jones,joneste01,-5,2,0,hou,0,0
+,,,,,,,,,,,,201601300HOU,Did Not Play,,,Sam Dekker,dekkesa01,,,,hou,,
+,,,,,,,,,,,,201601300HOU,Did Not Play,,,Montrezl Harrell,harremo01,,,,hou,,
+,,,,,,,,,,,,201601300HOU,Did Not Play,,,Marcus Thornton,thornma01,,,,hou,,

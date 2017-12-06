@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+8,4,6,6,1,.333,3,.429,14,9,.900,10,201612180PHI,31:55,3,4,Brook Lopez,lopezbr01,+17,22,1,brk,1,9
+4,0,5,2,0,.000,1,.286,7,1,.500,2,201612180PHI,30:34,1,3,Trevor Booker,booketr01,+8,5,0,brk,2,6
+3,0,4,2,0,.000,2,.400,5,3,.750,4,201612180PHI,26:19,0,1,Sean Kilpatrick,kilpase01,+6,7,1,brk,2,4
+2,0,5,5,2,.286,7,.385,13,2,1.000,2,201612180PHI,25:23,1,0,Bojan Bogdanovic,bogdabo02,-3,14,1,brk,1,6
+0,0,1,3,2,.667,3,.500,6,3,.750,4,201612180PHI,20:58,0,2,Isaiah Whitehead,whiteis01,-8,11,0,brk,0,1
+2,0,2,7,5,.556,9,.538,13,0,,0,201612180PHI,27:33,0,3,Joe Harris,harrijo01,+5,19,2,brk,2,2
+4,0,2,5,2,.286,7,.500,10,4,.800,5,201612180PHI,22:05,0,1,Jeremy Lin,linje01,+5,16,2,brk,3,2
+1,1,4,3,0,.000,1,.600,5,1,.250,4,201612180PHI,18:34,1,3,Rondae Hollis-Jefferson,holliro01,-12,7,1,brk,3,5
+1,0,3,0,0,,0,.000,1,0,,0,201612180PHI,13:06,1,1,Anthony Bennett,bennean01,-4,0,0,brk,1,4
+0,0,3,2,0,,0,.500,4,0,,0,201612180PHI,12:05,0,2,Luis Scola,scolalu01,-11,4,0,brk,0,3
+1,0,1,1,0,.000,1,.333,3,0,,0,201612180PHI,11:28,0,0,Caris LeVert,leverca01,-8,2,0,brk,1,1
+,,,,,,,,,,,,201612180PHI,Did Not Play,,,Justin Hamilton,hamilju01,,,,brk,,
+,,,,,,,,,,,,201612180PHI,Did Not Play,,,Randy Foye,foyera01,,,,brk,,
+2,0,3,5,1,.250,4,.455,11,4,1.000,4,201612180PHI,35:22,2,2,Robert Covington,covinro01,-8,15,1,phi,2,5
+3,0,2,4,1,1.000,1,.667,6,1,1.000,1,201612180PHI,29:03,0,1,Gerald Henderson,hendege02,-5,10,1,phi,0,2
+2,1,5,0,0,,0,.000,9,3,.750,4,201612180PHI,28:08,5,3,Jahlil Okafor,okafoja01,-9,3,0,phi,3,10
+1,3,8,12,2,.667,3,.706,17,7,.875,8,201612180PHI,27:19,2,2,Joel Embiid,embiijo01,+7,33,2,phi,3,10
+5,0,1,3,3,.600,5,.273,11,0,,0,201612180PHI,23:26,1,3,Sergio Rodriguez,rodrise01,-8,9,1,phi,2,2
+2,1,4,7,4,.571,7,.583,12,4,1.000,4,201612180PHI,30:32,0,3,Ersan Ilyasova,ilyaser01,-2,22,0,phi,2,4
+2,0,6,3,1,.200,5,.300,10,0,,0,201612180PHI,24:38,2,1,Dario Saric,saricda01,+14,7,0,phi,1,8
+6,0,2,4,0,.000,1,.444,9,0,,0,201612180PHI,24:34,1,3,T.J. McConnell,mccontj01,+9,8,0,phi,3,3
+0,0,3,0,0,.000,2,.000,3,1,.500,2,201612180PHI,16:58,0,0,Hollis Thompson,thompho01,+7,1,0,phi,1,3
+,,,,,,,,,,,,201612180PHI,Did Not Play,,,Nerlens Noel,noelne01,,,,phi,,
+,,,,,,,,,,,,201612180PHI,Did Not Play,,,Timothe Luwawu-Cabarrot,luwawti01,,,,phi,,
+,,,,,,,,,,,,201612180PHI,Did Not Dress,,,Nik Stauskas,stausni01,,,,phi,,
+,,,,,,,,,,,,201612180PHI,Did Not Play,,,Richaun Holmes,holmeri01,,,,phi,,

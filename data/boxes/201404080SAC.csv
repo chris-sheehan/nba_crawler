@@ -1,0 +1,26 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+4,0,4,8,2,.500,4,.615,13,5,1.000,5,201404080SAC,31:10,0,1,Kevin Durant,duranke01,+11,23,0,okc,3,4
+1,0,4,8,0,.000,1,.500,16,3,.750,4,201404080SAC,27:40,0,3,Serge Ibaka,ibakase01,+9,19,0,okc,0,4
+5,0,3,5,2,.667,3,.455,11,1,.500,2,201404080SAC,24:57,1,0,Reggie Jackson,jacksre01,+8,13,1,okc,0,4
+1,0,2,0,0,.000,1,.000,2,2,1.000,2,201404080SAC,15:23,1,1,Thabo Sefolosha,sefolth01,-4,2,0,okc,1,3
+1,0,1,1,0,,0,.500,2,1,.500,2,201404080SAC,14:29,2,3,Kendrick Perkins,perkike01,-2,3,0,okc,0,3
+0,3,2,0,0,,0,.000,1,5,.625,8,201404080SAC,27:18,3,3,Steven Adams,adamsst01,+11,5,1,okc,0,5
+2,0,5,8,6,1.000,6,.800,10,1,.500,2,201404080SAC,26:27,0,2,Caron Butler,butleca01,+28,23,1,okc,0,5
+5,0,2,1,0,.000,2,.200,5,0,,0,201404080SAC,23:55,1,3,Derek Fisher,fishede01,+23,2,1,okc,0,3
+3,0,6,3,0,.000,1,.500,6,1,.500,2,201404080SAC,18:00,1,4,Nick Collison,collini01,+10,7,0,okc,1,7
+1,1,0,4,2,.500,4,.444,9,0,,0,201404080SAC,16:50,0,1,Jeremy Lamb,lambje01,+4,10,1,okc,1,0
+0,0,0,0,0,,0,.000,3,0,,0,201404080SAC,6:10,1,0,Perry Jones,jonespe01,-9,0,0,okc,0,1
+0,0,0,0,0,,0,,0,0,,0,201404080SAC,4:57,0,1,Andre Roberson,roberan03,-7,0,0,okc,0,0
+0,0,0,0,0,,0,.000,2,0,,0,201404080SAC,2:44,0,1,Hasheem Thabeet,thabeha01,-7,0,0,okc,0,0
+5,0,2,3,1,.333,3,.214,14,0,,0,201404080SAC,45:25,0,4,Ray McCallum,mccalra01,-22,7,2,sac,2,2
+2,0,7,3,1,.250,4,.333,9,4,1.000,4,201404080SAC,39:07,1,1,Ben McLemore,mclembe01,-14,11,0,sac,2,8
+4,0,3,11,1,.167,6,.550,20,1,.500,2,201404080SAC,36:40,2,2,Travis Outlaw,outlatr01,-4,24,0,sac,1,5
+0,1,3,3,0,,0,.375,8,5,.714,7,201404080SAC,35:34,4,3,Jason Thompson,thompja02,+2,11,0,sac,1,7
+1,2,10,10,0,,0,.417,24,4,.667,6,201404080SAC,34:53,4,4,DeMarcus Cousins,couside01,-17,24,2,sac,3,14
+0,0,2,0,0,,0,,0,1,.500,2,201404080SAC,20:28,0,1,Derrick Williams,willide02,-24,1,0,sac,0,2
+0,1,2,3,0,.000,1,.600,5,0,.000,1,201404080SAC,17:02,1,1,Quincy Acy,acyqu01,-8,6,0,sac,0,3
+1,0,1,1,0,,0,.500,2,6,1.000,6,201404080SAC,6:23,0,2,Jared Cunningham,cunnija01,+7,8,1,sac,0,1
+0,0,1,0,0,,0,,0,0,,0,201404080SAC,4:28,1,0,Aaron Gray,grayaa01,+5,0,0,sac,0,2
+,,,,,,,,,,,,201404080SAC,Did Not Play,,,Willie Reed,reedwi02,,,,sac,,
+,,,,,,,,,,,,201404080SAC,Did Not Play,,,Rudy Gay,gayru01,,,,sac,,
+,,,,,,,,,,,,201404080SAC,Did Not Play,,,Reggie Evans,evansre01,,,,sac,,

@@ -1,0 +1,27 @@
+ast_pct,blk_pct,def_rtg,drb_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,gm,mp,off_rtg,orb_pct,player,player_id,stl_pct,team,tov_pct,trb_pct,ts_pct,usg_pct
+4.5,2.0,115,4.3,.719,.688,.125,201612250CLE,40:37,116,0.0,Klay Thompson,thompkl01,1.2,gsw,10.6,2.7,.711,20.5
+16.3,2.1,99,34.3,.522,.348,.522,201612250CLE,38:10,134,0.0,Kevin Durant,duranke01,1.3,gsw,0.0,21.9,.636,32.7
+12.1,0.0,108,7.0,.455,.636,.545,201612250CLE,37:20,97,0.0,Stephen Curry,curryst01,3.9,gsw,18.0,4.5,.550,19.7
+22.9,0.0,111,11.0,.778,.222,.222,201612250CLE,31:46,98,0.0,Draymond Green,greendr01,1.5,gsw,37.8,7.0,.810,22.1
+12.6,0.0,105,27.2,.667,.000,.000,201612250CLE,12:51,73,12.0,Zaza Pachulia,pachuza01,0.0,gsw,50.0,21.7,.667,20.6
+20.9,3.2,113,10.5,.000,.500,.000,201612250CLE,24:53,48,6.2,Andre Iguodala,iguodan01,0.0,gsw,33.3,9.0,.000,10.6
+22.1,4.5,111,14.9,.000,.000,1.000,201612250CLE,17:35,88,0.0,Shaun Livingston,livinsh01,0.0,gsw,25.8,9.5,.347,9.7
+50.5,0.0,110,6.2,.333,.000,1.000,201612250CLE,14:08,132,11.0,David West,westda01,3.4,gsw,18.8,7.9,.579,16.6
+0.0,0.0,115,10.1,.333,.000,.667,201612250CLE,8:37,66,35.9,JaVale McGee,mcgeeja01,0.0,gsw,20.5,19.4,.258,25.0
+21.8,0.0,108,0.0,.667,.000,.000,201612250CLE,8:32,137,0.0,Ian Clark,clarkia01,5.6,gsw,0.0,0.0,.667,15.5
+0.0,0.0,112,16.0,,,,201612250CLE,5:27,0,0.0,Kevon Looney,looneke01,0.0,gsw,,10.2,,0.0
+0.0,0.0,121,0.0,,,,201612250CLE,0:05,0,0.0,Patrick McCaw,mccawpa01,0.0,gsw,,0.0,,0.0
+,,,,,,,201612250CLE,Did Not Play,,,Anderson Varejao,varejan01,,gsw,,,,
+43.8,0.0,99,10.6,.444,.185,.037,201612250CLE,43:53,112,6.0,Kyrie Irving,irvinky01,7.6,cle,6.8,7.6,.456,26.6
+21.1,2.5,106,30.8,.636,.364,.318,201612250CLE,40:11,113,10.9,LeBron James,jamesle01,2.4,cle,16.6,18.1,.618,29.7
+15.3,0.0,111,24.3,.500,.538,.615,201612250CLE,31:52,144,2.7,Kevin Love,loveke01,1.5,cle,0.0,10.5,.605,20.6
+0.0,0.0,112,11.1,.400,.000,1.200,201612250CLE,27:47,140,18.8,Tristan Thompson,thomptr01,1.7,cle,0.0,16.1,.524,10.9
+5.9,0.0,106,14.0,.000,.000,2.000,201612250CLE,22:03,29,0.0,DeAndre Liggins,liggide01,4.3,cle,0.0,5.1,.000,3.4
+9.3,3.5,110,10.6,.167,.556,.444,201612250CLE,29:12,92,9.0,Iman Shumpert,shumpim01,1.6,cle,8.5,9.6,.325,16.0
+0.0,0.0,116,10.9,.182,.455,.364,201612250CLE,28:32,71,0.0,Richard Jefferson,jefferi01,0.0,cle,7.3,3.9,.313,19.1
+0.0,0.0,115,18.7,.714,.714,.000,201612250CLE,16:31,88,0.0,Channing Frye,fryech01,0.0,cle,30.0,6.8,.714,24.0
+,,,,,,,201612250CLE,Did Not Play,,,Kay Felder,feldeka01,,cle,,,,
+,,,,,,,201612250CLE,Did Not Dress,,,J.R. Smith,smithjr01,,cle,,,,
+,,,,,,,201612250CLE,Did Not Play,,,Jordan McRae,mcraejo01,,cle,,,,
+,,,,,,,201612250CLE,Did Not Play,,,Mike Dunleavy,dunlemi02,,cle,,,,
+,,,,,,,201612250CLE,Did Not Play,,,James Jones,jonesja02,,cle,,,,

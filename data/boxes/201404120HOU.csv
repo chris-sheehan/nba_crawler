@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+6,0,9,8,2,.333,6,.333,24,2,.333,6,201404120HOU,44:32,1,4,Austin Rivers,riverau01,-8,20,1,nop,1,10
+5,1,6,9,2,.400,5,.643,14,0,,0,201404120HOU,41:26,0,4,Anthony Morrow,morroan01,-2,20,2,nop,3,6
+2,0,5,8,4,.500,8,.444,18,4,1.000,4,201404120HOU,34:11,2,4,Luke Babbitt,babbilu01,-9,24,0,nop,3,7
+2,3,4,7,0,,0,.583,12,3,1.000,3,201404120HOU,32:36,3,5,Alexis Ajinca,ajincal01,-6,17,1,nop,2,7
+4,1,0,3,0,.000,1,.375,8,0,,0,201404120HOU,29:53,0,5,Darius Miller,milleda01,0,6,2,nop,0,0
+1,1,1,1,0,.000,1,.167,6,6,1.000,6,201404120HOU,28:07,1,1,Al-Farouq Aminu,aminual01,-12,8,0,nop,0,2
+0,1,2,2,0,,0,.667,3,2,1.000,2,201404120HOU,18:51,1,1,Jeff Withey,witheje01,0,6,0,nop,0,3
+0,1,4,1,1,1.000,1,.333,3,0,,0,201404120HOU,10:24,0,2,James Southerland,southja01,+2,3,1,nop,1,4
+,,,,,,,,,,,,201404120HOU,Did Not Play,,,Brian Roberts,roberbr01,,,,nop,,
+,,,,,,,,,,,,201404120HOU,Did Not Play,,,Eric Gordon,gordoer01,,,,nop,,
+,,,,,,,,,,,,201404120HOU,Did Not Play,,,Anthony Davis,davisan02,,,,nop,,
+,,,,,,,,,,,,201404120HOU,Did Not Play,,,Greg Stiemsma,stiemgr01,,,,nop,,
+,,,,,,,,,,,,201404120HOU,Did Not Play,,,Tyreke Evans,evansty01,,,,nop,,
+13,0,3,10,3,.375,8,.455,22,10,1.000,10,201404120HOU,43:22,1,2,James Harden,hardeja01,+11,33,2,hou,4,4
+4,1,2,6,4,.500,8,.500,12,4,1.000,4,201404120HOU,33:13,1,5,Patrick Beverley,beverpa01,+18,20,2,hou,1,3
+2,2,6,5,0,,0,.625,8,3,.375,8,201404120HOU,29:13,0,3,Dwight Howard,howardw01,+21,13,1,hou,1,6
+1,4,1,4,0,.000,1,.500,8,2,1.000,2,201404120HOU,24:19,1,1,Terrence Jones,joneste01,-9,10,1,hou,1,2
+1,0,5,0,0,.000,1,.000,4,2,1.000,2,201404120HOU,22:20,1,1,Omri Casspi,casspom01,-4,2,0,hou,1,6
+1,0,3,6,1,1.000,1,.750,8,5,1.000,5,201404120HOU,31:14,1,4,Jeremy Lin,linje01,+2,18,4,hou,1,4
+0,1,7,2,0,,0,1.000,2,5,.625,8,201404120HOU,18:47,1,2,Omer Asik,asikom01,-14,9,0,hou,2,8
+0,0,2,0,0,.000,1,.000,2,0,,0,201404120HOU,13:04,0,0,Donatas Motiejunas,motiedo01,-3,0,0,hou,1,2
+0,0,1,1,1,.200,5,.200,5,0,,0,201404120HOU,12:45,0,0,Troy Daniels,danietr01,+19,3,0,hou,1,1
+1,0,0,1,1,.500,2,.333,3,0,,0,201404120HOU,11:43,0,1,Jordan Hamilton,hamiljo02,-6,3,0,hou,0,0
+,,,,,,,,,,,,201404120HOU,Did Not Play,,,Isaiah Canaan,canaais01,,,,hou,,
+,,,,,,,,,,,,201404120HOU,Did Not Play,,,Chandler Parsons,parsoch01,,,,hou,,
+,,,,,,,,,,,,201404120HOU,Did Not Play,,,Robert Covington,covinro01,,,,hou,,

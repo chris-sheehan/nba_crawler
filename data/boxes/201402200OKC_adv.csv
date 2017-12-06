@@ -1,0 +1,27 @@
+ast_pct,blk_pct,def_rtg,drb_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,gm,mp,off_rtg,orb_pct,player,player_id,stl_pct,team,tov_pct,trb_pct,ts_pct,usg_pct
+11.1,2.3,82,22.5,.722,.222,1.333,201402200OKC,38:43,144,0.0,Chris Bosh,boshch01,4.0,mia,17.4,12.6,.840,21.0
+49.4,0.0,85,14.9,.647,.000,.118,201402200OKC,36:35,131,7.5,Dwyane Wade,wadedw01,4.2,mia,14.4,11.6,.671,26.8
+22.2,0.0,80,19.6,.705,.227,.227,201402200OKC,33:24,97,4.1,LeBron James,jamesle01,6.2,mia,24.8,12.7,.682,45.3
+12.5,0.0,90,6.7,.643,.429,.143,201402200OKC,32:44,101,0.0,Mario Chalmers,chalmma01,3.1,mia,21.2,3.7,.605,13.5
+0.0,0.0,90,6.8,.125,.750,.000,201402200OKC,31:55,48,8.6,Shane Battier,battish01,3.2,mia,0.0,7.6,.125,11.8
+5.2,0.0,91,13.3,.417,.500,.167,201402200OKC,24:40,89,0.0,Ray Allen,allenra02,2.1,mia,13.4,7.4,.466,14.2
+18.4,0.0,97,5.1,.417,.333,.000,201402200OKC,21:25,114,6.4,Norris Cole,coleno01,0.0,mia,0.0,5.7,.417,13.2
+5.7,8.6,83,31.8,,,,201402200OKC,20:34,106,13.3,Chris Andersen,anderch01,0.0,mia,100.0,23.6,,2.3
+,,,,,,,201402200OKC,Did Not Play,,,Greg Oden,odengr01,,mia,,,,
+,,,,,,,201402200OKC,Did Not Play,,,Udonis Haslem,hasleud01,,mia,,,,
+,,,,,,,201402200OKC,Did Not Play,,,Toney Douglas,douglto01,,mia,,,,
+,,,,,,,201402200OKC,Did Not Play,,,Rashard Lewis,lewisra02,,mia,,,,
+,,,,,,,201402200OKC,Did Not Play,,,Michael Beasley,beaslmi01,,mia,,,,
+23.1,0.0,109,24.4,.477,.273,.455,201402200OKC,39:24,95,2.8,Kevin Durant,duranke01,2.6,okc,15.9,12.3,.530,35.7
+6.5,2.5,114,11.7,.455,.091,.545,201402200OKC,35:06,104,15.5,Serge Ibaka,ibakase01,0.0,okc,12.8,13.8,.513,20.0
+0.0,0.0,111,16.1,.333,.000,.000,201402200OKC,25:35,51,0.0,Thabo Sefolosha,sefolth01,2.0,okc,25.0,7.1,.333,7.0
+18.3,0.0,103,11.5,.273,.182,.909,201402200OKC,23:53,86,13.7,Russell Westbrook,westbru01,6.5,okc,20.6,12.7,.455,36.4
+0.0,0.0,115,18.2,,,,201402200OKC,7:31,0,0.0,Kendrick Perkins,perkike01,0.0,okc,100.0,8.1,,6.0
+28.8,2.4,109,11.2,.444,.222,.333,201402200OKC,36:35,95,0.0,Reggie Jackson,jacksre01,2.8,okc,22.5,5.0,.533,16.3
+10.5,0.0,114,25.6,.700,.200,.200,201402200OKC,21:25,108,5.1,Perry Jones,jonespe01,0.0,okc,26.9,14.2,.735,15.6
+18.2,0.0,107,6.7,.111,.667,.000,201402200OKC,20:36,29,0.0,Jeremy Lamb,lambje01,5.0,okc,18.2,2.9,.111,23.9
+0.0,0.0,111,0.0,.333,.667,.000,201402200OKC,15:07,85,7.2,Derek Fisher,fishede01,3.4,okc,0.0,4.0,.333,8.9
+15.6,0.0,113,37.4,.000,.000,.000,201402200OKC,11:00,42,0.0,Nick Collison,collini01,0.0,okc,0.0,16.6,.000,4.1
+0.0,0.0,118,0.0,,,,201402200OKC,1:54,0,0.0,Andre Roberson,roberan03,0.0,okc,,0.0,,0.0
+0.0,0.0,118,0.0,,,,201402200OKC,1:54,0,0.0,Steven Adams,adamsst01,0.0,okc,,0.0,,0.0
+,,,,,,,201402200OKC,Did Not Play,,,Hasheem Thabeet,thabeha01,,okc,,,,

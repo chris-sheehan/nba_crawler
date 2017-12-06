@@ -1,0 +1,26 @@
+ast_pct,blk_pct,def_rtg,drb_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,gm,mp,off_rtg,orb_pct,player,player_id,stl_pct,team,tov_pct,trb_pct,ts_pct,usg_pct
+4.4,0.0,128,6.7,.737,.526,.000,201603160MEM,40:33,138,0.0,Zach LaVine,lavinza01,0.0,min,0.0,4.2,.737,23.0
+14.2,1.5,113,18.2,.625,.000,1.125,201603160MEM,39:43,126,7.8,Karl-Anthony Towns,townska01,2.7,min,25.1,14.4,.753,19.8
+34.3,5.7,120,14.3,.750,.000,.500,201603160MEM,31:42,158,4.9,Gorgui Dieng,dienggo01,0.0,min,9.3,10.8,.768,16.7
+5.3,3.9,125,8.8,.615,.385,.000,201603160MEM,30:50,92,0.0,Andrew Wiggins,wiggian01,0.0,min,18.8,5.6,.615,25.5
+53.2,0.0,124,6.4,.667,.500,1.333,201603160MEM,28:26,158,5.4,Ricky Rubio,rubiori01,1.9,min,17.4,6.0,.788,19.9
+12.2,0.0,121,8.2,.500,.000,.500,201603160MEM,22:09,150,7.0,Tayshaun Prince,princta01,2.5,min,0.0,7.7,.615,10.8
+38.5,6.3,124,0.0,.750,.250,1.500,201603160MEM,19:11,132,0.0,Tyus Jones,jonesty01,2.8,min,23.1,0.0,.753,22.1
+0.0,0.0,128,6.1,.200,.400,.400,201603160MEM,14:52,55,20.8,Shabazz Muhammad,muhamsh01,0.0,min,14.5,11.5,.170,22.8
+0.0,0.0,122,14.4,.500,.000,.000,201603160MEM,12:34,97,0.0,Greg Smith,smithgr02,0.0,min,0.0,9.1,.500,15.6
+,,,,,,,201603160MEM,Did Not Play,,,Adreian Payne,paynead01,,min,,,,
+,,,,,,,201603160MEM,Did Not Play,,,Damjan Rudez,rudezda01,,min,,,,
+,,,,,,,201603160MEM,Did Not Play,,,Nemanja Bjelica,bjeline01,,min,,,,
+10.8,7.8,123,16.8,.310,.333,.143,201603160MEM,36:52,87,14.7,Matt Barnes,barnema02,1.5,mem,11.8,15.5,.314,27.6
+15.9,2.8,128,9.1,.462,.077,.000,201603160MEM,33:57,107,2.7,Briante Weber,weberbr01,1.6,mem,13.3,5.0,.462,17.8
+7.5,2.9,131,13.9,.444,.333,.222,201603160MEM,33:21,137,0.0,Tony Allen,allento01,0.0,mem,0.0,5.1,.506,11.9
+13.9,0.0,134,10.0,.441,.118,.235,201603160MEM,31:06,122,23.3,JaMychal Green,greenja01,0.0,mem,9.6,18.4,.480,26.9
+6.2,7.9,124,0.0,.750,.000,.000,201603160MEM,24:14,149,18.7,Ryan Hollins,holliry01,2.2,mem,11.1,11.8,.750,15.0
+28.2,0.0,131,30.3,.444,.111,.500,201603160MEM,35:49,142,10.1,Lance Stephenson,stephla01,0.0,mem,4.4,17.5,.546,25.8
+6.0,4.1,127,32.9,.556,.111,.333,201603160MEM,23:33,147,11.5,Jarell Martin,martija01,0.0,mem,0.0,19.4,.581,17.6
+8.1,0.0,135,0.0,.600,.800,.000,201603160MEM,15:41,122,0.0,Ray McCallum,mccalra01,0.0,mem,16.7,0.0,.600,15.4
+0.0,0.0,131,28.4,,,,201603160MEM,5:27,0,0.0,Alex Stepheson,stephal01,0.0,mem,,10.5,,0.0
+,,,,,,,201603160MEM,Did Not Play,,,Zach Randolph,randoza01,,mem,,,,
+,,,,,,,201603160MEM,Did Not Play,,,Vince Carter,cartevi01,,mem,,,,
+,,,,,,,201603160MEM,Did Not Play,,,Xavier Munford,munfoxa02,,mem,,,,
+,,,,,,,201603160MEM,Did Not Play,,,Chris Andersen,anderch01,,mem,,,,

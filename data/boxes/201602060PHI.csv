@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+3,1,9,10,0,,0,.667,15,2,.500,4,201602060PHI,39:02,1,1,Thaddeus Young,youngth01,-7,22,1,brk,5,10
+0,1,2,5,0,,0,.455,11,7,1.000,7,201602060PHI,33:50,3,3,Brook Lopez,lopezbr01,-2,17,0,brk,2,5
+3,0,0,2,1,.250,4,.250,8,4,1.000,4,201602060PHI,28:47,0,1,Joe Johnson,johnsjo02,-6,9,0,brk,1,0
+0,0,2,4,1,.250,4,.444,9,2,1.000,2,201602060PHI,24:06,0,2,Wayne Ellington,ellinwa01,-7,11,0,brk,1,2
+4,0,4,1,0,,0,.333,3,2,1.000,2,201602060PHI,21:44,0,3,Donald Sloan,sloando01,+1,4,1,brk,4,4
+2,1,3,3,0,.000,1,.429,7,0,,0,201602060PHI,26:16,1,1,Shane Larkin,larkish01,-7,6,1,brk,1,4
+1,0,3,3,0,.000,3,.375,8,3,1.000,3,201602060PHI,22:59,0,1,Bojan Bogdanovic,bogdabo02,-3,9,0,brk,3,3
+3,0,1,5,3,1.000,3,1.000,5,2,1.000,2,201602060PHI,20:08,0,1,Markel Brown,brownma02,+6,15,1,brk,0,1
+1,2,2,1,0,,0,.200,5,1,.500,2,201602060PHI,14:09,3,2,Thomas Robinson,robinth01,-2,3,1,brk,2,5
+2,0,1,1,0,,0,.200,5,0,,0,201602060PHI,8:58,1,2,Andrea Bargnani,bargnan01,+2,2,0,brk,0,2
+,,,,,,,,,,,,201602060PHI,Did Not Play,,,Willie Reed,reedwi02,,,,brk,,
+,,,,,,,,,,,,201602060PHI,Did Not Play,,,Chris McCullough,mcculch01,,,,brk,,
+,,,,,,,,,,,,201602060PHI,Did Not Play,,,Sergey Karasev,karasse01,,,,brk,,
+0,3,10,9,0,,0,.563,16,4,1.000,4,201602060PHI,32:39,7,2,Jahlil Okafor,okafoja01,+13,22,1,phi,1,17
+2,3,2,8,0,,0,.727,11,2,1.000,2,201602060PHI,32:01,2,5,Nerlens Noel,noelne01,-3,18,4,phi,3,4
+6,0,2,7,2,1.000,2,.700,10,1,.500,2,201602060PHI,28:08,0,0,T.J. McConnell,mccontj01,+6,17,2,phi,2,2
+1,0,6,2,2,.333,6,.250,8,3,.750,4,201602060PHI,26:10,2,5,Robert Covington,covinro01,+9,9,2,phi,0,8
+1,0,0,1,0,.000,4,.167,6,2,.667,3,201602060PHI,20:28,0,0,Nik Stauskas,stausni01,-4,4,0,phi,1,0
+0,1,1,4,3,.429,7,.444,9,3,.600,5,201602060PHI,29:29,0,2,Hollis Thompson,thompho01,-3,14,0,phi,0,1
+3,0,2,2,2,.333,6,.222,9,0,,0,201602060PHI,24:15,1,2,Isaiah Canaan,canaais01,+7,6,1,phi,0,3
+1,1,6,3,1,.500,2,.600,5,2,1.000,2,201602060PHI,23:34,1,2,Jerami Grant,grantje01,+5,9,1,phi,1,7
+3,0,0,2,0,,0,.400,5,0,,0,201602060PHI,19:52,0,3,Kendall Marshall,marshke01,-1,4,1,phi,5,0
+0,0,0,0,0,.000,2,.000,2,0,,0,201602060PHI,3:24,0,0,JaKarr Sampson,sampsja02,-4,0,0,phi,1,0
+,,,,,,,,,,,,201602060PHI,Did Not Play,,,Ish Smith,smithis01,,,,phi,,
+,,,,,,,,,,,,201602060PHI,Did Not Play,,,Carl Landry,landrca01,,,,phi,,
+,,,,,,,,,,,,201602060PHI,Did Not Play,,,Elton Brand,brandel01,,,,phi,,

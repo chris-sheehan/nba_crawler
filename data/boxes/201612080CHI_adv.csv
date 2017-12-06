@@ -1,0 +1,27 @@
+ast_pct,blk_pct,def_rtg,drb_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,gm,mp,off_rtg,orb_pct,player,player_id,stl_pct,team,tov_pct,trb_pct,ts_pct,usg_pct
+23.8,0.0,98,14.6,.553,.105,.158,201612080CHI,38:07,119,7.4,Kawhi Leonard,leonaka01,2.6,sas,9.0,10.7,.591,25.3
+5.0,9.8,95,10.8,.333,.067,.000,201612080CHI,30:58,71,9.1,LaMarcus Aldridge,aldrila01,1.6,sas,11.8,9.9,.333,23.7
+16.0,2.5,98,29.3,.591,.273,.000,201612080CHI,30:31,119,6.2,Pau Gasol,gasolpa01,0.0,sas,8.3,16.7,.591,17.0
+5.6,0.0,95,4.4,.563,1.000,.000,201612080CHI,25:31,101,0.0,Danny Green,greenda02,5.8,sas,11.1,2.0,.563,15.2
+31.8,0.0,107,4.6,.400,.100,.000,201612080CHI,24:17,76,0.0,Tony Parker,parketo01,0.0,sas,23.1,2.1,.400,23.1
+7.5,0.0,98,4.7,.667,.500,.000,201612080CHI,23:43,119,0.0,Patty Mills,millspa02,4.1,sas,7.7,2.2,.667,23.7
+15.4,3.6,102,10.7,.667,.000,.333,201612080CHI,20:54,125,9.0,David Lee,leeda02,0.0,sas,12.7,9.8,.654,16.3
+13.4,4.2,96,12.2,.000,.444,.000,201612080CHI,18:19,12,0.0,Manu Ginobili,ginobma01,2.7,sas,10.0,5.6,.000,23.6
+9.5,0.0,82,15.7,.143,.429,.000,201612080CHI,14:11,40,0.0,Jonathon Simmons,simmojo02,10.4,sas,0.0,7.2,.143,21.3
+0.0,5.7,89,50.4,,,,201612080CHI,13:18,222,7.1,Dewayne Dedmon,dedmode01,0.0,sas,,26.9,,0.0
+0.0,0.0,-63,100.0,,,,201612080CHI,0:11,0,0.0,Kyle Anderson,anderky01,0.0,sas,,100.0,,0.0
+,,,,,,,201612080CHI,Did Not Play,,,Davis Bertans,bertada01,,sas,,,,
+,,,,,,,201612080CHI,Did Not Play,,,Nicolas Laprovittola,laproni01,,sas,,,,
+16.7,1.8,90,17.2,.321,.214,.357,201612080CHI,38:18,85,5.8,Jimmy Butler,butleji01,2.6,chi,15.6,12.0,.401,21.5
+45.1,0.0,89,23.8,.500,.083,.000,201612080CHI,35:36,94,3.1,Rajon Rondo,rondora01,2.8,chi,25.0,14.3,.500,19.3
+25.2,2.0,95,11.0,.423,.231,1.000,201612080CHI,34:05,106,3.3,Dwyane Wade,wadedw01,1.4,chi,13.8,7.5,.534,27.3
+6.5,5.0,93,16.9,.455,.000,.182,201612080CHI,27:53,98,0.0,Taj Gibson,gibsota01,0.0,chi,7.8,9.2,.505,19.8
+0.0,2.5,98,10.2,.667,.000,.000,201612080CHI,27:48,118,8.0,Robin Lopez,lopezro01,0.0,chi,10.0,9.2,.667,15.4
+17.9,0.0,100,11.0,.417,.667,.500,201612080CHI,25:45,92,4.3,Doug McDermott,mcderdo01,0.0,chi,29.1,7.9,.546,17.2
+16.3,0.0,85,25.4,.563,.625,.000,201612080CHI,22:16,81,0.0,Nikola Mirotic,mirotni01,4.4,chi,27.3,13.8,.563,21.2
+0.0,0.0,98,15.6,.600,.000,.800,201612080CHI,18:03,130,24.7,Cristiano Felicio,feliccr01,0.0,chi,12.9,19.8,.666,18.4
+0.0,0.0,103,0.0,.000,.500,.000,201612080CHI,10:16,0,0.0,Isaiah Canaan,canaais01,0.0,chi,33.3,0.0,.000,12.5
+,,,,,,,201612080CHI,Did Not Play,,,Denzel Valentine,valende01,,chi,,,,
+,,,,,,,201612080CHI,Did Not Play,,,Bobby Portis,portibo01,,chi,,,,
+,,,,,,,201612080CHI,Did Not Play,,,Paul Zipser,zipsepa01,,chi,,,,
+,,,,,,,201612080CHI,Did Not Play,,,Jerian Grant,grantje02,,chi,,,,

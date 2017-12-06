@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+1,0,2,5,1,.250,4,.556,9,0,,0,201704230CHI,40:00,0,4,Jae Crowder,crowdja01,+5,11,2,bos,1,2
+4,1,11,6,1,.333,3,.545,11,2,1.000,2,201704230CHI,36:29,1,1,Al Horford,horfoal01,+5,15,1,bos,1,12
+7,0,4,10,1,.111,9,.476,21,12,.923,13,201704230CHI,35:48,0,4,Isaiah Thomas,thomais02,+17,33,1,bos,5,4
+2,0,0,3,1,.167,6,.333,9,1,.500,2,201704230CHI,33:51,1,3,Avery Bradley,bradlav01,+2,8,1,bos,3,1
+0,0,5,7,4,.444,9,.538,13,0,,0,201704230CHI,22:59,2,1,Gerald Green,greenge01,+4,18,0,bos,1,7
+6,1,4,2,1,.500,2,.250,8,0,,0,201704230CHI,33:13,5,5,Marcus Smart,smartma01,+9,5,1,bos,2,9
+0,1,3,4,1,1.000,1,1.000,4,1,.333,3,201704230CHI,15:46,0,4,Kelly Olynyk,olynyke01,+5,10,1,bos,0,3
+0,0,1,1,0,.000,2,.250,4,0,,0,201704230CHI,11:05,0,0,Terry Rozier,roziete01,0,2,0,bos,0,1
+2,1,1,0,0,.000,1,.000,3,2,1.000,2,201704230CHI,9:50,2,2,Jonas Jerebko,jerebjo01,+1,2,0,bos,0,3
+0,0,0,0,0,,0,,0,0,,0,201704230CHI,0:59,0,0,Jaylen Brown,brownja02,-3,0,0,bos,0,0
+,,,,,,,,,,,,201704230CHI,Did Not Play,,,James Young,youngja01,,,,bos,,
+,,,,,,,,,,,,201704230CHI,Did Not Play,,,Amir Johnson,johnsam01,,,,bos,,
+,,,,,,,,,,,,201704230CHI,Did Not Play,,,Tyler Zeller,zellety01,,,,bos,,
+9,0,4,7,0,.000,3,.438,16,19,.826,23,201704230CHI,45:47,1,4,Jimmy Butler,butleji01,-4,33,1,chi,1,5
+2,2,5,5,0,.000,2,.417,12,1,1.000,1,201704230CHI,37:41,1,2,Dwyane Wade,wadedw01,-5,11,1,chi,2,6
+1,0,7,4,2,.250,8,.364,11,3,1.000,3,201704230CHI,34:14,0,4,Nikola Mirotic,mirotni01,-5,13,1,chi,1,7
+0,0,1,4,0,,0,.500,8,0,,0,201704230CHI,21:45,6,2,Robin Lopez,lopezro01,-4,8,0,chi,2,7
+1,0,0,0,0,.000,1,.000,3,0,,0,201704230CHI,4:41,0,0,Jerian Grant,grantje02,-10,0,0,chi,0,0
+3,0,2,4,3,.429,7,.400,10,2,.500,4,201704230CHI,34:07,0,2,Isaiah Canaan,canaais01,+11,13,2,chi,0,2
+1,1,7,4,0,.000,1,.571,7,0,,0,201704230CHI,22:43,1,1,Bobby Portis,portibo01,-3,8,0,chi,1,8
+0,0,2,0,0,.000,1,.000,2,0,,0,201704230CHI,13:41,1,1,Paul Zipser,zipsepa01,-8,0,0,chi,1,3
+0,0,3,1,0,,0,1.000,1,1,.500,2,201704230CHI,10:19,0,4,Cristiano Felicio,feliccr01,-3,3,0,chi,1,3
+1,0,0,0,0,,0,,0,0,,0,201704230CHI,8:07,0,2,Michael Carter-Williams,cartemi01,-11,0,0,chi,2,0
+1,0,1,3,0,.000,1,.500,6,0,,0,201704230CHI,6:55,2,1,Joffrey Lauvergne,lauvejo01,-3,6,0,chi,1,3
+,,,,,,,,,,,,201704230CHI,Did Not Play,,,Denzel Valentine,valende01,,,,chi,,
+,,,,,,,,,,,,201704230CHI,Did Not Play,,,Anthony Morrow,morroan01,,,,chi,,

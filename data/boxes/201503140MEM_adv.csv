@@ -1,0 +1,27 @@
+ast_pct,blk_pct,def_rtg,drb_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,gm,mp,off_rtg,orb_pct,player,player_id,stl_pct,team,tov_pct,trb_pct,ts_pct,usg_pct
+11.4,0.0,112,16.5,.700,.100,.600,201503140MEM,39:17,134,3.4,Giannis Antetokounmpo,antetgi01,0.0,mil,13.7,10.0,.752,18.1
+17.5,0.0,108,7.0,.433,.267,.333,201503140MEM,37:01,99,3.6,Khris Middleton,middlkh01,2.9,mil,10.4,5.3,.494,25.2
+55.8,0.0,107,10.7,.250,.357,.000,201503140MEM,36:19,74,3.7,Tyler Ennis,ennisty01,3.0,mil,17.6,7.2,.250,22.7
+8.6,2.8,110,14.6,.625,.000,.500,201503140MEM,26:38,123,5.0,Zaza Pachulia,pachuza01,0.0,mil,17.0,9.9,.717,21.4
+0.0,0.0,106,22.1,.500,.400,.400,201503140MEM,23:26,108,5.7,Ersan Ilyasova,ilyaser01,2.3,mil,0.0,14.0,.510,24.4
+0.0,0.0,112,17.8,.500,.800,.000,201503140MEM,21:53,102,0.0,Chris Johnson,johnsch04,0.0,mil,0.0,9.0,.500,11.1
+0.0,7.3,99,18.9,.000,.000,8.000,201503140MEM,20:35,63,13.0,John Henson,hensojo01,2.6,mil,30.7,16.0,.332,15.4
+0.0,0.0,106,45.4,.500,.000,.000,201503140MEM,14:17,51,0.0,Miles Plumlee,plumlmi01,0.0,mil,42.9,23.0,.500,23.8
+0.0,0.0,114,9.6,.500,.000,.000,201503140MEM,13:28,77,9.9,Johnny O'Bryant,obryajo01,0.0,mil,33.3,9.8,.500,10.8
+0.0,0.0,116,0.0,.000,.333,.000,201503140MEM,7:06,0,0.0,O.J. Mayo,mayooj01,0.0,mil,0.0,0.0,.000,20.5
+,,,,,,,201503140MEM,Did Not Play,,,Jared Dudley,dudleja01,,mil,,,,
+,,,,,,,201503140MEM,Did Not Play,,,Jerryd Bayless,bayleje01,,mil,,,,
+,,,,,,,201503140MEM,Did Not Play,,,Michael Carter-Williams,cartemi01,,mil,,,,
+17.8,2.6,92,15.5,.400,.000,.800,201503140MEM,34:22,96,7.5,Zach Randolph,randoza01,3.2,mem,27.0,11.5,.555,26.1
+34.5,2.7,93,23.4,.500,.000,.000,201503140MEM,34:08,125,3.8,Marc Gasol,gasolma01,1.6,mem,0.0,13.5,.500,17.0
+11.1,0.0,97,12.9,.700,.200,.000,201503140MEM,31:05,113,0.0,Beno Udrih,udrihbe01,1.7,mem,16.7,6.3,.700,18.7
+12.1,0.0,103,4.6,.700,.300,.300,201503140MEM,29:12,127,0.0,Courtney Lee,leeco01,0.0,mem,15.0,2.3,.751,22.1
+12.8,0.0,97,10.0,.462,.308,.308,201503140MEM,26:42,97,14.6,Jeff Green,greenje02,2.0,mem,16.9,12.3,.508,32.2
+4.9,0.0,87,12.7,.333,.083,.083,201503140MEM,31:36,81,0.0,Tony Allen,allento01,6.9,mem,0.0,6.2,.362,19.1
+0.0,5.1,90,37.2,.333,.000,.000,201503140MEM,17:56,103,14.5,Kosta Koufos,koufoko01,0.0,mem,0.0,25.7,.333,8.1
+36.2,0.0,91,23.6,.667,.333,.000,201503140MEM,16:55,101,0.0,Nick Calathes,calatni01,3.2,mem,40.0,11.7,.667,14.3
+10.9,0.0,102,8.5,.800,.600,.000,201503140MEM,15:46,156,0.0,Vince Carter,cartevi01,0.0,mem,0.0,4.2,.800,15.4
+0.0,0.0,102,0.0,,,,201503140MEM,2:18,0,0.0,JaMychal Green,greenja01,0.0,mem,,0.0,,0.0
+,,,,,,,201503140MEM,Did Not Play,,,Russ Smith,smithru01,,mem,,,,
+,,,,,,,201503140MEM,Did Not Play,,,Jordan Adams,adamsjo01,,mem,,,,
+,,,,,,,201503140MEM,Did Not Play,,,Jon Leuer,leuerjo01,,mem,,,,

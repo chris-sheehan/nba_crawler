@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+2,0,7,5,2,.333,6,.455,11,3,1.000,3,201603260NOP,33:45,0,3,Norman Powell,powelno01,+23,15,0,tor,2,7
+5,0,5,9,1,.500,2,.818,11,4,1.000,4,201603260NOP,30:28,0,2,DeMar DeRozan,derozde01,+23,23,0,tor,2,5
+8,0,1,3,0,.000,8,.231,13,5,.714,7,201603260NOP,28:26,1,4,Kyle Lowry,lowryky01,+28,11,2,tor,1,2
+1,5,8,5,0,,0,.625,8,0,,0,201603260NOP,26:27,1,1,Jonas Valanciunas,valanjo01,+27,10,0,tor,1,9
+1,0,6,4,4,.800,5,.800,5,0,,0,201603260NOP,21:28,0,1,Luis Scola,scolalu01,+17,12,0,tor,0,6
+2,0,2,2,1,1.000,1,.400,5,1,1.000,1,201603260NOP,26:12,0,1,Cory Joseph,josepco01,-3,6,1,tor,0,2
+1,0,3,4,1,.333,3,.500,8,2,1.000,2,201603260NOP,19:48,2,0,James Johnson,johnsja01,-1,11,2,tor,4,5
+3,0,4,5,3,1.000,3,.714,7,3,1.000,3,201603260NOP,19:43,1,2,Patrick Patterson,pattepa01,+10,16,0,tor,1,5
+0,2,4,1,0,,0,1.000,1,5,.833,6,201603260NOP,18:51,1,3,Bismack Biyombo,biyombi01,-6,7,0,tor,1,5
+0,0,1,1,0,.000,1,.500,2,0,,0,201603260NOP,6:49,0,1,Jason Thompson,thompja02,-3,2,1,tor,0,1
+1,0,0,0,0,,0,.000,1,0,,0,201603260NOP,3:17,1,0,Delon Wright,wrighde01,+2,0,0,tor,1,1
+0,0,0,0,0,,0,,0,2,1.000,2,201603260NOP,2:42,0,0,Lucas Nogueira,noguelu01,+3,2,0,tor,0,0
+0,0,0,0,0,,0,.000,1,0,,0,201603260NOP,2:04,0,0,Bruno Caboclo,cabocbr01,0,0,0,tor,0,0
+2,0,5,8,0,.000,1,.667,12,2,.500,4,201603260NOP,41:00,3,3,Alonzo Gee,geeal01,-27,18,1,nop,3,8
+1,0,0,3,0,.000,4,.250,12,1,.500,2,201603260NOP,36:01,1,2,Dante Cunningham,cunnida01,-21,7,0,nop,0,1
+0,0,5,2,0,,0,.333,6,3,.500,6,201603260NOP,23:42,2,0,Omer Asik,asikom01,-25,7,2,nop,0,7
+2,0,1,4,2,.400,5,.286,14,1,1.000,1,201603260NOP,21:34,0,3,Toney Douglas,douglto01,-21,11,1,nop,1,1
+1,1,3,3,0,,0,.300,10,3,1.000,3,201603260NOP,20:42,1,2,Alexis Ajinca,ajincal01,-11,9,1,nop,1,4
+6,0,2,5,0,.000,1,.556,9,2,1.000,2,201603260NOP,28:42,1,1,Tim Frazier,fraziti01,-9,12,0,nop,2,3
+5,0,4,6,2,.500,4,.545,11,0,,0,201603260NOP,28:06,0,3,Luke Babbitt,babbilu01,-4,14,0,nop,0,4
+3,0,3,5,0,,0,.500,10,1,.500,2,201603260NOP,24:18,1,2,Jordan Hamilton,hamiljo02,+1,11,0,nop,0,4
+2,0,4,1,0,,0,1.000,1,0,,0,201603260NOP,15:55,0,2,Kendrick Perkins,perkike01,-3,2,1,nop,0,4
+,,,,,,,,,,,,201603260NOP,Did Not Play,,,Ryan Anderson,anderry01,,,,nop,,
+,,,,,,,,,,,,201603260NOP,Did Not Play,,,Anthony Davis,davisan02,,,,nop,,
+,,,,,,,,,,,,201603260NOP,Did Not Play,,,Norris Cole,coleno01,,,,nop,,
+,,,,,,,,,,,,201603260NOP,Did Not Play,,,Jrue Holiday,holidjr01,,,,nop,,

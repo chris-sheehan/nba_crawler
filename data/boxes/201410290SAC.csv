@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+6,1,2,4,2,.250,8,.286,14,9,.900,10,201410290SAC,37:59,0,1,Klay Thompson,thompkl01,+21,19,2,gsw,5,2
+5,0,9,7,2,.222,9,.412,17,8,.889,9,201410290SAC,36:32,1,5,Stephen Curry,curryst01,+20,24,6,gsw,4,10
+3,0,8,4,2,1.000,2,.571,7,2,.500,4,201410290SAC,34:22,2,2,Draymond Green,greendr01,+22,12,1,gsw,5,10
+1,0,4,3,0,.000,3,.300,10,3,.600,5,201410290SAC,28:50,2,2,Harrison Barnes,barneha02,+12,9,0,gsw,1,6
+0,4,5,2,0,,0,1.000,2,0,,0,201410290SAC,18:04,0,4,Andrew Bogut,bogutan01,+11,4,0,gsw,1,5
+2,0,3,1,0,.000,4,.167,6,0,.000,2,201410290SAC,29:15,0,2,Andre Iguodala,iguodan01,+25,2,3,gsw,2,3
+2,0,3,8,0,,0,.615,13,0,,0,201410290SAC,17:49,2,2,Marreese Speights,speigma01,-1,16,0,gsw,3,5
+1,1,1,2,0,.000,1,.500,4,0,,0,201410290SAC,14:26,0,5,Leandro Barbosa,barbole01,+2,4,0,gsw,1,1
+0,0,1,2,0,,0,1.000,2,1,.500,2,201410290SAC,8:09,0,4,Festus Ezeli,ezelife01,-1,5,0,gsw,0,1
+0,1,1,0,0,,0,,0,0,,0,201410290SAC,6:27,0,4,Ognjen Kuzmic,kuzmiog01,-10,0,0,gsw,0,1
+1,1,0,0,0,,0,,0,0,,0,201410290SAC,4:27,0,1,Justin Holiday,holidju01,-9,0,0,gsw,0,0
+0,0,0,0,0,,0,,0,0,,0,201410290SAC,3:40,0,0,Shaun Livingston,livinsh01,-2,0,0,gsw,0,0
+,,,,,,,,,,,,201410290SAC,Did Not Play,,,Nemanja Nedovic,nedovne01,,,,gsw,,
+8,1,4,4,1,.250,4,.333,12,4,.667,6,201410290SAC,36:12,0,2,Darren Collison,collida01,-5,13,5,sac,1,4
+0,1,7,5,0,.000,2,.333,15,4,.800,5,201410290SAC,33:30,2,3,Rudy Gay,gayru01,-10,14,1,sac,3,9
+1,0,8,4,0,,0,.286,14,12,.667,18,201410290SAC,30:47,3,5,DeMarcus Cousins,couside01,-7,20,1,sac,6,11
+1,0,2,0,0,.000,2,.000,5,0,,0,201410290SAC,26:27,0,3,Ben McLemore,mclembe01,+2,0,1,sac,2,2
+0,1,5,1,0,,0,.333,3,0,,0,201410290SAC,21:26,2,3,Jason Thompson,thompja02,-9,2,2,sac,4,7
+0,0,0,3,2,.286,7,.300,10,1,1.000,1,201410290SAC,25:59,0,3,Nik Stauskas,stausni01,-19,9,0,sac,1,0
+0,0,2,3,0,,0,.600,5,2,1.000,2,201410290SAC,17:23,5,1,Carl Landry,landrca01,-3,8,0,sac,2,7
+1,0,2,1,0,.000,1,.333,3,2,1.000,2,201410290SAC,15:24,0,2,Omri Casspi,casspom01,-12,4,0,sac,2,2
+0,0,1,1,0,.000,2,.250,4,0,,0,201410290SAC,12:42,1,2,Derrick Williams,willide02,-16,2,1,sac,0,2
+1,0,0,1,0,,0,.333,3,1,1.000,1,201410290SAC,10:14,0,2,Ramon Sessions,sessira01,-12,3,0,sac,4,0
+1,0,3,0,0,,0,.000,3,0,,0,201410290SAC,6:54,2,0,Reggie Evans,evansre01,+3,0,0,sac,1,5
+0,0,1,1,0,,0,1.000,1,0,,0,201410290SAC,1:31,0,0,Ryan Hollins,holliry01,-1,2,0,sac,0,1
+0,0,0,0,0,,0,,0,0,,0,201410290SAC,1:31,0,0,Ray McCallum,mccalra01,-1,0,0,sac,0,0

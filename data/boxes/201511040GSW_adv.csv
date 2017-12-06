@@ -1,0 +1,27 @@
+ast_pct,blk_pct,def_rtg,drb_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,gm,mp,off_rtg,orb_pct,player,player_id,stl_pct,team,tov_pct,trb_pct,ts_pct,usg_pct
+25.1,2.2,115,25.4,.476,.095,.143,201511040GSW,37:49,111,5.9,Blake Griffin,griffbl01,0.0,lac,8.2,15.3,.515,28.4
+3.9,4.7,113,28.0,.714,.000,.571,201511040GSW,34:16,107,16.3,DeAndre Jordan,jordade01,0.0,lac,25.5,21.9,.628,15.2
+48.2,0.0,109,11.7,.633,.200,.467,201511040GSW,30:53,134,0.0,Chris Paul,paulch01,4.8,lac,10.0,5.6,.664,28.7
+14.5,0.0,122,4.2,.813,.500,.000,201511040GSW,28:43,144,0.0,J.J. Redick,redicjj01,0.0,lac,11.1,2.0,.813,13.8
+16.2,0.0,116,26.2,.600,.400,.400,201511040GSW,22:56,115,0.0,Lance Stephenson,stephla01,0.0,lac,14.5,12.6,.595,13.2
+0.0,3.4,120,0.0,.500,.250,.000,201511040GSW,24:02,102,0.0,Austin Rivers,riverau01,0.0,lac,0.0,0.0,.500,14.7
+7.1,0.0,113,17.9,.267,.200,.000,201511040GSW,20:08,71,11.1,Jamal Crawford,crawfja01,2.4,lac,0.0,14.4,.267,32.9
+0.0,0.0,114,13.4,.000,1.000,2.000,201511040GSW,17:56,83,0.0,Paul Pierce,piercpa01,2.7,lac,0.0,6.4,.355,13.9
+10.5,0.0,112,9.3,.625,.500,.000,201511040GSW,12:53,91,8.7,Josh Smith,smithjo03,3.8,lac,33.3,9.0,.625,20.6
+0.0,0.0,122,0.0,1.250,.500,.000,201511040GSW,10:24,250,0.0,Wesley Johnson,johnswe01,0.0,lac,0.0,0.0,1.250,8.5
+,,,,,,,201511040GSW,Did Not Play,,,Pablo Prigioni,prigipa01,,lac,,,,
+,,,,,,,201511040GSW,Did Not Play,,,Cole Aldrich,aldrico01,,lac,,,,
+,,,,,,,201511040GSW,Did Not Play,,,Luc Mbah a Moute,mbahalu01,,lac,,,,
+17.3,0.0,111,8.6,.318,.545,.364,201511040GSW,39:10,87,6.1,Draymond Green,greendr01,2.5,gsw,19.0,7.4,.392,17.5
+12.5,2.0,112,21.9,.750,.375,.625,201511040GSW,35:39,146,6.7,Harrison Barnes,barneha02,0.0,gsw,16.4,14.6,.833,14.8
+21.6,0.0,111,17.1,.676,.647,.529,201511040GSW,32:38,153,0.0,Stephen Curry,curryst01,1.5,gsw,0.0,8.9,.740,27.9
+25.8,2.2,107,13.8,.389,.111,.111,201511040GSW,32:27,92,3.7,Klay Thompson,thompkl01,3.0,gsw,9.6,8.9,.424,27.9
+15.9,6.4,110,14.7,.750,.000,.125,201511040GSW,22:51,145,5.3,Festus Ezeli,ezelife01,0.0,gsw,0.0,10.1,.711,16.0
+21.1,0.0,112,14.1,.286,.571,.571,201511040GSW,31:41,93,3.8,Andre Iguodala,iguodan01,1.6,gsw,10.2,9.1,.342,13.4
+24.9,0.0,115,12.9,.400,.000,.000,201511040GSW,17:19,82,6.9,Shaun Livingston,livinsh01,0.0,gsw,28.6,10.0,.400,17.5
+0.0,5.0,106,38.1,.286,.000,.571,201511040GSW,14:39,77,0.0,Marreese Speights,speigma01,0.0,gsw,10.2,19.7,.400,28.9
+14.5,0.0,119,0.0,1.000,.000,.500,201511040GSW,13:26,144,8.9,Leandro Barbosa,barbole01,0.0,gsw,17.0,4.3,.922,19.0
+0.0,0.0,119,0.0,,,,201511040GSW,0:10,0,0.0,James Michael McAdoo,mcadoja01,0.0,gsw,,0.0,,0.0
+,,,,,,,201511040GSW,Did Not Play,,,Jason Thompson,thompja02,,gsw,,,,
+,,,,,,,201511040GSW,Did Not Play,,,Ian Clark,clarkia01,,gsw,,,,
+,,,,,,,201511040GSW,Did Not Play,,,Brandon Rush,rushbr01,,gsw,,,,

@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+5,0,3,8,4,.400,10,.471,17,4,1.000,4,201611250LAL,35:36,2,1,Stephen Curry,curryst01,+14,24,3,gsw,3,5
+9,2,5,11,3,.500,6,.579,19,4,.667,6,201611250LAL,33:20,1,4,Kevin Durant,duranke01,+36,29,1,gsw,2,6
+0,0,7,7,1,.167,6,.412,17,3,.750,4,201611250LAL,33:11,0,1,Klay Thompson,thompkl01,+35,18,0,gsw,1,7
+4,1,8,5,1,.500,2,.714,7,1,.333,3,201611250LAL,25:56,0,3,Draymond Green,greendr01,+11,12,3,gsw,2,8
+4,3,6,1,0,,0,.200,5,0,,0,201611250LAL,20:39,0,3,Zaza Pachulia,pachuza01,-2,2,0,gsw,3,6
+4,0,4,3,0,.000,1,.600,5,0,,0,201611250LAL,24:08,0,0,Andre Iguodala,iguodan01,+15,6,1,gsw,1,4
+1,0,2,1,0,,0,.250,4,0,,0,201611250LAL,14:56,0,1,Shaun Livingston,livinsh01,+8,2,0,gsw,1,2
+0,2,1,3,0,,0,1.000,3,0,,0,201611250LAL,12:55,0,1,Kevon Looney,looneke01,+7,6,1,gsw,0,1
+1,0,1,1,1,.500,2,.500,2,0,,0,201611250LAL,11:51,0,2,Patrick McCaw,mccawpa01,-11,3,0,gsw,1,1
+3,0,1,1,0,,0,1.000,1,0,,0,201611250LAL,11:07,1,4,David West,westda01,+7,2,1,gsw,2,2
+0,0,0,1,1,1.000,1,.500,2,0,,0,201611250LAL,8:54,0,0,Ian Clark,clarkia01,-9,3,0,gsw,0,0
+0,1,2,0,0,,0,,0,0,,0,201611250LAL,5:31,0,1,JaVale McGee,mcgeeja01,+5,0,0,gsw,1,2
+0,1,0,1,0,,0,1.000,1,0,,0,201611250LAL,1:56,0,0,James Michael McAdoo,mcadoja01,+4,2,0,gsw,0,0
+2,1,8,3,0,.000,4,.167,18,2,1.000,2,201611250LAL,38:39,1,1,Brandon Ingram,ingrabr01,-19,8,2,lal,3,9
+0,0,2,6,4,.444,9,.375,16,4,.800,5,201611250LAL,38:22,0,1,Jordan Clarkson,clarkjo01,-28,20,5,lal,3,2
+6,1,0,3,1,.333,3,.500,6,0,,0,201611250LAL,27:49,1,4,Jose Calderon,caldejo01,-16,7,1,lal,4,1
+4,0,3,2,0,.000,2,.250,8,0,,0,201611250LAL,21:53,1,0,Luol Deng,denglu01,-17,4,0,lal,1,4
+1,0,3,3,0,,0,.500,6,2,.500,4,201611250LAL,19:42,1,1,Timofey Mozgov,mozgoti01,-14,8,0,lal,1,4
+2,0,2,5,0,.000,4,.385,13,3,.750,4,201611250LAL,25:58,1,0,Lou Williams,willilo02,+1,13,1,lal,4,3
+0,0,5,5,0,,0,.625,8,1,.500,2,201611250LAL,19:53,2,4,Larry Nance,nancela02,-11,11,1,lal,0,7
+1,0,1,2,0,,0,.500,4,4,1.000,4,201611250LAL,16:43,4,1,Tarik Black,blackta01,-3,8,1,lal,0,5
+0,1,7,3,0,,0,.375,8,0,.000,2,201611250LAL,15:41,3,3,Thomas Robinson,robinth01,-3,6,1,lal,1,10
+3,0,0,0,0,,0,.000,3,0,,0,201611250LAL,12:16,0,1,Marcelo Huertas,huertma01,-12,0,0,lal,1,0
+1,0,0,0,0,,0,,0,0,,0,201611250LAL,3:04,0,0,Metta World Peace,artesro01,+2,0,0,lal,0,0
+,,,,,,,,,,,,201611250LAL,Did Not Dress,,,Julius Randle,randlju01,,,,lal,,
+,,,,,,,,,,,,201611250LAL,Did Not Dress,,,Nick Young,youngni01,,,,lal,,

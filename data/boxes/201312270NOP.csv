@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+1,0,7,7,3,.333,9,.350,20,5,.833,6,201312270NOP,37:27,2,2,Wilson Chandler,chandwi01,-11,22,1,den,0,9
+1,0,7,7,0,,0,.778,9,2,.333,6,201312270NOP,36:29,3,4,J.J. Hickson,hicksjj01,-4,16,1,den,2,10
+12,0,1,3,0,.000,4,.250,12,8,1.000,8,201312270NOP,35:39,0,0,Ty Lawson,lawsoty01,-9,14,3,den,8,1
+1,1,7,5,2,.333,6,.385,13,0,.000,2,201312270NOP,32:10,0,2,Jordan Hamilton,hamiljo02,-5,12,0,den,0,7
+0,1,5,4,0,,0,.500,8,0,,0,201312270NOP,27:37,4,2,Timofey Mozgov,mozgoti01,-3,8,1,den,0,9
+1,2,4,3,0,,0,.429,7,2,1.000,2,201312270NOP,19:30,0,2,Anthony Randolph,randoan01,-11,8,1,den,2,4
+1,0,0,0,0,.000,2,.000,3,0,,0,201312270NOP,15:44,0,1,Nate Robinson,robinna01,-16,0,1,den,3,0
+1,0,0,0,0,.000,1,.000,3,0,,0,201312270NOP,15:10,0,1,Andre Miller,millean02,-10,0,1,den,1,0
+0,0,0,4,1,1.000,1,.667,6,0,,0,201312270NOP,13:03,2,0,Quincy Miller,millequ01,-3,9,0,den,1,2
+1,0,0,0,0,,0,.000,1,0,,0,201312270NOP,7:11,0,1,Randy Foye,foyera01,-8,0,1,den,0,0
+,,,,,,,,,,,,201312270NOP,Did Not Play,,,Darrell Arthur,arthuda01,,,,den,,
+,,,,,,,,,,,,201312270NOP,Did Not Play,,,Evan Fournier,fournev01,,,,den,,
+,,,,,,,,,,,,201312270NOP,Did Not Play,,,Kenneth Faried,farieke01,,,,den,,
+1,0,5,6,4,.364,11,.316,19,0,,0,201312270NOP,39:30,5,1,Ryan Anderson,anderry01,+7,16,0,nop,1,10
+4,0,6,5,0,,0,.625,8,1,.500,2,201312270NOP,30:45,2,2,Al-Farouq Aminu,aminual01,+7,11,1,nop,1,8
+8,0,3,8,1,1.000,1,.615,13,0,,0,201312270NOP,29:17,1,5,Jrue Holiday,holidjr01,+7,17,4,nop,2,4
+1,4,4,7,0,,0,.583,12,3,.500,6,201312270NOP,27:50,3,4,Anthony Davis,davisan02,+7,17,1,nop,2,7
+1,1,0,3,2,.400,5,.375,8,0,,0,201312270NOP,16:46,0,0,Anthony Morrow,morroan01,-2,8,1,nop,2,0
+10,0,6,7,1,.500,2,.412,17,4,1.000,4,201312270NOP,32:17,1,1,Tyreke Evans,evansty01,+20,19,2,nop,2,7
+2,1,6,2,0,,0,.667,3,0,,0,201312270NOP,20:10,2,2,Alexis Ajinca,ajincal01,+9,4,0,nop,2,8
+0,0,4,0,0,.000,1,.000,4,0,,0,201312270NOP,19:24,0,1,Brian Roberts,roberbr01,+12,0,1,nop,3,4
+1,1,4,3,3,.750,4,.750,4,2,.667,3,201312270NOP,19:09,0,4,Darius Miller,milleda01,+7,11,0,nop,1,4
+0,1,0,1,0,,0,1.000,1,0,,0,201312270NOP,4:52,1,1,Lou Amundson,amundlo01,+6,2,0,nop,0,1
+,,,,,,,,,,,,201312270NOP,Did Not Play,,,Austin Rivers,riverau01,,,,nop,,
+,,,,,,,,,,,,201312270NOP,Did Not Play,,,Jeff Withey,witheje01,,,,nop,,
+,,,,,,,,,,,,201312270NOP,Did Not Play,,,Jason Smith,smithja02,,,,nop,,

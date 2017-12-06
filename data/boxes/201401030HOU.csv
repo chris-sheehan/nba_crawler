@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+2,0,7,10,2,.500,4,.435,23,3,1.000,3,201401030HOU,37:54,1,4,Carmelo Anthony,anthoca01,+11,25,0,nyk,2,8
+5,0,3,9,6,1.000,6,.643,14,2,1.000,2,201401030HOU,35:35,1,3,Iman Shumpert,shumpim01,+9,26,1,nyk,0,4
+7,0,3,5,0,.000,1,.385,13,0,,0,201401030HOU,34:12,1,3,Beno Udrih,udrihbe01,-1,10,2,nyk,0,4
+0,2,4,3,0,.000,3,.300,10,1,.500,2,201401030HOU,30:05,4,4,Andrea Bargnani,bargnan01,-1,7,0,nyk,2,8
+0,1,6,4,0,,0,.800,5,5,.714,7,201401030HOU,27:17,5,3,Tyson Chandler,chandty01,0,13,1,nyk,1,11
+2,0,0,3,1,.125,8,.231,13,2,1.000,2,201401030HOU,30:59,0,1,J.R. Smith,smithjr01,-11,9,2,nyk,0,0
+0,0,3,2,0,,0,.333,6,2,1.000,2,201401030HOU,19:14,4,2,Amar'e Stoudemire,stoudam01,-3,6,2,nyk,2,7
+4,0,0,1,0,.000,1,.250,4,1,.250,4,201401030HOU,13:52,1,2,Toure' Murry,murryto01,-1,3,1,nyk,1,1
+0,0,1,0,0,.000,1,.000,1,1,.500,2,201401030HOU,10:52,0,0,Tim Hardaway,hardati02,-13,1,0,nyk,0,1
+,,,,,,,,,,,,201401030HOU,Did Not Play,,,Metta World Peace,artesro01,,,,nyk,,
+,,,,,,,,,,,,201401030HOU,Did Not Play,,,Cole Aldrich,aldrico01,,,,nyk,,
+,,,,,,,,,,,,201401030HOU,Did Not Play,,,Jeremy Tyler,tylerje01,,,,nyk,,
+,,,,,,,,,,,,201401030HOU,Did Not Play,,,Kenyon Martin,martike01,,,,nyk,,
+6,0,5,10,5,.500,10,.526,19,12,1.000,12,201401030HOU,44:28,2,2,James Harden,hardeja01,-2,37,0,hou,5,7
+2,0,10,6,1,.200,5,.462,13,4,.800,5,201401030HOU,44:21,1,2,Chandler Parsons,parsoch01,-3,17,3,hou,2,11
+0,3,5,6,0,,0,.545,11,3,.500,6,201401030HOU,38:28,2,3,Dwight Howard,howardw01,-8,15,1,hou,1,7
+3,0,6,3,0,,0,.429,7,0,,0,201401030HOU,29:57,3,2,Terrence Jones,joneste01,-13,6,0,hou,2,9
+4,0,1,5,1,.500,2,.455,11,3,1.000,3,201401030HOU,28:11,1,2,Jeremy Lin,linje01,-1,14,0,hou,3,2
+1,0,1,1,1,.200,5,.125,8,2,1.000,2,201401030HOU,19:32,1,4,Aaron Brooks,brookaa01,+3,5,0,hou,2,2
+0,1,4,1,1,.500,2,.500,2,0,,0,201401030HOU,19:11,0,4,Francisco Garcia,garcifr01,+19,3,0,hou,0,4
+0,0,1,0,0,,0,,0,0,,0,201401030HOU,9:32,0,0,Greg Smith,smithgr02,+10,0,0,hou,0,1
+0,0,1,2,1,.500,2,.667,3,0,,0,201401030HOU,6:20,0,0,Omri Casspi,casspom01,+5,5,0,hou,0,1
+,,,,,,,,,,,,201401030HOU,Did Not Play,,,Donatas Motiejunas,motiedo01,,,,hou,,
+,,,,,,,,,,,,201401030HOU,Did Not Play,,,Omer Asik,asikom01,,,,hou,,
+,,,,,,,,,,,,201401030HOU,Did Not Play,,,Isaiah Canaan,canaais01,,,,hou,,
+,,,,,,,,,,,,201401030HOU,Did Not Play,,,Ronnie Brewer,brewero02,,,,hou,,

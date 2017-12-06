@@ -1,0 +1,26 @@
+ast_pct,blk_pct,def_rtg,drb_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,gm,mp,off_rtg,orb_pct,player,player_id,stl_pct,team,tov_pct,trb_pct,ts_pct,usg_pct
+3.9,0.0,116,7.1,.737,.579,.000,201312010SAC,40:52,117,0.0,Klay Thompson,thompkl01,3.6,gsw,17.4,3.3,.737,24.6
+47.3,2.1,115,7.2,.688,.333,.125,201312010SAC,40:10,123,0.0,Stephen Curry,curryst01,3.7,gsw,21.7,3.4,.711,35.2
+3.3,0.0,117,0.0,.375,.250,.750,201312010SAC,38:21,98,0.0,Harrison Barnes,barneha02,3.8,gsw,15.8,0.0,.517,14.4
+11.3,2.4,123,4.2,.364,.000,.364,201312010SAC,34:53,109,10.9,David Lee,leeda02,0.0,gsw,7.3,7.8,.431,17.3
+5.6,10.5,96,60.6,1.000,.000,.667,201312010SAC,23:59,165,10.5,Andrew Bogut,bogutan01,4.1,gsw,0.0,33.8,.773,7.1
+25.4,0.0,116,20.4,1.000,.500,.500,201312010SAC,21:26,200,11.8,Draymond Green,greendr01,2.3,gsw,0.0,15.8,.922,10.0
+0.0,0.0,119,6.9,.750,.000,.750,201312010SAC,20:58,115,12.0,Jermaine O'Neal,onealje01,2.3,gsw,27.3,9.7,.752,15.3
+11.1,0.0,119,25.4,.250,.000,.500,201312010SAC,11:27,115,11.0,Marreese Speights,speigma01,0.0,gsw,0.0,17.7,.410,18.7
+16.9,0.0,121,18.4,.200,.400,.000,201312010SAC,7:54,41,0.0,Nemanja Nedovic,nedovne01,0.0,gsw,28.6,8.6,.200,38.8
+,,,,,,,201312010SAC,Did Not Play,,,Dewayne Dedmon,dedmode01,,gsw,,,,
+,,,,,,,201312010SAC,Did Not Play,,,Andre Iguodala,iguodan01,,gsw,,,,
+,,,,,,,201312010SAC,Did Not Play,,,Kent Bazemore,bazemke01,,gsw,,,,
+0.0,0.0,121,22.9,.500,.000,.250,201312010SAC,27:33,104,10.6,Jason Thompson,thompja02,0.0,sac,18.4,17.2,.563,16.9
+0.0,0.0,112,41.5,.333,.333,.667,201312010SAC,21:19,73,0.0,Derrick Williams,willide02,2.3,sac,34.0,22.2,.515,11.8
+27.3,0.0,108,30.4,.769,.000,.385,201312010SAC,20:47,131,7.0,DeMarcus Cousins,couside01,4.7,sac,16.5,19.5,.789,37.4
+0.0,0.0,114,0.0,.200,.400,.400,201312010SAC,18:23,70,0.0,Ben McLemore,mclembe01,5.3,sac,14.5,0.0,.340,16.0
+31.3,0.0,118,0.0,.250,.000,.250,201312010SAC,13:53,84,10.5,Greivis Vasquez,vasqugr01,3.5,sac,18.4,4.9,.338,33.5
+34.1,0.0,118,7.4,.344,.250,.625,201312010SAC,34:07,96,12.8,Isaiah Thomas,thomais02,2.9,sac,25.5,9.9,.466,34.3
+16.1,0.0,123,0.0,.773,.727,.455,201312010SAC,29:37,159,0.0,Marcus Thornton,thornma01,1.7,sac,7.0,0.0,.795,20.5
+21.1,3.2,116,18.9,1.125,.250,.000,201312010SAC,26:41,154,16.4,Patrick Patterson,pattepa01,1.8,sac,27.3,17.7,1.125,17.6
+14.1,0.0,121,4.7,.750,1.000,.000,201312010SAC,26:41,97,0.0,John Salmons,salmojo01,1.8,sac,50.0,2.5,.750,6.4
+0.0,0.0,121,24.1,1.000,.000,.000,201312010SAC,20:59,125,6.9,Chuck Hayes,hayesch01,0.0,sac,33.3,16.1,1.000,6.1
+,,,,,,,201312010SAC,Did Not Play,,,Travis Outlaw,outlatr01,,sac,,,,
+,,,,,,,201312010SAC,Did Not Play,,,Jimmer Fredette,fredeji01,,sac,,,,
+,,,,,,,201312010SAC,Did Not Play,,,Ray McCallum,mccalra01,,sac,,,,

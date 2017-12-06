@@ -1,0 +1,27 @@
+ast_pct,blk_pct,def_rtg,drb_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,gm,mp,off_rtg,orb_pct,player,player_id,stl_pct,team,tov_pct,trb_pct,ts_pct,usg_pct
+30.5,2.0,124,27.9,.667,.167,.133,201706120GSW,46:13,136,5.1,LeBron James,jamesle01,2.1,cle,5.9,16.5,.645,31.3
+18.8,0.0,132,2.8,.432,.091,.318,201706120GSW,41:47,108,2.8,Kyrie Irving,irvinky01,2.3,cle,13.8,2.8,.518,29.8
+3.2,4.5,133,8.6,1.136,.727,.091,201706120GSW,40:49,213,0.0,J.R. Smith,smithjr01,0.0,cle,0.0,4.3,1.093,12.0
+7.3,3.1,129,27.4,.250,.375,.625,201706120GSW,29:55,95,11.7,Kevin Love,loveke01,0.0,cle,0.0,19.6,.294,14.6
+12.9,3.1,129,15.7,.750,.000,.500,201706120GSW,29:52,133,15.7,Tristan Thompson,thomptr01,1.6,cle,23.5,15.7,.768,18.3
+0.0,0.0,138,0.0,.500,.667,.000,201706120GSW,17:48,76,0.0,Kyle Korver,korveky01,0.0,cle,25.0,0.0,.500,9.6
+0.0,0.0,138,0.0,.333,.333,.667,201706120GSW,17:27,109,13.4,Richard Jefferson,jefferi01,0.0,cle,20.5,6.7,.515,12.0
+16.5,0.0,124,18.9,.000,1.000,.000,201706120GSW,12:24,32,0.0,Deron Williams,willide01,3.9,cle,50.0,9.4,.000,13.8
+0.0,0.0,137,0.0,.000,1.000,.000,201706120GSW,3:45,0,0.0,Iman Shumpert,shumpim01,0.0,cle,50.0,0.0,.000,22.8
+,,,,,,,201706120GSW,Did Not Play,,,James Jones,jonesja02,,cle,,,,
+,,,,,,,201706120GSW,Did Not Play,,,Dahntay Jones,jonesda02,,cle,,,,
+,,,,,,,201706120GSW,Did Not Play,,,Derrick Williams,willide02,,cle,,,,
+,,,,,,,201706120GSW,Did Not Play,,,Channing Frye,fryech01,,cle,,,,
+12.9,0.0,118,24.1,.400,.500,.400,201706120GSW,43:43,127,8.0,Draymond Green,greendr01,2.2,gsw,0.0,16.1,.425,11.2
+34.4,0.0,118,11.5,.550,.450,.750,201706120GSW,40:48,133,5.7,Stephen Curry,curryst01,3.6,gsw,13.1,8.6,.639,31.2
+20.3,0.0,123,14.5,.825,.400,.300,201706120GSW,40:15,150,2.9,Kevin Durant,duranke01,1.2,gsw,15.0,8.7,.861,27.5
+7.0,2.2,121,13.7,.423,.538,.000,201706120GSW,34:05,108,3.4,Klay Thompson,thompkl01,1.4,gsw,0.0,8.6,.423,15.9
+10.6,0.0,127,0.0,.000,.000,.000,201706120GSW,9:53,74,35.5,Zaza Pachulia,pachuza01,0.0,gsw,66.7,17.8,.000,12.6
+10.9,0.0,127,9.2,.714,.500,.000,201706120GSW,38:07,143,3.1,Andre Iguodala,iguodan01,0.0,gsw,6.7,6.1,.714,16.4
+11.0,0.0,117,10.2,.400,.400,.400,201706120GSW,11:32,115,20.3,Patrick McCaw,mccawpa01,4.2,gsw,14.5,15.2,.510,24.8
+0.0,7.1,116,33.4,.500,.000,.000,201706120GSW,10:31,79,0.0,David West,westda01,0.0,gsw,20.0,16.7,.500,19.8
+0.0,0.0,128,0.0,.667,.000,.333,201706120GSW,10:02,153,0.0,Shaun Livingston,livinsh01,0.0,gsw,0.0,0.0,.727,14.3
+0.0,0.0,129,0.0,,,,201706120GSW,1:04,0,0.0,Matt Barnes,barnema02,0.0,gsw,,0.0,,0.0
+,,,,,,,201706120GSW,Did Not Play,,,JaVale McGee,mcgeeja01,,gsw,,,,
+,,,,,,,201706120GSW,Did Not Play,,,Ian Clark,clarkia01,,gsw,,,,
+,,,,,,,201706120GSW,Did Not Play,,,James Michael McAdoo,mcadoja01,,gsw,,,,

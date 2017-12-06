@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+6,1,9,4,2,.400,5,.400,10,2,.500,4,201605280OKC,42:40,3,5,Draymond Green,greendr01,+16,12,3,gsw,3,12
+9,0,8,9,6,.429,14,.409,22,7,.778,9,201605280OKC,41:01,2,3,Stephen Curry,curryst01,+12,31,2,gsw,3,10
+0,1,3,14,11,.611,18,.452,31,2,1.000,2,201605280OKC,39:35,1,4,Klay Thompson,thompkl01,+16,41,1,gsw,1,4
+1,0,0,3,2,.667,3,.500,6,1,1.000,1,201605280OKC,28:03,1,2,Harrison Barnes,barneha02,+12,9,2,gsw,2,1
+4,2,4,2,0,,0,.500,4,1,.250,4,201605280OKC,27:16,2,3,Andrew Bogut,bogutan01,+1,5,0,gsw,1,6
+1,0,4,3,0,.000,3,.500,6,2,.500,4,201605280OKC,38:10,3,3,Andre Iguodala,iguodan01,-2,8,3,gsw,1,7
+2,0,1,0,0,,0,.000,4,0,,0,201605280OKC,13:47,0,1,Shaun Livingston,livinsh01,-8,0,0,gsw,1,1
+0,0,1,0,0,.000,2,.000,4,0,,0,201605280OKC,5:32,1,2,Marreese Speights,speigma01,-7,0,0,gsw,1,2
+0,0,0,0,0,,0,,0,0,,0,201605280OKC,1:44,0,0,Leandro Barbosa,barbole01,-6,0,0,gsw,0,0
+0,0,1,0,0,,0,,0,0,,0,201605280OKC,1:07,0,0,Anderson Varejao,varejan01,+2,0,0,gsw,0,1
+0,0,0,1,0,,0,1.000,1,0,,0,201605280OKC,1:05,0,2,Festus Ezeli,ezelife01,-1,2,0,gsw,1,0
+,,,,,,,,,,,,201605280OKC,Did Not Play,,,James Michael McAdoo,mcadoja01,,,,gsw,,
+,,,,,,,,,,,,201605280OKC,Did Not Play,,,Ian Clark,clarkia01,,,,gsw,,
+3,3,5,10,1,.125,8,.323,31,8,.800,10,201605280OKC,44:48,2,4,Kevin Durant,duranke01,-6,29,2,okc,3,7
+11,0,6,10,0,.000,5,.370,27,8,.800,10,201605280OKC,43:49,3,2,Russell Westbrook,westbru01,-11,28,4,okc,5,9
+0,3,8,5,1,.167,6,.500,10,2,.400,5,201605280OKC,35:50,1,4,Serge Ibaka,ibakase01,-6,13,0,okc,0,9
+0,3,5,5,0,,0,1.000,5,1,.500,2,201605280OKC,29:04,3,5,Andre Roberson,roberan03,-6,11,1,okc,3,8
+1,0,3,3,0,,0,.500,6,3,.600,5,201605280OKC,28:05,6,4,Steven Adams,adamsst01,-12,9,1,okc,2,9
+1,0,4,1,1,.333,3,.200,5,0,,0,201605280OKC,35:59,0,0,Dion Waiters,waitedi01,-5,3,1,okc,0,4
+0,1,2,4,0,,0,.800,5,0,,0,201605280OKC,10:38,1,3,Enes Kanter,kanteen01,+15,8,0,okc,1,3
+0,0,0,0,0,,0,,0,0,,0,201605280OKC,7:08,0,0,Randy Foye,foyera01,-3,0,0,okc,1,0
+0,0,0,0,0,.000,1,.000,1,0,,0,201605280OKC,4:39,0,0,Anthony Morrow,morroan01,-1,0,0,okc,0,0
+,,,,,,,,,,,,201605280OKC,Did Not Play,,,Nazr Mohammed,mohamna01,,,,okc,,
+,,,,,,,,,,,,201605280OKC,Did Not Play,,,Kyle Singler,singlky01,,,,okc,,
+,,,,,,,,,,,,201605280OKC,Did Not Play,,,Nick Collison,collini01,,,,okc,,
+,,,,,,,,,,,,201605280OKC,Did Not Play,,,Cameron Payne,payneca01,,,,okc,,

@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+5,4,6,10,0,.000,1,.476,21,1,1.000,1,201311070DEN,35:07,3,2,Al Horford,horfoal01,0,21,1,atl,4,9
+5,1,8,10,2,.667,3,.667,15,7,.636,11,201311070DEN,34:28,2,4,Paul Millsap,millspa01,+13,29,2,atl,0,10
+11,0,1,7,0,.000,1,.412,17,0,,0,201311070DEN,34:23,1,3,Jeff Teague,teaguje01,0,14,0,atl,3,2
+4,2,5,6,2,.500,4,.600,10,2,1.000,2,201311070DEN,34:21,0,2,Kyle Korver,korveky01,+3,16,2,atl,3,5
+3,0,3,4,1,.250,4,.444,9,1,1.000,1,201311070DEN,29:41,2,2,DeMarre Carroll,carrode01,0,10,2,atl,0,5
+0,0,2,0,0,.000,4,.000,7,1,.500,2,201311070DEN,23:06,1,4,Cartier Martin,martica01,0,1,3,atl,0,3
+1,2,2,2,2,.400,5,.400,5,1,.500,2,201311070DEN,20:12,2,2,Pero Antic,anticpe01,-9,7,0,atl,1,4
+2,0,3,3,1,.333,3,.375,8,0,,0,201311070DEN,18:40,1,2,Shelvin Mack,macksh01,0,7,1,atl,0,4
+0,0,3,1,0,.000,1,.500,2,0,,0,201311070DEN,6:13,1,2,Mike Scott,scottmi01,-8,2,0,atl,0,4
+0,0,0,0,0,,0,,0,0,,0,201311070DEN,3:49,0,0,Jared Cunningham,cunnija01,-9,0,0,atl,0,0
+,,,,,,,,,,,,201311070DEN,Did Not Play,,,John Jenkins,jenkijo01,,,,atl,,
+,,,,,,,,,,,,201311070DEN,Did Not Play,,,Elton Brand,brandel01,,,,atl,,
+,,,,,,,,,,,,201311070DEN,Player Suspended,,,Dennis Schroder,schrode01,,,,atl,,
+8,0,6,9,3,.600,5,.563,16,2,.667,3,201311070DEN,39:02,1,1,Ty Lawson,lawsoty01,-4,23,0,den,3,7
+4,1,5,2,0,,0,.333,6,0,,0,201311070DEN,26:17,4,2,Kenneth Faried,farieke01,+3,4,1,den,2,9
+2,0,3,4,3,.600,5,.571,7,2,.667,3,201311070DEN,24:12,1,3,Randy Foye,foyera01,-4,13,1,den,3,4
+0,2,2,7,0,,0,.538,13,0,,0,201311070DEN,23:40,1,3,JaVale McGee,mcgeeja01,+12,14,1,den,0,3
+1,1,1,2,1,.200,5,.286,7,1,.500,2,201311070DEN,15:38,0,1,Jordan Hamilton,hamiljo02,-5,6,0,den,0,1
+1,1,3,5,2,.667,3,.500,10,0,,0,201311070DEN,24:17,0,1,Evan Fournier,fournev01,+10,12,0,den,1,3
+0,1,7,1,0,,0,.250,4,1,.500,2,201311070DEN,22:14,1,2,J.J. Hickson,hicksjj01,-6,3,0,den,2,8
+7,1,1,3,1,1.000,1,.600,5,0,,0,201311070DEN,20:41,0,2,Andre Miller,millean02,+17,7,0,den,1,1
+3,0,3,5,4,.667,6,.455,11,1,.500,2,201311070DEN,20:37,0,2,Nate Robinson,robinna01,-6,15,1,den,2,3
+1,0,4,3,0,,0,.750,4,4,.800,5,201311070DEN,18:04,2,0,Timofey Mozgov,mozgoti01,-1,10,0,den,1,6
+1,1,0,1,0,,0,.333,3,0,,0,201311070DEN,5:18,0,1,Darrell Arthur,arthuda01,-6,2,0,den,1,0
+,,,,,,,,,,,,201311070DEN,Did Not Play,,,Anthony Randolph,randoan01,,,,den,,
+,,,,,,,,,,,,201311070DEN,Did Not Play,,,Quincy Miller,millequ01,,,,den,,

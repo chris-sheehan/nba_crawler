@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+2,0,5,7,3,.429,7,.467,15,7,.875,8,201601300CLE,35:14,1,2,Kawhi Leonard,leonaka01,-14,24,0,sas,2,6
+0,0,1,7,0,,0,.636,11,1,.500,2,201601300CLE,26:02,1,3,LaMarcus Aldridge,aldrila01,-9,15,0,sas,0,2
+6,0,4,5,0,,0,.500,10,3,.750,4,201601300CLE,24:17,0,1,Tony Parker,parketo01,-10,13,0,sas,3,4
+1,0,2,4,0,,0,.667,6,0,,0,201601300CLE,23:47,1,2,David West,westda01,-13,8,0,sas,0,3
+1,0,1,2,1,.333,3,.500,4,0,,0,201601300CLE,23:21,2,1,Danny Green,greenda02,-10,5,0,sas,0,3
+2,0,0,2,0,.000,3,.333,6,0,,0,201601300CLE,20:54,0,3,Patty Mills,millspa02,-7,4,0,sas,1,0
+2,1,2,4,0,,0,.800,5,0,,0,201601300CLE,18:20,0,3,Jonathon Simmons,simmojo02,+2,8,0,sas,0,2
+3,1,2,4,0,.000,1,.500,8,2,1.000,2,201601300CLE,18:15,1,0,Kyle Anderson,anderky01,+4,10,1,sas,0,3
+1,0,2,2,2,.500,4,.200,10,0,,0,201601300CLE,17:51,0,3,Manu Ginobili,ginobma01,-10,6,1,sas,0,2
+1,0,3,3,0,,0,.600,5,1,1.000,1,201601300CLE,16:21,1,0,Boris Diaw,diawbo01,-11,7,0,sas,0,4
+1,0,2,0,0,,0,.000,1,3,.750,4,201601300CLE,10:00,1,1,Boban Marjanovic,marjabo01,+2,3,0,sas,0,3
+0,0,0,0,0,,0,,0,0,,0,201601300CLE,2:49,0,0,Rasual Butler,butlera01,+3,0,0,sas,0,0
+0,0,0,0,0,,0,,0,0,,0,201601300CLE,2:49,0,0,Matt Bonner,bonnema01,+3,0,0,sas,0,0
+6,0,0,9,0,.000,2,.529,17,3,.750,4,201601300CLE,36:29,1,2,Kyrie Irving,irvinky01,+13,21,2,cle,1,1
+1,1,5,3,0,,0,.750,4,4,1.000,4,201601300CLE,34:42,2,1,Tristan Thompson,thomptr01,+15,10,0,cle,1,7
+7,2,4,10,0,.000,2,.588,17,9,.818,11,201601300CLE,34:09,1,2,LeBron James,jamesle01,+14,29,2,cle,2,5
+3,1,8,8,3,.500,6,.615,13,2,1.000,2,201601300CLE,31:21,3,2,Kevin Love,loveke01,+4,21,0,cle,1,11
+1,0,2,4,2,.500,4,.444,9,0,,0,201601300CLE,25:45,1,3,J.R. Smith,smithjr01,+10,10,0,cle,1,3
+2,0,5,1,0,.000,2,.333,3,0,,0,201601300CLE,27:41,0,2,Iman Shumpert,shumpim01,+9,2,0,cle,0,5
+3,0,4,6,3,.600,5,.600,10,0,,0,201601300CLE,24:26,1,3,Matthew Dellavedova,dellama01,+9,15,0,cle,2,5
+1,0,3,1,1,1.000,1,.500,2,0,,0,201601300CLE,12:39,0,2,Richard Jefferson,jefferi01,+2,3,0,cle,0,3
+0,0,2,3,0,,0,.500,6,0,,0,201601300CLE,10:36,1,4,Timofey Mozgov,mozgoti01,-1,6,0,cle,1,3
+0,0,0,0,0,.000,1,.000,1,0,,0,201601300CLE,2:12,0,0,Jared Cunningham,cunnija01,-5,0,0,cle,0,0
+,,,,,,,,,,,,201601300CLE,Did Not Play,,,Anderson Varejao,varejan01,,,,cle,,
+,,,,,,,,,,,,201601300CLE,Did Not Play,,,James Jones,jonesja02,,,,cle,,
+,,,,,,,,,,,,201601300CLE,Did Not Play,,,Mo Williams,willima01,,,,cle,,

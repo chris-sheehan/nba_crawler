@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+1,0,1,7,3,.500,6,.583,12,0,.000,1,201703160DEN,33:10,0,4,Austin Rivers,riverau01,-12,17,0,lac,1,1
+14,0,1,8,2,.667,3,.667,12,0,,0,201703160DEN,30:07,0,5,Chris Paul,paulch01,-1,18,1,lac,2,1
+1,0,5,8,4,.667,6,.800,10,2,1.000,2,201703160DEN,26:07,0,1,J.J. Redick,redicjj01,+2,22,2,lac,1,5
+1,1,4,3,1,1.000,1,.333,9,0,,0,201703160DEN,20:02,2,2,Luc Mbah a Moute,mbahalu01,-5,7,0,lac,0,6
+1,0,5,3,2,.500,4,.500,6,0,,0,201703160DEN,15:03,1,4,Marreese Speights,speigma01,-2,8,0,lac,1,6
+4,1,3,1,1,.500,2,.167,6,0,,0,201703160DEN,25:07,0,0,Jamal Crawford,crawfja01,-11,3,0,lac,1,3
+0,1,3,6,0,,0,.750,8,3,.600,5,201703160DEN,24:17,1,0,Brandon Bass,bassbr01,-12,15,1,lac,0,4
+0,0,0,3,1,1.000,1,1.000,3,2,.667,3,201703160DEN,17:05,0,2,Alan Anderson,anderal01,+3,9,0,lac,0,0
+0,0,4,2,1,.200,5,.286,7,0,,0,201703160DEN,16:22,0,0,Paul Pierce,piercpa01,+8,5,0,lac,1,4
+2,0,1,0,0,,0,.000,2,3,.750,4,201703160DEN,15:03,0,0,Raymond Felton,feltora01,-21,3,0,lac,1,1
+1,0,2,2,1,.250,4,.333,6,0,,0,201703160DEN,13:56,0,1,Wesley Johnson,johnswe01,-26,5,0,lac,1,2
+1,1,1,1,0,,0,.333,3,0,,0,201703160DEN,3:41,0,0,Brice Johnson,johnsbr02,+2,2,1,lac,0,1
+,,,,,,,,,,,,201703160DEN,Not With Team,,,Blake Griffin,griffbl01,,,,lac,,
+5,0,2,6,3,.600,5,.667,9,5,1.000,5,201703160DEN,41:09,0,3,Gary Harris,harriga01,-2,20,0,den,1,2
+5,0,1,4,3,.750,4,.500,8,5,1.000,5,201703160DEN,33:55,0,0,Jameer Nelson,nelsoja01,+23,16,2,den,3,1
+10,0,11,7,0,.000,1,.583,12,3,1.000,3,201703160DEN,30:25,3,2,Nikola Jokic,jokicni01,+7,17,0,den,2,14
+6,2,7,5,0,,0,.556,9,0,.000,2,201703160DEN,30:21,2,3,Mason Plumlee,plumlma01,+10,10,0,den,1,9
+1,0,4,3,1,.333,3,.429,7,2,1.000,2,201703160DEN,25:49,1,2,Juan Hernangomez,hernaju01,-9,9,1,den,1,5
+3,0,3,12,7,.700,10,.667,18,4,.800,5,201703160DEN,35:36,2,1,Will Barton,bartowi01,+16,35,1,den,2,5
+0,0,5,4,1,.200,5,.286,14,1,1.000,1,201703160DEN,24:47,1,2,Jamal Murray,murraja01,+7,10,3,den,0,6
+1,0,4,5,0,,0,.556,9,2,.667,3,201703160DEN,17:58,2,1,Kenneth Faried,farieke01,+23,12,0,den,0,6
+,,,,,,,,,,,,201703160DEN,Did Not Play,,,Mike Miller,millemi01,,,,den,,
+,,,,,,,,,,,,201703160DEN,Did Not Play,,,Malik Beasley,beaslma01,,,,den,,
+,,,,,,,,,,,,201703160DEN,Did Not Play,,,Emmanuel Mudiay,mudiaem01,,,,den,,
+,,,,,,,,,,,,201703160DEN,Did Not Dress,,,Darrell Arthur,arthuda01,,,,den,,
+,,,,,,,,,,,,201703160DEN,Did Not Play,,,Roy Hibbert,hibbero01,,,,den,,

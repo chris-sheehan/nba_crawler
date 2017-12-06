@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+1,0,5,1,0,.000,3,.250,4,2,1.000,2,201702140CHI,39:55,0,3,DeMarre Carroll,carrode01,-10,4,3,tor,0,5
+3,0,4,5,0,.000,1,.263,19,8,.889,9,201702140CHI,37:46,1,5,DeMar DeRozan,derozde01,-14,18,1,tor,3,5
+4,0,3,8,4,.364,11,.471,17,2,1.000,2,201702140CHI,37:44,0,5,Kyle Lowry,lowryky01,-4,22,1,tor,5,3
+0,0,4,6,0,,0,.545,11,0,,0,201702140CHI,21:30,5,2,Jonas Valanciunas,valanjo01,-14,12,0,tor,1,9
+1,1,1,2,0,,0,1.000,2,0,,0,201702140CHI,17:52,0,1,Jakob Poeltl,poeltja01,-8,4,0,tor,1,1
+1,0,4,4,1,1.000,1,.500,8,1,.500,2,201702140CHI,27:37,1,1,Cory Joseph,josepco01,-2,10,1,tor,1,5
+0,0,3,3,0,,0,.750,4,1,.333,3,201702140CHI,25:10,0,3,Lucas Nogueira,noguelu01,+4,7,1,tor,4,3
+4,0,1,4,0,.000,3,.500,8,5,.833,6,201702140CHI,18:18,1,4,Norman Powell,powelno01,0,13,2,tor,1,2
+1,0,1,1,0,.000,1,.500,2,0,,0,201702140CHI,9:38,0,1,Delon Wright,wrighde01,+5,2,0,tor,0,1
+0,0,0,1,0,,0,.500,2,0,,0,201702140CHI,4:30,0,1,Pascal Siakam,siakapa01,-12,2,0,tor,0,0
+,,,,,,,,,,,,201702140CHI,Did Not Play,,,Jared Sullinger,sullija01,,,,tor,,
+,,,,,,,,,,,,201702140CHI,Did Not Play,,,Fred VanVleet,vanvlfr01,,,,tor,,
+,,,,,,,,,,,,201702140CHI,Did Not Play,,,Patrick Patterson,pattepa01,,,,tor,,
+12,0,1,2,0,.000,3,.200,10,15,.789,19,201702140CHI,37:51,1,4,Jimmy Butler,butleji01,+13,19,5,chi,4,2
+3,1,5,2,0,,0,1.000,2,4,.667,6,201702140CHI,29:29,0,5,Michael Carter-Williams,cartemi01,-2,8,1,chi,1,5
+0,0,4,6,0,.000,1,.667,9,2,1.000,2,201702140CHI,26:58,0,2,Taj Gibson,gibsota01,+14,14,0,chi,0,4
+0,2,4,4,0,,0,.333,12,0,,0,201702140CHI,21:09,2,1,Robin Lopez,lopezro01,0,8,0,chi,3,6
+0,1,0,1,0,.000,2,.200,5,0,,0,201702140CHI,14:42,0,4,Jerian Grant,grantje02,-1,2,0,chi,2,0
+1,0,5,8,2,.500,4,.615,13,2,1.000,2,201702140CHI,32:27,0,3,Doug McDermott,mcderdo01,+11,20,0,chi,0,5
+1,0,3,4,0,,0,.667,6,2,1.000,2,201702140CHI,26:51,3,3,Cristiano Felicio,feliccr01,+11,10,2,chi,0,6
+4,0,2,5,2,1.000,2,.625,8,0,,0,201702140CHI,24:05,1,0,Rajon Rondo,rondora01,+9,12,0,chi,5,3
+1,0,2,2,2,.667,3,.667,3,0,,0,201702140CHI,15:21,0,1,Denzel Valentine,valende01,-7,6,0,chi,1,2
+0,1,4,1,1,.500,2,.200,5,3,.750,4,201702140CHI,10:42,0,0,Bobby Portis,portibo01,+7,6,0,chi,1,4
+0,0,0,0,0,,0,,0,0,,0,201702140CHI,0:25,0,0,Isaiah Canaan,canaais01,0,0,0,chi,0,0
+,,,,,,,,,,,,201702140CHI,Did Not Dress,,,Nikola Mirotic,mirotni01,,,,chi,,
+,,,,,,,,,,,,201702140CHI,Did Not Dress,,,Dwyane Wade,wadedw01,,,,chi,,

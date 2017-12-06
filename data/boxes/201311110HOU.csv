@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+1,1,2,6,0,.000,2,.240,25,10,.909,11,201311110HOU,52:53,1,1,DeMar DeRozan,derozde01,-10,22,4,tor,0,3
+2,1,9,11,3,.375,8,.297,37,4,1.000,4,201311110HOU,49:23,1,6,Rudy Gay,gayru01,0,29,4,tor,2,10
+2,0,1,6,4,.400,10,.375,16,0,,0,201311110HOU,47:44,1,6,Kyle Lowry,lowryky01,+1,16,1,tor,2,2
+0,1,6,4,0,,0,.400,10,2,.333,6,201311110HOU,34:28,5,5,Amir Johnson,johnsam01,-10,10,0,tor,2,11
+3,1,6,4,0,,0,.444,9,2,.667,3,201311110HOU,29:34,7,6,Jonas Valanciunas,valanjo01,+12,10,0,tor,4,13
+0,0,2,4,1,.333,3,.667,6,0,,0,201311110HOU,27:31,1,6,Terrence Ross,rosste01,+6,9,1,tor,0,3
+0,0,1,2,0,.000,1,.333,6,1,1.000,1,201311110HOU,15:12,2,1,Dwight Buycks,buyckdw01,-7,5,0,tor,1,3
+0,0,3,0,0,,0,.000,1,1,.500,2,201311110HOU,15:09,0,2,Landry Fields,fieldla01,-13,1,0,tor,2,3
+1,0,1,1,0,,0,.333,3,0,,0,201311110HOU,9:18,2,2,Tyler Hansbrough,hansbty01,-6,2,0,tor,0,3
+1,1,0,0,0,.000,1,.000,1,0,,0,201311110HOU,8:47,0,3,Quincy Acy,acyqu01,-3,0,2,tor,0,0
+0,0,0,0,0,,0,,0,0,,0,201311110HOU,0:01,0,0,Aaron Gray,grayaa01,0,0,0,tor,0,0
+,,,,,,,,,,,,201311110HOU,Did Not Play,,,D.J. Augustin,augusdj01,,,,tor,,
+,,,,,,,,,,,,201311110HOU,Did Not Play,,,Julyan Stone,stoneju01,,,,tor,,
+5,1,5,7,1,.200,5,.438,16,3,1.000,3,201311110HOU,49:57,0,6,Chandler Parsons,parsoch01,-1,18,1,hou,2,5
+10,1,3,7,3,.333,9,.368,19,9,.818,11,201311110HOU,47:43,0,4,James Harden,hardeja01,+3,26,3,hou,6,3
+2,5,18,7,0,,0,.583,12,4,.333,12,201311110HOU,44:48,6,5,Dwight Howard,howardw01,+2,18,1,hou,3,24
+0,0,3,0,0,.000,4,.000,5,1,.500,2,201311110HOU,24:22,1,4,Patrick Beverley,beverpa01,+5,1,0,hou,3,4
+0,1,1,2,0,,0,.500,4,0,.000,2,201311110HOU,18:50,1,2,Omer Asik,asikom01,+1,4,0,hou,0,2
+1,1,5,10,3,.500,6,.588,17,8,.889,9,201311110HOU,45:52,0,3,Jeremy Lin,linje01,+7,31,2,hou,5,5
+0,4,7,3,0,,0,.429,7,1,.500,2,201311110HOU,32:08,3,5,Terrence Jones,joneste01,-4,7,0,hou,2,10
+3,1,4,1,0,.000,2,.250,4,3,.500,6,201311110HOU,26:14,2,1,Omri Casspi,casspom01,+16,5,1,hou,2,6
+0,0,0,0,0,,0,,0,0,,0,201311110HOU,0:06,0,0,Aaron Brooks,brookaa01,+1,0,0,hou,0,0
+,,,,,,,,,,,,201311110HOU,Did Not Play,,,Greg Smith,smithgr02,,,,hou,,
+,,,,,,,,,,,,201311110HOU,Did Not Play,,,Ronnie Brewer,brewero02,,,,hou,,
+,,,,,,,,,,,,201311110HOU,Did Not Play,,,Donatas Motiejunas,motiedo01,,,,hou,,
+,,,,,,,,,,,,201311110HOU,Did Not Play,,,Francisco Garcia,garcifr01,,,,hou,,

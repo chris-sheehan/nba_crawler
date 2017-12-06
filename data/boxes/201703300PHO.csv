@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+2,0,7,12,2,1.000,2,.632,19,5,.714,7,201703300PHO,38:12,0,4,Blake Griffin,griffbl01,+7,31,2,lac,3,7
+10,0,4,10,1,.250,4,.588,17,8,.889,9,201703300PHO,35:17,1,2,Chris Paul,paulch01,+8,29,1,lac,1,5
+2,3,11,3,0,,0,.500,6,1,.250,4,201703300PHO,34:53,6,3,DeAndre Jordan,jordade01,+11,7,0,lac,2,17
+0,0,1,3,2,1.000,2,.600,5,1,.500,2,201703300PHO,31:40,0,0,Luc Mbah a Moute,mbahalu01,+4,9,1,lac,2,1
+0,0,1,4,3,.500,6,.400,10,3,.750,4,201703300PHO,30:13,0,5,J.J. Redick,redicjj01,+7,14,0,lac,2,1
+0,0,0,6,1,.500,2,.545,11,6,.750,8,201703300PHO,26:56,0,0,Jamal Crawford,crawfja01,+4,19,0,lac,0,0
+3,0,2,3,1,.333,3,.429,7,0,,0,201703300PHO,15:54,0,3,Raymond Felton,feltora01,-1,7,0,lac,1,2
+1,1,4,2,1,1.000,1,1.000,2,0,,0,201703300PHO,13:00,0,3,Marreese Speights,speigma01,-6,5,0,lac,2,4
+2,0,2,1,1,1.000,1,.500,2,0,,0,201703300PHO,9:48,0,1,Paul Pierce,piercpa01,-1,3,0,lac,1,2
+0,0,0,0,0,.000,1,.000,1,0,,0,201703300PHO,4:07,0,0,Alan Anderson,anderal01,-3,0,0,lac,0,0
+,,,,,,,,,,,,201703300PHO,Did Not Dress,,,Austin Rivers,riverau01,,,,lac,,
+,,,,,,,,,,,,201703300PHO,Did Not Play,,,Wesley Johnson,johnswe01,,,,lac,,
+,,,,,,,,,,,,201703300PHO,Did Not Play,,,Brandon Bass,bassbr01,,,,lac,,
+13,0,3,8,0,.000,2,.533,15,0,,0,201703300PHO,39:38,0,2,Tyler Ulis,ulisty01,-3,16,1,pho,2,3
+0,1,6,6,0,,0,.400,15,2,.333,6,201703300PHO,38:01,4,2,T.J. Warren,warretj01,-5,14,1,pho,2,10
+9,0,2,13,4,.571,7,.591,22,3,.500,6,201703300PHO,37:18,0,6,Devin Booker,bookede01,-2,33,1,pho,3,2
+2,0,5,9,2,.400,5,.692,13,0,,0,201703300PHO,34:12,1,5,Marquese Chriss,chrisma01,-10,20,1,pho,4,6
+0,1,2,4,0,,0,1.000,4,4,.667,6,201703300PHO,18:04,1,3,Alex Len,lenal01,-6,12,0,pho,2,3
+0,0,6,3,1,.250,4,.429,7,0,,0,201703300PHO,24:51,1,5,Jared Dudley,dudleja01,-3,7,0,pho,1,7
+0,0,1,4,0,,0,.800,5,2,1.000,2,201703300PHO,19:23,3,1,Derrick Jones,jonesde02,-1,10,1,pho,0,4
+0,0,5,2,0,,0,.333,6,2,.500,4,201703300PHO,18:53,2,1,Alan Williams,willial03,+7,6,0,pho,0,7
+0,0,0,0,0,.000,5,.000,5,0,,0,201703300PHO,9:40,1,2,Ronnie Price,pricero01,-7,0,1,pho,0,1
+,,,,,,,,,,,,201703300PHO,Did Not Play,,,Jarell Eddie,eddieja01,,,,pho,,
+,,,,,,,,,,,,201703300PHO,Did Not Play,,,Tyson Chandler,chandty01,,,,pho,,
+,,,,,,,,,,,,201703300PHO,Did Not Play,,,Brandon Knight,knighbr03,,,,pho,,
+,,,,,,,,,,,,201703300PHO,Did Not Play,,,Eric Bledsoe,bledser01,,,,pho,,

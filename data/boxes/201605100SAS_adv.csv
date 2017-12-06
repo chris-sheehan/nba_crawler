@@ -1,0 +1,27 @@
+ast_pct,blk_pct,def_rtg,drb_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,gm,mp,off_rtg,orb_pct,player,player_id,stl_pct,team,tov_pct,trb_pct,ts_pct,usg_pct
+22.5,1.6,100,11.5,.429,.238,.286,201605100SAS,42:40,98,2.7,Kevin Durant,duranke01,2.5,okc,17.5,7.5,.486,29.4
+58.1,0.0,99,17.7,.500,.259,.296,201605100SAS,38:49,110,12.1,Russell Westbrook,westbru01,2.7,okc,20.8,15.1,.573,43.5
+5.0,0.0,101,19.6,.625,.000,.750,201605100SAS,35:04,118,13.4,Steven Adams,adamsst01,1.5,okc,8.6,16.7,.564,14.6
+5.3,2.3,105,10.0,.625,.250,.000,201605100SAS,29:28,77,4.0,Serge Ibaka,ibakase01,0.0,okc,42.9,7.2,.625,10.4
+0.0,3.0,94,26.1,.000,1.000,.000,201605100SAS,22:29,0,0.0,Andre Roberson,roberan03,2.4,okc,0.0,14.2,.000,3.9
+0.0,6.8,95,26.0,.429,.286,.286,201605100SAS,30:08,104,19.4,Enes Kanter,kanteen01,0.0,okc,20.2,23.0,.508,14.4
+13.0,0.0,107,11.3,.600,.000,.800,201605100SAS,26:00,130,0.0,Dion Waiters,waitedi01,0.0,okc,12.9,6.2,.666,13.1
+0.0,0.0,111,0.0,.500,1.000,.000,201605100SAS,13:02,118,0.0,Randy Foye,foyera01,0.0,okc,0.0,0.0,.500,10.1
+0.0,0.0,111,0.0,.000,.000,.000,201605100SAS,1:31,0,0.0,Anthony Morrow,morroan01,0.0,okc,0.0,0.0,.000,28.9
+0.0,0.0,111,0.0,,,,201605100SAS,0:50,0,0.0,Nick Collison,collini01,0.0,okc,,0.0,,0.0
+,,,,,,,201605100SAS,Did Not Play,,,Cameron Payne,payneca01,,okc,,,,
+,,,,,,,201605100SAS,Did Not Play,,,Josh Huestis,huestjo01,,okc,,,,
+,,,,,,,201605100SAS,Did Not Play,,,Nazr Mohammed,mohamna01,,okc,,,,
+24.0,0.0,96,14.9,.595,.190,.095,201605100SAS,39:18,119,2.5,Kawhi Leonard,leonaka01,6.7,sas,4.4,8.1,.594,27.3
+14.1,2.2,101,18.8,.286,.000,.429,201605100SAS,37:22,89,7.9,LaMarcus Aldridge,aldrila01,2.8,sas,7.4,12.8,.401,33.8
+25.7,2.6,107,10.9,.333,.083,.167,201605100SAS,32:13,85,3.0,Tony Parker,parketo01,1.6,sas,7.2,6.6,.349,20.2
+7.1,2.9,102,12.1,1.000,.900,.000,201605100SAS,29:02,187,0.0,Danny Green,greenda02,3.6,sas,0.0,5.5,1.000,16.1
+5.1,5.9,112,4.2,.167,.000,.667,201605100SAS,28:03,78,7.0,Tim Duncan,duncati01,0.0,sas,11.4,5.7,.322,14.6
+15.2,4.3,114,0.0,.375,.500,.000,201605100SAS,19:25,113,10.1,Manu Ginobili,ginobma01,0.0,sas,0.0,5.5,.375,9.6
+10.5,0.0,97,29.7,.500,.250,.000,201605100SAS,15:47,109,0.0,Patty Mills,millspa02,3.4,sas,0.0,13.5,.500,11.9
+9.8,0.0,107,22.8,.167,.167,.000,201605100SAS,15:26,32,0.0,Boris Diaw,diawbo01,0.0,sas,25.0,10.4,.167,24.3
+10.3,0.0,116,0.0,.250,.000,.000,201605100SAS,14:41,77,6.7,David West,westda01,0.0,sas,0.0,3.6,.250,12.8
+0.0,0.0,111,13.5,,,,201605100SAS,8:42,0,0.0,Kyle Anderson,anderky01,0.0,sas,,6.1,,0.0
+,,,,,,,201605100SAS,Did Not Play,,,Andre Miller,millean02,,sas,,,,
+,,,,,,,201605100SAS,Did Not Play,,,Boban Marjanovic,marjabo01,,sas,,,,
+,,,,,,,201605100SAS,Did Not Play,,,Kevin Martin,martike02,,sas,,,,

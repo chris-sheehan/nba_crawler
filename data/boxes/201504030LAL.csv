@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+1,0,1,5,3,.600,5,.333,15,4,1.000,4,201504030LAL,32:10,0,1,Arron Afflalo,afflaar01,+23,17,1,por,0,1
+1,1,6,7,0,.000,2,.467,15,0,,0,201504030LAL,29:22,2,0,LaMarcus Aldridge,aldrila01,+2,14,0,por,2,8
+5,0,3,8,4,.500,8,.533,15,0,,0,201504030LAL,28:17,0,2,Damian Lillard,lillada01,+3,20,2,por,2,3
+4,0,9,3,1,.200,5,.333,9,0,,0,201504030LAL,26:40,1,1,Nicolas Batum,batumni01,+3,7,0,por,1,10
+0,2,4,4,0,,0,1.000,4,2,1.000,2,201504030LAL,25:08,0,1,Robin Lopez,lopezro01,+35,10,0,por,1,4
+3,0,5,10,2,.500,4,.625,16,5,1.000,5,201504030LAL,27:28,1,3,C.J. McCollum,mccolcj01,+32,27,2,por,0,6
+2,1,11,0,0,,0,.000,1,0,,0,201504030LAL,18:41,0,3,Meyers Leonard,leoname01,+28,0,0,por,0,11
+0,0,4,1,0,,0,.333,3,0,,0,201504030LAL,16:19,0,0,Chris Kaman,kamanch01,-5,2,0,por,0,4
+5,0,0,0,0,,0,,0,0,,0,201504030LAL,14:52,0,1,Steve Blake,blakest01,+26,0,0,por,1,0
+0,1,3,2,0,,0,1.000,2,0,,0,201504030LAL,6:30,0,0,Joel Freeland,freeljo01,0,4,0,por,0,3
+0,1,0,2,0,.000,1,.333,6,0,,0,201504030LAL,4:51,1,0,Alonzo Gee,geeal01,+1,4,0,por,0,1
+0,0,0,1,0,,0,1.000,1,0,,0,201504030LAL,4:51,1,1,Tim Frazier,fraziti01,+1,2,2,por,1,1
+0,0,1,0,0,.000,1,.000,1,0,,0,201504030LAL,4:51,0,1,Allen Crabbe,crabbal01,+1,0,0,por,0,1
+1,1,12,5,0,.000,2,.357,14,1,.500,2,201504030LAL,37:55,3,1,Wesley Johnson,johnswe01,-19,11,0,lal,0,15
+2,2,3,2,0,.000,2,.333,6,0,,0,201504030LAL,37:33,0,2,Ryan Kelly,kellyry01,-12,4,1,lal,4,3
+5,0,6,12,2,.500,4,.600,20,1,.500,2,201504030LAL,34:52,1,1,Jordan Clarkson,clarkjo01,-21,27,0,lal,2,7
+1,1,3,5,0,,0,.500,10,0,,0,201504030LAL,26:50,1,1,Tarik Black,blackta01,+4,10,1,lal,0,4
+0,1,5,1,0,.000,1,.111,9,2,.500,4,201504030LAL,24:47,0,3,Jeremy Lin,linje01,-6,4,0,lal,1,5
+0,0,3,2,1,.333,3,.222,9,6,.667,9,201504030LAL,29:51,0,2,Jabari Brown,brownja01,-33,11,0,lal,1,3
+0,0,1,1,0,,0,.333,3,0,,0,201504030LAL,12:00,0,0,Ed Davis,davised01,-19,2,1,lal,0,1
+1,1,1,0,0,,0,.000,2,0,,0,201504030LAL,12:00,1,0,Robert Sacre,sacrero01,-19,0,0,lal,0,2
+1,0,1,0,0,,0,.000,1,0,,0,201504030LAL,9:10,0,0,Jordan Hill,hilljo01,-15,0,0,lal,0,1
+1,0,1,0,0,,0,.000,4,0,,0,201504030LAL,8:32,0,0,Carlos Boozer,boozeca01,-10,0,1,lal,1,1
+1,0,1,3,2,1.000,2,.750,4,0,,0,201504030LAL,6:30,0,0,Dwight Buycks,buyckdw01,0,8,0,lal,2,1
+,,,,,,,,,,,,201504030LAL,Did Not Play,,,Nick Young,youngni01,,,,lal,,
+,,,,,,,,,,,,201504030LAL,Did Not Play,,,Wayne Ellington,ellinwa01,,,,lal,,

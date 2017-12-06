@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+3,0,1,7,4,.571,7,.467,15,2,.500,4,201701240PHI,39:02,1,5,Austin Rivers,riverau01,-9,20,1,lac,2,2
+1,0,1,6,5,.500,10,.400,15,5,.833,6,201701240PHI,35:12,0,3,J.J. Redick,redicjj01,-5,22,0,lac,2,1
+3,0,14,3,0,,0,.750,4,4,.333,12,201701240PHI,31:10,6,3,DeAndre Jordan,jordade01,-9,10,0,lac,2,20
+5,0,9,3,0,,0,.273,11,6,.600,10,201701240PHI,29:28,2,2,Blake Griffin,griffbl01,+3,12,1,lac,6,11
+0,1,2,0,0,.000,1,.000,1,0,,0,201701240PHI,17:56,0,1,Luc Mbah a Moute,mbahalu01,-4,0,0,lac,0,2
+2,0,1,9,6,.667,9,.643,14,3,1.000,3,201701240PHI,33:15,0,0,Jamal Crawford,crawfja01,-12,27,1,lac,3,1
+3,0,1,1,0,.000,2,.333,3,0,,0,201701240PHI,16:53,0,3,Raymond Felton,feltora01,-12,2,1,lac,0,1
+0,0,1,3,3,.600,5,.500,6,0,,0,201701240PHI,13:07,0,2,Marreese Speights,speigma01,-4,9,0,lac,2,1
+0,0,4,1,0,,0,1.000,1,0,,0,201701240PHI,12:11,1,3,Wesley Johnson,johnswe01,-3,2,0,lac,0,5
+0,0,1,0,0,,0,.000,1,6,1.000,6,201701240PHI,11:47,1,0,Brandon Bass,bassbr01,0,6,0,lac,0,2
+,,,,,,,,,,,,201701240PHI,Did Not Play,,,Paul Pierce,piercpa01,,,,lac,,
+,,,,,,,,,,,,201701240PHI,Not With Team,,,Chris Paul,paulch01,,,,lac,,
+,,,,,,,,,,,,201701240PHI,Did Not Play,,,Alan Anderson,anderal01,,,,lac,,
+2,2,4,6,2,.250,8,.400,15,0,,0,201701240PHI,37:17,4,5,Robert Covington,covinro01,+13,14,3,phi,1,8
+5,3,7,8,0,,0,.800,10,3,1.000,3,201701240PHI,29:16,1,4,Nerlens Noel,noelne01,-2,19,2,phi,1,8
+10,0,0,4,0,.000,1,.444,9,1,1.000,1,201701240PHI,27:33,0,0,T.J. McConnell,mccontj01,-11,9,0,phi,1,0
+2,0,1,3,2,.667,3,.600,5,0,,0,201701240PHI,23:30,0,2,Nik Stauskas,stausni01,-2,8,1,phi,1,1
+3,0,5,3,2,.400,5,.333,9,2,1.000,2,201701240PHI,22:18,0,5,Ersan Ilyasova,ilyaser01,-4,10,1,phi,0,5
+2,1,7,4,0,.000,2,.400,10,8,.889,9,201701240PHI,25:42,1,2,Dario Saric,saricda01,+15,16,1,phi,0,8
+2,0,1,3,1,.333,3,.429,7,4,1.000,4,201701240PHI,22:27,0,5,Gerald Henderson,hendege02,+12,11,0,phi,0,1
+7,0,3,4,1,.200,5,.333,12,0,,0,201701240PHI,20:27,0,0,Sergio Rodriguez,rodrise01,+22,9,0,phi,1,3
+0,1,3,8,1,1.000,1,.727,11,1,1.000,1,201701240PHI,18:44,0,3,Richaun Holmes,holmeri01,+13,18,0,phi,0,3
+2,0,1,2,1,1.000,1,1.000,2,2,1.000,2,201701240PHI,12:47,0,1,Timothe Luwawu-Cabarrot,luwawti01,-1,7,0,phi,0,1
+,,,,,,,,,,,,201701240PHI,Did Not Play,,,Chasson Randle,randlch01,,,,phi,,
+,,,,,,,,,,,,201701240PHI,Did Not Dress,,,Jahlil Okafor,okafoja01,,,,phi,,
+,,,,,,,,,,,,201701240PHI,Did Not Dress,,,Joel Embiid,embiijo01,,,,phi,,

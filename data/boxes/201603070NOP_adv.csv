@@ -1,0 +1,27 @@
+ast_pct,blk_pct,def_rtg,drb_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,gm,mp,off_rtg,orb_pct,player,player_id,stl_pct,team,tov_pct,trb_pct,ts_pct,usg_pct
+20.9,1.7,96,34.0,.552,.103,.310,201603070NOP,41:08,109,6.0,DeMarcus Cousins,couside01,4.3,sac,13.2,21.5,.607,37.9
+7.2,0.0,103,24.5,.577,.308,.308,201603070NOP,40:53,94,0.0,Rudy Gay,gayru01,2.1,sac,21.3,13.5,.610,18.8
+37.8,0.0,107,2.6,.654,.538,.154,201603070NOP,39:11,105,0.0,Rajon Rondo,rondora01,2.2,sac,26.5,1.4,.648,19.8
+12.8,0.0,106,30.7,.500,.500,.000,201603070NOP,19:31,150,12.6,Quincy Acy,acyqu01,0.0,sac,0.0,22.6,.500,4.2
+8.9,0.0,105,0.0,.000,.000,2.000,201603070NOP,13:11,87,0.0,Ben McLemore,mclembe01,3.3,sac,34.7,0.0,.532,9.0
+21.6,0.0,109,5.7,.200,.300,.100,201603070NOP,34:49,50,0.0,Darren Collison,collida01,1.3,sac,36.5,3.2,.239,19.4
+7.3,0.0,113,0.0,.833,.667,.333,201603070NOP,20:46,170,0.0,Marco Belinelli,belinma01,0.0,sac,0.0,0.0,.872,13.6
+8.7,0.0,102,27.5,.750,.500,1.167,201603070NOP,18:09,155,13.6,Omri Casspi,casspom01,2.4,sac,9.9,21.3,.826,22.8
+0.0,0.0,98,0.0,.000,.000,.000,201603070NOP,6:52,0,0.0,Kosta Koufos,koufoko01,6.4,sac,0.0,0.0,.000,6.0
+0.0,0.0,112,0.0,.000,.000,.000,201603070NOP,5:30,0,0.0,Willie Cauley-Stein,caulewi01,0.0,sac,0.0,0.0,.000,14.9
+,,,,,,,201603070NOP,Did Not Play,,,Caron Butler,butleca01,,sac,,,,
+,,,,,,,201603070NOP,Did Not Play,,,Seth Curry,curryse01,,sac,,,,
+,,,,,,,201603070NOP,Did Not Play,,,James Anderson,anderja01,,sac,,,,
+20.5,0.0,103,18.6,.447,.211,.368,201603070NOP,39:44,115,2.5,Norris Cole,coleno01,3.3,nop,4.3,9.7,.521,22.8
+4.5,2.2,100,29.3,.643,.143,.429,201603070NOP,37:49,101,2.6,Anthony Davis,davisan02,3.5,nop,16.7,14.6,.621,31.1
+40.9,2.3,99,13.8,.528,.278,.056,201603070NOP,35:39,110,0.0,Jrue Holiday,holidjr01,4.9,nop,14.0,6.2,.542,23.6
+0.0,2.9,96,8.6,.700,.600,.000,201603070NOP,28:36,138,0.0,Dante Cunningham,cunnida01,6.1,nop,0.0,3.9,.700,6.9
+0.0,0.0,112,9.1,.000,.000,.000,201603070NOP,13:32,34,14.8,Omer Asik,asikom01,0.0,nop,50.0,12.2,.000,11.6
+10.2,0.0,108,13.6,.464,.286,.571,201603070NOP,27:13,117,11.0,Ryan Anderson,anderry01,1.6,nop,5.4,12.2,.542,26.7
+17.3,4.0,104,11.9,.333,.667,.000,201603070NOP,20:37,62,0.0,Toney Douglas,douglto01,2.1,nop,25.0,5.4,.333,22.8
+0.0,0.0,110,25.1,.667,.000,.167,201603070NOP,19:37,153,15.3,Alonzo Gee,geeal01,0.0,nop,0.0,19.7,.699,12.9
+6.2,9.6,98,14.3,,,,201603070NOP,17:13,23,0.0,Kendrick Perkins,perkike01,2.5,nop,100.0,6.4,,4.6
+,,,,,,,201603070NOP,Did Not Play,,,Eric Gordon,gordoer01,,nop,,,,
+,,,,,,,201603070NOP,Did Not Play,,,Luke Babbitt,babbilu01,,nop,,,,
+,,,,,,,201603070NOP,Did Not Play,,,Bryce Dejean-Jones,dejeabr01,,nop,,,,
+,,,,,,,201603070NOP,Did Not Play,,,Alexis Ajinca,ajincal01,,nop,,,,

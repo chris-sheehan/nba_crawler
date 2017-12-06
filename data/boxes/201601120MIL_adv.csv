@@ -1,0 +1,27 @@
+ast_pct,blk_pct,def_rtg,drb_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,gm,mp,off_rtg,orb_pct,player,player_id,stl_pct,team,tov_pct,trb_pct,ts_pct,usg_pct
+29.2,1.5,118,13.9,.476,.238,.571,201601120MIL,40:31,123,5.2,Jimmy Butler,butleji01,0.0,chi,13.2,9.8,.571,31.9
+22.7,6.7,106,23.7,.375,.083,.167,201601120MIL,35:44,106,14.6,Pau Gasol,gasolpa01,1.5,chi,13.4,19.4,.388,17.8
+5.9,3.8,116,9.0,.577,.615,.154,201601120MIL,31:20,123,6.7,Nikola Mirotic,mirotni01,0.0,chi,12.6,7.9,.612,21.6
+5.8,0.0,117,17.8,.400,.000,.400,201601120MIL,26:26,105,15.8,Taj Gibson,gibsota01,0.0,chi,25.4,16.8,.510,12.7
+22.4,0.0,118,0.0,.389,.333,.222,201601120MIL,22:29,93,4.6,Derrick Rose,rosede01,2.3,chi,23.3,2.2,.455,24.4
+6.8,0.0,113,18.9,.773,.636,.000,201601120MIL,29:49,119,3.5,Tony Snell,snellto01,1.8,chi,21.4,11.6,.773,20.0
+21.2,0.0,119,11.1,.571,.571,.286,201601120MIL,17:02,142,0.0,Aaron Brooks,brookaa01,0.0,chi,0.0,5.8,.571,19.7
+20.1,0.0,116,18.8,.333,.000,.667,201601120MIL,15:02,138,27.8,Joakim Noah,noahjo01,0.0,chi,0.0,23.0,.387,11.0
+11.6,0.0,115,23.8,.000,.500,.000,201601120MIL,11:52,41,0.0,Kirk Hinrich,hinriki01,0.0,chi,0.0,12.5,.000,7.2
+0.0,0.0,123,0.0,.000,.000,.000,201601120MIL,5:45,33,18.1,Doug McDermott,mcderdo01,0.0,chi,0.0,8.6,.000,14.8
+0.0,15.0,107,0.0,,,,201601120MIL,4:00,0,0.0,Bobby Portis,portibo01,0.0,chi,100.0,0.0,,10.7
+,,,,,,,201601120MIL,Did Not Play,,,Cameron Bairstow,bairsca01,,chi,,,,
+,,,,,,,201601120MIL,Did Not Play,,,E'Twaun Moore,mooreet01,,chi,,,,
+29.7,2.1,120,7.7,.438,.375,.125,201601120MIL,40:31,109,7.0,Khris Middleton,middlkh01,0.0,mil,10.6,7.3,.474,20.3
+3.8,2.3,107,22.6,.538,.000,.231,201601120MIL,37:00,134,10.2,Greg Monroe,monrogr01,1.4,mil,0.0,16.0,.594,16.8
+20.6,0.0,108,11.3,.308,.000,.385,201601120MIL,36:55,95,0.0,Michael Carter-Williams,cartemi01,4.3,mil,0.0,5.4,.362,17.9
+27.7,2.7,106,23.3,.714,.071,1.000,201601120MIL,31:18,155,9.0,Giannis Antetokounmpo,antetgi01,1.7,mil,0.0,15.8,.719,28.0
+0.0,0.0,109,3.9,.571,.000,.143,201601120MIL,27:01,101,7.0,Jabari Parker,parkeja01,5.8,mil,6.3,5.5,.538,25.6
+18.8,0.0,118,4.0,.278,.444,.000,201601120MIL,26:00,80,0.0,O.J. Mayo,mayooj01,2.0,mil,0.0,1.9,.278,15.1
+19.2,19.6,112,9.5,.500,.000,.250,201601120MIL,21:55,84,4.3,John Henson,hensojo01,0.0,mil,18.4,6.8,.450,21.6
+0.0,5.4,108,0.0,.333,.333,.000,201601120MIL,15:46,72,0.0,Rashad Vaughn,vaughra01,6.7,mil,0.0,0.0,.333,16.6
+0.0,0.0,126,0.0,,,,201601120MIL,3:34,202,26.4,Johnny O'Bryant,obryajo01,0.0,mil,,13.9,,0.0
+,,,,,,,201601120MIL,Did Not Play,,,Damien Inglis,inglida01,,mil,,,,
+,,,,,,,201601120MIL,Did Not Play,,,Chris Copeland,copelch01,,mil,,,,
+,,,,,,,201601120MIL,Did Not Play,,,Miles Plumlee,plumlmi01,,mil,,,,
+,,,,,,,201601120MIL,Did Not Play,,,Tyler Ennis,ennisty01,,mil,,,,

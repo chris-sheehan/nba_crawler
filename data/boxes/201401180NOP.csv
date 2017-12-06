@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+8,0,5,10,2,.222,9,.455,22,6,1.000,6,201401180NOP,37:49,1,2,Stephen Curry,curryst01,+15,28,4,gsw,0,6
+1,0,2,3,2,.286,7,.214,14,0,,0,201401180NOP,36:38,0,1,Klay Thompson,thompkl01,+14,8,2,gsw,1,2
+3,2,3,3,0,.000,1,.429,7,2,1.000,2,201401180NOP,35:50,0,1,Andre Iguodala,iguodan01,+18,8,1,gsw,2,3
+1,2,6,9,0,,0,.474,19,4,1.000,4,201401180NOP,34:46,2,3,David Lee,leeda02,+17,22,0,gsw,0,8
+2,5,10,5,0,,0,1.000,5,0,,0,201401180NOP,33:44,5,5,Andrew Bogut,bogutan01,+12,10,0,gsw,2,15
+1,0,2,0,0,.000,1,.000,4,0,,0,201401180NOP,17:31,0,3,Harrison Barnes,barneha02,-7,0,0,gsw,1,2
+0,1,3,1,0,,0,1.000,1,2,.500,4,201401180NOP,15:44,0,3,Draymond Green,greendr01,-2,4,0,gsw,0,3
+1,0,0,4,2,.667,3,.667,6,0,,0,201401180NOP,13:29,2,0,Jordan Crawford,crawfjo02,-9,10,0,gsw,2,2
+0,1,2,2,0,,0,.400,5,3,1.000,3,201401180NOP,11:01,0,2,Marreese Speights,speigma01,-9,7,0,gsw,0,2
+0,0,0,0,0,.000,1,.000,1,0,,0,201401180NOP,3:12,0,0,Kent Bazemore,bazemke01,+1,0,0,gsw,0,0
+0,0,0,0,0,,0,,0,0,,0,201401180NOP,0:16,0,0,MarShon Brooks,brookma01,0,0,0,gsw,0,0
+,,,,,,,,,,,,201401180NOP,Did Not Play,,,Jermaine O'Neal,onealje01,,,,gsw,,
+,,,,,,,,,,,,201401180NOP,Did Not Play,,,Nemanja Nedovic,nedovne01,,,,gsw,,
+1,1,13,11,0,,0,.647,17,9,.750,12,201401180NOP,43:01,4,5,Anthony Davis,davisan02,-9,31,0,nop,4,17
+5,0,3,3,1,.500,2,.429,7,2,.667,3,201401180NOP,34:52,0,2,Brian Roberts,roberbr01,-6,9,0,nop,1,3
+1,1,5,5,0,,0,.417,12,2,.500,4,201401180NOP,33:07,4,1,Al-Farouq Aminu,aminual01,-13,12,0,nop,0,9
+6,0,3,3,0,.000,6,.176,17,2,1.000,2,201401180NOP,32:38,2,3,Eric Gordon,gordoer01,-15,8,2,nop,3,5
+0,1,2,1,0,,0,.250,4,0,,0,201401180NOP,12:21,0,1,Greg Stiemsma,stiemgr01,+3,2,0,nop,0,2
+2,0,3,6,0,,0,.429,14,2,1.000,2,201401180NOP,30:45,1,1,Tyreke Evans,evansty01,-2,14,1,nop,4,4
+1,0,0,2,1,.333,3,.500,4,1,1.000,1,201401180NOP,15:03,1,0,Darius Miller,milleda01,0,6,1,nop,0,1
+0,1,1,1,0,,0,.333,3,1,.500,2,201401180NOP,14:07,1,1,Jeff Withey,witheje01,-9,3,0,nop,0,2
+2,0,0,0,0,,0,.000,4,0,,0,201401180NOP,12:30,0,1,Austin Rivers,riverau01,+5,0,0,nop,1,0
+0,1,2,0,0,,0,.000,1,2,1.000,2,201401180NOP,11:36,2,2,Alexis Ajinca,ajincal01,-4,2,0,nop,0,4
+,,,,,,,,,,,,201401180NOP,Did Not Play,,,Jrue Holiday,holidjr01,,,,nop,,
+,,,,,,,,,,,,201401180NOP,Did Not Play,,,Anthony Morrow,morroan01,,,,nop,,
+,,,,,,,,,,,,201401180NOP,Did Not Play,,,Jason Smith,smithja02,,,,nop,,

@@ -1,0 +1,27 @@
+ast_pct,blk_pct,def_rtg,drb_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,gm,mp,off_rtg,orb_pct,player,player_id,stl_pct,team,tov_pct,trb_pct,ts_pct,usg_pct
+18.0,0.0,96,12.5,.333,.267,.867,201612200HOU,36:21,87,0.0,Kawhi Leonard,leonaka01,6.9,sas,25.3,7.0,.507,34.2
+24.0,2.5,110,12.6,.400,.000,.400,201612200HOU,35:48,127,16.4,LaMarcus Aldridge,aldrila01,0.0,sas,0.0,14.3,.482,22.1
+9.3,2.6,108,5.3,.750,1.000,.000,201612200HOU,33:52,121,3.5,Danny Green,greenda02,3.0,sas,20.0,4.5,.750,13.2
+13.6,6.8,98,31.0,.625,.000,.000,201612200HOU,26:20,107,4.4,Pau Gasol,gasolpa01,0.0,sas,20.0,19.4,.625,17.0
+6.5,0.0,112,3.7,.500,.143,.286,201612200HOU,24:23,116,4.8,Tony Parker,parketo01,2.1,sas,0.0,4.2,.508,14.5
+7.9,0.0,110,0.0,.813,.625,.000,201612200HOU,23:37,119,0.0,Patty Mills,millspa02,4.3,sas,20.0,0.0,.813,19.0
+28.2,0.0,91,18.6,.667,.556,.222,201612200HOU,19:31,105,0.0,Manu Ginobili,ginobma01,7.7,sas,16.8,10.5,.607,27.3
+10.4,5.3,104,21.5,.600,.000,.000,201612200HOU,16:52,128,0.0,David Lee,leeda02,0.0,sas,0.0,12.1,.600,13.3
+0.0,0.0,114,8.3,,,,201612200HOU,10:54,84,21.5,Dewayne Dedmon,dedmode01,0.0,sas,100.0,14.1,,4.1
+15.6,0.0,108,18.3,.500,.000,1.000,201612200HOU,9:53,69,0.0,Jonathon Simmons,simmojo02,0.0,sas,41.0,10.3,.521,22.2
+53.7,0.0,119,0.0,,,,201612200HOU,2:29,47,0.0,Davis Bertans,bertada01,0.0,sas,100.0,0.0,,18.1
+,,,,,,,201612200HOU,Did Not Play,,,Kyle Anderson,anderky01,,sas,,,,
+,,,,,,,201612200HOU,Did Not Play,,,Nicolas Laprovittola,laproni01,,sas,,,,
+7.9,0.0,113,12.5,.313,.375,.250,201612200HOU,37:22,99,4.8,Ryan Anderson,anderry01,0.0,hou,10.1,8.2,.394,10.6
+41.6,0.0,107,25.5,.404,.423,.385,201612200HOU,36:48,115,4.9,James Harden,hardeja01,1.4,hou,9.0,13.9,.510,36.3
+10.2,2.5,96,20.1,.536,.643,.143,201612200HOU,35:00,90,0.0,Trevor Ariza,arizatr01,5.7,hou,21.2,8.8,.538,21.6
+4.7,2.8,103,18.3,.286,.571,.000,201612200HOU,32:04,78,8.5,Patrick Beverley,beverpa01,3.1,hou,12.5,12.7,.286,10.0
+21.6,0.0,107,12.9,.667,.000,.333,201612200HOU,18:11,147,24.9,Nene Hilario,hilarne01,2.8,hou,12.7,19.7,.727,17.4
+20.3,5.5,112,3.6,.300,.533,.267,201612200HOU,32:30,85,0.0,Eric Gordon,gordoer01,0.0,hou,15.2,1.6,.388,24.3
+16.6,0.0,107,16.0,.571,.000,.429,201612200HOU,22:01,111,8.2,Montrezl Harrell,harremo01,2.3,hou,10.7,11.6,.541,16.9
+8.4,4.3,106,11.4,.333,.333,.444,201612200HOU,20:31,104,22.1,Sam Dekker,dekkesa01,2.4,hou,15.7,17.4,.465,24.9
+24.7,0.0,117,0.0,,,,201612200HOU,5:33,218,16.3,Corey Brewer,breweco01,0.0,hou,,9.2,,0.0
+,,,,,,,201612200HOU,Did Not Play,,,Chinanu Onuaku,onuakch01,,hou,,,,
+,,,,,,,201612200HOU,Did Not Play,,,Tyler Ennis,ennisty01,,hou,,,,
+,,,,,,,201612200HOU,Did Not Play,,,Kyle Wiltjer,wiltjky01,,hou,,,,
+,,,,,,,201612200HOU,Did Not Play,,,K.J. McDaniels,mcdankj01,,hou,,,,

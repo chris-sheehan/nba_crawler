@@ -1,0 +1,27 @@
+ast_pct,blk_pct,def_rtg,drb_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,gm,mp,off_rtg,orb_pct,player,player_id,stl_pct,team,tov_pct,trb_pct,ts_pct,usg_pct
+0.0,4.1,97,20.8,.500,.250,.000,201601120MIN,36:47,92,3.1,Serge Ibaka,ibakase01,1.3,okc,11.1,12.1,.500,10.9
+16.3,0.0,100,18.1,.480,.360,.240,201601120MIN,36:15,104,3.2,Kevin Durant,duranke01,1.4,okc,9.8,10.8,.543,37.6
+57.7,0.0,93,19.6,.600,.267,.400,201601120MIN,33:19,105,3.4,Russell Westbrook,westbru01,4.5,okc,28.4,11.7,.624,32.9
+0.0,2.7,104,11.6,1.000,.000,.667,201601120MIN,28:08,166,8.1,Steven Adams,adamsst01,0.0,okc,20.5,9.9,1.031,7.7
+8.0,0.0,99,12.2,.333,.167,.000,201601120MIN,17:53,65,0.0,Andre Roberson,roberan03,2.8,okc,14.3,6.2,.333,17.4
+16.8,0.0,94,13.8,.313,.125,.000,201601120MIN,31:43,78,0.0,Dion Waiters,waitedi01,4.7,okc,11.1,7.0,.313,12.6
+0.0,0.0,102,5.5,.800,.000,.200,201601120MIN,19:52,169,17.3,Enes Kanter,kanteen01,2.5,okc,0.0,11.2,.827,24.4
+20.1,0.0,104,14.9,.429,.571,.000,201601120MIN,14:41,75,0.0,Cameron Payne,payneca01,0.0,okc,22.2,7.6,.429,27.3
+0.0,0.0,103,18.6,.000,1.000,.000,201601120MIN,11:45,0,0.0,Anthony Morrow,morroan01,0.0,okc,0.0,9.5,.000,3.8
+0.0,0.0,109,0.0,.000,.000,2.000,201601120MIN,9:37,0,0.0,Nick Collison,collini01,0.0,okc,0.0,0.0,.000,8.7
+,,,,,,,201601120MIN,Did Not Play,,,Kyle Singler,singlky01,,okc,,,,
+,,,,,,,201601120MIN,Did Not Play,,,D.J. Augustin,augusdj01,,okc,,,,
+,,,,,,,201601120MIN,Did Not Play,,,Mitch McGary,mcgarmi01,,okc,,,,
+11.1,0.0,108,6.6,.421,.105,.421,201601120MIN,34:40,98,9.4,Andrew Wiggins,wiggian01,1.4,min,11.8,8.1,.488,32.4
+6.5,0.0,108,20.1,.429,.071,.143,201601120MIN,28:24,93,19.2,Karl-Anthony Towns,townska01,0.0,min,16.8,19.7,.470,27.7
+39.8,0.0,105,10.7,.300,.600,.000,201601120MIN,21:25,69,0.0,Ricky Rubio,rubiori01,2.3,min,37.5,5.2,.300,16.4
+0.0,0.0,110,8.2,.333,.000,.000,201601120MIN,13:55,88,7.8,Tayshaun Prince,princta01,0.0,min,0.0,8.0,.333,9.5
+14.7,0.0,104,37.8,.000,.000,.000,201601120MIN,9:04,52,0.0,Kevin Garnett,garneke01,0.0,min,0.0,18.5,.000,4.9
+17.1,0.0,110,10.1,.567,.267,.267,201601120MIN,34:05,107,3.2,Shabazz Muhammad,muhamsh01,0.0,min,15.2,6.6,.597,25.5
+8.7,14.5,92,17.9,.333,.000,.000,201601120MIN,31:59,65,3.4,Gorgui Dieng,dienggo01,1.5,min,40.0,10.5,.333,6.9
+30.9,0.0,104,38.7,.708,.333,.500,201601120MIN,26:35,121,0.0,Zach LaVine,lavinza01,0.0,min,17.0,18.9,.717,29.2
+5.6,0.0,96,17.2,1.500,1.000,.000,201601120MIN,26:33,154,0.0,Nemanja Bjelica,bjeline01,5.6,min,33.3,8.4,1.500,5.0
+25.0,0.0,104,0.0,.286,.286,.429,201601120MIN,13:20,91,0.0,Kevin Martin,martike02,3.7,min,0.0,0.0,.361,27.4
+,,,,,,,201601120MIN,Did Not Play,,,Damjan Rudez,rudezda01,,min,,,,
+,,,,,,,201601120MIN,Did Not Play,,,Andre Miller,millean02,,min,,,,
+,,,,,,,201601120MIN,Did Not Play,,,Adreian Payne,paynead01,,min,,,,

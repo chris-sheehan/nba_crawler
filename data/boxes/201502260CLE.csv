@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+4,0,5,7,0,.000,4,.538,13,2,.400,5,201502260CLE,37:34,3,4,Draymond Green,greendr01,-10,16,5,gsw,1,8
+6,0,3,5,3,.333,9,.294,17,5,1.000,5,201502260CLE,33:50,0,3,Stephen Curry,curryst01,-10,18,1,gsw,4,3
+4,3,6,5,3,.600,5,.385,13,0,,0,201502260CLE,33:38,1,1,Klay Thompson,thompkl01,-4,13,0,gsw,3,7
+3,0,4,4,3,.600,5,.400,10,0,.000,2,201502260CLE,28:12,3,4,Harrison Barnes,barneha02,-7,11,1,gsw,2,7
+2,2,3,3,0,,0,.375,8,0,,0,201502260CLE,20:37,2,2,Andrew Bogut,bogutan01,-11,6,0,gsw,1,5
+6,0,3,4,1,.333,3,.444,9,0,,0,201502260CLE,29:32,2,4,Andre Iguodala,iguodan01,+2,9,1,gsw,0,5
+2,1,2,8,0,,0,.727,11,3,.600,5,201502260CLE,20:42,2,4,David Lee,leeda02,-5,19,0,gsw,2,4
+1,0,0,2,1,.333,3,.400,5,0,,0,201502260CLE,14:32,0,1,Leandro Barbosa,barbole01,-7,5,0,gsw,1,0
+3,0,4,0,0,,0,.000,4,0,.000,2,201502260CLE,13:31,1,0,Shaun Livingston,livinsh01,-4,0,1,gsw,0,5
+1,0,0,0,0,,0,.000,1,0,,0,201502260CLE,7:13,0,1,Marreese Speights,speigma01,-2,0,1,gsw,0,0
+0,0,0,1,0,,0,1.000,1,0,,0,201502260CLE,0:39,0,0,Justin Holiday,holidju01,+3,2,0,gsw,0,0
+,,,,,,,,,,,,201502260CLE,Did Not Play,,,Brandon Rush,rushbr01,,,,gsw,,
+,,,,,,,,,,,,201502260CLE,Did Not Play,,,Festus Ezeli,ezelife01,,,,gsw,,
+1,0,2,6,2,.250,8,.353,17,10,1.000,10,201502260CLE,37:50,1,1,Kyrie Irving,irvinky01,+11,24,2,cle,2,3
+1,0,8,5,3,.600,5,.500,10,3,.750,4,201502260CLE,37:29,0,2,Kevin Love,loveke01,+11,16,0,cle,2,8
+5,1,10,15,4,.444,9,.600,25,8,.727,11,201502260CLE,36:12,1,5,LeBron James,jamesle01,+9,42,3,cle,6,11
+5,0,3,1,0,.000,2,.200,5,2,1.000,2,201502260CLE,35:45,1,1,J.R. Smith,smithjr01,+12,4,4,cle,1,4
+2,1,10,4,0,,0,.500,8,2,1.000,2,201502260CLE,24:48,0,3,Timofey Mozgov,mozgoti01,+17,10,1,cle,2,10
+0,0,3,0,0,.000,2,.000,3,0,,0,201502260CLE,31:14,2,2,Iman Shumpert,shumpim01,+5,0,0,cle,0,5
+0,0,5,4,0,,0,.667,6,4,.667,6,201502260CLE,21:43,3,0,Tristan Thompson,thomptr01,+4,12,0,cle,2,8
+1,0,0,1,0,.000,1,.500,2,0,,0,201502260CLE,10:10,0,3,Matthew Dellavedova,dellama01,0,2,0,cle,0,0
+0,0,1,0,0,,0,,0,0,,0,201502260CLE,2:13,0,2,Kendrick Perkins,perkike01,-2,0,0,cle,1,1
+0,0,0,0,0,,0,,0,0,,0,201502260CLE,0:39,0,0,James Jones,jonesja02,-3,0,0,cle,0,0
+0,0,0,0,0,.000,1,.000,1,0,,0,201502260CLE,0:39,0,0,Joe Harris,harrijo01,-3,0,0,cle,0,0
+0,0,0,0,0,,0,,0,0,,0,201502260CLE,0:39,0,0,Mike Miller,millemi01,-3,0,0,cle,0,0
+0,0,1,0,0,,0,,0,0,,0,201502260CLE,0:39,0,0,Brendan Haywood,haywobr01,-3,0,0,cle,0,1

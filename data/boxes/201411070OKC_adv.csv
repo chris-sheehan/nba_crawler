@@ -1,0 +1,27 @@
+ast_pct,blk_pct,def_rtg,drb_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,gm,mp,off_rtg,orb_pct,player,player_id,stl_pct,team,tov_pct,trb_pct,ts_pct,usg_pct
+12.1,6.5,102,18.1,.364,.000,.000,201411070OKC,40:46,67,8.2,Marc Gasol,gasolma01,0.0,mem,31.3,12.9,.364,19.5
+10.0,0.0,108,7.0,.813,.375,.625,201411070OKC,35:25,171,3.2,Courtney Lee,leeco01,1.6,mem,0.0,5.0,.833,14.3
+28.1,0.0,108,7.0,.607,.286,.286,201411070OKC,35:00,139,3.2,Mike Conley,conlemi01,1.6,mem,0.0,5.0,.635,22.4
+10.8,0.0,99,21.4,.375,.000,.250,201411070OKC,34:33,96,3.2,Zach Randolph,randoza01,3.2,mem,5.3,11.9,.450,27.0
+21.5,3.5,85,19.4,.643,.286,.000,201411070OKC,25:23,118,0.0,Tony Allen,allento01,8.7,mem,12.5,9.2,.643,15.7
+19.0,0.0,100,19.3,.389,.444,.222,201411070OKC,19:08,82,0.0,Vince Carter,cartevi01,2.9,mem,9.2,9.2,.405,28.3
+8.8,0.0,111,0.0,.000,1.000,1.000,201411070OKC,16:04,94,0.0,Quincy Pondexter,pondequ01,0.0,mem,0.0,0.0,.347,8.9
+0.0,0.0,97,31.9,.400,.000,.000,201411070OKC,15:26,109,21.7,Kosta Koufos,koufoko01,3.6,mem,0.0,26.6,.400,16.1
+41.6,0.0,109,9.5,.500,.600,.000,201411070OKC,13:00,121,0.0,Beno Udrih,udrihbe01,0.0,mem,0.0,4.5,.500,19.1
+0.0,0.0,107,23.4,.250,.000,.000,201411070OKC,5:15,53,0.0,Jon Leuer,leuerjo01,0.0,mem,0.0,11.1,.250,37.9
+,,,,,,,201411070OKC,Did Not Play,,,Tayshaun Prince,princta01,,mem,,,,
+,,,,,,,201411070OKC,Did Not Play,,,Kalin Lucas,lucaska01,,mem,,,,
+,,,,,,,201411070OKC,Did Not Play,,,Jordan Adams,adamsjo01,,mem,,,,
+34.8,0.0,104,16.2,.550,.350,.050,201411070OKC,41:28,113,3.0,Reggie Jackson,jacksre01,1.3,okc,12.8,9.9,.538,26.9
+0.0,1.8,109,5.4,.567,.400,.067,201411070OKC,41:23,108,3.0,Jeremy Lamb,lambje01,0.0,okc,6.1,4.2,.551,18.9
+9.9,0.0,99,19.8,.667,.000,.222,201411070OKC,33:54,139,18.2,Steven Adams,adamsst01,3.3,okc,9.2,19.0,.658,15.3
+5.1,0.0,106,20.3,.533,.467,.067,201411070OKC,33:01,82,3.7,Serge Ibaka,ibakase01,0.0,okc,24.5,12.4,.518,29.5
+4.6,0.0,105,22.9,.333,.000,.667,201411070OKC,29:16,52,0.0,Lance Thomas,thomala01,0.0,okc,43.6,12.0,.387,11.2
+5.6,0.0,108,13.7,.500,.333,.667,201411070OKC,24:30,102,5.0,Nick Collison,collini01,0.0,okc,0.0,9.6,.387,7.5
+11.1,0.0,110,6.2,.545,.364,.182,201411070OKC,18:08,90,0.0,Sebastian Telfair,telfase01,0.0,okc,20.2,3.2,.547,39.1
+10.1,0.0,102,31.7,.333,.000,.000,201411070OKC,14:06,76,8.7,Kendrick Perkins,perkike01,0.0,okc,25.0,20.8,.333,13.5
+30.6,0.0,112,0.0,,,,201411070OKC,4:14,232,0.0,Ish Smith,smithis01,0.0,okc,,0.0,,0.0
+,,,,,,,201411070OKC,Did Not Play,,,Andre Roberson,roberan03,,okc,,,,
+,,,,,,,201411070OKC,Did Not Play,,,Perry Jones,jonespe01,,okc,,,,
+,,,,,,,201411070OKC,Did Not Play,,,Russell Westbrook,westbru01,,okc,,,,
+,,,,,,,201411070OKC,Did Not Play,,,Anthony Morrow,morroan01,,okc,,,,

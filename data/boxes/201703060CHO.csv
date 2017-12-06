@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+5,0,10,15,6,.429,14,.600,25,0,,0,201703060CHO,36:27,0,4,Paul George,georgpa01,0,36,0,ind,6,10
+4,0,3,6,4,.571,7,.545,11,0,,0,201703060CHO,32:42,1,1,C.J. Miles,milescj01,+4,16,0,ind,0,4
+3,3,6,2,0,.000,1,.333,6,0,,0,201703060CHO,32:10,1,5,Myles Turner,turnemy01,-6,4,0,ind,1,7
+8,2,4,4,1,.500,2,.364,11,1,.500,2,201703060CHO,28:49,1,1,Jeff Teague,teaguje01,-7,10,0,ind,2,5
+2,0,2,2,0,,0,.400,5,0,,0,201703060CHO,21:20,0,0,Thaddeus Young,youngth01,-1,4,1,ind,1,2
+2,0,4,1,0,.000,2,.200,5,0,,0,201703060CHO,27:35,2,3,Glenn Robinson,robingl02,-18,2,1,ind,1,6
+3,0,2,5,1,.500,2,.500,10,1,1.000,1,201703060CHO,25:56,0,2,Monta Ellis,ellismo01,-21,12,0,ind,3,2
+2,0,1,1,0,.000,1,.250,4,0,,0,201703060CHO,9:57,0,0,Aaron Brooks,brookaa01,+3,2,1,ind,0,1
+0,0,1,1,0,,0,1.000,1,0,,0,201703060CHO,9:17,1,0,Rakeem Christmas,chrisra01,+3,2,0,ind,0,2
+0,0,1,0,0,.000,1,.000,2,0,,0,201703060CHO,9:14,0,0,Rodney Stuckey,stuckro01,-8,0,0,ind,1,1
+0,0,1,0,0,,0,.000,1,0,,0,201703060CHO,6:33,0,1,Al Jefferson,jeffeal01,-9,0,0,ind,0,1
+,,,,,,,,,,,,201703060CHO,Did Not Play,,,Kevin Seraphin,serapke01,,,,ind,,
+,,,,,,,,,,,,201703060CHO,Did Not Play,,,Joe Young,youngjo01,,,,ind,,
+0,1,4,1,0,.000,5,.143,7,4,1.000,4,201703060CHO,39:51,1,1,Marvin Williams,willima02,-4,6,1,cho,0,5
+7,0,4,10,4,.444,9,.455,22,4,1.000,4,201703060CHO,34:53,2,1,Kemba Walker,walkeke02,+10,28,1,cho,1,6
+2,0,6,5,0,.000,1,.500,10,3,.750,4,201703060CHO,34:24,5,1,Cody Zeller,zelleco01,+3,13,2,cho,0,11
+4,1,4,7,3,.333,9,.368,19,4,1.000,4,201703060CHO,34:17,0,1,Nicolas Batum,batumni01,+6,21,3,cho,3,4
+1,0,10,4,0,,0,.500,8,3,1.000,3,201703060CHO,31:24,3,1,Michael Kidd-Gilchrist,kiddgmi01,+7,11,2,cho,1,13
+2,0,4,6,2,.667,3,.667,9,0,,0,201703060CHO,24:40,1,1,Jeremy Lamb,lambje01,+14,14,0,cho,1,5
+3,0,2,0,0,,0,.000,4,0,,0,201703060CHO,13:48,0,0,Marco Belinelli,belinma01,+13,0,1,cho,1,2
+2,0,1,0,0,.000,1,.000,4,1,.500,2,201703060CHO,13:36,1,2,Johnny O'Bryant,obryajo01,+9,1,0,cho,2,2
+0,0,2,2,2,.667,3,.667,3,0,,0,201703060CHO,13:07,0,0,Brian Roberts,roberbr01,+2,6,0,cho,1,2
+,,,,,,,,,,,,201703060CHO,Did Not Play,,,Briante Weber,weberbr01,,,,cho,,
+,,,,,,,,,,,,201703060CHO,Did Not Play,,,Christian Wood,woodch01,,,,cho,,
+,,,,,,,,,,,,201703060CHO,Did Not Play,,,Treveon Graham,grahatr01,,,,cho,,
+,,,,,,,,,,,,201703060CHO,Did Not Dress,,,Frank Kaminsky,kaminfr01,,,,cho,,

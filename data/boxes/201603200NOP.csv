@@ -1,0 +1,26 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+13,0,6,5,3,.429,7,.357,14,11,.846,13,201603200NOP,35:31,0,5,Chris Paul,paulch01,0,24,4,lac,1,6
+2,1,6,3,0,,0,.600,5,6,.545,11,201603200NOP,34:16,3,2,DeAndre Jordan,jordade01,+5,12,0,lac,1,9
+1,0,1,9,4,.800,5,.818,11,2,1.000,2,201603200NOP,31:39,1,5,J.J. Redick,redicjj01,+5,24,1,lac,1,2
+1,0,2,4,0,.000,4,.444,9,1,.333,3,201603200NOP,20:24,0,2,Paul Pierce,piercpa01,-2,9,0,lac,1,2
+1,1,0,1,0,.000,2,.250,4,0,,0,201603200NOP,14:36,0,0,Luc Mbah a Moute,mbahalu01,-10,2,0,lac,0,0
+3,0,4,5,1,.200,5,.417,12,3,.750,4,201603200NOP,33:24,0,4,Jamal Crawford,crawfja01,+6,14,1,lac,3,4
+0,0,3,3,0,.000,5,.273,11,3,.500,6,201603200NOP,25:20,0,2,Austin Rivers,riverau01,-3,9,2,lac,0,3
+0,0,3,0,0,.000,6,.000,8,0,,0,201603200NOP,19:02,0,3,Wesley Johnson,johnswe01,-9,0,2,lac,2,3
+0,3,2,0,0,,0,.000,2,2,1.000,2,201603200NOP,13:20,2,2,Cole Aldrich,aldrico01,-8,2,0,lac,2,4
+0,0,1,3,2,.400,5,.500,6,1,1.000,1,201603200NOP,12:29,1,3,Pablo Prigioni,prigipa01,-4,9,2,lac,1,2
+,,,,,,,,,,,,201603200NOP,Did Not Play,,,Jeff Ayres,pendeje02,,,,lac,,
+,,,,,,,,,,,,201603200NOP,Did Not Play,,,C.J. Wilcox,wilcocj01,,,,lac,,
+,,,,,,,,,,,,201603200NOP,Did Not Play,,,Jeff Green,greenje02,,,,lac,,
+0,0,3,6,1,.200,5,.600,10,6,.857,7,201603200NOP,39:45,3,3,Dante Cunningham,cunnida01,+5,19,2,nop,0,6
+8,1,1,7,3,.500,6,.412,17,5,.833,6,201603200NOP,39:15,1,4,Jrue Holiday,holidjr01,+1,22,1,nop,5,2
+9,0,7,5,1,.167,6,.417,12,4,.667,6,201603200NOP,36:52,0,3,Toney Douglas,douglto01,+8,15,1,nop,4,7
+2,0,13,6,0,,0,.667,9,3,.600,5,201603200NOP,29:46,1,4,Omer Asik,asikom01,+7,15,0,nop,3,14
+0,0,6,4,1,.500,2,.444,9,5,1.000,5,201603200NOP,29:00,2,4,Luke Babbitt,babbilu01,+5,14,0,nop,2,8
+0,0,6,1,0,.000,1,.200,5,2,1.000,2,201603200NOP,27:42,1,4,Alonzo Gee,geeal01,-3,4,0,nop,3,7
+2,0,5,5,1,1.000,1,.625,8,6,.857,7,201603200NOP,20:03,2,5,Tim Frazier,fraziti01,-1,17,4,nop,5,7
+1,0,3,1,0,,0,1.000,1,1,.500,2,201603200NOP,16:01,0,5,Kendrick Perkins,perkike01,+3,3,1,nop,0,3
+0,0,0,0,0,,0,,0,0,,0,201603200NOP,1:35,0,2,Alexis Ajinca,ajincal01,-5,0,0,nop,1,0
+,,,,,,,,,,,,201603200NOP,Did Not Play,,,Norris Cole,coleno01,,,,nop,,
+,,,,,,,,,,,,201603200NOP,Did Not Play,,,Ryan Anderson,anderry01,,,,nop,,
+,,,,,,,,,,,,201603200NOP,Did Not Play,,,Anthony Davis,davisan02,,,,nop,,

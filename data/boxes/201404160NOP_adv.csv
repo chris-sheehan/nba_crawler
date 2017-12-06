@@ -1,0 +1,27 @@
+ast_pct,blk_pct,def_rtg,drb_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,gm,mp,off_rtg,orb_pct,player,player_id,stl_pct,team,tov_pct,trb_pct,ts_pct,usg_pct
+20.8,0.0,125,2.8,.688,.688,.000,201404160NOP,43:55,139,0.0,Troy Daniels,danietr01,0.0,hou,5.9,1.3,.688,17.6
+5.9,0.0,118,30.1,.450,.200,.000,201404160NOP,28:39,106,3.8,Omri Casspi,casspom01,0.0,hou,0.0,16.1,.450,15.9
+32.6,0.0,122,14.0,.636,.000,.545,201404160NOP,26:26,137,20.6,Terrence Jones,joneste01,0.0,hou,6.8,17.5,.623,25.2
+22.7,8.1,113,19.3,.200,.200,1.400,201404160NOP,25:31,86,0.0,Dwight Howard,howardw01,0.0,hou,27.1,9.1,.433,19.7
+16.5,0.0,123,11.1,.833,.500,.833,201404160NOP,22:09,110,0.0,Patrick Beverley,beverpa01,0.0,hou,32.8,5.2,.854,25.0
+20.4,0.0,120,4.6,.700,.700,.000,201404160NOP,27:03,133,0.0,Jordan Hamilton,hamiljo02,2.0,hou,9.1,2.1,.700,18.5
+22.4,0.0,120,4.8,.167,.500,.333,201404160NOP,25:51,69,0.0,Isaiah Canaan,canaais01,2.1,hou,0.0,2.2,.145,12.1
+0.0,3.5,115,31.8,.333,.000,.000,201404160NOP,19:22,60,0.0,Josh Powell,poweljo01,0.0,hou,14.3,14.9,.333,16.4
+0.0,0.0,113,21.7,.389,.111,.444,201404160NOP,16:59,105,45.0,Donatas Motiejunas,motiedo01,3.2,hou,21.8,34.1,.511,36.8
+0.0,0.0,117,30.1,.000,1.000,.000,201404160NOP,4:05,0,0.0,Robert Covington,covinro01,0.0,hou,0.0,14.2,.000,22.3
+,,,,,,,201404160NOP,Did Not Play,,,Omer Asik,asikom01,,hou,,,,
+,,,,,,,201404160NOP,Did Not Play,,,Chandler Parsons,parsoch01,,hou,,,,
+,,,,,,,201404160NOP,Did Not Play,,,Jeremy Lin,linje01,,hou,,,,
+24.0,0.0,113,12.4,.636,.273,.455,201404160NOP,43:58,126,0.0,Austin Rivers,riverau01,3.7,nop,18.5,6.6,.682,17.9
+48.6,2.7,120,12.4,.575,.050,.200,201404160NOP,35:14,126,7.0,Tyreke Evans,evansty01,0.0,nop,8.4,9.8,.574,32.8
+3.7,0.0,118,3.2,.643,.143,.000,201404160NOP,34:16,145,7.2,Darius Miller,milleda01,3.2,nop,0.0,5.1,.643,9.9
+12.7,12.2,107,14.1,.714,.000,.286,201404160NOP,23:13,131,5.3,Alexis Ajinca,ajincal01,2.3,nop,11.3,10.0,.698,18.6
+6.7,23.6,95,27.4,.600,.000,.000,201404160NOP,19:56,111,6.2,Jeff Withey,witheje01,2.7,nop,16.7,17.4,.600,14.6
+5.5,0.0,114,8.1,.464,.286,.214,201404160NOP,27:03,111,4.6,Anthony Morrow,morroan01,4.0,nop,0.0,6.4,.490,27.5
+0.0,0.0,105,37.5,.350,.300,.200,201404160NOP,17:27,83,14.1,Luke Babbitt,babbilu01,3.1,nop,8.4,26.5,.368,33.1
+0.0,5.4,122,0.0,.667,.000,.000,201404160NOP,17:26,135,0.0,Melvin Ely,elyme01,0.0,nop,0.0,0.0,.667,8.4
+0.0,0.0,117,25.1,.600,.000,.000,201404160NOP,17:25,137,14.1,Al-Farouq Aminu,aminual01,0.0,nop,0.0,19.9,.600,13.9
+27.7,0.0,114,27.0,,,,201404160NOP,4:02,191,0.0,Brian Roberts,roberbr01,0.0,nop,0.0,14.3,.852,21.2
+,,,,,,,201404160NOP,Did Not Play,,,Eric Gordon,gordoer01,,nop,,,,
+,,,,,,,201404160NOP,Did Not Play,,,James Southerland,southja01,,nop,,,,
+,,,,,,,201404160NOP,Did Not Play,,,Anthony Davis,davisan02,,nop,,,,

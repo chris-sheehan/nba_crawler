@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+4,0,4,6,2,.667,3,.462,13,4,1.000,4,201612150NOP,36:23,1,5,Paul George,georgpa01,-6,18,2,ind,5,5
+1,0,7,3,0,.000,1,.375,8,1,.500,2,201612150NOP,36:14,1,2,Thaddeus Young,youngth01,-8,7,2,ind,4,8
+10,1,6,7,0,.000,6,.389,18,7,.778,9,201612150NOP,35:23,0,3,Jeff Teague,teaguje01,-6,21,0,ind,1,6
+1,1,5,1,0,.000,3,.143,7,0,,0,201612150NOP,32:52,1,2,Glenn Robinson,robingl02,-6,2,1,ind,0,6
+1,1,6,11,0,,0,.786,14,4,.800,5,201612150NOP,30:03,2,5,Myles Turner,turnemy01,-7,26,0,ind,0,8
+1,0,5,1,1,.167,6,.111,9,2,1.000,2,201612150NOP,30:26,0,2,C.J. Miles,milescj01,0,5,1,ind,0,5
+0,1,3,6,0,,0,.462,13,2,1.000,2,201612150NOP,17:57,2,2,Al Jefferson,jeffeal01,0,14,0,ind,0,5
+5,0,1,0,0,.000,2,.000,3,0,,0,201612150NOP,12:37,0,0,Aaron Brooks,brookaa01,-1,0,0,ind,2,1
+0,0,2,1,0,,0,.500,2,0,,0,201612150NOP,8:05,0,0,Lavoy Allen,allenla01,-1,2,0,ind,0,2
+,,,,,,,,,,,,201612150NOP,Did Not Play,,,Georges Niang,niangge01,,,,ind,,
+,,,,,,,,,,,,201612150NOP,Did Not Dress,,,Rodney Stuckey,stuckro01,,,,ind,,
+,,,,,,,,,,,,201612150NOP,Did Not Play,,,Kevin Seraphin,serapke01,,,,ind,,
+,,,,,,,,,,,,201612150NOP,Did Not Play,,,Joe Young,youngjo01,,,,ind,,
+0,5,14,11,2,.667,3,.478,23,11,.733,15,201612150NOP,39:07,1,2,Anthony Davis,davisan02,+14,35,0,nop,4,15
+14,0,5,7,0,.000,1,.583,12,2,.667,3,201612150NOP,35:57,2,4,Jrue Holiday,holidjr01,+13,16,0,nop,2,7
+2,0,2,8,5,.625,8,.471,17,0,,0,201612150NOP,33:24,2,2,Buddy Hield,hieldbu01,+10,21,0,nop,2,4
+1,0,1,1,1,.333,3,.333,3,2,1.000,2,201612150NOP,31:11,1,2,Solomon Hill,hillso01,+11,5,1,nop,1,2
+1,1,6,1,0,,0,.500,2,0,,0,201612150NOP,19:03,2,2,Alexis Ajinca,ajincal01,+2,2,2,nop,3,8
+1,2,9,4,0,,0,.444,9,2,.500,4,201612150NOP,25:35,2,0,Terrence Jones,joneste01,+9,10,1,nop,1,11
+0,0,1,2,1,.143,7,.200,10,0,,0,201612150NOP,20:02,0,0,Langston Galloway,gallola01,-4,5,2,nop,0,1
+2,0,0,0,0,.000,3,.000,5,1,.500,2,201612150NOP,18:06,0,1,E'Twaun Moore,mooreet01,-7,1,1,nop,1,0
+2,0,3,2,1,.500,2,.667,3,2,1.000,2,201612150NOP,11:05,0,2,Tyreke Evans,evansty01,-6,7,0,nop,2,3
+0,0,3,0,0,,0,.000,1,0,,0,201612150NOP,6:30,1,1,Omer Asik,asikom01,-7,0,0,nop,0,4
+,,,,,,,,,,,,201612150NOP,Did Not Play,,,Dante Cunningham,cunnida01,,,,nop,,
+,,,,,,,,,,,,201612150NOP,Did Not Play,,,Reggie Williams,willire02,,,,nop,,
+,,,,,,,,,,,,201612150NOP,Did Not Play,,,Cheick Diallo,diallch01,,,,nop,,

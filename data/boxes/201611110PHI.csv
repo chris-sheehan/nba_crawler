@@ -1,0 +1,26 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+4,0,5,9,1,.250,4,.450,20,7,1.000,7,201611110PHI,40:29,3,5,Paul George,georgpa01,-17,26,2,ind,1,8
+4,0,1,5,1,.250,4,.500,10,2,1.000,2,201611110PHI,34:39,0,2,Jeff Teague,teaguje01,-13,13,3,ind,4,1
+1,0,9,4,1,.500,2,.667,6,2,1.000,2,201611110PHI,33:45,1,0,Thaddeus Young,youngth01,-21,11,1,ind,3,10
+1,0,4,4,1,.333,3,.444,9,4,1.000,4,201611110PHI,30:05,0,1,C.J. Miles,milescj01,+9,13,1,ind,0,4
+2,2,5,2,1,.500,2,.333,6,0,,0,201611110PHI,20:54,0,6,Myles Turner,turnemy01,-3,5,1,ind,1,5
+5,0,6,8,0,.000,2,.421,19,3,1.000,3,201611110PHI,36:18,0,2,Monta Ellis,ellismo01,+2,19,4,ind,2,6
+2,0,3,4,0,,0,.444,9,2,.667,3,201611110PHI,22:28,0,4,Al Jefferson,jeffeal01,-3,10,0,ind,1,3
+3,1,2,0,0,,0,.000,3,2,1.000,2,201611110PHI,20:26,0,2,Lavoy Allen,allenla01,+14,2,1,ind,1,2
+0,0,0,1,0,.000,2,.333,3,0,,0,201611110PHI,18:21,0,2,Aaron Brooks,brookaa01,+9,2,1,ind,0,0
+1,0,1,2,0,,0,.667,3,0,,0,201611110PHI,7:35,0,4,Kevin Seraphin,serapke01,+3,4,0,ind,0,1
+,,,,,,,,,,,,201611110PHI,Did Not Play,,,Glenn Robinson,robingl02,,,,ind,,
+,,,,,,,,,,,,201611110PHI,Did Not Play,,,Joe Young,youngjo01,,,,ind,,
+,,,,,,,,,,,,201611110PHI,Did Not Play,,,Georges Niang,niangge01,,,,ind,,
+3,1,3,3,2,.222,9,.231,13,2,1.000,2,201611110PHI,40:14,1,3,Robert Covington,covinro01,+12,10,2,phi,0,4
+9,0,1,3,1,.250,4,.429,7,0,,0,201611110PHI,33:56,1,4,Sergio Rodriguez,rodrise01,+3,7,0,phi,4,2
+1,1,2,5,0,.000,2,.417,12,2,1.000,2,201611110PHI,29:26,2,3,Gerald Henderson,hendege02,+7,12,1,phi,2,4
+2,0,5,3,1,.500,2,.500,6,1,1.000,1,201611110PHI,28:48,0,1,Dario Saric,saricda01,0,8,3,phi,4,5
+2,2,4,6,1,.333,3,.333,18,12,.857,14,201611110PHI,25:45,3,3,Joel Embiid,embiijo01,+4,25,0,phi,5,7
+0,1,8,4,0,.000,1,.400,10,0,,0,201611110PHI,24:26,4,2,Richaun Holmes,holmeri01,+5,8,1,phi,1,12
+2,0,9,4,3,.600,5,.667,6,3,1.000,3,201611110PHI,24:12,2,2,Ersan Ilyasova,ilyaser01,+4,14,0,phi,0,11
+1,1,0,5,2,.500,4,.714,7,2,.500,4,201611110PHI,23:34,0,1,Nik Stauskas,stausni01,-3,14,0,phi,1,0
+3,0,4,1,1,1.000,1,.500,2,3,.750,4,201611110PHI,19:01,0,1,T.J. McConnell,mccontj01,+1,6,0,phi,2,4
+0,0,4,2,0,.000,1,.667,3,1,1.000,1,201611110PHI,12:49,0,0,Hollis Thompson,thompho01,-8,5,0,phi,0,4
+1,0,1,0,0,,0,.000,2,0,,0,201611110PHI,2:49,0,1,Jahlil Okafor,okafoja01,-5,0,0,phi,0,1
+,,,,,,,,,,,,201611110PHI,Did Not Play,,,Timothe Luwawu-Cabarrot,luwawti01,,,,phi,,

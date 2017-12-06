@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+4,0,5,7,3,.600,5,.389,18,4,1.000,4,201311260TOR,38:44,1,1,Joe Johnson,johnsjo02,-3,21,0,brk,2,6
+4,0,4,5,1,.333,3,.625,8,5,1.000,5,201311260TOR,31:33,0,2,Paul Pierce,piercpa01,+12,16,1,brk,4,4
+0,2,2,10,0,.000,1,.625,16,4,1.000,4,201311260TOR,31:30,3,0,Andray Blatche,blatcan01,+2,24,2,brk,2,5
+7,0,4,1,0,,0,.333,3,3,.750,4,201311260TOR,28:50,2,2,Shaun Livingston,livinsh01,+3,5,2,brk,2,6
+4,0,5,5,0,,0,.455,11,2,1.000,2,201311260TOR,24:28,1,2,Kevin Garnett,garneke01,+2,12,1,brk,0,6
+1,0,2,3,0,.000,4,.375,8,0,,0,201311260TOR,28:19,2,2,Alan Anderson,anderal01,-9,6,1,brk,0,4
+1,0,4,0,0,,0,.000,1,0,,0,201311260TOR,21:15,1,1,Mirza Teletovic,teletmi01,+7,0,0,brk,2,5
+4,0,1,4,0,.000,1,.571,7,1,.500,2,201311260TOR,19:10,0,4,Tyshawn Taylor,tayloty01,-1,9,0,brk,1,1
+0,1,1,4,0,,0,.800,5,1,1.000,1,201311260TOR,16:11,1,4,Mason Plumlee,plumlma01,-3,9,0,brk,2,2
+,,,,,,,,,,,,201311260TOR,Did Not Play,,,Deron Williams,willide01,,,,brk,,
+,,,,,,,,,,,,201311260TOR,Did Not Play,,,Tornike Shengelia,shengto01,,,,brk,,
+,,,,,,,,,,,,201311260TOR,Did Not Play,,,Jason Terry,terryja01,,,,brk,,
+,,,,,,,,,,,,201311260TOR,Did Not Play,,,Reggie Evans,evansre01,,,,brk,,
+3,0,6,9,4,.667,6,.600,15,5,1.000,5,201311260TOR,39:04,0,0,DeMar DeRozan,derozde01,+4,27,1,tor,3,6
+6,0,0,8,2,.400,5,.533,15,6,1.000,6,201311260TOR,37:57,0,5,Kyle Lowry,lowryky01,+6,24,2,tor,2,0
+1,0,5,2,0,.000,2,.286,7,2,1.000,2,201311260TOR,32:28,0,5,Amir Johnson,johnsam01,+2,6,0,tor,1,5
+4,1,3,3,1,.500,2,.250,12,2,1.000,2,201311260TOR,32:09,1,3,Rudy Gay,gayru01,+2,9,0,tor,7,4
+0,0,5,3,0,,0,.500,6,1,1.000,1,201311260TOR,22:12,2,1,Jonas Valanciunas,valanjo01,-5,7,0,tor,2,7
+2,0,1,3,2,.500,4,.500,6,4,1.000,4,201311260TOR,23:02,2,2,Steve Novak,novakst01,-2,12,1,tor,0,3
+0,0,1,3,1,.250,4,.429,7,0,,0,201311260TOR,21:29,0,2,Terrence Ross,rosste01,-4,7,0,tor,0,1
+0,0,3,2,0,,0,.400,5,1,.500,2,201311260TOR,18:18,4,3,Tyler Hansbrough,hansbty01,+1,5,0,tor,0,7
+1,0,1,1,1,.500,2,.333,3,0,,0,201311260TOR,5:38,0,1,Dwight Buycks,buyckdw01,0,3,0,tor,0,1
+1,0,0,0,0,.000,1,.000,1,0,,0,201311260TOR,4:25,0,1,D.J. Augustin,augusdj01,-8,0,0,tor,0,0
+0,0,0,0,0,,0,.000,1,0,,0,201311260TOR,3:18,0,1,Landry Fields,fieldla01,-6,0,0,tor,0,0
+,,,,,,,,,,,,201311260TOR,Did Not Play,,,Julyan Stone,stoneju01,,,,tor,,
+,,,,,,,,,,,,201311260TOR,Did Not Play,,,Aaron Gray,grayaa01,,,,tor,,

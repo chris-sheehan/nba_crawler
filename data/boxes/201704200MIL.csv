@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+2,1,5,4,2,.400,5,.400,10,3,.750,4,201704200MIL,34:38,0,5,Kyle Lowry,lowryky01,-18,13,0,tor,3,5
+0,0,2,0,0,.000,2,.000,8,8,1.000,8,201704200MIL,30:44,0,2,DeMar DeRozan,derozde01,-23,8,0,tor,3,2
+0,1,3,3,0,.000,2,.375,8,0,,0,201704200MIL,25:47,0,3,Serge Ibaka,ibakase01,-18,6,0,tor,2,3
+0,0,6,3,0,,0,.333,9,5,.714,7,201704200MIL,20:21,1,3,Jonas Valanciunas,valanjo01,-12,11,0,tor,2,7
+0,2,1,1,1,.250,4,.250,4,0,,0,201704200MIL,14:15,0,0,DeMarre Carroll,carrode01,-13,3,2,tor,0,1
+2,0,4,4,2,.667,3,.667,6,3,.600,5,201704200MIL,26:43,2,2,Delon Wright,wrighde01,0,13,0,tor,2,6
+1,0,2,1,1,.500,2,.200,5,0,,0,201704200MIL,22:48,0,1,Patrick Patterson,pattepa01,-21,3,1,tor,0,2
+3,0,0,1,0,.000,2,.200,5,0,,0,201704200MIL,16:15,1,2,Cory Joseph,josepco01,-22,2,0,tor,2,1
+1,0,2,4,0,.000,1,.500,8,4,1.000,4,201704200MIL,14:44,1,0,Norman Powell,powelno01,+3,12,2,tor,0,3
+1,0,3,0,0,,0,,0,0,,0,201704200MIL,14:18,0,1,P.J. Tucker,tuckepj01,-13,0,1,tor,1,3
+0,0,3,2,0,,0,.333,6,0,.000,2,201704200MIL,9:25,4,2,Jakob Poeltl,poeltja01,-4,4,0,tor,0,7
+1,0,0,0,0,.000,1,.000,1,0,,0,201704200MIL,6:16,0,0,Fred VanVleet,vanvlfr01,+3,0,0,tor,0,0
+0,0,0,1,0,,0,1.000,1,0,,0,201704200MIL,3:46,0,0,Lucas Nogueira,noguelu01,+3,2,0,tor,0,0
+7,0,3,8,1,.250,4,.533,15,3,1.000,3,201704200MIL,34:27,0,1,Khris Middleton,middlkh01,+17,20,2,mil,0,3
+4,2,8,7,2,1.000,2,.700,10,3,.375,8,201704200MIL,32:37,0,1,Giannis Antetokounmpo,antetgi01,+29,19,2,mil,3,8
+9,0,6,2,0,.000,2,.286,7,0,,0,201704200MIL,27:31,1,1,Malcolm Brogdon,brogdma01,+10,4,0,mil,2,7
+2,0,2,2,1,.333,3,.400,5,0,,0,201704200MIL,25:16,0,4,Tony Snell,snellto01,+27,5,0,mil,0,2
+2,0,1,3,1,.500,2,.600,5,4,1.000,4,201704200MIL,21:02,1,3,Thon Maker,makerth01,+13,11,0,mil,1,2
+2,0,1,4,2,1.000,2,.800,5,0,,0,201704200MIL,28:23,0,2,Matthew Dellavedova,dellama01,+20,10,0,mil,3,1
+3,1,6,6,0,,0,.545,11,4,1.000,4,201704200MIL,23:12,1,6,Greg Monroe,monrogr01,+17,16,2,mil,1,7
+0,1,3,5,3,1.000,3,.556,9,0,,0,201704200MIL,20:16,0,5,Michael Beasley,beaslmi01,+8,13,0,mil,2,3
+0,0,2,0,0,.000,3,.000,4,0,,0,201704200MIL,17:34,0,1,Jason Terry,terryja01,-1,0,0,mil,0,2
+0,0,0,2,2,1.000,2,.667,3,0,,0,201704200MIL,5:56,0,0,Rashad Vaughn,vaughra01,-2,6,0,mil,0,0
+0,0,1,0,0,,0,,0,0,,0,201704200MIL,3:46,0,1,Spencer Hawes,hawessp01,-3,0,0,mil,1,1
+,,,,,,,,,,,,201704200MIL,Did Not Play,,,John Henson,hensojo01,,,,mil,,
+,,,,,,,,,,,,201704200MIL,Did Not Play,,,Mirza Teletovic,teletmi01,,,,mil,,

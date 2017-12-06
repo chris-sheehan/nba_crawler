@@ -1,0 +1,27 @@
+ast_pct,blk_pct,def_rtg,drb_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,gm,mp,off_rtg,orb_pct,player,player_id,stl_pct,team,tov_pct,trb_pct,ts_pct,usg_pct
+7.7,6.8,117,13.1,.614,.409,.136,201404160MEM,45:55,128,0.0,Dirk Nowitzki,nowitdi01,0.0,dal,7.9,6.6,.643,26.6
+15.0,0.0,113,14.5,.429,.190,.000,201404160MEM,41:40,98,3.0,Monta Ellis,ellismo01,2.8,dal,8.7,8.8,.429,26.6
+4.4,0.0,118,7.5,.563,.375,.000,201404160MEM,32:20,139,11.4,Shawn Marion,mariosh01,1.8,dal,0.0,9.4,.563,11.9
+26.6,0.0,123,4.4,.563,.625,.000,201404160MEM,27:26,128,4.5,Jose Calderon,caldejo01,0.0,dal,11.1,4.4,.563,15.8
+0.0,0.0,112,21.0,.500,.000,.000,201404160MEM,11:28,58,10.7,Samuel Dalembert,dalemsa01,0.0,dal,50.0,15.9,.500,16.8
+0.0,0.0,111,9.1,.409,.364,.182,201404160MEM,26:24,70,0.0,Vince Carter,cartevi01,4.4,dal,14.4,4.6,.379,25.4
+58.1,0.0,109,14.1,.500,.375,.250,201404160MEM,25:34,108,0.0,Devin Harris,harride01,4.5,dal,31.1,7.1,.563,24.3
+0.0,0.0,122,4.9,1.000,.000,.000,201404160MEM,24:41,203,10.0,Brandan Wright,wrighbr03,0.0,dal,0.0,7.4,1.000,9.8
+0.0,0.0,104,14.3,.400,.000,.800,201404160MEM,16:51,156,36.6,DeJuan Blair,blairde01,6.8,dal,0.0,25.3,.592,19.4
+0.0,0.0,102,9.5,.000,1.000,.000,201404160MEM,12:41,64,19.4,Jae Crowder,crowdja01,9.1,dal,0.0,14.4,.000,7.6
+,,,,,,,201404160MEM,Did Not Play,,,Bernard James,jamesbe01,,dal,,,,
+,,,,,,,201404160MEM,Did Not Play,,,Wayne Ellington,ellinwa01,,dal,,,,
+,,,,,,,201404160MEM,Did Not Play,,,Shane Larkin,larkish01,,dal,,,,
+3.8,0.0,115,13.4,.500,.000,.273,201404160MEM,46:03,121,23.5,Zach Randolph,randoza01,1.2,mem,10.9,18.5,.548,27.4
+31.7,1.9,108,21.4,.692,.077,.308,201404160MEM,46:02,153,2.6,Marc Gasol,gasolma01,2.5,mem,0.0,11.9,.644,14.6
+19.4,0.0,112,11.8,.531,.313,.438,201404160MEM,41:39,119,0.0,Mike Conley,conlemi01,2.8,mem,13.6,5.9,.577,24.2
+11.7,0.0,121,3.5,.400,.800,.300,201404160MEM,35:15,109,0.0,Courtney Lee,leeco01,0.0,mem,15.0,1.7,.486,17.3
+10.8,0.0,117,14.6,.286,.000,.000,201404160MEM,25:22,103,9.5,Tayshaun Prince,princta01,0.0,mem,0.0,12.0,.286,12.6
+10.6,0.0,119,10.1,.300,.800,.000,201404160MEM,24:26,60,4.9,Mike Miller,millemi01,0.0,mem,37.5,7.5,.300,15.0
+16.0,0.0,111,16.2,.545,.091,.455,201404160MEM,22:48,95,21.1,Tony Allen,allento01,2.5,mem,18.5,18.7,.492,32.5
+0.0,0.0,115,20.3,1.000,.000,.000,201404160MEM,12:10,90,19.8,Ed Davis,davised01,0.0,mem,50.0,20.0,1.000,15.0
+12.3,0.0,112,0.0,.750,.500,.000,201404160MEM,11:15,116,10.7,Nick Calathes,calatni01,5.1,mem,33.3,5.4,.750,12.2
+,,,,,,,201404160MEM,Did Not Play,,,Jon Leuer,leuerjo01,,mem,,,,
+,,,,,,,201404160MEM,Did Not Play,,,James Johnson,johnsja01,,mem,,,,
+,,,,,,,201404160MEM,Did Not Play,,,Beno Udrih,udrihbe01,,mem,,,,
+,,,,,,,201404160MEM,Did Not Play,,,Kosta Koufos,koufoko01,,mem,,,,

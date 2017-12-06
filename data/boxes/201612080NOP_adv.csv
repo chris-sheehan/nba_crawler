@@ -1,0 +1,27 @@
+ast_pct,blk_pct,def_rtg,drb_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,gm,mp,off_rtg,orb_pct,player,player_id,stl_pct,team,tov_pct,trb_pct,ts_pct,usg_pct
+24.1,0.0,96,19.9,.625,.375,.250,201612080NOP,31:30,131,6.5,Ersan Ilyasova,ilyaser01,1.6,phi,5.3,13.1,.648,26.8
+4.5,2.6,96,16.7,.389,.556,.000,201612080NOP,31:11,76,6.6,Robert Covington,covinro01,1.7,phi,18.2,11.6,.389,15.9
+43.3,0.0,97,6.9,.615,.615,.000,201612080NOP,30:06,129,0.0,Sergio Rodriguez,rodrise01,3.4,phi,7.1,3.4,.615,20.9
+11.8,12.0,80,15.4,.333,.333,.333,201612080NOP,27:03,84,11.3,Joel Embiid,embiijo01,5.8,phi,14.9,13.4,.407,33.6
+5.3,0.0,101,17.2,.167,.167,.000,201612080NOP,24:17,39,0.0,Gerald Henderson,hendege02,0.0,phi,14.3,8.5,.167,13.0
+6.5,3.2,100,12.4,.545,.545,.091,201612080NOP,25:13,111,8.1,Dario Saric,saricda01,0.0,phi,8.0,10.2,.568,22.2
+39.1,0.0,106,4.8,.929,.714,.143,201612080NOP,21:53,193,4.7,Nik Stauskas,stausni01,0.0,phi,0.0,4.7,.941,15.3
+8.1,8.1,88,36.4,.667,.000,.333,201612080NOP,20:03,114,0.0,Richaun Holmes,holmeri01,0.0,phi,0.0,18.0,.581,15.4
+28.0,0.0,97,11.1,.200,.200,.000,201612080NOP,18:48,75,5.4,T.J. McConnell,mccontj01,2.8,phi,16.7,8.2,.200,14.4
+0.0,0.0,102,15.9,.000,1.000,.000,201612080NOP,6:35,0,0.0,Hollis Thompson,thompho01,0.0,phi,0.0,7.8,.000,6.8
+0.0,0.0,104,0.0,.000,1.000,.000,201612080NOP,3:21,0,0.0,Timothe Luwawu-Cabarrot,luwawti01,0.0,phi,0.0,0.0,.000,26.9
+,,,,,,,201612080NOP,Not With Team,,,Jahlil Okafor,okafoja01,,phi,,,,
+,,,,,,,201612080NOP,Not With Team,,,Jerryd Bayless,bayleje01,,phi,,,,
+10.1,4.6,103,25.2,.381,.095,.571,201612080NOP,40:33,98,2.6,Anthony Davis,davisan02,0.0,nop,10.2,14.0,.495,32.8
+13.1,0.0,112,8.1,.500,.429,.286,201612080NOP,37:37,85,2.8,Solomon Hill,hillso01,0.0,nop,27.6,5.5,.508,13.1
+9.3,0.0,111,12.0,.250,.500,.000,201612080NOP,34:08,58,0.0,Buddy Hield,hieldbu01,0.0,nop,7.7,6.0,.250,17.3
+35.0,0.0,110,13.9,.500,.429,.000,201612080NOP,29:18,95,7.1,Tim Frazier,fraziti01,0.0,nop,30.0,10.6,.500,15.5
+0.0,0.0,106,22.3,.667,.000,.000,201612080NOP,13:44,133,7.6,Alexis Ajinca,ajincal01,0.0,nop,0.0,15.0,.667,19.8
+17.3,0.0,107,10.8,.594,.375,.063,201612080NOP,28:25,112,3.7,Langston Galloway,gallola01,1.8,nop,5.7,7.3,.578,27.9
+18.8,0.0,101,20.6,.750,.000,.750,201612080NOP,19:50,173,26.3,Omer Asik,asikom01,2.6,nop,0.0,23.4,.752,12.2
+0.0,0.0,109,16.4,.500,.500,1.000,201612080NOP,18:40,90,0.0,Terrence Jones,joneste01,0.0,nop,14.8,8.3,.521,16.4
+8.2,0.0,104,11.5,.000,.429,.000,201612080NOP,17:45,9,0.0,Anthony Brown,brownan02,2.9,nop,0.0,5.8,.000,17.9
+,,,,,,,201612080NOP,Did Not Play,,,E'Twaun Moore,mooreet01,,nop,,,,
+,,,,,,,201612080NOP,Did Not Play,,,Cheick Diallo,diallch01,,nop,,,,
+,,,,,,,201612080NOP,Did Not Play,,,Jrue Holiday,holidjr01,,nop,,,,
+,,,,,,,201612080NOP,Did Not Play,,,Dante Cunningham,cunnida01,,nop,,,,

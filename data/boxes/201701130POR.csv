@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+0,1,6,2,0,,0,.400,5,4,.667,6,201701130POR,36:16,1,2,Aaron Gordon,gordoaa01,+20,8,0,orl,0,7
+7,1,2,8,1,.333,3,.444,18,2,1.000,2,201701130POR,34:30,2,6,Elfrid Payton,paytoel01,0,19,1,orl,5,4
+4,2,9,13,0,,0,.722,18,4,1.000,4,201701130POR,31:47,1,1,Nikola Vucevic,vucevni01,+12,30,1,orl,1,10
+4,0,0,3,1,.333,3,.300,10,1,.500,2,201701130POR,30:27,1,1,Evan Fournier,fournev01,+11,8,2,orl,1,1
+1,1,9,4,3,.500,6,.400,10,2,1.000,2,201701130POR,28:32,1,4,Serge Ibaka,ibakase01,+16,13,0,orl,1,10
+2,0,5,2,1,1.000,1,.500,4,0,,0,201701130POR,19:50,0,1,Jeff Green,greenje02,-9,5,0,orl,1,5
+1,0,1,3,2,1.000,2,.500,6,4,1.000,4,201701130POR,18:32,0,1,Jodie Meeks,meeksjo01,-8,12,1,orl,4,1
+2,0,1,4,1,.500,2,.571,7,6,1.000,6,201701130POR,17:09,0,0,D.J. Augustin,augusdj01,+2,15,0,orl,0,1
+0,0,3,1,0,,0,.333,3,0,,0,201701130POR,15:51,2,2,Bismack Biyombo,biyombi01,-7,2,0,orl,2,5
+0,0,0,1,1,1.000,1,.500,2,0,,0,201701130POR,7:06,1,1,Mario Hezonja,hezonma01,-7,3,0,orl,0,1
+,,,,,,,,,,,,201701130POR,Did Not Play,,,Damjan Rudez,rudezda01,,,,orl,,
+,,,,,,,,,,,,201701130POR,Did Not Play,,,C.J. Watson,watsocj01,,,,orl,,
+,,,,,,,,,,,,201701130POR,Did Not Play,,,C.J. Wilcox,wilcocj01,,,,orl,,
+3,0,7,12,2,.182,11,.462,26,8,.889,9,201701130POR,37:10,1,1,Damian Lillard,lillada01,-12,34,0,por,2,8
+2,3,2,10,4,.667,6,.476,21,2,1.000,2,201701130POR,36:34,1,4,C.J. McCollum,mccolcj01,-4,26,1,por,2,3
+2,0,3,3,1,.200,5,.300,10,0,,0,201701130POR,32:52,0,1,Allen Crabbe,crabbal01,-10,7,1,por,1,3
+2,1,4,3,0,.000,1,.333,9,2,.500,4,201701130POR,31:29,3,3,Al-Farouq Aminu,aminual01,-11,8,0,por,0,7
+5,3,5,2,0,,0,.286,7,3,.750,4,201701130POR,28:10,2,2,Mason Plumlee,plumlma01,-15,7,2,por,1,7
+2,0,1,5,1,.250,4,.500,10,4,1.000,4,201701130POR,23:53,3,1,Evan Turner,turneev01,+1,15,0,por,1,4
+2,2,5,1,1,.250,4,.125,8,2,1.000,2,201701130POR,20:25,1,5,Meyers Leonard,leoname01,+12,5,0,por,0,6
+0,0,4,2,0,,0,1.000,2,0,,0,201701130POR,16:05,0,2,Ed Davis,davised01,+5,4,1,por,1,4
+1,0,0,1,1,.333,3,.250,4,0,,0,201701130POR,13:22,1,1,Pat Connaughton,connapa01,+4,3,1,por,1,1
+,,,,,,,,,,,,201701130POR,Did Not Play,,,Jake Layman,laymaja01,,,,por,,
+,,,,,,,,,,,,201701130POR,Did Not Play,,,Shabazz Napier,napiesh01,,,,por,,
+,,,,,,,,,,,,201701130POR,Did Not Play,,,Maurice Harkless,harklma01,,,,por,,
+,,,,,,,,,,,,201701130POR,Did Not Play,,,Noah Vonleh,vonleno01,,,,por,,

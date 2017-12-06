@@ -1,0 +1,27 @@
+ast_pct,blk_pct,def_rtg,drb_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,gm,mp,off_rtg,orb_pct,player,player_id,stl_pct,team,tov_pct,trb_pct,ts_pct,usg_pct
+30.5,0.0,119,15.2,.446,.393,.286,201411120NOP,36:12,114,0.0,Kobe Bryant,bryanko01,1.4,lal,3.1,6.5,.523,40.3
+19.1,2.2,115,12.0,.409,.273,.545,201411120NOP,34:15,121,3.0,Jeremy Lin,linje01,3.0,lal,6.8,6.8,.550,19.2
+0.0,0.0,115,16.2,.462,.000,.462,201411120NOP,33:54,99,6.0,Carlos Boozer,boozeca01,3.0,lal,11.3,10.4,.512,23.3
+0.0,4.6,119,8.4,.500,.556,.111,201411120NOP,32:50,116,3.1,Wesley Johnson,johnswe01,0.0,lal,0.0,5.3,.530,12.9
+10.4,0.0,121,21.5,.444,.000,.333,201411120NOP,31:57,100,9.6,Jordan Hill,hilljo01,0.0,lal,16.2,14.7,.484,17.3
+0.0,5.6,113,40.7,.500,.000,.333,201411120NOP,26:59,105,11.4,Ed Davis,davised01,0.0,lal,22.5,23.9,.581,14.8
+24.8,0.0,115,8.3,.000,1.000,.000,201411120NOP,16:34,61,6.2,Ronnie Price,pricero01,3.1,lal,33.3,7.1,.000,8.1
+0.0,0.0,124,0.0,.750,.000,1.000,201411120NOP,13:51,140,0.0,Jordan Clarkson,clarkjo01,0.0,lal,0.0,0.0,.694,18.6
+15.4,0.0,113,0.0,.500,.000,1.000,201411120NOP,10:18,83,0.0,Xavier Henry,henryxa01,5.0,lal,0.0,0.0,.347,12.5
+0.0,0.0,90,0.0,,,,201411120NOP,3:10,0,0.0,Robert Sacre,sacrero01,16.2,lal,,0.0,,0.0
+,,,,,,,201411120NOP,Did Not Play,,,Ryan Kelly,kellyry01,,lal,,,,
+,,,,,,,201411120NOP,Did Not Play,,,Julius Randle,randlju01,,lal,,,,
+,,,,,,,201411120NOP,Did Not Play,,,Wayne Ellington,ellinwa01,,lal,,,,
+41.6,0.0,115,11.1,.563,.125,.125,201411120NOP,36:45,124,3.7,Tyreke Evans,evansty01,0.0,nop,10.6,8.0,.563,24.0
+4.5,12.5,96,30.6,.750,.000,.250,201411120NOP,36:42,115,3.7,Anthony Davis,davisan02,1.4,nop,14.5,19.1,.704,26.4
+16.0,2.1,116,2.9,.250,.375,.375,201411120NOP,35:30,88,0.0,Eric Gordon,gordoer01,0.0,nop,17.7,1.6,.376,14.9
+20.6,2.2,113,3.0,.500,.235,.000,201411120NOP,34:23,108,0.0,Jrue Holiday,holidjr01,1.5,nop,5.6,1.7,.500,24.4
+4.7,5.8,101,39.2,1.000,.000,.667,201411120NOP,26:04,191,15.8,Omer Asik,asikom01,0.0,nop,0.0,29.2,.902,6.9
+24.8,0.0,117,5.0,.583,.333,.333,201411120NOP,20:26,119,0.0,Austin Rivers,riverau01,0.0,nop,12.7,2.9,.581,18.0
+0.0,0.0,109,30.5,.708,.583,.000,201411120NOP,20:05,106,13.7,Ryan Anderson,anderry01,0.0,nop,20.0,23.3,.708,34.8
+0.0,0.0,112,0.0,.750,.500,.000,201411120NOP,16:56,103,8.1,Luke Babbitt,babbilu01,3.0,nop,33.3,3.5,.750,8.3
+0.0,6.5,110,8.8,.500,.000,2.500,201411120NOP,11:39,156,0.0,Alexis Ajinca,ajincal01,0.0,nop,0.0,5.0,.714,16.8
+0.0,50.8,58,68.1,,,,201411120NOP,1:30,0,0.0,Jeff Withey,witheje01,0.0,nop,,39.0,,0.0
+,,,,,,,201411120NOP,Did Not Play,,,Jimmer Fredette,fredeji01,,nop,,,,
+,,,,,,,201411120NOP,Did Not Play,,,John Salmons,salmojo01,,nop,,,,
+,,,,,,,201411120NOP,Did Not Play,,,Darius Miller,milleda01,,nop,,,,

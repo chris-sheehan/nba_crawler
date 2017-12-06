@@ -1,0 +1,26 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+4,0,4,7,2,.500,4,.412,17,5,.625,8,201411030MEM,38:52,3,4,Tyreke Evans,evansty01,0,21,1,nop,4,7
+0,0,6,4,0,.000,5,.286,14,3,.750,4,201411030MEM,37:16,2,5,Eric Gordon,gordoer01,-14,11,2,nop,1,8
+6,0,2,4,1,.333,3,.364,11,1,1.000,1,201411030MEM,36:11,1,5,Jrue Holiday,holidjr01,-18,10,0,nop,3,3
+2,1,5,6,0,,0,.500,12,2,1.000,2,201411030MEM,32:01,3,3,Anthony Davis,davisan02,-8,14,1,nop,1,8
+0,1,6,1,0,,0,.143,7,4,.444,9,201411030MEM,26:17,2,2,Omer Asik,asikom01,-8,6,0,nop,0,8
+0,1,6,2,0,.000,7,.143,14,3,1.000,3,201411030MEM,27:28,3,5,Ryan Anderson,anderry01,-10,7,0,nop,0,9
+0,0,1,3,1,.500,2,.750,4,0,,0,201411030MEM,17:12,0,1,Austin Rivers,riverau01,+5,7,1,nop,1,1
+0,0,4,0,0,.000,3,.000,4,0,,0,201411030MEM,10:31,0,2,Luke Babbitt,babbilu01,-13,0,0,nop,2,4
+0,0,1,2,0,,0,.667,3,1,.500,2,201411030MEM,10:14,0,3,Alexis Ajinca,ajincal01,+2,5,0,nop,0,1
+2,0,0,0,0,,0,,0,0,,0,201411030MEM,3:58,0,0,Darius Miller,milleda01,+4,0,0,nop,0,0
+,,,,,,,,,,,,201411030MEM,Did Not Play,,,Jeff Withey,witheje01,,,,nop,,
+,,,,,,,,,,,,201411030MEM,Did Not Play,,,Jimmer Fredette,fredeji01,,,,nop,,
+,,,,,,,,,,,,201411030MEM,Did Not Play,,,Russ Smith,smithru01,,,,nop,,
+2,3,8,4,0,,0,.400,10,8,.667,12,201411030MEM,39:59,3,3,Marc Gasol,gasolma01,+10,16,0,mem,1,11
+4,0,9,5,0,,0,.417,12,5,.833,6,201411030MEM,33:22,2,4,Zach Randolph,randoza01,+18,15,2,mem,1,11
+0,0,5,6,1,.500,2,.500,12,1,.500,2,201411030MEM,33:01,0,2,Tayshaun Prince,princta01,+2,14,0,mem,0,5
+5,2,3,2,0,.000,1,.200,10,7,1.000,7,201411030MEM,30:14,0,2,Mike Conley,conlemi01,+19,11,2,mem,2,3
+2,0,8,4,0,.000,1,.500,8,4,.500,8,201411030MEM,29:46,3,5,Tony Allen,allento01,+8,12,0,mem,2,11
+0,0,4,2,1,.333,3,.333,6,0,,0,201411030MEM,26:15,0,3,Quincy Pondexter,pondequ01,+17,5,0,mem,1,4
+4,0,2,4,1,.333,3,.500,8,0,,0,201411030MEM,17:23,0,1,Beno Udrih,udrihbe01,-5,9,1,mem,1,2
+0,0,1,4,1,.250,4,.571,7,0,,0,201411030MEM,15:21,1,3,Vince Carter,cartevi01,-6,9,0,mem,2,2
+1,1,3,0,0,,0,,0,0,,0,201411030MEM,7:39,0,1,Kosta Koufos,koufoko01,+4,0,0,mem,1,3
+1,0,0,0,0,,0,.000,3,2,1.000,2,201411030MEM,6:15,0,0,Jon Leuer,leuerjo01,-3,2,0,mem,0,0
+0,0,0,0,0,,0,,0,0,,0,201411030MEM,0:45,0,0,Jordan Adams,adamsjo01,-4,0,0,mem,0,0
+,,,,,,,,,,,,201411030MEM,Did Not Play,,,Jarnell Stokes,stokeja01,,,,mem,,

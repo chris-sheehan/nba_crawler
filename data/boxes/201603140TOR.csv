@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+3,1,5,6,0,,0,.750,8,1,1.000,1,201603140TOR,34:47,5,3,Taj Gibson,gibsota01,0,13,1,chi,1,10
+6,2,4,5,0,.000,2,.278,18,3,.750,4,201603140TOR,33:57,1,1,Jimmy Butler,butleji01,-9,13,0,chi,0,5
+2,1,4,5,3,.375,8,.417,12,4,1.000,4,201603140TOR,32:13,1,3,Nikola Mirotic,mirotni01,0,17,1,chi,3,5
+4,1,4,8,1,.500,2,.727,11,0,,0,201603140TOR,30:56,0,3,E'Twaun Moore,mooreet01,+12,17,0,chi,0,4
+1,1,3,2,1,.500,2,.500,4,0,,0,201603140TOR,14:02,0,4,Justin Holiday,holidju01,+13,5,0,chi,2,3
+1,1,1,9,4,.800,5,.818,11,7,.875,8,201603140TOR,36:30,0,1,Doug McDermott,mcderdo01,+5,29,0,chi,0,1
+1,0,6,3,0,.000,1,.500,6,0,,0,201603140TOR,22:54,1,3,Bobby Portis,portibo01,0,6,0,chi,0,7
+4,0,0,2,0,.000,4,.250,8,3,1.000,3,201603140TOR,17:04,0,2,Aaron Brooks,brookaa01,-10,7,0,chi,1,0
+1,0,1,1,0,.000,1,.250,4,0,,0,201603140TOR,11:38,0,1,Tony Snell,snellto01,-2,2,0,chi,1,1
+0,0,2,0,0,,0,.000,1,0,,0,201603140TOR,5:59,0,1,Cristiano Felicio,feliccr01,+1,0,0,chi,0,2
+,,,,,,,,,,,,201603140TOR,Did Not Play,,,Derrick Rose,rosede01,,,,chi,,
+,,,,,,,,,,,,201603140TOR,Did Not Play,,,Mike Dunleavy,dunlemi02,,,,chi,,
+,,,,,,,,,,,,201603140TOR,Did Not Play,,,Cameron Bairstow,bairsca01,,,,chi,,
+7,0,10,10,2,.400,5,.500,20,11,.846,13,201603140TOR,40:36,1,4,Kyle Lowry,lowryky01,-1,33,3,tor,3,11
+2,0,4,10,0,.000,1,.455,22,7,1.000,7,201603140TOR,38:59,1,3,DeMar DeRozan,derozde01,-3,27,1,tor,1,5
+0,2,1,0,0,,0,.000,3,0,.000,2,201603140TOR,16:54,0,1,James Johnson,johnsja01,-11,0,0,tor,0,1
+0,0,2,2,0,.000,2,.400,5,0,,0,201603140TOR,16:00,0,1,Luis Scola,scolalu01,-4,4,0,tor,0,2
+0,1,1,3,0,,0,1.000,3,2,1.000,2,201603140TOR,9:35,1,0,Jonas Valanciunas,valanjo01,-2,8,0,tor,1,2
+2,0,5,4,3,.429,7,.444,9,2,1.000,2,201603140TOR,32:10,1,2,Patrick Patterson,pattepa01,+5,13,0,tor,0,6
+0,0,1,2,0,.000,1,.250,8,2,1.000,2,201603140TOR,25:54,1,0,Cory Joseph,josepco01,+4,6,0,tor,0,2
+0,6,2,3,0,,0,.600,5,0,,0,201603140TOR,25:37,4,2,Bismack Biyombo,biyombi01,-10,6,0,tor,0,6
+1,0,2,1,1,.333,3,.250,4,0,,0,201603140TOR,17:54,0,3,Terrence Ross,rosste01,+7,3,0,tor,0,2
+0,0,3,2,0,,0,1.000,2,3,1.000,3,201603140TOR,12:26,1,1,Jason Thompson,thompja02,+5,7,1,tor,0,4
+0,0,1,0,0,.000,1,.000,2,0,,0,201603140TOR,3:54,0,1,Norman Powell,powelno01,0,0,0,tor,0,1
+,,,,,,,,,,,,201603140TOR,Did Not Play,,,Delon Wright,wrighde01,,,,tor,,
+,,,,,,,,,,,,201603140TOR,Did Not Play,,,Lucas Nogueira,noguelu01,,,,tor,,

@@ -1,0 +1,27 @@
+ast,blk,drb,fg,fg3,fg3_pct,fg3a,fg_pct,fga,ft,ft_pct,fta,gm,mp,orb,pf,player,player_id,plus_minus,pts,stl,team,tov,trb
+5,0,6,11,3,.375,8,.500,22,7,.778,9,201702100DET,32:52,0,2,Kawhi Leonard,leonaka01,+18,32,1,sas,3,6
+0,2,8,8,0,,0,.444,18,3,.750,4,201702100DET,32:00,3,4,LaMarcus Aldridge,aldrila01,+3,19,1,sas,5,11
+0,2,12,8,0,,0,.800,10,1,1.000,1,201702100DET,31:43,5,3,Dewayne Dedmon,dedmode01,+11,17,1,sas,3,17
+12,0,1,1,0,.000,1,.250,4,0,,0,201702100DET,31:26,0,0,Tony Parker,parketo01,+9,2,0,sas,2,1
+0,0,4,4,4,.800,5,.800,5,0,,0,201702100DET,29:49,0,2,Danny Green,greenda02,+8,12,0,sas,0,4
+2,0,4,5,0,,0,.500,10,1,1.000,1,201702100DET,20:06,3,2,David Lee,leeda02,+13,11,0,sas,0,7
+2,1,2,1,1,.500,2,.250,4,0,,0,201702100DET,17:29,0,2,Manu Ginobili,ginobma01,+4,3,1,sas,1,2
+5,0,1,1,0,.000,1,.333,3,0,,0,201702100DET,15:52,0,0,Patty Mills,millspa02,+3,2,0,sas,1,1
+1,0,2,0,0,,0,.000,1,0,,0,201702100DET,15:08,0,1,Jonathon Simmons,simmojo02,-7,0,0,sas,1,2
+0,0,1,2,1,.500,2,.500,4,0,,0,201702100DET,11:15,0,2,Davis Bertans,bertada01,-6,5,0,sas,2,1
+0,0,0,0,0,,0,,0,0,,0,201702100DET,0:56,0,0,Joel Anthony,anthojo01,+1,0,0,sas,0,0
+0,0,0,0,0,,0,.000,1,0,,0,201702100DET,0:42,0,0,Kyle Anderson,anderky01,-1,0,0,sas,0,0
+0,0,0,0,0,,0,,0,0,,0,201702100DET,0:42,0,0,Bryn Forbes,forbebr01,-1,0,0,sas,0,0
+0,1,9,5,0,,0,.294,17,2,.400,5,201702100DET,36:37,6,4,Andre Drummond,drumman01,-8,12,3,det,0,15
+3,0,4,5,0,.000,4,.417,12,0,,0,201702100DET,35:17,0,1,Kentavious Caldwell-Pope,caldwke01,-14,10,1,det,1,4
+3,0,2,4,0,.000,1,.444,9,2,1.000,2,201702100DET,34:50,0,3,Jon Leuer,leuerjo01,+1,10,0,det,2,2
+7,0,1,5,2,.500,4,.385,13,0,,0,201702100DET,29:29,0,1,Reggie Jackson,jacksre01,-13,12,1,det,2,1
+3,0,4,4,1,.333,3,.400,10,1,.500,2,201702100DET,28:50,1,2,Marcus Morris,morrima03,-15,10,1,det,0,5
+1,0,5,7,0,.000,1,.583,12,2,1.000,2,201702100DET,33:13,0,1,Tobias Harris,harrito02,-7,16,1,det,0,5
+4,2,3,6,1,1.000,1,.667,9,2,1.000,2,201702100DET,18:31,0,0,Ish Smith,smithis01,+2,15,0,det,2,3
+1,0,0,1,1,.333,3,.200,5,0,,0,201702100DET,14:15,0,3,Stanley Johnson,johnsst04,+1,3,1,det,3,0
+0,0,0,2,0,,0,.400,5,0,,0,201702100DET,8:58,0,0,Aron Baynes,baynear01,-2,4,0,det,0,0
+,,,,,,,,,,,,201702100DET,Did Not Play,,,Darrun Hilliard,hillida01,,,,det,,
+,,,,,,,,,,,,201702100DET,Did Not Play,,,Beno Udrih,udrihbe01,,,,det,,
+,,,,,,,,,,,,201702100DET,Did Not Play,,,Reggie Bullock,bullore01,,,,det,,
+,,,,,,,,,,,,201702100DET,Did Not Play,,,Boban Marjanovic,marjabo01,,,,det,,
